@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Heritage Trees of Singapore
       background: /images/hero-banner.png
-      button: Explore now!
+      button: Find a heritage tree
       url: /contact-us/
       key_highlights:
         - title: About the Scheme
@@ -21,7 +21,7 @@ sections:
         - title: Nominate a Tree
           description: Page A is important too
           url: /privacy/
-      variant: side
+      variant: center
       backgroundColor: gray
   - infopic:
       title: Infopic
