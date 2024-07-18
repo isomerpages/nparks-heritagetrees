@@ -9,18 +9,18 @@ sections:
   - hero:
       title: Heritage Trees of Singapore
       background: /images/hero-banner.png
-      button: Find a heritage tree
-      url: /contact-us/
+      button: Search for a heritage tree
+      url: /heritage-tree-map/
       key_highlights:
         - title: Heritage Tree Scheme
           description: Learn about this initiative
-          url: https://google.com
+          url: /about-us/
         - title: Resources
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: /resource/
         - title: Nominate a Tree
           description: Suggest a Heritage Tree
-          url: /privacy/
+          url: /nominate-tree/
       variant: center
       backgroundColor: gray
   - infopic:
