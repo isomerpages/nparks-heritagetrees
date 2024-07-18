@@ -17,7 +17,7 @@ sections:
           url: /about-us/
         - title: Explore
           description: Discover our Trees & Trails
-          url: /explore/
+          url: /trail-guide/
         - title: Contribute
           description: Nominate a Heritage Tree
           url: /nominate-tree/
