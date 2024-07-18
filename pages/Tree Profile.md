@@ -39,10 +39,11 @@ Darjeeling (India) on 4 May 1925 and they were nurtured in the Singapore
 Botanic Gardens nursery for 4 years until the sapling was planted at its
 current site on 17 May 1929.</p>
 <p>Initially thought to be <em>Albizia lebbekoides</em>, it was not until
-February 2016 when the tree was re-identified as <em>Albizia niopoides</em> var. <em>niopoides</em>.
-This species is native to tropical America and is known to have been introduced
-into cultivation in countries across the Old World tropics such as Nigeria,
-Mauritius, and India — or in this case, Darjeeling.</p>
+February 2016 when the tree was re-identified as <em>Albizia niopoides</em> var. <em>niopoides</em>,
+a species native to tropical America. Despite its neotropical origins,
+this species has been known to be introduced into cultivation in countries
+across the Old World tropics such as Nigeria, Mauritius, and India — or
+in this case, Darjeeling.</p>
 <p></p>
 <p>This Heritage Tree has attained a height of 46 metres with a trunk girth
 of 6.3m as recorded in 2014.</p>
