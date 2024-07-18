@@ -3,7 +3,9 @@ links:
   - title: About us
     collection: about-us
   - title: Explore
-    url: /permalink
-    sublinks: []
+    url: /resources/
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
