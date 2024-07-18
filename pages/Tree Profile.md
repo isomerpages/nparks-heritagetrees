@@ -1,6 +1,7 @@
 ---
 title: Tree Profile
 permalink: /tree-profile/
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<p></p>
