@@ -1,5 +1,5 @@
 collections:
-  our-scheme:
+  about-us:
     output: true
     order:
       - About Us.md
