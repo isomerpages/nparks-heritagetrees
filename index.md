@@ -12,14 +12,14 @@ sections:
       button: Search for a heritage tree
       url: /heritage-tree-map/
       key_highlights:
-        - title: About The Trees
-          description: Learn about this initiative
+        - title: Learn about our Initiative
+          description: ""
           url: /about-us/
-        - title: Explore
-          description: Discover our Trees & Trails
-          url: /trail-guide/
-        - title: Contribute
-          description: Nominate a Heritage Tree
+        - title: Explore with Trail Guides
+          description: ""
+          url: /trail-guides/
+        - title: Nominate a tree
+          description: ""
           url: /nominate-tree/
       variant: center
       backgroundColor: gray
