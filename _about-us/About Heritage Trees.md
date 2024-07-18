@@ -6,16 +6,17 @@ description: ""
 ---
 <p>&lt;Photo of a Heritage Tree&gt;</p>
 <h4><strong>What is a Heritage Tree?</strong></h4>
-<p>Heritage Trees are matured specimens found throughout Singapore, being
-part of our local natural heritage and serve as important green landmarks
-of our Tropical Garden City. They help us to identify with and stay rooted
-to the place we call home. It takes decades and, in some cases, more than
-hundreds of years for these trees to mature gracefully and beautify our
-landscape.</p>
+<p>Heritage Trees are special group of matured trees, noted for their botanical,
+social, historical, aesthetic and/or cultural significance. Being a part
+of our local natural heritage and serve as important green landmarks of
+our Tropical Garden City, these trees help to create a sense of permanence
+and identity to the place we call home. It takes decades and, in some cases,
+more than hundreds of years for these trees to mature gracefully and beautify
+our landscape.</p>
 <p></p>
 <h4><strong>About the Scheme</strong></h4>
 <p>Announced on 17 August 2001, the Heritage Tree Scheme advocates the conservation
-of mature trees in view of Singapore's rapid development.</p>
+of mature trees in view of rising concerns from Singapore's rapid development.</p>
 <p>In support of this initiative, a Heritage Trees Fund was established by
 The Hongkong and Shanghai Banking Corporation Limited (HSBC), with an initial
 donation of $125,000. The Fund is used to implement a conservation programme
