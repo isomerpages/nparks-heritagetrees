@@ -12,14 +12,14 @@ sections:
       button: Find a heritage tree
       url: /contact-us/
       key_highlights:
-        - title: About the Scheme
-          description: Important highlight A is important
+        - title: Heritage Tree Scheme
+          description: Learn about this initiative
           url: https://google.com
         - title: Resources
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Nominate a Tree
-          description: Page A is important too
+          description: Suggest a Heritage Tree
           url: /privacy/
       variant: center
       backgroundColor: gray
