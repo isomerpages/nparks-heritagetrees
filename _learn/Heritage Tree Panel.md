@@ -4,7 +4,6 @@ permalink: /heritage-tree-panel/
 variant: tiptap
 description: ""
 ---
-<p>Nominated trees</p>
 <p></p>
 <p>From left to right: Mr Simon John Longman; Ms Tay Bee Choo&nbsp;(Ms Tay
 has stepped down from the panel);&nbsp;Mr Ng Cheow Kheng;&nbsp;Dr Shawn
