@@ -7,24 +7,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Heritage Trees of Singapore
+      title: Heritage Trees SG
       background: /images/hero-banner.png
       button: Search for a heritage tree
       url: /heritage-tree-map/
       key_highlights:
-        - title: Heritage Tree Scheme
-          description: Learn about this initiative
+        - title: Learn
+          description: Find out more about us
           url: /about-us/
-        - title: Resources
-          description: Important highlight B is equally important
+        - title: Explore
+          description: Get to know our trees & trails
           url: /resource/
-        - title: Nominate a Tree
-          description: Suggest a Heritage Tree
+        - title: Contribute
+          description: Nominate a Heritage Tree
           url: /nominate-tree/
       variant: center
       backgroundColor: gray
   - infopic:
-      title: Get to know our Heritage  Trees
+      title: Know our Heritage Trees!
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
