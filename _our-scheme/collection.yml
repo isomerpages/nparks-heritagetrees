@@ -2,6 +2,6 @@ collections:
   our-scheme:
     output: true
     order:
-      - Nominate a Heritage Tree.md
       - About Us.md
       - Heritage Tree Panel.md
+      - Nominate a Heritage Tree.md
