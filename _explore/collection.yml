@@ -1,4 +1,5 @@
 collections:
   explore:
     output: true
-    order: []
+    order:
+      - Trail Guide.md
