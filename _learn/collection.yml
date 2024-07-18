@@ -2,4 +2,5 @@ collections:
   learn:
     output: true
     order:
+      - Heritage Tree Panel.md
       - Heritage Tree Scheme.md
