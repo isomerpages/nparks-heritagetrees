@@ -12,12 +12,12 @@ sections:
       button: Search for a heritage tree
       url: /heritage-tree-map/
       key_highlights:
-        - title: Learn
-          description: Find out more about us
+        - title: Our Scheme
+          description: Know more about the initiative
           url: /about-us/
         - title: Explore
           description: Get to know our trees & trails
-          url: /resource/
+          url: /explore/
         - title: Contribute
           description: Nominate a Heritage Tree
           url: /nominate-tree/
