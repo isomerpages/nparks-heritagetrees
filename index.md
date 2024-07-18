@@ -24,15 +24,16 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: Infopic
+      title: Get to know our Heritage  Trees
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: About the Scheme
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
