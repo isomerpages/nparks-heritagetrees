@@ -4,7 +4,9 @@ links:
     collection: about-us
   - title: Explore
     collection: explore
-  - title: Activities
+  - title: Contribute
+    collection: about-us
+  - title: Participate
     collection: activities
   - title: Contact Us
     url: /contact-us/
