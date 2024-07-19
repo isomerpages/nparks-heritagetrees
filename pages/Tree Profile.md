@@ -48,3 +48,18 @@ in this case, Darjeeling.</p>
 <p>This Heritage Tree has attained a height of 46 metres with a trunk girth
 of 6.3m as recorded in 2014.</p>
 <p></p>
+<h4>Gallery</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Flowers o Albizia niopioides var. niopioides" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flowers</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruits of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruit</div><div class="isomer-card-link"> </div></div></a>
+</div>
+<p></p>
