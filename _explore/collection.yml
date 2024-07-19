@@ -2,5 +2,5 @@ collections:
   explore:
     output: true
     order:
-      - Trail Guide.md
+      - Trail Guides.md
       - Heritage Tree Care.md
