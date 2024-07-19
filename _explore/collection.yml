@@ -2,5 +2,6 @@ collections:
   explore:
     output: true
     order:
+      - 10 Trees of Singapore.md
       - Trail Guides.md
       - Heritage Tree Care.md
