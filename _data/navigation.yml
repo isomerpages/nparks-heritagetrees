@@ -6,3 +6,5 @@ links:
     collection: explore
   - title: Activities
     collection: activities
+  - title: Contact Us
+    url: /contact-us/
