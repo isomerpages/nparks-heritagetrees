@@ -16,7 +16,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unique ID for Heritage Tree</strong>
+<p style="font-size:14px"><strong>Unique ID for Heritage Tree</strong>
 <br>HT 2021-186</p>
 </td>
 <td rowspan="1" colspan="2">
