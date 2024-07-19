@@ -23,16 +23,6 @@ sections:
           url: /nominate-tree/
       variant: center
       backgroundColor: gray
-  - infocols:
-      title: Our numbers
-      id: infocols
-      infoboxes:
-        - title: "262"
-          description: Number of Trees
-        - title: X
-          description: Tree Species
-        - title: x
-          description: Tree Familiers
   - infopic:
       title: Heritage Trees Scheme
       id: infopic
@@ -42,8 +32,22 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /heritage-tree-scheme/
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
