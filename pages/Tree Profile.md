@@ -7,6 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
+<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -29,8 +30,7 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table>
-<hr>
+</table><hr>
 <p>The seeds were brought into Singapore from Darjeeling (India) on 4 May 1925
 and they were nurtured in the Singapore Botanic Gardens nursery for 4 years
 until the sapling was planted at its current site on 17 May 1929.</p>
