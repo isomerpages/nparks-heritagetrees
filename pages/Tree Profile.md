@@ -12,7 +12,6 @@ description: ""
 <col>
 <col>
 <col>
-<col>
 </colgroup>
 <tbody>
 <tr>
