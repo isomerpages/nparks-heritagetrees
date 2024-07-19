@@ -38,8 +38,8 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Tree Profile
+          description: ""
           linktext: Learn more
           url: /tree-profile/
         - title: Card
