@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Tree Appreciation Walk.md
       - 10 Trees of Singapore.md
       - Trail Guides.md
       - Heritage Tree Care.md
