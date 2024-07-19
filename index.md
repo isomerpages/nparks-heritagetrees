@@ -10,7 +10,7 @@ sections:
       title: Heritage Trees SG
       background: /images/hero-banner.png
       button: Search for a heritage tree
-      url: /heritage-tree-map/
+      url: /map-directory/
       key_highlights:
         - title: What is a Heritage Tree?
           description: ""
