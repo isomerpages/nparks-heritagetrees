@@ -8,7 +8,7 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
 <p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 100%">
 <colgroup>
 <col>
 <col>
