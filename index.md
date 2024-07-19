@@ -12,7 +12,7 @@ sections:
       button: Search for a heritage tree
       url: /heritage-tree-map/
       key_highlights:
-        - title: Learn about our Initiative
+        - title: What is a Heritage Tree?
           description: ""
           url: /about-us/
         - title: Explore with Trail Guides
