@@ -10,6 +10,9 @@ description: ""
 <table style="minWidth: 100px; font-size: 15px">
 <colgroup>
 <col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
