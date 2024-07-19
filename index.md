@@ -15,7 +15,7 @@ sections:
         - title: What is a Heritage Tree?
           description: ""
           url: /about-us/
-        - title: Explore with Trail Guides
+        - title: Explore with Trails & Guides
           description: ""
           url: /trail-guides/
         - title: Nominate a tree
@@ -26,9 +26,9 @@ sections:
   - infopic:
       title: Heritage Trees Scheme
       id: infopic
-      description: Announced on 17 August 2001, this initiative, advocates the
+      description: Started on 17 August 2001, this initiative advocates the
         conservation of mature trees in Singapore, promoting appreciation of our
-        natural heritage.
+        local natural heritage.
       button: Learn more
       alt: Image alt text
       url: /heritage-tree-scheme/
