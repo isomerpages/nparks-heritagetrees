@@ -27,10 +27,8 @@ description: ""
 <p style="font-size:16px;"><strong>Location</strong>
 <br>Found in Singapore Botanic
 <br>Gardens, on Lawn E</p>
-</td>
-</tr>
-</tbody>
-</table><hr>
+</td></tr></tbody></table>
+<hr>
 <p>The seeds were brought into Singapore from Darjeeling (India) on 4 May 1925
 and they were nurtured in the Singapore Botanic Gardens nursery for 4 years
 until the sapling was planted at its current site on 17 May 1929.</p>
