@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
-<table style="minWidth: 150px; font-size: 13px">
+<table style="minWidth: 150px; font-size: 12px">
 <colgroup>
 <col>
 <col>
