@@ -20,7 +20,7 @@ description: ""
 <br>HT 2021-186</p>
 </td>
 <td rowspan="1" colspan="2">
-<p style="font-size: 16px"><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
+<p style="font-size: 17px"><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
 <br><strong>Girth:</strong> 5.94 m @ 1.3 m height
 <br><strong>Height: </strong>41.6 m</p>
 </td>
