@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>About the Scheme</strong></h4>
-<p>Announced on 17 August 2001, the Heritage Tree Scheme advocates the conservation
-of mature trees in view of rising concerns from Singapore's rapid development.</p>
+<p>The Heritage Tree Scheme was started on 17 August 2001 by National Parks
+Board to identify, recognise and conserve mature trees in our landscape
+in view of rising concerns from Singapore's rapid development.</p>
 <p>In support of this initiative, a Heritage Trees Fund was established by
 The Hongkong and Shanghai Banking Corporation Limited (HSBC), with an initial
 donation of $125,000. The Fund is used to implement a conservation programme
