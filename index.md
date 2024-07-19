@@ -24,12 +24,14 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: Know our Heritage Trees!
-      subtitle: Add an image and text
+      title: Heritage Trees Scheme
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Announced on 17 August 2001, this initiative, advocates the
+        conservation of mature trees in Singapore, promoting appreciation of our
+        natural heritage.
+      button: Learn more
       alt: Image alt text
+      url: /heritage-tree-scheme/
   - infobar:
       title: Infobar
       subtitle: Add informational text
