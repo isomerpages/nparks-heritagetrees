@@ -23,18 +23,6 @@ sections:
           url: /nominate-tree/
       variant: center
       backgroundColor: gray
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
   - infopic:
       title: Heritage Trees Scheme
       id: infopic
