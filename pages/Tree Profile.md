@@ -42,7 +42,6 @@ February 2016 when the tree was re-identified as <em>Albizia niopoides</em> var.
 a species native to tropical America. Despite its neotropical origins,
 this species has been known to be introduced into cultivation in countries
 across the Old World tropics such as Nigeria, Mauritius, and India.</p>
-<p></p>
 <p>This Heritage Tree has attained a height of 46 metres with a trunk girth
 of 6.3m as recorded in 2014.</p>
 <p></p>
