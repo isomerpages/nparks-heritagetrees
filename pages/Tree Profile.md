@@ -47,7 +47,7 @@ of 6.3m as recorded in 2014.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Flowers o Albizia niopioides var. niopioides" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Flowers of Albizia niopioides var. niopioides" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
