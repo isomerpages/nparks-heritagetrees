@@ -1,14 +1,15 @@
 ---
 title: Tree Profile
 permalink: /tree-profile/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
-<table style="minWidth: 150px; font-size: 14px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -45,7 +46,7 @@ until the sapling was planted at its current site on 17 May 1929.</p>
 <p>This Heritage Tree has attained a height of 46 metres with a trunk girth
 of 6.3m as recorded in 2014.</p>
 <p></p>
-<p>Learn more about this species <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280#:~:text=niopoides%20is%20a%20large%20tree,meters%20tall%20with%20spreading%20crown.&amp;text=Trunk%20is%20straight%20with%20yellowish%20bark.&amp;text=Foliage-,Albizia%20niopoides%20var.,(1%20%E2%80%93%201.5%20mm)." rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Learn more about this species <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h4>Gallery</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"></div></div></a>
