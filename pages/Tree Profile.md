@@ -16,16 +16,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size:15px"><strong>Unique ID for Heritage Tree</strong>
+<p style="font-size: 15px"><strong>Unique ID for Heritage Tree</strong>
 <br>HT 2021-186</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
+<p style="font-size: 15px"><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
 <br><strong>Girth:</strong> 5.94 m @ 1.3 m height
 <br><strong>Height: </strong>41.6 m</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Location</strong>
+<p style="font-size: 15px"><strong>Location</strong>
 <br>Found in Singapore Botanic
 <br>Gardens, on Lawn E</p>
 </td>
