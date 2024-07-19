@@ -32,6 +32,13 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /heritage-tree-scheme/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Text Cards
       subtitle: Add informational text
