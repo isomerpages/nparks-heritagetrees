@@ -41,7 +41,7 @@ sections:
         - title: Card
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /tree-profile/
         - title: Card
           description: Card description
           linktext: Learn more
