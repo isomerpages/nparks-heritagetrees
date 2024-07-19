@@ -18,13 +18,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <p style="font-size: 16px"><strong>Unique ID for Heritage Tree</strong>
 <br>HT 2021-186</p>
-</td>
-<td rowspan="1" colspan="2">
+</td><td rowspan="1" colspan="2">
 <p style="font-size: 17px"><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
 <br><strong>Girth:</strong> 5.94 m @ 1.3 m height
 <br><strong>Height: </strong>41.6 m</p>
-</td>
-<td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p style="font-size: 16px"><strong>Location</strong>
 <br>Found in Singapore Botanic
 <br>Gardens, on Lawn E</p>
