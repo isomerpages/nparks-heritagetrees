@@ -33,6 +33,6 @@ Fort Canning Park.</div>
 in Changi.</div>
 <div class="isomer-card-link">Click here for the guide</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Place Holder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heritage Trees in Singapore Botanic Gardens</div><div class="isomer-card-description">This trail guide introduces you to seven Heritage Trees that can be found in Singapore Botanic Gardens.</div><div class="isomer-card-link">Click here for the guide</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Place Holder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heritage Trees in Singapore Botanic Gardens</div><div class="isomer-card-description">This trail guide introduces you to &lt;number&gt; Heritage Trees that can be found in Singapore Botanic Gardens.</div><div class="isomer-card-link">Click here for the guide</div></div></a>
 </div>
 <p></p>
