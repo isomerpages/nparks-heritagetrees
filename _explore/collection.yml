@@ -2,6 +2,6 @@ collections:
   explore:
     output: true
     order:
-      - Walking Guides.md
+      - DIY Walking Guides.md
       - Heritage Tree Appreciation Walk.md
       - Heritage Tree Care.md
