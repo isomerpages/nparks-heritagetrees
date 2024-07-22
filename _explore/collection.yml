@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Heritage Roads/Mount Pleasant Road.md
       - Heritage Roads/.keep
       - Heritage Roads/About Heritage Roads Scheme.md
       - Heritage Roads/Arcadia Road.md
