@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Heritage Trees SG
-      background: /images/hero-banner.png
+      background: /images/Home Page /hero-banner.png
       button: Search for a heritage tree
       url: /map-directory/
       key_highlights:
@@ -39,7 +39,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /heritage-tree-scheme/
-      image: /images/Adenanthera_malayana_Dennis_Sng_lowres.jpg
+      image: /images/Home Page /Adenanthera_malayana_Dennis_Sng_lowres.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
