@@ -1,5 +1,5 @@
 collections:
-  contribute:
+  get-involved:
     output: true
     order:
       - Nominate a Heritage Tree.md
