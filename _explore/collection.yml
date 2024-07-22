@@ -2,8 +2,8 @@ collections:
   explore:
     output: true
     order:
-      - Heritage Roads.md
       - Heritage Tree Registry.md
       - DIY Walking Guides.md
       - Heritage Tree Appreciation Walk.md
       - Heritage Tree Care.md
+      - Heritage Roads.md
