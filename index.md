@@ -24,6 +24,13 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Heritage Trees Scheme
       id: infopic
       description: Started on 17 August 2001, this initiative supports the
@@ -40,22 +47,4 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Tree Profile
-          description: ""
-          linktext: Learn more
-          url: /tree-profile/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Heritage Roads
-          description: Did you know that we have five Heritage Roads in Singapore?
-          linktext: Learn more
-          url: ""
 ---
