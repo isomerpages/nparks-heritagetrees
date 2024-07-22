@@ -20,6 +20,10 @@ as of &lt;date&gt;.</p>
 <p></p>
 <blockquote>
 <h4><strong>Did you know?</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Connaught_Drive.jpg">
+</div>
 <p>In 2016, a total of 20 Rain Trees at Connaught Drive were endorsed as
 Heritage Trees. This "Avenue of Heritage Trees" has the largest number
 of trees in a single avenue endorsed under the NParks' Heritage Tree Scheme.</p>
