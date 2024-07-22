@@ -2,7 +2,7 @@
 layout: homepage
 title: Heritage Trees SG
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Logos & favicon/heritage_trees_logo.png
 permalink: /
 notification: ""
 sections:
