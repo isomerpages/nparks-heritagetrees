@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Heritage Trees Scheme
       id: infopic
-      description: Started on 17 August 2001, this initiative advocates the
+      description: Started on 17 August 2001, this initiative supports the
         conservation of mature trees in Singapore, promoting appreciation of our
         local natural heritage.
       button: Learn more
