@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Heritage Roads.md
       - Arcadia Road/.keep
       - Heritage Tree Registry.md
       - DIY Walking Guides.md
