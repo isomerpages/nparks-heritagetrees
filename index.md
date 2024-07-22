@@ -32,6 +32,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /heritage-tree-scheme/
+      image: /images/Adenanthera_malayana_Dennis_Sng_lowres.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
