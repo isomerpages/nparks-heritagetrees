@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Heritage Roads/.keep
-      - About Heritage Roads Scheme.md
       - Heritage Tree Registry.md
       - DIY Walking Guides.md
       - Heritage Tree Appreciation Walk.md
