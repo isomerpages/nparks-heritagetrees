@@ -20,7 +20,8 @@ third_nav_title: Heritage Roads
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Starting point</strong>
-<br>Opposite Upper Seletar Reservoir Car Park</p>
+<br>Opposite Upper Seletar
+<br>Reservoir Car Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ending point</strong>
