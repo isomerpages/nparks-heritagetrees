@@ -12,7 +12,6 @@ description: ""
 <option disabled="" value="c++">C++</option>
 <option selected="" value="java">Java</option>
 </select>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -20,8 +19,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <h4><strong>Common Name</strong> (<em>Scientific Name</em> - Unique ID for Heritage Trees)</h4>
 </td>
 </tr>
