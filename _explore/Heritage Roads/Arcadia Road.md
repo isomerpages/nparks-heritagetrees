@@ -7,8 +7,9 @@ third_nav_title: Heritage Roads
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Line of trees along Arcadia Road" src="/images/Arcadia_Road_1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Line of trees along Arcadia Road" src="/images/Arcadia_Road_1.png">
 </div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,7 +33,6 @@ third_nav_title: Heritage Roads
 </tr>
 </tbody>
 </table>
-<hr>
 <p>Just a short drive away from the hustle and bustle of the city centre
 lies Arcadia Road, a scenic avenue lined with mature Rain trees. Enjoy
 a calming drive as you navigate through Arcadia Road’s green tunnel. Slow
@@ -47,6 +47,6 @@ and visitors a quiet and peaceful drive under the shady canopy of the majestic
 Rain trees.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DSHLDNqX-Kk?si=P3FLN86C23JHh1U9"></iframe>
+<iframe height="281" width="500" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DSHLDNqX-Kk"></iframe>
 </div>
 <p></p>
