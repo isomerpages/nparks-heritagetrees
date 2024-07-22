@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Heritage Roads
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Line of trees along Arcadia Road" src="/images/Arcadia_Road_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/Arcadia_Road_1.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
