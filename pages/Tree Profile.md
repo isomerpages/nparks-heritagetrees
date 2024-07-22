@@ -45,7 +45,7 @@ across the Old World tropics such as Nigeria, Mauritius, and India.</p>
 <p>This Heritage Tree has attained a height of 46 metres with a trunk girth
 of 6.3m as recorded in 2014.</p>
 <p></p>
-<p>Learn more about this species <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h4>Gallery</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"></div></div></a>
