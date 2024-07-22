@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Heritage Roads
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/South_Buona_Vista_Road_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/South_Buona_Vista_Road_1.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
