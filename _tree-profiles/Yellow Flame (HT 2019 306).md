@@ -8,26 +8,24 @@ description: ""
 <img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
-<tbody>
-<tr>
+<table style="minWidth: 100px; font-size: 17px">
+<tbody><tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 17px"><strong>Unique ID</strong>
-<br>HT 2005-145</p>
+	<strong>Unique ID</strong>
+<br>HT 2005-145
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 17px"><strong>Scientific name:</strong>  <em>Samanea saman</em>
+<strong>Scientific name:</strong>  <em>Samanea saman</em>
 <br><strong>Girth:</strong> 4.63 m @ 1.3 m height
-<br><strong>Height: </strong>23.6 m</p>
+<br><strong>Height: </strong>23.6 m
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 17px"><strong>Location</strong>
+<strong>Location</strong>
 <br>Found in Everton Road, on slope
-<br>opposite Block 10 multi-storey carpark</p>
+<br>opposite Block 10 multi-storey carpar
 </td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 <p>The seeds were brought into Singapore from Darjeeling (India) on 4 May
 1925 and they were nurtured in the Singapore Botanic Gardens nursery for
 4 years until the sapling was planted at its current site on 17 May 1929.</p>
