@@ -26,7 +26,6 @@ description: ""
 <br>Gallop Green
 </td>
 </tr></tbody></table>
-<hr>
 <p>Closely related to Saga (<em>Adenanthera pavonina</em>), this </p>
 	
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>
