@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
+<img src="/images/Home%20Page%20/Adenanthera_malayana_Dennis_Sng_lowres.jpg">
 </div>
 <p></p>
 <table style="minWidth: 100px; font-size: 18px">
@@ -25,12 +25,11 @@ description: ""
 <br>Singapore Botanic Gardens
 <br>Gallop Green
 </td>
-</tr>
-</tbody></table>
+</tr></tbody></table>
 <hr>
-<p>Closely related to Saga (<em>Adenanthera pavonina</em>), this 
+<p>Closely related to Saga (<em>Adenanthera pavonina</em>), this </p>
 	
-For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>
 </p>
 <h4>Gallery</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
