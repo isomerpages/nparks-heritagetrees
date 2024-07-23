@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Thai Bungor (HT 2023 326).md
       - Tulang Daing (HT 2001 22).md
       - West Indian Locust Tree (HT 2003 84).md
       - West Indian Locust Tree (HT 2014 231).md
