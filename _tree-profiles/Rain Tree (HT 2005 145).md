@@ -22,8 +22,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 	<strong>Location</strong>
-<br>Found in Everton Road, on slope
-<br>opposite Block 10 multi-storey carpark
+ <br>Found in Everton Road, 
+ <br>on slope opposite Block 10
+ <br>multi-storey carpark
 </td>
 </tr>
 </tbody>
