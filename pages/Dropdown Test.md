@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <select class="nice-select and custom_select" id="contentplaceholder_0_ctl13_ddlParkPCNHeritageTreeItems" name="contentplaceholder_0$ctl13$ddlParkPCNHeritageTreeItems">
-	<option value="javascript:void(0)" selected="selected">-Select Heritage Tree-</option>
+	<option value="javascript:void(0)" selected="selected">- Select Heritage Tree -</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-281">Adina eurhyncha (HT 2016-281)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-97">African Butter Tree (HT 2003-97)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2012-186">Albizia niopoides var. niopoides (HT 2012-186)</option>
@@ -268,7 +268,6 @@ description: ""
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2019-306">Yellow Flame (HT 2019-306)</option></select>
 	
 <div tabindex="0" class="nice-select and custom_select open">
-<span class="current">-Select Heritage Tree-</span>
 </div>
 <ul class="list">
 	<li class="option selected focus" data-value="javascript:void(0)">- Select Heritage Tree -</li>
