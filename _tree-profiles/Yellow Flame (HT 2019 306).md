@@ -27,18 +27,18 @@ description: ""
 </tr>
 </tbody></table>
 <hr>
-<p>The Yellow Flame is native to India and Sri Lanka, through Southeast Asia, including Singapore, to Northern Australia. It grows naturally on rocky, sandy shores and back mangroves.
+ <p>The Yellow Flame is native to India and Sri Lanka, through Southeast Asia, including Singapore, to Northern Australia. It grows naturally on rocky, sandy shores and back mangroves.</p>
 
-It is a deciduous tree that can grow up to 35 m in height. It has a wide-spreading, umbrella-shaped crown and slightly rough light grey bark. Its leaves are bi-pinnate with many tiny leaflets. It produces bright yellow blooms which are about 3 cm in size and occur in bunches. Its fruit is a pod that is 5 to 10 cm long and ripens to a purplish brown&nbsp;colour.
+<p>It is a deciduous tree that can grow up to 35 m in height. It has a wide-spreading, umbrella-shaped crown and slightly rough light grey bark. Its leaves are bi-pinnate with many tiny leaflets. It produces bright yellow blooms which are about 3 cm in size and occur in bunches. Its fruit is a pod that is 5 to 10 cm long and ripens to a purplish brown colour.</p>
 
-While it is considered Critically Endangered in the wild in Singapore, it is widely planted along roadsides for its wide, shade-providing crown, and bright yellow blooms, which occasionally cover the entire tree.
+<p>While it is considered Critically Endangered in the wild in Singapore, it is widely planted along roadsides for its wide, shade-providing crown, and bright yellow blooms, which occasionally cover the entire tree.</p>
 
-In Java, the bark yields a yellow-brown dye that is used in batik. The bark is also reportedly used to treat dysentery and relieve sprains and muscle aches.
+<p>In Java, the bark yields a yellow-brown dye that is used in batik. The bark is also reportedly used to treat dysentery and relieve sprains and muscle aches.</p>
 
-This Heritage Yellow Flame measured 4.8 m in girth when endorsed as a Heritage Tree in 2019. It is estimated to have stood here for more than 70 years.
+<p>This Heritage Yellow Flame measured 4.8 m in girth when endorsed as a Heritage Tree in 2019. It is estimated to have stood here for more than 70 years.</p>
 	
-For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a>
-</p>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a></p>
+ 
 <h4>Gallery</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
