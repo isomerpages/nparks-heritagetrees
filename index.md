@@ -44,7 +44,6 @@ sections:
       title: Test page for tree profiles
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
       button: Link to Profile (HT 2012-186)
       alt: Image alt text
       url: /ht-2012-186/
