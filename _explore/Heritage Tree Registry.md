@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Heritage Tree Registry**
 
-<select style="font-size:22px; height:50px; width:100%;" name="heritagetrees;">
+<select style="font-size:22px; height:50px; width:100%;" class="nice-select and custom_select" id="dropdown">
 	<option selected="selected">- Select Heritage Tree -</option>
 	<option value="/ht-2016-281/">Adina eurhyncha (HT 2016-281)</option>
 	<option value="/ht-2003-97/">African Butter Tree / Pentadesma butyracea (HT 2003-97)</option>
@@ -269,4 +269,4 @@ description: ""
 	<option value="/ht-2005-142/">Yellow Flame / Peltophorum pterocarpum (HT 2005-142)</option>
 	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)</option>
 	Test Heritage Tree
-</select>
+	 </select><input placeholder="Search..." class="nice-select-search __safly_input_chrome __safly_input_ms" type="text">
