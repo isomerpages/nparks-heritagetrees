@@ -9,11 +9,6 @@ description: ""
 </div>
 <p></p>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -22,6 +17,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p style="font-size: 17px"><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
+<br><strong>Family:</strong> Fabaceae
 <br><strong>Girth:</strong> 5.94 m @ 1.3 m height
 <br><strong>Height: </strong>41.6 m</p>
 </td>
