@@ -6,8 +6,8 @@ description: ""
 ---
 ### **Heritage Tree Registry**
 
-<select style="font-size:22px; height:50px; width:100%;" id="heritagetrees" name="heritagetrees">
-	<option value="javascript:void(0)" selected="selected">- Select Heritage Tree -</option>
+<select style="font-size:22px; height:50px; width:100%;" name="heritagetrees;">
+	<option selected="selected">- Select Heritage Tree -</option>
 	<option value="/ht-2016-281/">Adina eurhyncha (HT 2016-281)</option>
 	<option value="/ht-2003-97/">African Butter Tree / Pentadesma butyracea (HT 2003-97)</option>
 	<option value="/ht-2012-186/">Albizia niopoides var. niopoides (HT 2012-186)</option>
@@ -268,5 +268,5 @@ description: ""
 	<option value="/ht-2003-80/">White Fig / Ficus vasculosa (HT 2003-80)</option>
 	<option value="/ht-2005-142/">Yellow Flame / Peltophorum pterocarpum (HT 2005-142)</option>
 	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)</option>
-	<option value="https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees">Test Heritage Tree</option>
+	Test Heritage Tree
 </select>
