@@ -22,6 +22,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p style="font-size: 17px"><strong>Scientific name:</strong>  <em>Samanea saman</em>
+<br><strong>Family name:</strong> Fabaceae (Leguminosae)
 <br><strong>Girth:</strong> 4.63 m @ 1.3 m height
 <br><strong>Height: </strong>23.6 m</p>
 </td>
