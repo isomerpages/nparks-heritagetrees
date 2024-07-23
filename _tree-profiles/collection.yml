@@ -2,4 +2,5 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Rain Tree.md
       - Albizia niopoides var niopoides.md
