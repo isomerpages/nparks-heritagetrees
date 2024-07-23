@@ -8,10 +8,10 @@ description: ""
 <img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
 <p></p>
-<table style="minWidth: 100px; font-size: 17px">
+<table style="minWidth: 100px; font-size: 18px">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-	<strong>Unique ID</strong>
+<strong>Unique ID</strong>
 <br>HT 2005-145
 </td>
 <td rowspan="1" colspan="1">
@@ -22,10 +22,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong>
 <br>Found in Everton Road, on slope
-<br>opposite Block 10 multi-storey carpar
+<br>opposite Block 10 multi-storey carpark
 </td>
 </tr>
 </tbody></table>
+<hr>
 <p>The seeds were brought into Singapore from Darjeeling (India) on 4 May
 1925 and they were nurtured in the Singapore Botanic Gardens nursery for
 4 years until the sapling was planted at its current site on 17 May 1929.</p>
