@@ -8,28 +8,27 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 17px"><strong>Unique ID</strong>
-<br>HT 2021-186</p>
+<strong>Unique ID</strong>
+<br>HT 2021-186
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 17px"><strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
+<strong>Scientific name:</strong>  <em>Albizia niopoides </em>var. <em>niopoides</em>
 <br><strong>Family:</strong> Fabaceae
 <br><strong>Girth:</strong> 5.94 m @ 1.3 m height
-<br><strong>Height: </strong>41.6 m</p>
+<br><strong>Height: </strong>41.6 m
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 17px"><strong>Location</strong>
+<strong>Location</strong>
 <br>Found in Singapore Botanic
-<br>Gardens, on Lawn E</p>
+<br>Gardens, on Lawn E
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
 <p>The seeds were brought into Singapore from Darjeeling (India) on 4 May
 1925 and they were nurtured in the Singapore Botanic Gardens nursery for
 4 years until the sapling was planted at its current site on 17 May 1929.</p>
