@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Heritage Roads
 ---
-<p><strong>The Heritage Road Scheme</strong>
-</p>
+<h4><strong>The Heritage Road Scheme</strong></h4>
 <p>In our city state, mature trees along the roads form the backbone of Singapore’s
 landscape. With rapid development, it is important that we recognise the
 importance of these mature trees and what they symbolise.</p>
@@ -40,3 +39,4 @@ is prohibited.</p>
 <p>The preservation of Heritage Roads adds an element of permanence to the
 landscape and ultimately contributes to Singapore's sense of identity,
 history and continuity.</p>
+<p></p>
