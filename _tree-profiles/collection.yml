@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Yellow Flame (HT 2005 142).md
       - Yellow Flame (HT 2019 306).md
       - Rain Tree (HT 2005 145).md
