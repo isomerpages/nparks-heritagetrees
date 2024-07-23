@@ -16,6 +16,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong>  <em>Peltophorum pterocarpum</em>
+<br><strong>Family name:</strong> Fabaceae (Leguminosae)
 <br><strong>Girth:</strong> 5.91 m @ 1.8 m height
 <br><strong>Height: </strong>23.9 m
 </td>
