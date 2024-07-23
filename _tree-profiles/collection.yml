@@ -1,4 +1,5 @@
 collections:
   tree-profiles:
     output: true
-    order: []
+    order:
+      - Albizia niopoides var niopoides.md
