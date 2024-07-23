@@ -45,7 +45,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Link to Profile (HT 2012-186)
       alt: Image alt text
       url: /ht-2012-186/
 ---
