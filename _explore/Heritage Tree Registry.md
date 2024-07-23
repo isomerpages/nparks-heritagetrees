@@ -267,5 +267,5 @@ description: ""
 	<option value="/ht-2015-241/">West Indian Mahogany / Swietenia mahagoni (HT 2015-241)</option>
 	<option value="/ht-2003-80/">White Fig / Ficus vasculosa (HT 2003-80)</option>
 	<option value="/ht-2005-142/">Yellow Flame / Peltophorum pterocarpum (HT 2005-142)</option>
-	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)</option>
-</select>
+	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)
+</option></select>
