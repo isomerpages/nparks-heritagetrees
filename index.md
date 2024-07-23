@@ -47,4 +47,20 @@ sections:
       button: Link to Profile (HT 2012-186)
       alt: Image alt text
       url: /ht-2012-186/
+  - textcards:
+      title: Test Pages
+      id: textcards
+      cards:
+        - title: Tree Profile
+          description: ""
+          linktext: Link to (HT 2012-186)
+          url: /ht-2012-186/
+        - title: Dropdown Test
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
