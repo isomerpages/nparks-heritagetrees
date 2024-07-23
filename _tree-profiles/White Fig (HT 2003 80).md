@@ -8,7 +8,7 @@ description: ""
 <img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
 </div>
 <p></p>
-<table style="minWidth: 100px; font-size: 18px">
+<table style="minWidth: 100px; font-size: 18px; background:">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -27,7 +27,6 @@ description: ""
 </td>
 </tr>
 </tbody></table>
-<hr>
 <p><em>Ficus vasculosa</em> or the white fig is a native fig species to Singapore, and can also be found in South Asia, and other parts of Southeast Asia such as Sumatra, Peninsular Malaysia, Borneo and Java. This evergreen tree can reach up to 20 m tall in height.</p>
 	
 <p> Figs are 12 to 17mm wide, pear-shaped with a stalk 6 to 17mm long, ripening light yellow then deep rose-red, glabrous (without hairs). The specific epithet <em>vasculosa</em> is Latin for 'little vessel', possibly referring to the vase-shaped figs.</p>
