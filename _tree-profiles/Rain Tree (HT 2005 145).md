@@ -34,14 +34,11 @@ description: ""
 </tbody>
 </table>
 <hr>
-<p>The seeds were brought into Singapore from Darjeeling (India) on 4 May 1925 and they were nurtured in the Singapore Botanic Gardens nursery for 4 years until the sapling was planted at its current site on 17 May 1929.</p>
+<p>The tree can grow up to 30m in height with an umbrella shaped crown, very spreading (20-30m across). The bark is dark brown, rough and flaky in mature specimens. The leaves are twice pinnate compound. Small clusters of flowers are pinkish or whitish and slightly fragrant. The fruit pods are thick, long, straight and fleshy inside. The pods ripen black and do not split open. The seeds readily germinate into seedlings and sometimes while still inside the fruit. Epiphytes like ferns and orchids tend to perch on old Rain Trees. </p>
+  
+<p>The leaves of the Rain Tree folded up in the evenings and that was why the Malays called it Pukul Lima, which means 5 o'clock. This was because 5pm used to be closer to the sunset hour in Singapore and Malaysia before changes to Standard Time were made on 1 Jan 1982. Notably, the leaflets began to close about one and a half hours before sunset to open about the same time after sunrise. The leaflets also close during the day when the sky was overcast, thus giving rise to the name, Rain Tree. This Tropical American species was dispersed throughout the tropics since the middle of the 1900s. It was introduced to Singapore in 1876 and spread throughout the region. Due to its excellent shade, the species was planted in the 1900s in coffee and nutmeg plantations and along roadsides. The sweetish fruit pulp were relished by cattle, goats, horses, pigs and even children in some countries. This Heritage Tree, as well as the one nearer to the junction of Spottiswoode Park Road, were planted probably as part of the landscaping for the Spottiswoode Park estate. This Heritage Tree had a girth of 5m when measured in Year 2005.</p>
 
-<p>Initially thought to be <em>Albizia lebbekoides</em>, it was not until February 2016 when the tree was re-identified as <em>Albizia niopoides</em> var. <em>niopoides</em>, a species native to tropical America. Despite its neotropical origins, this species has been known to be introduced into cultivation in countries across the Old World tropics such as Nigeria, Mauritius, and India.</p>
-
-<p>This Heritage Tree has attained a height of 46 metres with a trunk girth
-of 6.3m as recorded in 2014.</p>
-
-<p>Learn more about this species <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280" rel="noopener noreferrer nofollow" target="_blank">here</a></p>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a></p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"></div></div></a>
