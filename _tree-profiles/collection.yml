@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - West Indian Locust Tree (HT 2014 231).md
       - West Indian Mahogany (HT 2015 241).md
       - White Fig (HT 2003 80).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
