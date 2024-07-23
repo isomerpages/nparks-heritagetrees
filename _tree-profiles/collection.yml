@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Tulang Daing (Ht 2001 22).md
       - West Indian Locust Tree (HT 2003 84).md
       - West Indian Locust Tree (HT 2014 231).md
       - West Indian Mahogany (HT 2015 241).md
