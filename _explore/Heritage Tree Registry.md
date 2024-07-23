@@ -264,8 +264,8 @@ description: ""
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2001-22">Tulang Daing / Adinobotrys atropurpureus (HT 2001-22)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-84">West Indian Locust Tree / Hymenaea courbaril (HT 2003-84)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2014-231">West Indian Locust Tree / Hymenaea courbaril (HT 2014-231)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2015-241">West Indian Mahogany / Swietenia mahagoni (HT 2015-241)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-80">White Fig / Ficus vasculosa (HT 2003-80)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2005-142">Yellow Flame / Peltophorum pterocarpum (HT 2005-142)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2019-306">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)</option>
+	<option value="/ht-2015-241/">West Indian Mahogany / Swietenia mahagoni (HT 2015-241)</option>
+	<option value="/ht-2003-80/">White Fig / Ficus vasculosa (HT 2003-80)</option>
+	<option value="/ht-2005-142/">Yellow Flame / Peltophorum pterocarpum (HT 2005-142)</option>
+	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)</option>
 </select>
