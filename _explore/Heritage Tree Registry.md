@@ -4,8 +4,7 @@ permalink: /heritage-tree-registry/
 variant: markdown
 description: ""
 ---
-<div style="font-size: 22px" class="dropdown-routing-lists">
-<select class="nice-select and custom_select" id="heritagetrees" name="heritagetrees">
+<select style="font-size: 22px" id="heritagetrees" name="heritagetrees">
 	<option value="javascript:void(0)" selected="selected">- Select Heritage Tree -</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-281">Adina eurhyncha (HT 2016-281)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-97">African Butter Tree (HT 2003-97)</option>
@@ -268,4 +267,3 @@ description: ""
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2005-142">Yellow Flame (HT 2005-142)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2019-306">Yellow Flame (HT 2019-306)</option>
 </select>
-</div>
