@@ -226,9 +226,9 @@ description: ""
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-78">Sea Fig / Ficus superba (HT 2003-78)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-79">Sea Fig / Ficus superba (HT 2003-79)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2008-168">Sea Fig / Ficus superba (HT 2008-168)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-284">Sea Fig / Ficus superba (HT 2016-284)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2017-288">Sea Teak / Podocarpus polystachyus (HT 2017-288)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-81">Seashore Mangosteen / Garcinia hombroniana (HT 2003-81)</option>
+	<option value="/ht-2016-284/">Sea Fig / Ficus superba (HT 2016-284)</option>
+	<option value="/ht-2017-288/">Sea Teak / Podocarpus polystachyus (HT 2017-288)</option>
+	<option value="/ht-2003-81/">Seashore Mangosteen / Garcinia hombroniana (HT 2003-81)</option>
 	<option value="/ht-2020-314/">Selembat / Syzygium conglomeratum (HT 2020-314)</option>
 	<option value="/ht-2013-212/">Senegal Mahogany / Khaya senegalensis (HT 2013-212)</option>
 	<option value="/ht-2020-313/">Sentul / Sandoricum keotjape(HT 2020-313)</option>
@@ -267,5 +267,6 @@ description: ""
 	<option value="/ht-2015-241/">West Indian Mahogany / Swietenia mahagoni (HT 2015-241)</option>
 	<option value="/ht-2003-80/">White Fig / Ficus vasculosa (HT 2003-80)</option>
 	<option value="/ht-2005-142/">Yellow Flame / Peltophorum pterocarpum (HT 2005-142)</option>
-	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)
-</option></select>
+	<option value="/ht-2019-306/">Yellow Flame / Peltophorum pterocarpum (HT 2019-306)</option>
+	<option value="https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees">Test Heritage Tree</option>
+</select>
