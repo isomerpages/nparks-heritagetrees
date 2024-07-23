@@ -28,7 +28,6 @@ description: ""
 </td>
 </tr>
 </tbody></table>
-<hr>
 <p>The Yellow Flame is native to India and Sri Lanka, through Southeast Asia, including Singapore, to Northern Australia. It grows naturally on rocky, sandy shores and back mangroves.</p>
 
 <p>It is a deciduous tree that can grow up to 35 m in height. It has a wide-spreading, umbrella-shaped crown and slightly rough light grey bark. Its leaves are bi-pinnate with many tiny leaflets. It produces bright yellow blooms which are about 3 cm in size and occur in bunches. Its fruit is a pod that is 5 to 10 cm long and ripens to a purplish brown colour.</p>
