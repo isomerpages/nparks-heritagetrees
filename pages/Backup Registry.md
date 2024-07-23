@@ -9,7 +9,7 @@ description: ""
 <table style="font-size:18px">
  <tbody>
  <tr><td><a href="/ht-2016-281/"><em>Adina eurhyncha</em> (HT 2016-281)</a></td></tr>
- <tr><td><a href="/ht-2003-97/">**African Butter Tree** / Pentadesma butyracea (HT 2003-97)</a></td></tr>
+ <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / Pentadesma butyracea (HT 2003-97)</a></td></tr>
  <tr><td><a href="/ht-2012-186/">Albizia niopoides var. niopoides (HT 2012-186)</a></td></tr>
  <tr><td><a href="/ht-2012-190/">Andiroba / Carapa guianensis (HT 2012-190)</a></td></tr>
  <tr><td><a href="/ht-2001-03/">Angsana / Pterocarpus indicus (HT 2001-03)</a></td></tr>
