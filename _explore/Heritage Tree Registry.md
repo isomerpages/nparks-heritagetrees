@@ -8,21 +8,21 @@ description: ""
 
 <select style="font-size:22px; height:50px; width:100%;" id="heritagetrees" name="heritagetrees">
 	<option value="javascript:void(0)" selected="selected">- Select Heritage Tree -</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-281">Adina eurhyncha (HT 2016-281)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-97">African Butter Tree / Pentadesma butyracea (HT 2003-97)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2012-186">Albizia niopoides var. niopoides (HT 2012-186)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2012-190">Andiroba / Carapa guianensis (HT 2012-190)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2001-03">Angsana / Pterocarpus indicus (HT 2001-03)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-100">Angsana / Pterocarpus indicus (HT 2003-100)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-101">Angsana / Pterocarpus indicus (HT 2003-101)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-102">Angsana / Pterocarpus indicus (HT 2003-102)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-103">Angsana / Pterocarpus indicus (HT 2003-103)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-98">Angsana / Pterocarpus indicus (HT 2003-98)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-99">Angsana / Pterocarpus indicus (HT 2003-99)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2007-158">Angsana / Pterocarpus indicus (HT 2007-158)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2007-159">Angsana / Pterocarpus indicus (HT 2007-159)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2015-247">Bangkal / Nauclea orientalis (HT 2015-247)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-283">Baobab / Adansonia digitata (HT 2016-283)</option>
+	<option value="/ht-2016-281/">Adina eurhyncha (HT 2016-281)</option>
+	<option value="/ht-2003-97/">African Butter Tree / Pentadesma butyracea (HT 2003-97)</option>
+	<option value="/ht-2012-186/">Albizia niopoides var. niopoides (HT 2012-186)</option>
+	<option value="/ht-2012-190/">Andiroba / Carapa guianensis (HT 2012-190)</option>
+	<option value="/ht-2001-03/">Angsana / Pterocarpus indicus (HT 2001-03)</option>
+	<option value="/ht-2003-100/">Angsana / Pterocarpus indicus (HT 2003-100)</option>
+	<option value="/ht-2003-101/">Angsana / Pterocarpus indicus (HT 2003-101)</option>
+	<option value="/ht-2003-102/">Angsana / Pterocarpus indicus (HT 2003-102)</option>
+	<option value="/ht-2003-103/">Angsana / Pterocarpus indicus (HT 2003-103)</option>
+	<option value="/ht-2003-98/">Angsana / Pterocarpus indicus (HT 2003-98)</option>
+	<option value="/ht-2003-99/">Angsana / Pterocarpus indicus (HT 2003-99)</option>
+	<option value="/ht-2007-158/">Angsana / Pterocarpus indicus (HT 2007-158)</option>
+	<option value="/ht-2007-159/">Angsana / Pterocarpus indicus (HT 2007-159)</option>
+	<option value="/gardens-parks-and-nature/heritage-trees/ht-2015-247/">Bangkal / Nauclea orientalis (HT 2015-247)</option>
+	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-283/">Baobab / Adansonia digitata (HT 2016-283)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2017-291">Belinjau / Gnetum gnemon (HT 2017-291)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-86">Binjai / Mangifera caesia (HT 2003-86)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-87">Binjai / Mangifera caesia (HT 2003-87)</option>
