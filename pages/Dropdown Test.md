@@ -265,10 +265,6 @@ description: ""
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2015-241">West Indian Mahogany (HT 2015-241)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-80">White Fig (HT 2003-80)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2005-142">Yellow Flame (HT 2005-142)</option>
-	<option value="/gardens-parks-and-nature/heritage-trees/ht-2019-306">Yellow Flame (HT 2019-306)</option></select>
+	<option value="/ht-2019-306/">Yellow Flame (HT 2019-306)</option></select>
 	
-<div tabindex="0" class="nice-select and custom_select open">
-</div>
-<ul class="list">
-	<li class="option selected focus" data-value="javascript:void(0)">- Select Heritage Tree -</li>
-	<li style="display: none;" class="option" data-value="/ht-2019-306/">Yellow Flame (HT 2019-306)</li></ul>
+<a href="/ht-2019-306/"> Yellow Flame (HT 2019-306)</a>
