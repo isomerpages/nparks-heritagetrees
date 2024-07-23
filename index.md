@@ -41,10 +41,11 @@ sections:
       url: /heritage-tree-scheme/
       image: /images/Home Page /Adenanthera_malayana_Dennis_Sng_lowres.jpg
   - infopic:
-      title: Infopic
+      title: Test page for tree profiles
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: /ht-2012-186/
 ---
