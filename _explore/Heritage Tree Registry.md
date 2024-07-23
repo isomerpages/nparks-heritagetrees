@@ -4,7 +4,7 @@ permalink: /heritage-tree-registry/
 variant: markdown
 description: ""
 ---
-<select style="font-size: 22px; width: 100%;" id="heritagetrees" name="heritagetrees">
+<select style="font-size:22px; height:50px; width:100%;" id="heritagetrees" name="heritagetrees">
 	<option value="javascript:void(0)" selected="selected">- Select Heritage Tree -</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2016-281">Adina eurhyncha (HT 2016-281)</option>
 	<option value="/gardens-parks-and-nature/heritage-trees/ht-2003-97">African Butter Tree (HT 2003-97)</option>
