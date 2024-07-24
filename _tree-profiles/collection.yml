@@ -2,6 +2,9 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
+      - Rain Tree (HT 2005 145).md
       - Tempinis (HT 2003 117).md
       - Terap (HT 2001 12).md
       - Terap (HT 2014 223).md
@@ -13,8 +16,5 @@ collections:
       - West Indian Locust Tree (HT 2014 231).md
       - West Indian Mahogany (HT 2015 241).md
       - White Fig (HT 2003 80).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Rain Tree (HT 2005 145).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Yellow Flame (HT 2005 142).md
       - Yellow Flame (HT 2019 306).md
