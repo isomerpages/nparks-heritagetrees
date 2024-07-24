@@ -4,3 +4,51 @@ permalink: /terap-ht-2001-12/
 variant: markdown
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
+</div>
+<p></p>
+<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Unique ID</strong>
+<br>HT 2001-12
+</td>
+<td rowspan="1" colspan="1">
+<strong>Scientific name:</strong> <em>Artocarpus elasticus</em> 
+<br><strong>Family name:</strong> Moraceae
+<br><strong>Girth:</strong> 5.68 m @ 1 m height
+<br><strong>Height: </strong>26.4 m
+</td>
+<td rowspan="1" colspan="1">
+<strong>Location</strong>
+<br>Fort Canning Park, along
+	<br>14<sup>th</sup> Century Walk of History
+</td>
+</tr>
+</tbody></table>
+<p>The Terap is a tall tree that can grow up to 45 m to 65 m in height in its native forest habitat in Singapore, Myanmar, Thailand, Sumatra, Peninsular Malaysia, Borneo, Java, Philippines and Lesser Sunda Islands where it is common.</p>
+  
+<p>Its trunk often displays great buttresses, particularly when the tree is mature. Its leaves and twigs have hairy surfaces. The leaves of a young tree are deeply lobed, but as the tree matures, it produces leaves that are more entire (non-lobed), stiff and leathery. The male flowers occur in spike-like heads that are furrowed and ridged, turn from yellow to brown, and hang from stalks that are about 6 cm long. In contrast, the female flower heads are upright and barrel-shaped with soft, hairy, curved spines. Male and female flowers are found on the same tree (monoecious). Its fruit is about 18 cm long, and turns from cream-yellow to brown and emits a nauseous, rancid smell when ripe.</p>
+  
+<p>Various parts of the Terap have ethnobotanical value, such as for food, medicine and building materials. The latex of the tree, known as&nbsp;<em>gutta terap</em>, is used as a gum (bird lime) to trap birds.</p>
+	
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2732">here</a></p>
+
+<h4>Gallery</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"></div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Flowers of Albizia niopioides var. niopioides" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flowers</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruits of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruit</div><div class="isomer-card-link"></div></div></a>
+</div>
+<p></p>
