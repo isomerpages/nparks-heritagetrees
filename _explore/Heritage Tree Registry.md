@@ -74,7 +74,7 @@ description: ""
 	 <tr><td><a href="/ht-2007-154"><b>Durian</b> / <i>Durio zibethinus</i> (HT 2007-154)</a></td></tr>
 	 <tr><td><a href="/ht-2001-11"><b>Earpod Tree</b> / <i>Enterolobium cyclocarpum</i> (HT 2001-11)</a></td></tr>
 	 <tr><td><a href="/ht-2003-71"><b><i>Ficus stricta</i></b> (HT 2003-71)</a></td></tr>
- <tr><td><a href="/ht-2003-72"><b><i>Ficus stricta</i></b>\ (HT 2003-72)</a></td></tr>
+ <tr><td><a href="/ht-2003-72"><b><i>Ficus stricta</i></b> (HT 2003-72)</a></td></tr>
  <tr><td><a href="/ht-2003-73"><b><i>Ficus stricta</i></b> (HT 2003-73)</a></td></tr>
  <tr><td><a href="ht-2013-206"><b><i>Ficus stricta</i></b> (HT 2013-206)</a></td></tr>
  <tr><td><a href="/ht-2013-207"><b><i>Ficus stricta</i></b> (HT 2013-207)</a></td></tr>
