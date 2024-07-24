@@ -4,7 +4,40 @@ permalink: /rain-trees-of-connaught-drive/
 variant: markdown
 description: ""
 ---
-<h4>The Connaught Drive Rain Trees over the years</h4>
+<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Unique ID</strong>
+<br>See below
+</td>
+<td rowspan="1" colspan="1">
+<strong>Scientific name:</strong> <em>Samanea saman</em> 
+<br><strong>Family name:</strong> Fabaceae (Leguminosae)
+</td>
+<td rowspan="1" colspan="1">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2917209909686986&amp;lng=103.85415892794829">
+<br>Found along Connaught Drive <br>near Stamford Road.</a>
+</td>
+</tr>
+<tr><td rowspan="1" colspan="3"><div class="isomer-accordion-group isomer-accordion isomer-accordion-clear">
+<details class="isomer-details">
+	<summary>Individual Unique IDs of Heritage Trees along Connaught Drive</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px; font-size: 18px;">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Unique ID</strong>
+<br>See below
+</td>
+<td rowspan="1" colspan="1">
+<strong>Scientific name:</strong> <em>Samanea saman</em> 
+<br><strong>Family name:</strong> Fabaceae (Leguminosae)
+	</td></tr></tbody></table>
+</div></details>
+</div></td></tr>
+</tbody></table>
+
+
 
 <p>Tree planting was formalised in 1881 by the then Superintendent of the Singapore Botanic Gardens, Nathaniel Cantley. Roadside greenery is now a main feature of the business and commercial districts in Singapore.</p>
   
