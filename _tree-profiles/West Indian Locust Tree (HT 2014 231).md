@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>32.8 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3152319999970208&amp;lng=103.81547899999624">
 <br>Singapore Botanic Gardens
-<br>Corner House
+	<br>Corner House</a>
 </td>
 </tr>
 </tbody></table>
