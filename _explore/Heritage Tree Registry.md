@@ -8,8 +8,7 @@ description: ""
 
 <a href="https://www.onemap.gov.sg/" class="button">
 <div class="box"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_Tree_Map.png"></div></a>
-
-
+To access to 'Heritage Trees' layer on onemap.gov.sg, click the Options button (left of search bar) &gt; Show Nearby &gt; Environment &gt; Heritage Trees
 
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
