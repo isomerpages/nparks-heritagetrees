@@ -22,7 +22,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong>
-<a title="" target="_blank" class="btn google-direction-link" href="/https://www.onemap.gov.sg/"><br>Saint John's Island (edge
+<a href="https://www.onemap.gov.sg/?lat=1.2180449999960417&amp;lng=103.8482519999966"><br>Saint John's Island (edge
 <br>of forest, near path to 
 <br>Tropical Marine Science Institute)</a>
 </td>
