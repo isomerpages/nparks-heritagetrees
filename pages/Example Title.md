@@ -4,12 +4,7 @@ permalink: /example-title/
 variant: markdown
 description: ""
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
