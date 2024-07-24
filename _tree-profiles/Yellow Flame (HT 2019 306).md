@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg">
+<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg">
 </div>
 <p></p>
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
@@ -40,19 +40,8 @@ description: ""
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a></p>
  
 <h4>Gallery</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+	<a href="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Flowers of Albizia niopioides var. niopioides" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Flowers</div>
-<div class="isomer-card-link"></div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruits of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruit</div><div class="isomer-card-link"></div></div></a>
-</div>
-<p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<p></p></div>
