@@ -39,8 +39,15 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a></div>
-<div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-leaves.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a></div>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-leaves.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Close-up of leaves and shoots</div></div></a>
+	
+<a href="/images/tulang_daing_ht_2001_22-overall.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-overall.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div></div></a></div>
