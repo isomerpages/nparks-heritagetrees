@@ -6,9 +6,14 @@ description: ""
 ---
 ### **Heritage Tree Registry**
 
+<a href="https://www.onemap.gov.sg/" class="button">
+<div class="box"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_Tree_Map.png"></div></a>
+
+
+
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-	<summary style="font-size: 20px; font-weight: bold;">Click here for the full tree registry</summary>
+	<summary style="font-size: 20px; font-weight: bold;">Click here for the full Heritage Trees registry</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 	<table style="font-size: 18px; text-indent: 30px;">
  <tbody>
