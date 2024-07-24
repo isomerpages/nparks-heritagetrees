@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Terap (HT 2001 12).md
       - Terap (HT 2014 223).md
       - Terap (HT 2015 235).md
       - Terap (HT 2016 279).md
