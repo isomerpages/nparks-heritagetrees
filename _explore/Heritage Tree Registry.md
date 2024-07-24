@@ -6,9 +6,9 @@ description: ""
 ---
 ### **Heritage Tree Registry**
 
-<table style="font-size:18px">
+<table style="font-size: 18px; text-indent: 30px;">
  <tbody>
-	 <tr><td><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></td></tr>
+	 <tr><td><p class="tab"><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></p></td></tr>
 	 <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td></tr>
 	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td></tr>
 	 <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td></tr>
@@ -268,5 +268,5 @@ description: ""
 	 <tr><td><a href="/ht-2003-80/"><b>White Fig</b> / <i>Ficus vasculosa</i> (HT 2003-80)</a></td></tr>
  <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td></tr>
 	 <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td></tr>
-</tbody>
+	 </tbody>
 </table>
