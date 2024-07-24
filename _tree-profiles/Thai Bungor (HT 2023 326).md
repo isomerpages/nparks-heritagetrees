@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>18 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3081300000000005&amp;lng=103.81537999999998">
 <br>Singapore Botanic Gardens
-<br>Lawn F
+	<br>Lawn F</a>
 </td>
 </tr>
 </tbody></table>
