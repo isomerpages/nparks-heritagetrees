@@ -21,8 +21,8 @@ description: ""
 <br><strong>Height: </strong>35.4 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
-<br>Istana Ground
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.303069999999125&amp;lng=103.84202999996688">
+	<br>Istana Ground</a>
 </td>
 </tr>
 </tbody></table>
