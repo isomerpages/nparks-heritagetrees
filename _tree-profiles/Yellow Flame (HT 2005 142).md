@@ -21,10 +21,10 @@ description: ""
 <br><strong>Height: </strong>23.9 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.324849999999545&amp;lng=103.84781999999782">
 <br>Found in Jalan Tan Tock Seng,
 <br>within Renci Hospital car-park,
-<br>infront of Ward 510
+<br>infront of Ward 510</a>
 </td>
 </tr>
 </tbody></table>
