@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>21.2 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.304090000015172&amp;lng=103.84829999997636">
 <br>Mount Emily Park, near Upper
-<br>Wilkie Road round-about
+	<br>Wilkie Road round-about</a>
 </td>
 </tr>
 </tbody></table>
