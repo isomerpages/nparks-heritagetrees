@@ -6,12 +6,11 @@ description: ""
 ---
 ### **Heritage Tree Registry**
 
-
-
-
-
-
-<table style="font-size: 18px; text-indent: 30px;">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+	<summary style="font-size: 20px; font-weight: bold;">Click here for the full tree registry</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+	<table style="font-size: 18px; text-indent: 30px;">
  <tbody>
 	 <tr><td></td></tr>
 	 <tr><td><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></td></tr>
@@ -276,3 +275,6 @@ description: ""
 	 <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td></tr>
 	 </tbody>
 </table>
+	</div>
+</details>
+</div>
