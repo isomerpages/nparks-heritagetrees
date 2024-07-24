@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>35 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.307399000000949&amp;lng=103.81580000000169">
 <br>Found in Singapore Botanic 
-<br>Gardens, behind Swan Lake
+	<br>Gardens, behind Swan Lake</a>
 </td>
 </tr>
 </tbody></table>
