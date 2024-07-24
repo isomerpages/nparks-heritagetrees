@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>16.8 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3115599999809424&amp;lng=103.81479000003529">
 <br>Lawn R, Singapore Botanic
-<br>Gardens, near Orchid Plaza
+	<br>Gardens, near Orchid Plaza</a>
 </td>
 </tr>
 </tbody></table>
