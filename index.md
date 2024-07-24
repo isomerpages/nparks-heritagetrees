@@ -40,20 +40,4 @@ sections:
       alt: Image alt text
       url: /heritage-tree-scheme/
       image: /images/Home Page /Adenanthera_malayana_Dennis_Sng_lowres.jpg
-  - textcards:
-      title: Test Pages
-      id: textcards
-      cards:
-        - title: Tree Profile
-          description: ""
-          linktext: Link to (HT 2012-186)
-          url: /ht-2012-186/
-        - title: Dropdown Test
-          description: ""
-          linktext: Link to Dropdown test
-          url: /dropdown-test/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
