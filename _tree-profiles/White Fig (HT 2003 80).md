@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>28.3 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2485340000016367&amp;lng=103.83617999999953">
 <br>Sentosa (Woolrich Road,
-<br>within Satellite Station grounds)
+	<br>within Satellite Station grounds)</a>
 </td>
 </tr>
 </tbody></table>
