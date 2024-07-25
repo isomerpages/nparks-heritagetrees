@@ -198,7 +198,7 @@ description: ""
  <tr><td><a href="/ht-2009-175"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2009-175)</a></td></tr>
  <tr><td><a href="/ht-2014-228"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2014-228)</a></td></tr>
  <tr><td><a href="/ht-2015-270"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2015-270)</a></td></tr>
-	<tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> / <i>Samanea saman</i> (HT 2015-248 to HT 2015-269)</a></td></tr>
+	<tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248) - (HT 2015-269)</a></td></tr>
  <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td></tr>
 	 <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td></tr>
  <tr><td><a href="/ht-2001-14"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-14)</a></td></tr>
