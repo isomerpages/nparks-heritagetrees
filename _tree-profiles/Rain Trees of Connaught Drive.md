@@ -16,242 +16,119 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2917209909686986&amp;lng=103.85415892794829">
-<br>Found along Connaught Drive <br>near Stamford Road.</a>
+<br>Connaught Drive</a>
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3"><div>
 <details class="isomer-details">
 	<summary><b>Details of Individual Unique IDs along Connaught Drive</b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="font-size: 15px; padding; 5px">
-<tbody><tr>
-<th>
-<p>Unique ID</p></th>
-<th rowspan="1" colspan="1">
-Tree Girth</th>
-<th rowspan="1" colspan="1">
-<p>Tree Height</p>
-</th>
+<table style="minWidth: 100px; font-size: 16px; border: #000;">
+<tbody>
+<tr>
+ <th>Unique ID</th>
+ <th>Tree Girth</th>
+ <th>Tree Height</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-248</p>
-</td>
-<td>
-<p>5.31 m @ 0.8 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.6 m</p>
-</td>
+ <td>HT 2015-248</td>
+ <td>5.31 m @ 0.8 m height</td>
+ <td>12.6 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-249</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.45 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15.8 m</p>
-</td>
+ <td>HT 2015-249</td>
+ <td>5.45 m @ 1.3 m height</td>
+ <td>15.8 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-250</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.85 m @ 0.6 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 m</p>
-</td>
+ <td>HT 2015-250</td>
+ <td>4.85 m @ 0.6 m height</td>
+ <td>10 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-251</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.5 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.4 m</p>
-</td>
+ <td>HT 2015-251</td>
+ <td>3.5 m @ 1.3 m height</td>
+ <td>10.4 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-252</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.45 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 m</p>
-</td>
+ <td>HT 2015-252</td>
+ <td>3.45 m @ 1.3 m height</td>
+ <td>13 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-253</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.39 m @ 1 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 m</p>
-</td>
+ <td>HT 2015-253</td>
+ <td>4.39 m @ 1 m height</td>
+ <td>13 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-254</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.63 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14.2 m</p>
-</td>
+ <td>HT 2015-254</td>
+ <td>5.63 m @ 1.3 m height</td>
+ <td>14.2 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-255</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.21 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14.2 m</p>
-</td>
+ <td>HT 2015-255</td>
+ <td>4.21 m @ 1.3 m height</td>
+ <td>14.2 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-256</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.21 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13.2 m</p>
-</td>
+ <td>HT 2015-256</td>
+ <td>4.21 m @ 1.3 m height</td>
+ <td>13.2 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-257</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.57 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13.8 m</p>
-</td>
+ <td>HT 2015-257</td>
+ <td>4.57 m @ 1.3 m height</td>
+ <td>13.8 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-258</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.76 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13.2 m</p>
-</td>
+ <td>HT 2015-258</td>
+ <td>3.76 m @ 1.3 m height</td>
+ <td>13.2 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-259</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.24 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 m</p>
-</td>
+ <td>HT 2015-259</td>
+ <td>4.24 m @ 1.3 m height</td>
+ <td>14 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-261</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.56 m @ 1 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.2 m</p>
-</td>
+ <td>HT 2015-261</td>
+ <td>3.56 m @ 1 m height</td>
+ <td>12.2 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-263</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.66 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.8 m</p>
-</td>
+ <td>HT 2015-263</td>
+ <td>3.66 m @ 1.3 m height</td>
+ <td>12.8 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-264</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.64 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 m</p>
-</td>
+ <td>HT 2015-264</td>
+ <td>3.64 m @ 1.3 m height</td>
+ <td>13 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-265</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.98 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 m</p>
-</td>
+ <td>HT 2015-265</td>
+ <td>3.98 m @ 1.3 m height</td>
+ <td>13 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-266</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.56 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.8 m</p>
-</td>
+ <td>HT 2015-266</td>
+ <td>3.56 m @ 1.3 m height</td>
+ <td>11.8 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-267</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.03 m @ 0.8 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 m</p>
-</td>
+ <td>HT 2015-267</td>
+ <td>4.03 m @ 0.8 m height</td>
+ <td>13 m</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>HT 2015-269</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.94 m @ 1.3 m height</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10.4 m</p>
-</td>
-</tr>
-</tbody>
+<td>HT 2015-269</td>
+<td>3.94 m @ 1.3 m height</td>
+<td>10.4 m</td>
+</tr></tbody>
 </table>
-	</div></details></div></td></tr></tbody></table>
+</div></details></div></td></tr></tbody></table>
 
-
-
-
-
-
-<p>Tree planting was formalised in 1881 by the then Superintendent of the Singapore Botanic Gardens, Nathaniel Cantley. Roadside greenery is now a main feature of the business and commercial districts in Singapore.</p>
+Tree planting was formalised in 1881 by the then Superintendent of the Singapore Botanic Gardens, Nathaniel Cantley. Roadside greenery is now a main feature of the business and commercial districts in Singapore.<p></p>
   
 <ul style="list-style: none;">
 	<p><b>1887</b> – Several Rain Tree saplings were planted along Connaught Drive, then known as New Esplanade Road. This road was renamed Connaught Drive in 1907 to commemorate the visit of Prince Arthur, Duke of Connaught.
