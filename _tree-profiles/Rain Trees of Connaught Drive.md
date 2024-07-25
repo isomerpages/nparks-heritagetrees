@@ -4,7 +4,10 @@ permalink: /rain-trees-of-connaught-drive/
 variant: markdown
 description: ""
 ---
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<div class="isomer-image-wrapper">
+<img width="100%" alt="" src="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg"> 
+</div>
+<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
