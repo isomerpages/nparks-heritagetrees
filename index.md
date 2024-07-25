@@ -21,6 +21,9 @@ sections:
         - title: Nominate a tree
           description: ""
           url: /nominate-tree/
+        - title: Heritage Roads
+          description: ""
+          url: /heritage-roads-scheme/
       variant: center
       backgroundColor: gray
   - infopic:
@@ -39,5 +42,5 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /heritage-tree-scheme/
-      image: /images/Heritage_Tree_Photos/adenanthera_malayana-habit.jpg
+      image: /images/Heritage_trees_photos/adenanthera_malayana-habit.jpg
 ---
