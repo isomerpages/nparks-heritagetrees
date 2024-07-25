@@ -9,8 +9,7 @@ description: ""
 <img src="/images/Heritage_Tree_Map.png"></a>
 (To access to 'Heritage Trees' layer on onemap.gov.sg, click the Options button (left of search bar) &gt; Show Nearby &gt; Environment &gt; Heritage Trees)
 
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
+<p></p><div data-type="detailGroup"><details class="isomer-details">
 	<summary style="font-size: 20px; font-weight: bold;">Click here for the full Heritage Trees registry</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 	<table style="font-size: 18px; text-indent: 30px;">
@@ -264,6 +263,10 @@ description: ""
 </details>
 </div>
 
+<p></p><div data-type="detailGroup"><details class="isomer-details">
+	<summary style="font-size: 20px; font-weight: bold;">Select Heritage Trees based on Geographical Area</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+
 <style> 
 .button { 
 border: 5px solid #FFF;
@@ -273,4 +276,4 @@ display: block;
 .button:hover {
 border: 5px solid #417505; 
 }
-</style>
+</style></div></details></div>
