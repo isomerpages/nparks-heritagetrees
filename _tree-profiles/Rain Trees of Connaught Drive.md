@@ -19,21 +19,16 @@ description: ""
 <br>Found along Connaught Drive <br>near Stamford Road.</a>
 </td>
 </tr>
-<tr><td rowspan="1" colspan="3"><div class="isomer-accordion-group isomer-accordion isomer-accordion-clear">
+<tr><td rowspan="1" colspan="3"><div>
 <details class="isomer-details">
-	<summary>Details of Individual Unique IDs along Connaught Drive</summary>
+	<summary><b>Details of Individual Unique IDs along Connaught Drive</b></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px; font-size: 18px;">
+<table style="font-size: 15px; padding; 5px">
 <tbody><tr>
-</tr></tbody></table><table>
-<tbody>
-<tr>
+<th>
+<p>Unique ID</p></th>
 <th rowspan="1" colspan="1">
-<p>Unique ID</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Tree Girth</p>
-</th>
+Tree Girth</th>
 <th rowspan="1" colspan="1">
 <p>Tree Height</p>
 </th>
@@ -42,7 +37,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>HT 2015-248</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>5.31 m @ 0.8 m height</p>
 </td>
 <td rowspan="1" colspan="1">
