@@ -4,19 +4,10 @@ permalink: /heritage-tree-registry/
 variant: markdown
 description: ""
 ---
-<style> 
-.button { 
-border: 5px solid #FFF;
-text-align: center; 
-display: inline-block; 
-}
-.button:hover {
-border: 5px solid #417505; 
-}
-</style>
-<h3><b>Heritage Tree Registry</b></h3><a class="button" href="https://www.onemap.gov.sg/">
+<h3><b>Heritage Tree Registry</b></h3>
+<a class="button" href="https://www.onemap.gov.sg/">
 <img src="/images/Heritage_Tree_Map.png"></a>
-To access to 'Heritage Trees' layer on onemap.gov.sg, click the Options button (left of search bar) &gt; Show Nearby &gt; Environment &gt; Heritage Trees
+(To access to 'Heritage Trees' layer on onemap.gov.sg, click the Options button (left of search bar) &gt; Show Nearby &gt; Environment &gt; Heritage Trees)
 
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -290,3 +281,14 @@ To access to 'Heritage Trees' layer on onemap.gov.sg, click the Options button (
 	</div>
 </details>
 </div>
+
+<style> 
+.button { 
+border: 5px solid #FFF;
+text-align: center; 
+display: block; 
+}
+.button:hover {
+border: 5px solid #417505; 
+}
+</style>
