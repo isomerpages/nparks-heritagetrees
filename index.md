@@ -27,13 +27,6 @@ sections:
       variant: center
       backgroundColor: gray
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: Heritage Trees Scheme
       id: infopic
       description: Started on 17 August 2001, this initiative supports the
@@ -43,4 +36,29 @@ sections:
       alt: Image alt text
       url: /heritage-tree-scheme/
       image: /images/Heritage_trees_photos/adenanthera_malayana-habit.jpg
+  - infopic:
+      title: Infopic
+      subtitle: Heritage Roads
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
