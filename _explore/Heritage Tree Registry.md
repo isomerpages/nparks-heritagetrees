@@ -444,8 +444,8 @@ description: ""
  <tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>Royal Road end, on slope behind House No. 7, (MSS Alexandra Park)</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on Stateland opposite House No. 22 (gated, Year 2013) - walking access to HT via Marang Road</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
- <tr><td><a href="/ht-2018-293"><b>Derum Selunchor</b> / <i>Cratoxylum cochinchinensis</i> (HT 2018-293)</a></td><td>Telok Blangah Green, near Shelter, Meeting Point 1, Carpark 2</td><td>Fort Canning Park, along path behind the Fort Wall and The Legends</td></tr>
- <tr><td><a href="/ht-2001-11"><b>Earpod Tree</b> / <i>Enterolobium cyclocarpum</i> (HT 2001-11)</a></td></tr>
+ <tr><td><a href="/ht-2018-293"><b>Derum Selunchor</b> / <i>Cratoxylum cochinchinensis</i> (HT 2018-293)</a></td><td>Telok Blangah Green, near Shelter, Meeting Point 1, Carpark 2</td></tr>
+ <tr><td><a href="/ht-2001-11"><b>Earpod Tree</b> / <i>Enterolobium cyclocarpum</i> (HT 2001-11)</a></td><td>Fort Canning Park, along path behind the Fort Wall and The Legends</td></tr>
  <tr><td><a href="/ht-2014-227"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2014-227)</a></td><td>Canning Rise, opposite lamp-post 7</td></tr>
  <tr><td><a href="/ht-2012-203"><b>Indian Rubber Tree</b> / <i>Ficus elastica</i> (HT 2012-203)</a></td><td>Duxton Plain Park, near Pinnacle block 1D</td></tr>
  <tr><td><a href="/ht-2013-204"><b>Indian Banyan</b> / <i>Ficus benghalensis</i> (HT 2013-204)</a></td><td>Tiong Bahru Park</td></tr>
