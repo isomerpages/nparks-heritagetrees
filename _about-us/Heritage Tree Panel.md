@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage_Tree_Panel.jpg">
+</div>
 <p>From left to right: Mr Simon John Longman; Ms Tay Bee Choo&nbsp;(Ms Tay
 has stepped down from the panel);&nbsp;Mr Ng Cheow Kheng;&nbsp;Dr Shawn
 K Y Lum;&nbsp;&nbsp;Dr Leong Chee Chiew (Dr Leong has stepped down from
