@@ -265,7 +265,7 @@ description: ""
 
 <p></p><h5><b>Find Heritage Trees based on Geographical Area</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
-<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">North</summary>
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">Central</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="font-size: 17px;">
  <tbody>
