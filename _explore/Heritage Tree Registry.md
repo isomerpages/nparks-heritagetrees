@@ -441,7 +441,12 @@ description: ""
 <tbody>
  <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-86/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-86)</a></td><td>Binjai Park, within grounds of House No. 32</td></tr>
+ <tr><td><a href="/ht-2010-177"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-177)</a></td><td>Singapore Polytechnic (SP), behind (former) Food Court 1</td></tr>
+ <tr><td><a href="/ht-2010-178"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-178)</a></td><td>Singapore Polytechnic (SP), behind (former) Food Court 1</td></tr>
+ <tr><td><a href="/ht-2010-179"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-179)</a></td><td>Singapore Polytechnic (SP), behind (former) Food Court 1</td></tr>
+ <tr><td><a href="/ht-2010-180"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-180)</a></td><td>Singapore Polytechnic (SP), behind (former) Food Court 1</td></tr>
  <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
+ <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Hindhede Nature Park, Bt Timah Nature Reserve, along South View Path</td></tr>
  <tr><td><a href="/ht-2020-311"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2020-311)</a></td><td>Bukit Timah Nature Reserve, off Quarry Road</td></tr>
  <tr><td><a href="/ht-2008-164"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2008-164)</a></td><td>Linden Drive, opp. LP13, behind House No. 79.</td></tr>
  <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
