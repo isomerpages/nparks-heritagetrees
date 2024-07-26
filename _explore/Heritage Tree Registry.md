@@ -439,7 +439,14 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="font-size: 17px;">
 <tbody>
-<tr></tr>
+ <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><td><a href="/ht-2003-86/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-86)</a></td><td>Binjai Park, within grounds of House No. 32</td></tr>
+ <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
+ <tr><td><a href="/ht-2020-311"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2020-311)</a></td><td>Bukit Timah Nature Reserve, off Quarry Road</td></tr>
+ <tr><td><a href="/ht-2008-164"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2008-164)</a></td><td>Linden Drive, opp. LP13, behind House No. 79.</td></tr>
+ <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
+ <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opposite Gombak Drive. UppBTRd junction with Cashew Rd</td></tr>
+ <tr><td><a href="/ht-2003-79/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-79)</a></td><td>Nanyang Technological University, at Nanyang Drive, Bus-stop in front of Innovation Centre</td></tr><tr></tr>
 </tbody></table></div></details></div>
 
 <div data-type="detailGroup"><details class="isomer-details">
