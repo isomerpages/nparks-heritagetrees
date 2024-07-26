@@ -263,13 +263,13 @@ description: ""
 </details>
 </div>
 
-<p></p><div data-type="detailGroup"><details class="isomer-details">
-	<summary style="font-size: 20px; font-weight: bold;">Select Heritage Trees based on Geographical Area</summary>
+<p></p><h5><b>Find Heritage Trees based on Geographical Area</b></h5>
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">North</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-	<h5><b>Central</b></h5>
-<table style="font-size: 16px;">
+<table style="font-size: 17px;">
  <tbody>
- <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 32%;">Location</th></tr>
+ <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens, Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens, behind Block 5</td></tr>
@@ -356,9 +356,12 @@ description: ""
  <tr><td><a href="/ht-2015-241/"><b>West Indian Mahogany</b> / <i>Swietenia mahagoni</i> (HT 2015-241)</a></td><td>Singapore Botanic Gardens, Lawn R</td></tr>
  <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td><td>Jalan Tan Tock Seng, within Renci Hospital car-park</td></tr>
  <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td><td>Mount Emily Park, near Upp Wilkie Rd roundabout</td></tr><tr></tr>
-</tbody></table>
-<h5><b>East</b></h5>
-<table style="font-size: 16px;">
+	</tbody></table></div></details></div>
+	
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">East</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="font-size: 17px;">
  <tbody>
  <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
