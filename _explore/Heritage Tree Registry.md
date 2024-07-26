@@ -9,8 +9,9 @@ description: ""
 <img src="/images/Heritage_Tree_Map.png"></a>
 (To access to 'Heritage Trees' layer on onemap.gov.sg, click the Options button (left of search bar) &gt; Show Nearby &gt; Environment &gt; Heritage Trees)
 
-<p></p><div data-type="detailGroup"><details class="isomer-details">
-	<summary style="font-size: 20px; font-weight: bold;">Click here for the full Heritage Trees registry</summary>
+<h5><b>Find Heritage Trees from the full registry</b></h5>
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold;">Select a Heritage Tree</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 	<table style="font-size: 18px; text-indent: 30px;">
  <tbody>
@@ -257,18 +258,15 @@ description: ""
 	 <tr><td><a href="/ht-2003-80/"><b>White Fig</b> / <i>Ficus vasculosa</i> (HT 2003-80)</a></td></tr>
  <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td></tr>
 	 <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td></tr>
-	 </tbody>
-</table>
-	</div>
-</details>
+</tbody></table>
+</div></details>
 </div>
-
-<p></p><h5><b>Find Heritage Trees based on Geographical Area</b></h5>
+<h5><b>Find Heritage Trees based on Geographical Area</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
 <summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">Central</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="font-size: 17px;">
- <tbody>
+	<tbody>
  <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens, Gallop Green</td></tr>
@@ -398,10 +396,59 @@ description: ""
  <tr><td><a href="/ht-2001-28/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2001-28)</a></td><td>Surin Avenue Park</td></tr>
  <tr><td><a href="/ht-2019-304/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2019-304)</a></td><td>Block 137 Lor Ah Soo, Hougang Ave 1</td></tr>
  <tr><td><a href="/ht-2003-116/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-116)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7 (Accessible only to Chalet guests)</td></tr><tr></tr>
-</tbody></table>
-<p></p></div>
-</details>
-</div>
+	</tbody></table></div></details></div>
+
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">North</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="font-size: 17px;">
+ <tbody>
+ <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td><td>Woodlands Road, in front of Woodlands Fire Station</td></tr>
+ <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, near Bus-stop B05; Lamp-post 62</td></tr>
+ <tr><td><a href="/ht-2003-119"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-119)</a></td><td>Seletar Aerospace Drive, near Bus-stop B05; Lamp-post 64</td></tr>
+ <tr><td><a href="/ht-2005-146"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2005-146)</a></td><td>Seletar Airbase, West Camp Road near Singapore Youth Flying Club entrance Seletar Aerospace Park</td></tr>
+ <tr><td><a href="/ht-2005-149"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2005-149)</a></td><td>Seletar Airbase, West Camp Road near Singapore Youth Flying Club entrance Seletar Aerospace Park</td></tr>
+ <tr><td><a href="/ht-2017-286"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2017-286)</a></td><td>Seletar Aerospace Drive, after Bus-stop No. 5</td></tr>
+ <tr><td><a href="/ht-2018-297"><b>Longan</b> / <i>Dimocarpus longan</i> (HT 2018-297)</a></td><td>Sembawang Pk, near Shelter J, off Toilet 2 &amp; Fitness Corner</td></tr>
+ <tr><td><a href="/ht-2007-152"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2007-152)</a></td><td>Singapore Zoological Gardens, behind the White Tiger Enclosure</td></tr>
+ <tr><td><a href="/ht-2007-153"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2007-153)</a></td><td>Singapore Zoological Gardens, behind the Orang Utan Enclosure</td></tr>
+ <tr><td><a href="/ht-2020-312"><b>Mango</b> / <i>Mangifera indica</i> (HT 2020-312)</a></td><td>Kranji Close/Kranji Road State Land (opposite junction)</td></tr>
+ <tr><td><a href="/ht-2018-294"><b>Para Rubber</b> / <i>Hevea brasiliensis</i> (HT 2018-294)</a></td><td>Woodlands Town Park East, near Block 103 Woodlands Street 13</td></tr>
+ <tr><td><a href="/ht-2020-309"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2020-309)</a></td><td>Nim Crescent Open Space</td></tr>
+ <tr><td><a href="/ht-2007-161"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-161)</a></td><td>Seletar Airbase, open space between Old Birdcage Walk and Oxford Street</td></tr>
+ <tr><td><a href="/ht-2017-288/"><b>Sea Teak</b> / <i>Podocarpus polystachyus</i> (HT 2017-288)</a></td><td>Sembawang Park, next to Beaulieu House</td></tr>
+ <tr><td><a href="/ht-2020-314/"><b>Selembat</b> / <i>Syzygium conglomeratum</i> (HT 2020-314)</a></td><td>Singapore Zoological Gardens, on the downward slope adjacent to the Tasmanian Devil Trail</td></tr>
+ <tr><td><a href="/ht-2003-54/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-54)</a></td><td>Lagos circle, off Admiralty Road East</td></tr>
+ <tr><td><a href="/ht-2003-55/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-55)</a></td><td>Maida Vale, in front of House No. 13</td></tr>
+ <tr><td><a href="/ht-2003-57/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-57)</a></td><td>Lagos Circle, in front of House No. 208</td></tr>
+ <tr><td><a href="/ht-2003-60/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-60)</a></td><td>Lagos Circle, in front of House No. 206</td></tr><tr></tr>
+</tbody></table></div></details></div>
+
+
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">South</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="font-size: 17px;">
+<tbody>
+<tr></tr>
+</tbody></table></div></details></div>
+
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">West</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="font-size: 17px;">
+<tbody>
+<tr></tr>
+</tbody></table></div></details></div>
+
+<div data-type="detailGroup"><details class="isomer-details">
+<summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">Off-shore  Islands</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="font-size: 17px;">
+<tbody>
+<tr></tr>
+</tbody></table></div></details></div>
 
 <style> 
 .button { 
