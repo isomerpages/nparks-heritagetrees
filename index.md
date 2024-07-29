@@ -11,19 +11,6 @@ sections:
       background: /images/hero_banner_heritage_tree_5dollars.jpg
       button: Search for a heritage tree
       url: /heritage-tree-registry/
-      key_highlights:
-        - title: What is a Heritage Tree?
-          description: ""
-          url: /about-us/
-        - title: Explore with Trails & Guides
-          description: ""
-          url: /trail-guides/
-        - title: Nominate a tree
-          description: ""
-          url: /nominate-tree/
-        - title: Heritage Roads
-          description: ""
-          url: /heritage-roads-scheme/
       variant: center
       backgroundColor: gray
   - infobar:
@@ -46,11 +33,22 @@ sections:
       image: /images/Heritage_trees_photos/adenanthera_malayana-habit.jpg
       subtitle: More about us
   - infopic:
-      title: Explore with Trails & DIY Guides!
+      title: Explore!
       id: infopic
-      description: Infopic description
+      description: Discover our Heritage Trees through our DIY trail guides!
       button: Button Text
       alt: Image alt text
+      url: /trail-guides/
+  - infopic:
+      title: Heritage Roads
+      subtitle: Did you know?
+      id: infopic
+      description: As of 2006, the Heritage Road Scheme has gazetted a total of five
+        Heritage Roads to preserve the scenic and significant tree-lined roads
+        of Singapore!
+      button: Check out our Heritage Roads!
+      alt: Image alt text
+      url: /heritage-roads-scheme/
   - infocols:
       title: Nominating a Heritage Tree
       subtitle: Criterias for nomination
@@ -67,14 +65,4 @@ sections:
         - title: Heritage Tree Panel
           description: Nominated trees will be inspected before being considered by the
             Heritage Tree Panel.
-  - infopic:
-      title: Heritage Roads
-      subtitle: Did you know?
-      id: infopic
-      description: As of 2006, the Heritage Road Scheme has gazetted a total of five
-        Heritage Roads to preserve the scenic and significant tree-lined roads
-        of Singapore!
-      button: Check out our Heritage Roads!
-      alt: Image alt text
-      url: /heritage-roads-scheme/
 ---
