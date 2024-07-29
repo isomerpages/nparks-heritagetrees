@@ -21,7 +21,7 @@ In 2006, the following five roads were gazetted as Heritage Roads:</p>
 <p>Arcadia Road</p>
 </li>
 <li>
-<p>Mount Pleasant Road</p>
+<p>Mouth Pleasant Road</p>
 </li>
 <li>
 <p>Mandai Road</p>
