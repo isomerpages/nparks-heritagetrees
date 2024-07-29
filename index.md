@@ -31,7 +31,7 @@ sections:
       button: More about the scheme
       alt: Image alt text
       url: /heritage-tree-scheme/
-      image: /images/Heritage_trees_photos/adenanthera_malayana-habit.jpg
+      image: /images/heritage-tree-photo.jpg
       subtitle: What do we do?
   - infopic:
       title: Explore with trails and walks!
@@ -42,6 +42,7 @@ sections:
       alt: Image alt text
       url: /trail-guides/
       subtitle: What can you do?
+      image: /images/trail-guides-photo.png
   - infopic:
       title: Heritage Roads
       subtitle: Did you know?
@@ -52,6 +53,7 @@ sections:
       button: Check out our Heritage Roads
       alt: Image alt text
       url: /heritage-roads-scheme/
+      image: /images/heritage-road-photo.jpg
   - infocols:
       title: Anyone can nominate a Heritage Tree!
       subtitle: Did you know anyone ca
