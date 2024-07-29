@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Heritage Trees SG
-      background: /images/hero_banner_heritage_tree_5dollars.jpg
+      background: /images/hero_banner_heritage_tree_5dollars_edit.jpg
       button: Search for a heritage tree
       url: /heritage-tree-registry/
       variant: center
