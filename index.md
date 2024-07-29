@@ -55,7 +55,7 @@ sections:
       url: /heritage-roads-scheme/
       image: /images/heritage-road-photo.jpg
   - infocols:
-      title: Steps to Nominate a Heritage Tree
+      title: Nominating a Heritage Tree
       id: infocols
       linktext: Send in your nomination!
       url: /nominate-tree/
