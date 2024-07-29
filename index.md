@@ -15,12 +15,12 @@ sections:
       backgroundColor: gray
   - infobar:
       title: What is a Heritage Tree?
-      subtitle: Getting started
+      subtitle: Let's get started
       id: infobar
       description: Heritage Trees are conserved mature trees that represent the
         natural heritage of Singapore and serve as important green landmarks of
         our City in Nature.
-      button: Learn more about them
+      button: Learn more about the trees
       url: /about-us/
   - infopic:
       title: Heritage Trees Scheme
@@ -34,14 +34,14 @@ sections:
       image: /images/heritage-tree-photo.jpg
       subtitle: What do we do?
   - infopic:
-      title: Explore with trails and walks!
+      title: Explore the Heritage Trees with trails & walks!
       id: infopic
       description: Discover our Heritage Trees through our DIY trail guides or attend
         our Heritage Tree Appreciation Walks!
-      button: Button Text
+      button: Check it out here
       alt: Image alt text
       url: /trail-guides/
-      subtitle: What can you do?
+      subtitle: Got weekend plans?
       image: /images/trail-guides-photo.png
   - infopic:
       title: Heritage Roads
@@ -55,19 +55,18 @@ sections:
       url: /heritage-roads-scheme/
       image: /images/heritage-road-photo.jpg
   - infocols:
-      title: Anyone can nominate a Heritage Tree!
-      subtitle: Did you know anyone ca
+      title: Steps to Nominate a Heritage Tree
       id: infocols
-      linktext: Nominate a heritage tree today!
+      linktext: Send in your nomination!
       url: /nominate-tree/
       infoboxes:
-        - title: Anyone Ca
-          description: The tree girth (trunk circumference) of more than five metres is
-            required.
-        - title: Criteria
-          description: The tree should have >5 metres of girth with botanical, social,
-            historical, cultural and/or aesthetical value!
-        - title: Heritage Tree Panel
-          description: Nominated trees will be inspected before being considered by the
-            Heritage Tree Panel.
+        - title: Who can nominate?
+          description: Any member of the public can send their nomination for a Heritage
+            Tree.
+        - title: What to look out for?
+          description: The nominated tree should have more than 5 m of girth, and be of
+            botanical, historical, and/or cultural significance.
+        - title: What's next?
+          description: The nominated trees will then be inspected before being considered
+            a candidate by the Heritage Tree Panel.
 ---
