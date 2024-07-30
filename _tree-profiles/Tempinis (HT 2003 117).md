@@ -32,7 +32,7 @@ description: ""
   
 <p>The leaves can be recognised as they are very unequal-sided at the base with the broadest side foremost. ('Streblus' in Greek means 'crooked'.)</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280">here</a></p>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3145">here</a></p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid">
