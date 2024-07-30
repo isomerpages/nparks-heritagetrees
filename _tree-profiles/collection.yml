@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Sparrows' Mango (HT 2003 45).md
       - Stem fruited Fig ( HT 2014 221).md
       - Stem fruited Fig (HT 2019 302).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
