@@ -2,6 +2,10 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
+      - Rain Tree (HT 2005 145).md
+      - Rain Trees of Connaught Drive.md
       - Tahiti Chestnut (HT 2005 138).md
       - Tamalan Tree (HT 2014 224).md
       - Tamarind (HT 2001 28).md
@@ -9,10 +13,6 @@ collections:
       - Tamarind (HT 2018 295).md
       - Tanjong Tree (HT 2003 93).md
       - Tanjong Tree (HT 2019 304).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
-      - Rain Tree (HT 2005 145).md
-      - Rain Trees of Connaught Drive.md
       - Teak (HT 2014 234).md
       - Temak (HT 2013 218).md
       - Tembusu (HT 2001 26).md
