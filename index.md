@@ -55,18 +55,17 @@ sections:
       url: /heritage-road-scheme/
       image: /images/heritage-road-photo.jpg
   - infocols:
-      title: Nominating a Heritage Tree
+      title: Nominate a Heritage Tree
       id: infocols
       linktext: Send in your nomination!
       url: /nominate-tree/
       infoboxes:
         - title: Who can nominate?
-          description: Any member of the public can send their nomination for a Heritage
-            Tree.
-        - title: What to look out for?
-          description: The nominated tree should have more than 5 m of girth, and be of
-            botanical, historical, and/or cultural significance.
-        - title: What's next?
-          description: The nominated trees will then be inspected before being considered
-            a candidate by the Heritage Tree Panel.
+          description: Anyone can nominate a tree to be a Heritage Tree.
+        - title: What criteria to look for?
+          description: The nominated tree is typically more than 5 m in girth or noted for
+            botanical, historical, or cultural significance.
+        - title: What happens next?
+          description: Nominated trees will need to undergo a health check before being
+            considered by the Heritage Tree Panel.
 ---
