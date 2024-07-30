@@ -21,7 +21,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
 	 <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td></tr>
 	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td></tr>
 	 <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td></tr>
-	 <tr><td><a href="/ht-2012-190/"><b>Andiroba</b> / <i>Carapa guianensis</i> (HT 2012-190)</a></td></tr>
 	 <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td></tr>
  <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td></tr>
@@ -40,7 +39,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2003-89/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-89)</a></td></tr>
 	 <tr><td><a href="/ht-2001-18/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2001-18)</a></td></tr> 
  <tr><td><a href="/ht-2003-69/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-69)</a></td></tr>
- <tr><td><a href="/ht-2003-70"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-70)</a></td></tr>
  <tr><td><a href="/ht-2007-156"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2007-156)</a></td></tr>
  <tr><td><a href="/ht-2014-225"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2014-225)</a></td></tr>
 	 <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-118)</a></td></tr>
@@ -126,7 +124,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
 	 <tr><td><a href="/ht-2003-128"><b>Kelat Hitam</b> / <i>Syzygium syzyioides</i> (HT 2003-128)</a></td></tr>
 	 <tr><td><a href="/ht-2015-243"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2015-243)</a></td></tr>
  <tr><td><a href="/ht-2016-280"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2016-280)</a></td></tr>
- <tr><td><a href="/ht-2020-311"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2020-311)</a></td></tr>
 	 <tr><td><a href="/ht-2014-232"><b>Kepayang</b> / <i>Pangium edule</i> (HT 2014-232)</a></td></tr>
 	 <tr><td><a href="/ht-2003-49"><b>Keruing Kerut</b> / <i>Dipterocarpus sublamellatus</i> (HT 2003-49)</a></td></tr>
 	 <tr><td><a href="/ht-2003-126"><b>Leban</b> / <i>Vitex pinnata</i> (HT 2003-126)</a></td></tr>
@@ -172,7 +169,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2015-240"><b>Pauh Damar</b> / <i>Mangifera pentandra</i> (HT 2015-240)</a></td></tr>
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td></tr>
- <tr><td><a href="/ht-2003-48"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-48)</a></td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td></tr>
  <tr><td><a href="/ht-2007-162"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162)</a></td></tr>
  <tr><td><a href="/ht-2007-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-163)</a></td></tr>
@@ -273,7 +269,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens, Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens, behind Block 5</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens Lawn E</td></tr>
- <tr><td><a href="/ht-2012-190/"><b>Andiroba</b> / <i>Carapa guianensis</i> (HT 2012-190)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2015-247/"><b>Bangkal</b> / <i>Nauclea orientalis</i> (HT 2015-247)</a></td><td>Singapore Botanic Gardens, EG14</td></tr>
  <tr><td><a href="/ht-2016-283/"><b>Baobab</b> / <i>Adansonia digitata</i> (HT 2016-283)</a></td><td>Singapore Botanic Gardens, Melati Gate, near Cluny Pk Rd</td></tr>
@@ -495,7 +490,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2010-180"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-180)</a></td><td>Singapore Polytechnic (SP), behind (former) Food Court 1</td></tr>
  <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
  <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Hindhede Nature Park, Bt Timah Nature Reserve, along South View Path</td></tr>
- <tr><td><a href="/ht-2020-311"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2020-311)</a></td><td>Bukit Timah Nature Reserve, off Quarry Road</td></tr>
  <tr><td><a href="/ht-2008-164"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2008-164)</a></td><td>Linden Drive, opp. LP13, behind House No. 79.</td></tr>
  <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
  <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opposite Gombak Drive. UppBTRd junction with Cashew Rd</td></tr>
@@ -510,7 +504,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa - Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa (entrance of Shangri-La Rasa Sentosa Hotel)</td></tr>
- <tr><td><a href="/ht-2003-70"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-70)</a></td><td>Kusu Island (near Water Tower)</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa (at entrance to Images Of Singapore)</td></tr>
  <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-121)</a></td><td>Found in(Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
  <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-129)</a></td><td>Found in(Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
@@ -534,7 +527,6 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2005-139"><b>Medang</b> / <i>Litsea elliptica</i> (HT 2005-139)</a></td><td>Sentosa (Serapong Hill)</td></tr>
  <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td><td>Saint John's Island, near village house and jetty entrance</td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa (Dragon tail - Earth Dragon)</td></tr>
- <tr><td><a href="/ht-2003-48"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-48)</a></td><td>Saint John's Island (Block 12 &amp; 13)</td></tr>
  <tr><td><a href="/ht-2007-162"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162)</a></td><td>Pulau Ubin, near Chek Jawa,  from House No. 1 on the right</td></tr>
  <tr><td><a href="/ht-2007-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa,  from House No. 1 on the right</td></tr>
  <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa (Gunner Lane, behind Ranger Station)</td></tr>
