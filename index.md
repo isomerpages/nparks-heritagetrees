@@ -32,7 +32,7 @@ sections:
       alt: Image alt text
       url: /heritage-tree-scheme/
       image: /images/heritage-tree-photo.jpg
-      subtitle: About the
+      subtitle: About
   - infopic:
       title: Heritage Trees DIY Trails & Guided Walks
       id: infopic
