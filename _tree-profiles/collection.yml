@@ -2,6 +2,10 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
+      - Rain Tree (HT 2005 145).md
+      - Rain Trees of Connaught Drive.md
       - Sea Fig (HT 2008 168).md
       - Sea Fig (HT 2016 284).md
       - Sea Teak (HT 2017 288).md
@@ -14,10 +18,6 @@ collections:
       - Sparrows' Mango (HT 2003 45).md
       - Stem fruited Fig ( HT 2014 221).md
       - Stem fruited Fig (HT 2019 302).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
-      - Rain Tree (HT 2005 145).md
-      - Rain Trees of Connaught Drive.md
       - Tahiti Chestnut (HT 2005 138).md
       - Tamalan Tree (HT 2014 224).md
       - Tamarind (HT 2001 28).md
