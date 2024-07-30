@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Tembusu (HT 2003 59).md
       - Tembusu (HT 2003 60).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Rain Trees of Connaught Drive.md
