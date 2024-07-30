@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Tamarind (HT 2001 28).md
       - Tamarind (HT 2008 170).md
       - Tamarind (HT 2018 295).md
       - Tanjong Tree (HT 2003 93).md
