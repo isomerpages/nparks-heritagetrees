@@ -12,24 +12,25 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2003-45
+<br>HT 2013-219
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Stereospermum fimbriatum</em> 
 <br><strong>Family name:</strong> Bignoniaceae
-<br><strong>Girth:</strong> 2.42 m @ 1.3 m height
-<br><strong>Height: </strong>18.2 m
+<br><strong>Girth:</strong> 4.08 m @ 1.3 m height
+<br><strong>Height: </strong>30.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3886099999980344&amp;lng=103.98004999999613">
-<br>Andover Road, Fairy Point<br> Chalet 6 (Accessible <br> only to guests)</a>
+<br>Singapore Botanic Gardens,<br> on Lawn B along Main <br>Gate Road</a>
 </td>
 </tr>
 </tbody></table>
-<p>Introduced to Singapore, the Snake Tree is native to Indochina and the Malay Peninsula. Its leaves are pinnate compound. It produces white flowers with a tinge of pink on the lower petal that blooms in the evening and fall before dawn. Its fruit is a pod that
+<p>Introduced to Singapore, the Snake Tree is native to Indochina and the Malay Peninsula. It is upright and columnar in form. Its leaves are pinnate compound. It produces white flowers with a tinge of pink on the lower petal that blooms in the evening and fall before dawn. Its fruit is a pod that vaguely resembles the shape of a snake. Thus, its common name, 'Snake Tree'.
 	
+</p><p>Its specific epithet, <em>fimbriatum</em>, refers to the delicately nged petals of the flowers.
 	
-	This Tree was planted on 5 Nov 1937. Pods are shaped like snakes. Family: Bignoniaceae.</p>
+</p><p>This Tree was planted on 5 Nov 1937. </p>
 	
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3144">here</a></p>
 
