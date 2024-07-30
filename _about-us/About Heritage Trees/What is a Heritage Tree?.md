@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: About Heritage Trees
 ---
-<h4><strong>What is a Heritage Tree?</strong></h4>
+<h4><strong>What are Heritage Trees?</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,24 +27,8 @@ identity to the place we call home. It takes decades and, in some cases,
 hundreds of years for these trees to mature gracefully and beautify our
 landscape.</p>
 <p></p>
-<p>Heritage Trees are noted for their:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Botanical significance,</p>
-</li>
-<li>
-<p>Historical significance,</p>
-</li>
-<li>
-<p>Social significance,</p>
-</li>
-<li>
-<p>Cultural significance, and/or</p>
-</li>
-<li>
-<p>Aesthetic significance</p>
-</li>
-</ul>
+<p>Heritage Trees are typically more than 5 metres in girth and are noted
+for their botanical, historical, social, cultural and/or aesthetic value.</p>
 </td>
 </tr>
 </tbody>
