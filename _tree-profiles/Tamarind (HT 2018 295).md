@@ -16,13 +16,13 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Tamarindus indica</em> 
-<br><strong>Family name:</strong> Moraceae
-<br><strong>Girth:</strong> 5.77 m @ 0.6 m height
-<br><strong>Height: </strong>22.8 m
+<br><strong>Family name:</strong> Fabaceae (Leguminosae)
+<br><strong>Girth:</strong> 3.53 m @ 1.3 m height
+<br><strong>Height: </strong>23.2 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3058036000219595&amp;lng=103.84176790002947">
-<br>Istana grounds, 
+<br>Istana ground, 
 	<br>near nursery car park</a>
 </td>
 </tr>
