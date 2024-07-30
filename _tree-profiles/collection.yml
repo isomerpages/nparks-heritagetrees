@@ -2,11 +2,11 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Tempinis (HT 2003 116).md
-      - Rain Trees of Connaught Drive.md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Rain Trees of Connaught Drive.md
       - Albizia niopoides var niopoides (HT 2012 186).md
       - Rain Tree (HT 2005 145).md
+      - Tempinis (HT 2003 116).md
       - Tempinis (HT 2003 117).md
       - Terap (HT 2001 12).md
       - Terap (HT 2014 223).md
