@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Sea Fig (HT 2003 77).md
       - Sea Fig (HT 2003 78).md
       - Sea Fig (HT 2003 79).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
