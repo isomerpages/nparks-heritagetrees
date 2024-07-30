@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>27.6 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3886099999980344&amp;lng=103.98004999999613">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3888999999989582&amp;lng=103.97697299999797">
 <br>Changi, Cranwell Road<br> in front of Cranwell Bungalow 1</a>
 </td>
 </tr>
