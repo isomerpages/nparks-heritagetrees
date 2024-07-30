@@ -14,25 +14,25 @@ sections:
       variant: center
       backgroundColor: gray
   - infobar:
-      title: What is a Heritage Tree?
+      title: What are Heritage Trees?
       subtitle: Let's get started
       id: infobar
-      description: Heritage Trees are conserved mature trees that represent the
-        natural heritage of Singapore and serve as important green landmarks of
-        our City in Nature.
-      button: Learn more about the trees
+      description: Heritage Trees are mature trees that represent the natural heritage
+        of Singapore and serve as important green landmarks of our City in
+        Nature.
+      button: Learn more
       url: /about-us/
   - infopic:
       title: Heritage Tree Scheme
       id: infopic
-      description: Started on 17 August 2001, this initiative supports the
+      description: Started on 17 August 2001, this initiative advocates the
         conservation of mature trees in Singapore, promoting appreciation of our
         local natural heritage.
       button: More about the scheme
       alt: Image alt text
       url: /heritage-tree-scheme/
       image: /images/heritage-tree-photo.jpg
-      subtitle: What do we do?
+      subtitle: About the
   - infopic:
       title: Explore the Heritage Trees with trails & walks!
       id: infopic
