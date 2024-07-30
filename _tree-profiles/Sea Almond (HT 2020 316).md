@@ -47,8 +47,8 @@ description: ""
 <div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/sea_almond_ht_2020_316-habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/sea_almond_ht_2020_316-archive.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/sea_almond_ht_2020_316-archive.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/sea_almond_ht_2020_316-archive.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Prime Minister Lee Kuan Yew planting a Sea Almond [<em>Terminalia catappa</em>] sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore.)</div></div></a>
 </div>
