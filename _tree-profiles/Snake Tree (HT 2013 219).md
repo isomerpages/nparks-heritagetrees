@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>30.6 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3886099999980344&amp;lng=103.98004999999613">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3071900000034402&amp;lng=103.81711000000446">
 <br>Singapore Botanic Gardens,<br> on Lawn B along Main <br>Gate Road</a>
 </td>
 </tr>
