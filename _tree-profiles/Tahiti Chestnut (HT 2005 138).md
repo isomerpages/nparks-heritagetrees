@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>14.4 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2952399999983588&amp;lng=103.84755999999292">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3202929999991988&amp;lng=103.81744500000191">
 <br>Singapore Botanic Gardens, 
 <br>behind Jacob Ballas 
 	<br>Children's Garden carpark</a>
