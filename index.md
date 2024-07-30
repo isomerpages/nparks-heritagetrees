@@ -34,14 +34,14 @@ sections:
       image: /images/heritage-tree-photo.jpg
       subtitle: About the
   - infopic:
-      title: Explore the Heritage Trees with trails & walks!
+      title: Heritage Trees DIY Trails & Guided Walks
       id: infopic
-      description: Discover our Heritage Trees through our DIY trail guides or attend
-        our Heritage Tree Appreciation Walks!
-      button: Check it out here
+      description: Explore Singapore's Heritage Trees through curated DIY trails or
+        join us on a guided Heritage Tree Appreciation Walk!
+      button: Find out more
       alt: Image alt text
       url: /trail-guides/
-      subtitle: Got weekend plans?
+      subtitle: Any weekend plans?
       image: /images/trail-guides-photo.png
   - infopic:
       title: Heritage Roads
