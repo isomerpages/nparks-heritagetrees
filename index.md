@@ -47,10 +47,10 @@ sections:
       title: Heritage Roads
       subtitle: Did you know?
       id: infopic
-      description: As of 2006, the Heritage Road Scheme has gazetted a total of five
-        Heritage Roads to preserve the scenic and significant tree-lined roads
-        of Singapore!
-      button: Check out our Heritage Roads
+      description: The Heritage Road Scheme conserves selected scenic and significant
+        tree-lined roads of Singapore. In 2006, five roads were gazetted as
+        Heritage Roads.
+      button: Find out more
       alt: Image alt text
       url: /heritage-road-scheme/
       image: /images/heritage-road-photo.jpg
