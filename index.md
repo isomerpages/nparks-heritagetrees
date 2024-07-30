@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Heritage Trees SG
+      title: Heritage Trees of Singapore
       background: /images/hero_banner_heritage_tree_5dollars_edit.jpg
       button: Search for a heritage tree
       url: /heritage-tree-registry/
@@ -26,7 +26,7 @@ sections:
       title: Heritage Tree Scheme
       id: infopic
       description: The initiative advocates the conservation of mature trees in
-        Singapore and promotes the appreciation of our local natural heritage.
+        Singapore and promotes the appreciation of local natural heritage.
       button: More about the scheme
       alt: Image alt text
       url: /heritage-tree-scheme/
