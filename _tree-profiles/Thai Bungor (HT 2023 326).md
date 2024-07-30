@@ -31,7 +31,7 @@ description: ""
 
 <p>This&nbsp;<em>Lagerstroemia loudonii</em> was received by Singapore Botanic Gardens as a seed from F.N. (Frank Norman) Howes on 27 Feb 1928. The introduction notes say Sriracha, Siam, which was probably where he collected the seeds from. The estimated age of this tree in 2023 is about 95 years.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/2/6280">here</a></p>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2990">here</a></p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
