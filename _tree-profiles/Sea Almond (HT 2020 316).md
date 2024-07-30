@@ -12,25 +12,31 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2003-74
+<br>HT 2020-316
 </td>
 <td rowspan="1" colspan="1">
-<strong>Scientific name:</strong> <em>Ficus superba</em> 
-<br><strong>Family name:</strong> Moraceae
-<br><strong>Girth:</strong> 5.2 m @ 1.3 m height
-<br><strong>Height: </strong>23.4 m
+<strong>Scientific name:</strong> <em>Terminalia catappa</em> 
+<br><strong>Family name:</strong> Combretaceae
+<br><strong>Girth:</strong> 3.1 m @ 1.3 m height
+<br><strong>Height: </strong>18.4 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2197770000018124&amp;lng=103.84859000000343">
-<br>Saint John's Island (near<br>water tank, forested area)</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2752600000447851&amp;lng=103.79240000002645">
+<br>Pasir Panjang Park,<br>near MRT station</a>
 </td>
 </tr>
 </tbody></table>
-<p>A large deciduous tree that grows up to 30 m in height, the Sea Fig bears a wide and spreading crown. It has relatively large leaves that can grow up to 25 cm long by 12 cm wide and are slightly heart-shaped. Its figs on the other hand are relatively small at about 1 cm in diameter, and ripen from pale yellow and eventually to purple. They are set in bunches on small woody knobs on the twigs and branches. This strangler fig has large spreading branches and produces many aerial roots from the branches, trunk and base of its lower limbs.</p>
+<p>The Sea Almond is a tree commonly found along the coasts of tropical Asia, Northern Australia and Polynesia, including Singapore. It can also be found growing inland along roads or in old Malayan villages where it was planted for its spreading crown, providing much needed relief from the tropical sun.</p>
 
-<p>As with many other <em>Ficus</em> species, the figs are a reliable source of food for fruit-eating animals such as the Pink-necked Green Pigeon (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/6/4/645"><em>Treron vernans</em></a>), Coppersmith Barbet (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/5/35"><em>Megalaima haemacephala</em></a>) and Yellow-vented Bulbul (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/7/6/763"><em>Pycnonotus goiavier</em></a>).</p>
-  
-<p>The Sea Fig is endangered in and native to Singapore, and widely distributed from Japan, China, Indochina, and Malesia to Australia.</p>
+<p>It can grow up to 35 m tall and has a characteristic pagoda shape, a result of the whorls of horizontal wide-spreading branches growing at regular intervals along the trunk.</p>
+
+<p>This deciduous tree sheds its leaves twice a year in South East Asia and its leaves turn a vivid red or, in some cases, yellow before they fall. Leaves are simple, large, oval and narrow to a heart-shaped base. The dried leaves contain tannins that are said to have antibacterial and antifungal effects and are favoured by aquarium enthusiasts to condition the water for tropical fish. The small flowers emit a foetid smell and are grouped along a short flowering stalk with separate male and female flowers.</p>
+
+<p>Fruit are fibrous and oval in shape, turning yellow to pinkish yellow with maturity. The fruit has a corky rind and tiny air-cavities that allow them to float on water to new shores where they might germinate. The pulp of the fruit is sweet and the kernel has a delicate flavour, tasting like almonds, giving rise to its common name, Sea Almond. The fruit are also eaten by fruit bats which help in the seed dispersal.</p>
+
+<p>The timber can be used for houses and boat building while various parts of the plant are used in folk medicine from relieving rheumatic joints to dysentery.</p>
+
+<p>In 1963, it was recorded that then Prime Minister Lee Kuan Yew planted a Sea Almond at Pasir Panjang Park. Though the tree planted by PM Lee cannot be definitively located, it is believed that this Heritage Sea Almond was also planted during the time. Hence, it was estimated to be greater than 57 years of age and had a girth of 3.1 m when it was endorsed as a Heritage Tree in 2020.</p>
 	
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a></p>
 
