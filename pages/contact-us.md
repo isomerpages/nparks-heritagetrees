@@ -20,5 +20,5 @@ contacts:
       - email: ""
       - other: ""
     title: ""
-feedback: https://safe.menlosecurity.com/https://form.gov.sg/661f3236f4a1d6733b309153
+feedback: https://form.gov.sg/661f3236f4a1d6733b309153
 ---
