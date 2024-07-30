@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Sea Fig (HT 2008 168).md
       - Sea Fig (HT 2016 284).md
       - Sea Teak (HT 2017 288).md
       - Seashore Mangosteen (HT 2003 81).md
