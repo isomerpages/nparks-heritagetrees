@@ -21,10 +21,10 @@ description: ""
 <br><strong>Height: </strong>23.6 m
 </td>
 <td rowspan="1" colspan="1">
-	<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.274251999995693&amp;lng=103.83849700000007a">
  <br>Found in Everton Road, 
  <br>on slope opposite Block 10
- <br>multi-storey carpark
+	<br>multi-storey carpark</a>
 </td>
 </tr>
 </tbody>
