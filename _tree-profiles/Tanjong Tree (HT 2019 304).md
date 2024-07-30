@@ -16,7 +16,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Mimusops elengi</em> 
-<br><strong>Family name:</strong> Sapoaceae
+<br><strong>Family name:</strong> Sapotaceae
 <br><strong>Girth:</strong> 4.42 m @ 1.3 m height
 <br><strong>Height: </strong>14.8 m
 </td>
