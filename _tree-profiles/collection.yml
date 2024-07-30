@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Tahitian Chestnut (HT 2005 138).md
       - Tamalan Tree (HT 2014 224).md
       - Tamarind (HT 2001 28).md
       - Tamarind (HT 2008 170).md
