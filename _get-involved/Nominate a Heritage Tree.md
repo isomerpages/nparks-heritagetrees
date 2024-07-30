@@ -24,7 +24,6 @@ Tree:</p>
 </ul>
 <p></p>
 <h4><strong>Nomination Form</strong></h4>
-<p>[Can use FormSG and embed the code in the future]</p>
-<p>FormSG (<a href="http://menlosecurity.com" rel="noopener noreferrer nofollow" target="_blank">menlosecurity.com</a>)</p>
+<p></p>
 <p></p>
 <p></p>
