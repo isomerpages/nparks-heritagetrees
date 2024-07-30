@@ -15,7 +15,7 @@ description: ""
 <br>HT 2018-295
 </td>
 <td rowspan="1" colspan="1">
-<strong>Scientific name:</strong> <em>Artocarpus elasticus</em> 
+<strong>Scientific name:</strong> <em>Tamarindus indica</em> 
 <br><strong>Family name:</strong> Moraceae
 <br><strong>Girth:</strong> 5.77 m @ 0.6 m height
 <br><strong>Height: </strong>22.8 m
