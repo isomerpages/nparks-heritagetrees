@@ -2,6 +2,10 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
+      - Rain Tree (HT 2005 145).md
+      - Rain Trees of Connaught Drive.md
       - Teak (HT 2014 234).md
       - Temak (HT 2013 218).md
       - Tembusu (HT 2001 26).md
@@ -11,10 +15,6 @@ collections:
       - Tembusu (HT 2003 58).md
       - Tembusu (HT 2003 59).md
       - Tembusu (HT 2003 60).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Rain Trees of Connaught Drive.md
-      - Albizia niopoides var niopoides (HT 2012 186).md
-      - Rain Tree (HT 2005 145).md
       - Tembusu (HT 2003 61).md
       - Tempinis (HT 2003 116).md
       - Tempinis (HT 2003 117).md
