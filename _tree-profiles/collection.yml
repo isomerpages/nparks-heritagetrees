@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Sea Teak (HT 2017 288).md
       - Seashore Mangosteen (HT 2003 81).md
       - Selembat (HT 2020 314).md
       - Senegal Mahogany (HT 2013 212).md
