@@ -6,6 +6,24 @@ description: ""
 third_nav_title: About Heritage Trees
 ---
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Angsana (<em>Pterocarpus indicus</em>)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -13,17 +31,6 @@ third_nav_title: About Heritage Trees
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Angsana (<em>Pterocarpus indicus</em>)
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Broad-leafed Mahogany (<em>Sweitenia macrophylla</em>)</strong>
