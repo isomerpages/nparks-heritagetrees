@@ -25,9 +25,8 @@ sections:
   - infopic:
       title: Heritage Tree Scheme
       id: infopic
-      description: Started on 17 August 2001, this initiative advocates the
-        conservation of mature trees in Singapore, promoting appreciation of our
-        local natural heritage.
+      description: The initiative advocates the conservation of mature trees in
+        Singapore and promotes the appreciation of our local natural heritage.
       button: More about the scheme
       alt: Image alt text
       url: /heritage-tree-scheme/
@@ -57,15 +56,15 @@ sections:
   - infocols:
       title: Nominate a Heritage Tree
       id: infocols
-      linktext: Send in your nomination!
+      linktext: Nominate today!
       url: /nominate-tree/
       infoboxes:
         - title: Who can nominate?
           description: Anyone can nominate a tree to be a Heritage Tree.
-        - title: What criteria to look for?
-          description: The nominated tree is typically more than 5 m in girth or noted for
-            botanical, historical, or cultural significance.
+        - title: What criteria is there?
+          description: The nominated tree is usually more than 5 m in girth or noted for
+            its botanical, historical, or cultural significance.
         - title: What happens next?
-          description: Nominated trees will need to undergo a health check before being
-            considered by the Heritage Tree Panel.
+          description: Nominated trees will undergo a health check before being considered
+            by the Heritage Tree Panel.
 ---
