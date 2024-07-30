@@ -23,7 +23,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2543709999958417&amp;lng=103.81797700000189">
 <br>Sentosa (Imbiah Lookout, 
-	<br>Images of Singapore forecourt(</a>
+	<br>Images of Singapore forecourt)</a>
 </td>
 </tr>
 </tbody></table>
