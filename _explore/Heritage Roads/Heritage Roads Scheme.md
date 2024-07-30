@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Heritage Roads
 ---
-<h4><strong>The Heritage Road Scheme</strong></h4>
+<h4><strong>About the Heritage Road Scheme</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/mandai_road_2.jpg">
+</div>
 <p>In our city state, mature trees along the roads form the backbone of Singapore’s
 landscape. With rapid development, it is important that we recognise the
 importance of these mature trees and what they symbolise.</p>
