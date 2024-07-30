@@ -21,9 +21,9 @@ description: ""
 <br><strong>Height: </strong>26.4 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2926620000032738&amp;lng=103.84638899999797">
 <br>Fort Canning Park, along
-	<br>14<sup>th</sup> Century Walk of History
+	<br>14<sup>th</sup> Century Walk of History</a>
 </td>
 </tr>
 </tbody></table>
