@@ -52,7 +52,7 @@ sections:
         of Singapore!
       button: Check out our Heritage Roads
       alt: Image alt text
-      url: /heritage-roads-scheme/
+      url: /heritage-road-scheme/
       image: /images/heritage-road-photo.jpg
   - infocols:
       title: Nominating a Heritage Tree
