@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Sentul (HT 2020 313).md
       - Sindora x changiensis (HT 2003 115).md
       - Snake Tree (HT 2013 219).md
       - Sparrows' Mango (HT 2003 45).md
