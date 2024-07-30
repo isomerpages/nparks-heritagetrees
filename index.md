@@ -23,7 +23,7 @@ sections:
       button: Learn more about the trees
       url: /about-us/
   - infopic:
-      title: Heritage Trees Scheme
+      title: Heritage Tree Scheme
       id: infopic
       description: Started on 17 August 2001, this initiative supports the
         conservation of mature trees in Singapore, promoting appreciation of our
