@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"> 
+<img style="width: 80%;" height="50%" width="100%" alt="" src="/images/Heritage_trees_photos/sea_almond_ht_2020_316-habit.jpg"> 
 </div>
 <p></p>
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
@@ -42,12 +42,12 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/sea_almond_ht_2020_316-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/sea_almond_ht_2020_316-habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/sea_almond_ht_2020_316-archive.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Prime Minister Lee Kuan Yew planting a Sea Almond [<em>Terminalia catappa</em>] sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore.)</div></div></a>
