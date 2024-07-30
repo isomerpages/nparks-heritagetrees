@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>18.2 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3886099999980344&amp;lng=103.98004999999613">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.389393999997606&amp;lng=103.97417600000013">
 <br>Andover Road, Fairy Point<br> Chalet 6 (Accessible <br> only to guests)</a>
 </td>
 </tr>
