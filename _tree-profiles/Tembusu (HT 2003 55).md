@@ -21,8 +21,8 @@ description: ""
 <br><strong>Height: </strong>28.2 m
 </td>
 <td rowspan="1" colspan="1"><strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4053759999975264&amp;lng=103.87028299999994">
-<br>Maida Vale, in front
-<br>of House No. 8</a>
+<br>Maida Vale, opposite
+<br>House No. 8</a>
 </td>
 </tr>
 </tbody></table>
