@@ -1,4 +1,5 @@
 collections:
   heritage-roads:
     output: true
-    order: []
+    order:
+      - Heritage Road Scheme.md
