@@ -170,8 +170,7 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td></tr>
- <tr><td><a href="/ht-2007-162"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162)</a></td></tr>
- <tr><td><a href="/ht-2007-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-163)</a></td></tr>
+ <tr><td><a href="/ht-2007-162-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162 &amp; HT 2007-163)</a></td></tr>
  <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td></tr>
@@ -527,8 +526,7 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2005-139"><b>Medang</b> / <i>Litsea elliptica</i> (HT 2005-139)</a></td><td>Sentosa (Serapong Hill)</td></tr>
  <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td><td>Saint John's Island, near village house and jetty entrance</td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa (Dragon tail - Earth Dragon)</td></tr>
- <tr><td><a href="/ht-2007-162"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162)</a></td><td>Pulau Ubin, near Chek Jawa,  from House No. 1 on the right</td></tr>
- <tr><td><a href="/ht-2007-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa,  from House No. 1 on the right</td></tr>
+ <tr><td><a href="/ht-2007-162-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162 &amp; HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa,<br>from House No. 1 on the right</td></tr>
  <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa (Gunner Lane, behind Ranger Station)</td></tr>
  <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td><td>Sentosa (within Satellite Station grounds)</td></tr>
  <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>Sentosa - Resorts World Sentosa forest</td></tr>
