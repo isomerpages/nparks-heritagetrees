@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>19.2 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3099299999955505&amp;lng=103.81711099999814">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2474750000009502&amp;lng=103.83487800000113">
 <br>Sentosa (Woolwich Road,<br>within Satellite Station<br>grounds)</a>
 </td>
 </tr>
