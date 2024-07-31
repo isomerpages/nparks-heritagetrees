@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Rain Tree (HT 2001 27).md
       - Rain Tree (HT 2003 106).md
       - Rain Tree (HT 2003 107).md
       - Rain Tree (HT 2003 108).md
