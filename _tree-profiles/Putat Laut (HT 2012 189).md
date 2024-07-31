@@ -27,9 +27,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>This is a large sea shore tree that can grow up to 30m. It is native to Singapore and to the coasts of the Indian and western Pacific Oceans.  
+<p>This is a large sea shore tree that can grow up to 30m. It is native to Singapore and to the coasts of the Indian and western Pacific Oceans.</p>
   
-This Heritage Tree could be the largest of its kind in Singapore in terms of girth. The seeds of this species are used as a fish poison. They are crushed and thrown in water, after which the fish are stunned/die by the saponin released from the seeds and float to the surface allowing them to be harvested.</p>
+<p>This Heritage Tree could be the largest of its kind in Singapore in terms of girth. The seeds of this species are used as a fish poison. They are crushed and thrown in water, after which the fish are stunned/die by the saponin released from the seeds and float to the surface allowing them to be harvested.</p>
 
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2744">here</a></p>
 
