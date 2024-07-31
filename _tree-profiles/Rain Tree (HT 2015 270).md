@@ -12,7 +12,7 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2005-270
+<br>HT 2015-270
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Samanea saman</em>
@@ -34,7 +34,7 @@ description: ""
 
 <p>This Tropical American species has been dispersed throughout the tropics since the middle of the 1900s. It was introduced to Singapore in 1876 and spread throughout the region. Due to its excellent shade, the species was planted in the 1900s in coffee and nutmeg plantations, and along roadsides. The sweetish fruit pulp was relished by cattle, goats, horses, pigs and even children in some countries.</p>
 	
-<p>This Heritage Tree, as well as the one nearer to the junction of Spottiswoode Park Road, were planted probably as part of the landscaping for the Spottiswoode Park estate. This Heritage Tree had a girth of 5m when measured in Year 2005.</p>
+<p>This is one of the tallest Rain Tree in Singapore at 35 m and it was endorsed as a Heritage Tree in 2015.</p>
 
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a></p>
 
