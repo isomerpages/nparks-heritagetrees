@@ -215,7 +215,7 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2008-168/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2008-168)</a></td></tr>
  <tr><td><a href="/ht-2016-284/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2016-284)</a></td></tr>
  <tr><td><a href="/ht-2017-288/"><b>Sea Teak</b> / <i>Podocarpus polystachyus</i> (HT 2017-288)</a></td></tr>
- <tr><td><a href="/ht-2003-81/"><b>Seashore Mangosteen</b> / G<i>arcinia hombroniana</i> (HT 2003-81)</a></td></tr>
+ <tr><td><a href="/ht-2003-81/"><b>Seashore Mangosteen</b> / <i>Garcinia celebica</i> (HT 2003-81)</a></td></tr>
  <tr><td><a href="/ht-2020-314/"><b>Selembat</b> / <i>Syzygium conglomeratum</i> (HT 2020-314)</a></td></tr>
  <tr><td><a href="/ht-2013-212/"><b>Senegal Mahogany</b> / <i>Khaya senegalensis</i> (HT 2013-212)</a></td></tr>
  <tr><td><a href="/ht-2020-313/"><b>Sentul</b> / <i>Sandoricum keotjape</i> (HT 2020-313)</a></td></tr>
@@ -536,7 +536,7 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2003-75/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-75)</a></td><td>Saint John's Island (Camp site 1 &amp; 2)</td></tr>
  <tr><td><a href="/ht-2003-76/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-76)</a></td><td>Saint John's Island (Block 7A, on slope of hill)</td></tr>
  <tr><td><a href="/ht-2003-77/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-77)</a></td><td>Saint John's Island (Former Sepak Takraw Court)</td></tr>
- <tr><td><a href="/ht-2003-81/"><b>Seashore Mangosteen</b> / G<i>arcinia hombroniana</i> (HT 2003-81)</a></td><td>Sentosa - Resorts World Sentosa (Shrine) - restricted access</td></tr>
+ <tr><td><a href="/ht-2003-81/"><b>Seashore Mangosteen</b> / <i>Garcinia celebica</i> (HT 2003-81)</a></td><td>Sentosa (former Maritime Museum, restricted area)</td></tr>
  <tr><td><a href="/ht-2003-93/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2003-93)</a></td><td>Sentosa (Images Of Singapore forecourt)</td></tr>
  <tr><td><a href="/ht-2003-58/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-58)</a></td><td>Sentosa (beside Images Of Singapore)</td></tr>
  <tr><td><a href="/ht-2003-59/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-59)</a></td><td>Saint John's Island (Block 5 &amp; 8)</td></tr>
