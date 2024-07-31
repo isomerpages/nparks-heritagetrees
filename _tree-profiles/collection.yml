@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Petai Kerayong (HT 2005 141).md
       - Pianggu (HT 2012 197).md
       - Pink Mempat (HT 2020 309).md
       - Pink Mempat (HT 2022 321).md
