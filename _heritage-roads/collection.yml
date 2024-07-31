@@ -2,4 +2,5 @@ collections:
   heritage-roads:
     output: true
     order:
+      - Arcadia Road.md
       - Heritage Road Scheme.md
