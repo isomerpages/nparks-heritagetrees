@@ -19,7 +19,6 @@ sections:
       description: Heritage Trees are mature trees that represent the natural heritage
         of Singapore and serve as important green landmarks of our City in
         Nature.
-      url: ""
   - infopic:
       title: Heritage Tree Scheme
       id: infopic
