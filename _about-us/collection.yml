@@ -2,8 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - About Heritage Trees/.keep
-      - About Heritage Trees/What are Heritage Trees?.md
-      - About Heritage Trees/Common Heritage Trees Species.md
       - Heritage Tree Scheme.md
       - Heritage Tree Panel.md
