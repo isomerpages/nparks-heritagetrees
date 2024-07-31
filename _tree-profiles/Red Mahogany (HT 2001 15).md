@@ -17,11 +17,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Khaya nyasica</em> 
 <br><strong>Family name:</strong> Meliaceae
-<br><strong>Girth:</strong> 2.72 m @ 1.3 m height
-<br><strong>Height: </strong>23.4 m
+<br><strong>Girth:</strong> 3.21 m @ 1.3 m height
+<br><strong>Height: </strong>31.4 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3147479999978293&amp;lng=103.89245000000368">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3146979999978112&amp;lng=103.89251600000291">
 <br>Guillemard Road<br>Open Space</a>
 </td>
 </tr>
