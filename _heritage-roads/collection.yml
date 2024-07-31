@@ -2,6 +2,7 @@ collections:
   heritage-roads:
     output: true
     order:
+      - Mandai Road.md
       - Mount Pleasant Road.md
       - Arcadia Road.md
       - Heritage Road Scheme.md
