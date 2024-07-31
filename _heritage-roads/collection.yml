@@ -2,6 +2,7 @@ collections:
   heritage-roads:
     output: true
     order:
+      - Lim Chu Kang Road.md
       - South Buona Vista Road.md
       - Mandai Road.md
       - Mount Pleasant Road.md
