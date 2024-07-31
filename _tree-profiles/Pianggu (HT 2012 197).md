@@ -17,7 +17,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Horsfieldia irya</em>
 <br><strong>Family name:</strong> Myristicaceae
-<br><strong>Girth: </strong>2.51 m @ 0.3 m height
+<br><strong>Girth: </strong>2.51 m @ 1.3 m height
 <br><strong>Height: </strong>15.1 m
 </td>
 <td rowspan="1" colspan="1">
