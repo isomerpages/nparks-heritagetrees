@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Rain Tree (HT 2005 144).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Albizia niopoides var niopoides (HT 2012 186).md
       - Rain Tree (HT 2005 145).md
