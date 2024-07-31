@@ -17,13 +17,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Samanea saman</em>
 <br><strong>Family name:</strong> Fabaceae (Leguminosae)
-<br><strong>Girth: </strong>7.03 m @ 1.3 m height
-<br><strong>Height: </strong>20.6 m
+<br><strong>Girth: </strong>6.55 m @ 1.3 m height
+<br><strong>Height: </strong>25.6 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3128429999959967&amp;lng=103.7987290000037">
- <br>Holland Road, near junction
- <br>with Belmont Road</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.306679999994662&amp;lng=103.84578999998942">
+ <br>Istana Ground</a>
 </td>
 </tr>
 </tbody>
