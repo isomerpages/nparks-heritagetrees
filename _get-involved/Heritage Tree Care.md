@@ -9,7 +9,7 @@ description: ""
 of them, click the link below to learn more about Heritage Tree Care.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Explore Page/Heritage_Tree_care_guide_Ver_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Heritage Tree Care Guide.pdf (1.5 MB)</a>
+<p><a href="/files/Explore Page/Heritage_Tree_care_guide_Ver_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Heritage Tree Care Guide.pdf (2.5 MB)</a>
 </p>
 </li>
 </ul>
