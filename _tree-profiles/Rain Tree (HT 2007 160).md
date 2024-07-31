@@ -34,7 +34,7 @@ description: ""
 
 <p>This Tropical American species has been dispersed throughout the tropics since the middle of the 1900s. It was introduced to Singapore in 1876 and spread throughout the region. Due to its excellent shade, the species was planted in the 1900s in coffee and nutmeg plantations, and along roadsides. The sweetish fruit pulp was relished by cattle, goats, horses, pigs and even children in some countries.</p>
 	
-<p>The girth of this Heritage Tree was 6.2m in 2007.</p>
+<p>This Heritage Tree had a girth of 6.2m when measured in Year 2007.</p>
 
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a></p>
 
