@@ -2,9 +2,9 @@ collections:
   heritage-roads:
     output: true
     order:
-      - Lim Chu Kang Road.md
-      - South Buona Vista Road.md
-      - Mandai Road.md
-      - Mount Pleasant Road.md
-      - Arcadia Road.md
       - Heritage Road Scheme.md
+      - Arcadia Road.md
+      - Mount Pleasant Road.md
+      - Mandai Road.md
+      - South Buona Vista Road.md
+      - Lim Chu Kang Road.md
