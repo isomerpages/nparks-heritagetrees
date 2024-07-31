@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>20.5 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2796700000012293&amp;lng=103.79387299999641">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.308503000003223&amp;lng=103.81822899999997">
  <br>Singapore Botanic Gardens<br>near Botany Centre Auditorium</a>
 </td>
 </tr>
