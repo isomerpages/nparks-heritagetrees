@@ -33,7 +33,7 @@ description: ""
 
 <p>The single Singapore herbarium specimen collected by H.N. Ridley and cited by Ding Hou, is without a known location. As of February 2016, no other specimen of M. pentandra has been reported in our forests.</p>
 
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2774">here</a></p>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/7/6787">here</a></p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
