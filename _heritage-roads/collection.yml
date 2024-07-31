@@ -2,10 +2,10 @@ collections:
   heritage-roads:
     output: true
     order:
+      - Heritage Road Scheme.md
+      - Heritage Roads/.keep
       - Heritage Roads/Lim Chu Kang Road.md
       - Heritage Roads/South Buona Vista Road.md
       - Heritage Roads/Mandai Road.md
       - Heritage Roads/Mount Pleasant Road.md
       - Heritage Roads/Arcadia Road.md
-      - Heritage Roads/.keep
-      - Heritage Road Scheme.md
