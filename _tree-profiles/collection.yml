@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Pink Mempat (HT 2020 309).md
       - Pink Mempat (HT 2022 321).md
       - Putat Laut (HT 2012 189).md
       - Rain Tree (HT 2001 08).md
