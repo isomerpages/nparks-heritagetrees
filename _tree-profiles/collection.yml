@@ -2,6 +2,8 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Ordeal Tree (HT 2010 176).md
       - Ordeal Tree (HT 2019 301).md
       - Para Rubber (HT 2018 294).md
@@ -9,8 +11,6 @@ collections:
       - Penaga Laut (HT 2001 20).md
       - Penaga Laut ( HT 2003 46).md
       - Penaga Laut (HT 2021 318).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Perepat (HT 2007 162 & HT 2007 163).md
       - Petai (HT 2003 95).md
       - Petai Kerayong (HT 2001 17).md
