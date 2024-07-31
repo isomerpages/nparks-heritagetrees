@@ -4,7 +4,7 @@ permalink: /heritage-tree-scheme/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What are Heritage Trees?</strong></h4>
+<h3><strong>What are Heritage Trees?</strong></h3>
 <p>Heritage Trees are a special group of mature trees that represent the
 natural heritage of Singapore. Serving as important green landmarks of
 our City in Nature, these trees help to create a sense of permanence and
@@ -13,7 +13,7 @@ hundreds of years for these trees to mature gracefully and beautify our
 landscape.</p>
 <p>Heritage Trees are typically more than 5 metres in girth and are noted
 for their botanical, historical, social, cultural and/or aesthetic value.</p>
-<h4><strong>About the Heritage Tree Scheme</strong></h4>
+<h3><strong>About the Heritage Tree Scheme</strong></h3>
 <p>The Heritage Tree Scheme was started on 17 August 2001 by National Parks
 Board to identify, recognise and conserve mature trees in our landscape
 in view of rising concerns from Singapore's rapid development.</p>
