@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Ordeal Tree (HT 2010 176).md
       - Ordeal Tree (HT 2019 301).md
       - Para Rubber (HT 2018 294).md
       - Pauh Damar (HT 2015 240).md
