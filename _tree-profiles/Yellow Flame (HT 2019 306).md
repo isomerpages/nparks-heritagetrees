@@ -39,9 +39,9 @@ description: ""
 	
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a></p>
  
-<h4>Gallery</h4>
+<h4><b>Gallery<b></b></b></h4><b><b>
 <div class="isomer-card-grid">
 	<a href="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-<p></p></div>
+<p></p></div></b></b>
