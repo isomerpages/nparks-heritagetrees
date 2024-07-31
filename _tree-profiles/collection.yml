@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Penaga Laut (HT 2021 318).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Albizia niopoides var niopoides (HT 2012 186).md
       - Perepat (HT 2007 162 & HT 2007 163).md
