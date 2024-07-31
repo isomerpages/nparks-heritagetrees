@@ -21,7 +21,7 @@ description: ""
 <br><strong>Height: </strong>23.4 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2752600000447851&amp;lng=103.79240000002645">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.320129999983867&amp;lng=103.8162999999905">
 <br>Singapore Botanic Gardens,<br>EG8 (Future Ethno-botany<br>Garden)</a>
 </td>
 </tr>
