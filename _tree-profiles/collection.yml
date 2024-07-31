@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Sea Almond (HT 2017 290).md
       - Sea Almond (HT 2020 316).md
       - Sea Fig (HT 2003 74).md
       - Sea Fig (HT 2003 75).md
