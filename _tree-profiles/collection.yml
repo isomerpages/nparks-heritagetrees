@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Para Rubber (HT 2018 294).md
       - Pauh Damar (HT 2015 240).md
       - Penaga Laut (HT 2001 20).md
       - Penaga Laut ( HT 2003 46).md
