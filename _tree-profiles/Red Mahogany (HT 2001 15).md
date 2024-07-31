@@ -30,7 +30,7 @@ description: ""
   
 <p><em>Khaya nyasica</em> is native to Tropical Africa and was introduced to Singapore in the late 1970s. It produces small, white, sweet-scented flowers which then give way to tennis-ball size fruits. These fruits spilt open when ripe to release many flat brown winged seeds.</p>
 
-<p>&nbsp;The surrounding area used to be a Malay settlement in the early 19th century which grew coconut plantations in the mid-1850s before cultivating lemongrass, hence the name Geylang Serai (serai is Malay for lemongrass). The Geylang police post used to be situated here in the 1970s, before it was converted into a green space where these trees were planted. <em>Khaya nyasica</em> trees are now uncommon in our landscape, and this cluster of four Heritage Trees serve as a reminder of our past floral heritage. This Heritage Tree had a girth of 2.2m when measured in Year 2001.</p>
+<p>&nbsp;The surrounding area used to be a Malay settlement in the early 19th century which grew coconut plantations in the mid-1850s before cultivating lemongrass, hence the name Geylang Serai (serai is Malay for lemongrass). The Geylang police post used to be situated here in the 1970s, before it was converted into a green space where these trees were planted. <em>Khaya nyasica</em> trees are now uncommon in our landscape, and this cluster of four Heritage Trees serve as a reminder of our past floral heritage. This Heritage Tree had a girth of 2.6m when measured in Year 2001.</p>
 	
 <p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/7/2/7256">here</a>.</p>
 
