@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Kepayang (HT 2014 232).md
       - Keruing Kerut (HT 2003 49).md
       - Leban (HT 2003 126).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
