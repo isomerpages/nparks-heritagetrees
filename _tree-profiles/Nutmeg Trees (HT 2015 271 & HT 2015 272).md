@@ -1,0 +1,64 @@
+---
+title: Nutmeg Trees (HT 2015 271 & HT 2015 272)
+permalink: /ht-2015-271-272/
+variant: markdown
+description: ""
+---
+<div class="isomer-image-wrapper">
+<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+</div>
+<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Scientific name:</strong> <em>Myristica fragrans</em> 
+<br><strong>Family name: </strong>Myristicaceae
+</td>
+<td rowspan="1" colspan="1">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">
+<br>Singapore Botanic Gardens,<br>(LXA) near Cluny Park Road</a>
+</td>
+</tr>
+<tr><td rowspan="1" colspan="3">
+<table style="minWidth: 100px; font-size: 16px;">
+<tbody>
+<tr>
+ <th>Unique ID</th>
+ <th>Tree Girth</th>
+ <th>Tree Height</th>
+</tr>
+<tr>
+ <td>HT 2015-271</td>
+ <td>1.22 m @ 1.3 m height</td>
+ <td>13.6 m</td>
+</tr>
+<tr>
+ <td>HT 2015-272</td>
+ <td>1.15 m @ 0.7 m height</td>
+ <td>13.2 m</td>
+</tr></tbody>
+</table>
+</td></tr></tbody></table>
+<p>This is an evergreen monopodial tree, with the sexes separated on different trees (dioecious).</p>
+
+<p>A native of the Moluccas, the Nutmeg tree is the source of the nutmeg spice. Nutmeg was a major spice crop in Singapore in the 1840s before disease destroyed plantations in the 1860s. In the 1800s, the area around present-day Orchard Road was occupied by nutmeg, pepper and fruit orchards, which gave rise to the road’s name.</p>
+
+<p>This Heritage Trees are female trees as they were observed to have fruited. The flowers are pollinated by beetles.</p>
+
+<p></p><p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3037">here</a></p>
+
+<h4><b>Gallery</b></h4>
+<div class="isomer-card-grid">
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
