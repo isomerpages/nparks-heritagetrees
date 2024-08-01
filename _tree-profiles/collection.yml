@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Madras Thorn (HT 2001 07).md
       - Madras Thorn (HT 2008 164).md
       - Madras Thorn (HT 2016 275).md
       - Mango (HT 2016 274).md
