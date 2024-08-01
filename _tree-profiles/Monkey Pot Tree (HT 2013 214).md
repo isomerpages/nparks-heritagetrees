@@ -31,7 +31,7 @@ description: ""
   
 <p>The fruits are unusual and botanically very interesting. It is the seeds' rich in oil feature that brought the plant to Singapore as an experimental economic plant. Known in South America as Sapucaia nuts, they have a thicker but less firm shell than Brazil nuts, and a somewhat better flavour. The oil expressed from them is clear in colour, nearly white, tasteless and rapidly becomes rancid. It is used in Brazil for making white soap and burnt as a source of light. Seeds were received from Kew on 28 Sept 1926 and planted on 24 Feb 1928. The <em>Lecythis pisonis</em> Heritage Tree, located at Lawn E seldom fruits. In comparison, these two Trees next to each other at Lawn H are always in fruit.</p>
 
-<p>This tree is dedicated to (HPL).</p>
+<p>This tree is dedicated to Hotel Properties Limited (HPL). The HPL Canopy Link was supported by the company through National Parks Board's registered charity Garden City Fund.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/7/5/7553">here</a>.</p>
 
