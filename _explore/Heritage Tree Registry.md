@@ -147,8 +147,6 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
 	 <tr><td><a href="/ht-2001-30"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-30)</a></td></tr>
  <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td></tr>
 	 <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td></tr>
-	 <tr><td><a href="/ht-2018-296"><b>Mock Lime</b> / <i>Murraya paniculata</i> (HT 2018-296)</a></td></tr>
- <tr><td><a href="/ht-2019-305"><b>Mock Lime</b> / <i>Murraya paniculata</i> (HT 2019-305)</a></td></tr>
 	 <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td></tr>
 	 <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td></tr>
  <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td></tr>
@@ -160,6 +158,8 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td></tr>
 	 <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td></tr>
+	 <tr><td><a href="/ht-2018-296"><b>Orange Jasmine</b> / <i>Murraya paniculata</i> (HT 2018-296)</a></td></tr>
+ <tr><td><a href="/ht-2019-305"><b>Orange Jasmine</b> / <i>Murraya paniculata</i> (HT 2019-305)</a></td></tr>
 	 <tr><td><a href="/ht-2010-176"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2010-176)</a></td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td></tr>
  <tr><td><a href="/ht-2018-294"><b>Para Rubber</b> / <i>Hevea brasiliensis</i> (HT 2018-294)</a></td></tr>
@@ -373,8 +373,8 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
  <tr><td><a href="/ht-2013-210"><b>Mentulang Daun Lebar</b> / <i>Alangium ridleyi</i> (HT 2013-210)</a></td><td>Singapore Botanic Gardens Lawn H</td></tr>
  <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
- <tr><td><a href="/ht-2018-296"><b>Mock Lime</b> / <i>Murraya paniculata</i> (HT 2018-296)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
- <tr><td><a href="/ht-2019-305"><b>Mock Lime</b> / <i>Murraya paniculata</i> (HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ <tr><td><a href="/ht-2018-296"><b>Orange Jasmine</b> / <i>Murraya paniculata</i> (HT 2018-296)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ <tr><td><a href="/ht-2019-305"><b>Orange Jasmine</b> / <i>Murraya paniculata</i> (HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
  <tr><td><a href="/ht-2022-321"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2022-321)</a></td><td>East Coast Park Area C, near Marine Cove</td></tr>
  <tr><td><a href="/ht-2001-14"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-14)</a></td><td>Guillemard Road Open Space</td></tr>
