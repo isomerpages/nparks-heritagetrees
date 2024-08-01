@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Longan (HT 2018 297).md
       - Lychee (HT 2001 02).md
       - Madras Thorn (HT 2001 04).md
       - Madras Thorn (HT 2001 05).md
