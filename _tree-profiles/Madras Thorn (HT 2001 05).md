@@ -32,6 +32,8 @@ description: ""
   
 <p>The Madras Thorn was once a commonly planted roadside tree in Singapore, but suffered from caterpillar attacks in Singapore during the 1970s. The species was subsequently phased out from planting in housing estates and along roadsides.</p>
 
+<p>This Heritage Tree had a girth of 7.4 m when measured in Year 2001.</p>
+
 <p>For more information on the species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3065">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
