@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Kapur (HT 2012 192).md
       - Kapur (HT 2012 193).md
       - Kapur (HT 2012 194).md
       - Kayu Pontianak (HT 2013 208).md
