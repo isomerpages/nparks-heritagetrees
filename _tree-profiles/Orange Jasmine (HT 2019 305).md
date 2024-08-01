@@ -17,8 +17,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Murraya paniculata</em>
 <br><strong>Family name: </strong>Rutaceae
-<br><strong>Girth: </strong>6.28 m @ 1.3 m height
-<br><strong>Height: </strong>16.1 m
+<br><strong>Girth: </strong>2 m @ 0.5 m height
+<br><strong>Height: </strong>7.5 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3898800000060385&amp;lng=103.97422999999657">
