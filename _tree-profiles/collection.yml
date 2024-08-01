@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Kelat Hitam (HT 2003 128).md
       - Kempas (HT 2015 243).md
       - Kempas (HT 2016 280).md
       - Kepayang (HT 2014 232).md
