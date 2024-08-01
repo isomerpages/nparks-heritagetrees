@@ -158,8 +158,7 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
 	 <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td></tr>
 	 <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td></tr>
 	 <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td></tr>
- <tr><td><a href="/ht-2015-271"><b>Nutmeg Tree</b>/ <i>Myristica fragrans</i> (HT 2015-271)</a></td></tr>
-	 <tr><td><a href="/ht-2015-272"><b>Nutmeg Tree</b>/ <i>Myristica fragrans</i> (HT 2015-272)</a></td></tr>
+ <tr><td><a href="/ht-2015-271-272"><b>Nutmeg Tree</b>/ <i>Myristica fragrans</i> (HT 2015-271 &amp; HT 2015-272)</a></td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td></tr>
 	 <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td></tr>
@@ -317,10 +316,9 @@ As of 1<sup>st</sup> September 2024, there are currently 258 Heritage Trees in t
  <tr><td><a href="/ht-2012-201"><b>Mountain Teak</b> / <i>Podocarpus nerrifolius</i> (HT 2012-201)</a></td><td>Singapore Botanic Gardens, Lawn B</td></tr>
  <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td><td>Singapore Botanic Gardens, Rainforest</td></tr>
  <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td><td>Singapore Botanic Gardens – Tanglin Core – Lawn D</td></tr>
- <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens, behind Raffles Building</td></tr>
+ <tr><td><a href="/ht-2015-271-272"><b>Nutmeg Trees</b>/ <i>Myristica fragrans</i> (HT 2015-271 &amp; HT 2015-272)</a></td><td>Singapore Botanic Gardens, (LXA), near Cluny Park Road</td></tr>
+<tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens, behind Raffles Building</td></tr>
  <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td><td>Singapore Botanic Gardens, along Evolution Garden Walk</td></tr>
- <tr><td><a href="/ht-2015-271"><b>Nutmeg Tree</b>/ <i>Myristica fragrans</i> (HT 2015-271)</a></td><td>Singapore Botanic Gardens, (LXA), near Cluny Park Road</td></tr>
- <tr><td><a href="/ht-2015-272"><b>Nutmeg Tree</b>/ <i>Myristica fragrans</i> (HT 2015-272)</a></td><td>Singapore Botanic Gardens, (LXA), near Cluny Park Road</td></tr>
  <tr><td><a href="/ht-2010-176"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2010-176)</a></td><td>Upper Seletar Reservoir Park, on slope behind carpark along Mandai Rd</td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td><td>Singapore Botanic Gardens, National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2015-240"><b>Pauh Damar</b> / <i>Mangifera pentandra</i> (HT 2015-240)</a></td><td>Singapore Botanic Gardens, Lawn F</td></tr>
