@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Monkey Pot Tree (HT 2013 215).md
       - Mountain Teak (HT 2012 201).md
       - Neem Tree (HT 2019 300).md
       - Nemesu (HT 2015 245).md
