@@ -27,11 +27,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The&nbsp;<em>Rubroshorea pauciflora</em>,&nbsp;or&nbsp;previously known as <em>Shorea pauciflora</em>,&nbsp;is an emergent forest tree native to Singapore with the conservation status of ‘endangered’. It has a distinct scaly bole and often large buttresses. It belongs to the dark red Meranti group and produces valuable timber.</p>
+<p>The&nbsp;<em>Rubroshorea pauciflora</em>,&nbsp;or&nbsp;previously known as <em>Shorea pauciflora</em>, is an emergent forest tree native to Singapore with the conservation status of ‘endangered’. It has a distinct scaly bole and often large buttresses. It belongs to the dark red Meranti group and produces valuable timber.</p>
 
 <p>This majestic tree is part of the Singapore Botanic Gardens’ rainforest. It has a straight bole up to 60 m tall. It is near to the edge of the rainforest and can be easily viewed from Lower Ring Road.</p>
 
-<p>Nemesu Avenue, near the Lower Peirce Reservoir area, was named after this tree species.</p>
+<p>The road name Nemesu Avenue, near the Lower Peirce Reservoir area, was named after this tree species.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/7/4720">here</a>.</p>
 
