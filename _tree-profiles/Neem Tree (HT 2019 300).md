@@ -37,7 +37,7 @@ description: ""
 
 <p>This Neem Tree has likely stood here on St John’s Island for more than 50 years. It measured 2.2 m in girth when endorsed as a Heritage Tree in 2019.</p>
 
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2738">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2738">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
