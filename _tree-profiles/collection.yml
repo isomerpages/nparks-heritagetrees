@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Mango (HT 2021 319).md
       - Margaritaria indica (HT 2014 226).md
       - Marsh Pulai (HT 2010 183).md
       - Medang (HT 2005 139).md
