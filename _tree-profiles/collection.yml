@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Kapok (HT 2015 236).md
       - Kapok (HT 2020 308).md
       - Kapur (HT 2012 192).md
       - Kapur (HT 2012 193).md
