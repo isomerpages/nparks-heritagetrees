@@ -26,11 +26,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The Leopard Tree originates from Eastern Brazil and is popularly planted in Singapore for its ornamental characteristics. A handsome deciduous tree with beautiful mottled bark, it can grow up to 20 m tall. The multi-hued patches of bark on the trunk resemble a leopard’s hide, giving rise to its another common name, Leopard Tree.</p>
+<p>The Leopard Tree originates from Eastern Brazil and is popularly planted in Singapore for its ornamental characteristics. A handsome deciduous tree with beautiful mottled bark, it can grow up to 20 m tall. The multi-hued patches of bark on the trunk resemble a leopard’s hide, giving rise to its another common name, Leopard Tree. It was formerly known as <em>Caesalpinia ferrea</em>.</p>
 
-<p>The tree has an attractive feathery looking umbrella-shaped crown. The fine-textured bi-pinnate compound leaves have oval to round leaflets that grow on drooping branches. The small flowers are bright yellow with red spots, lightly fragrant and borne in bunches. The seed pods are thick and turn from green to dark brown as they mature. The wood is extremely dense and heavy, often used for making furniture, flooring and fingerboards for electric basses and guitars. Unlike most other types of wood which float in water, seasoned wood of the Leopard Tree is so dense that it will sink instead!</p>
-
-<p>This beautiful specimen had a girth of 3.8 m when it was endorsed as a Heritage Tree in 2018.</p>
+<p>The tree has an attractive feathery looking umbrella-shaped crown. The fine-textured bi-pinnate compound leaves have oval to round leaflets that grow on drooping branches. The small flowers are bright yellow with red spots, lightly fragrant and borne in bunches. The seed pods are thick and turn from green to dark brown as they mature.</p>
+	
+<p>The specific epithet <em>ferrea</em> means 'iron' in Latin and referes to the extremely dense and heavy wood, which is often used for making furniture, flooring and fingerboards for electric basses and guitars. Unlike most other types of wood which float in water, seasoned wood of the Leopard Tree is so dense that it will sink instead!</p>
 
 <p>This species was previously known as <em>Caesalpinia ferrea</em>. 
 
