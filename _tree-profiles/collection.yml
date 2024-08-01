@@ -2,6 +2,8 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Kapok (HT 2015 236).md
       - Kapok (HT 2020 308).md
       - Kapur (HT 2012 192).md
@@ -14,8 +16,6 @@ collections:
       - Kepayang (HT 2014 232).md
       - Keruing Kerut (HT 2003 49).md
       - Leban (HT 2003 126).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Leopard Tree (HT 2017 287).md
       - Leopard Tree (HT 2018 298).md
       - Longan (HT 2018 297).md
