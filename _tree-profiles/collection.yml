@@ -2,8 +2,10 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Indian Banyan (HT 2003 204).md
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Inai Inai (HT 2003 52).md
+      - Indian Banyan (HT 2003 204).md
       - Indian Rubber Tree (HT 2010 181).md
       - Indian Rubber Tree (HT 2012 203).md
       - Jamuju (HT 2012 191).md
@@ -12,8 +14,6 @@ collections:
       - Jelawai Jaha (HT 2003 125).md
       - Jelawai Jaha (HT 2022 322).md
       - Jelutong (HT 2015 239).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Johor Fig (HT 2003 62).md
       - Johor Fig (HT 2003 64).md
       - Johor Fig (HT 2003 65).md
