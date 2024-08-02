@@ -101,8 +101,8 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2003-64"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-64)</a></td></tr>
  <tr><td><a href="/ht-2003-65"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-65)</a></td></tr>
  <tr><td><a href="/ht-2003-67"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-67)</a></td></tr>
- <tr><td><a href="/ht-2005-137"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-137)</a></td></tr>
  <tr><td><a href="/ht-2005-66"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-66)</a></td></tr>
+ <tr><td><a href="/ht-2005-137"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-137)</a></td></tr>
  <tr><td><a href="/ht-2007-155"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2007-155)</a></td></tr>
  <tr><td><a href="/ht-2012-195"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2012-195)</a></td></tr>
  <tr><td><a href="/ht-2019-303"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2019-303)</a></td></tr>
