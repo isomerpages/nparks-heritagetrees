@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Indian Rubber Tree (HT 2010 181).md
       - Indian Rubber Tree (HT 2012 203).md
       - Jamuju (HT 2012 191).md
       - Jelawai Jaha (HT 2001 25).md
