@@ -93,9 +93,9 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
 	 <tr><td><a href="/ht-2012-203"><b>Indian Rubber Tree</b> / <i>Ficus elastica</i> (HT 2012-203)</a></td></tr>
 	 <tr><td><a href="/ht-2012-191"><b>Jamuju</b> / <i>Dacrycarpus imbricatus</i> (HT 2012-191)</a></td></tr>
 	 <tr><td><a href="/ht-2003-124"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2003-124)</a></td></tr>
- <tr><td><a href="/ht-2022-322"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2022-322)</a></td></tr>
- <tr><td><a href="/ht-2001-25"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2001-25)</a></td></tr>
  <tr><td><a href="/ht-2003-125"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2003-125)</a></td></tr>
+ <tr><td><a href="/ht-2001-25"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2001-25)</a></td></tr>
+ <tr><td><a href="/ht-2022-322"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2022-322)</a></td></tr>
 	 <tr><td><a href="/ht-2015-239"><b>Jelutong</b> / <i>Dyera costulata</i> (HT 2015-239)</a></td></tr>
 	 <tr><td><a href="/ht-2003-62"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-62)</a></td></tr>
  <tr><td><a href="/ht-2003-64"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-64)</a></td></tr>
@@ -291,7 +291,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2010-181"><b>Indian Rubber Tree</b> / <i>Ficus elastica</i> (HT 2010-181)</a></td><td>In front of National Museum of Singapore</td></tr>
  <tr><td><a href="/ht-2012-191"><b>Jamuju</b> / <i>Dacrycarpus imbricatus</i> (HT 2012-191)</a></td><td>Singapore Botanic Gardens, Lawn H
  </td></tr><tr><td><a href="/ht-2001-25"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2001-25)</a></td><td>Singapore Botanic Gardens, at Lower Ring Road and Liane Road junction</td></tr>
- <tr><td><a href="/ht-2022-322"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2022-322)</a></td><td>Island Club Road</td></tr>
+ <tr><td><a href="/ht-2022-322"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2022-322)</a></td><td>Island Club Road, Singapore Island Country Club</td></tr>
  <tr><td><a href="/ht-2015-239"><b>Jelutong</b> / <i>Dyera costulata</i> (HT 2015-239)</a></td><td>Singapore Botanic Gardens, Lawn S</td></tr>
  <tr><td><a href="/ht-2012-195"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2012-195)</a></td><td>Singapore Botanic Gardens Jungle</td></tr>
  <tr><td><a href="/ht-2008-166"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2008-166)</a></td><td>Upper Seletar Reservoir Park, behind toilet blocks (near Rocket Tower)</td></tr>
