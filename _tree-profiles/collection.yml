@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Johor Fig (HT 2012 195).md
       - Johor Fig (HT 2019 303).md
       - Kapok (HT 2001 01).md
       - Kapok (HT 2005 134).md
