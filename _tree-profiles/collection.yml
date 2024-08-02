@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Kapok (HT 2007 152).md
       - Kapok (HT 2007 153).md
       - Kapok (HT 2008 167).md
       - Kapok (HT 2008 166).md
