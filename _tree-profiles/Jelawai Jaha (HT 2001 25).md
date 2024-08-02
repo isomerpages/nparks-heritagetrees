@@ -32,7 +32,7 @@ description: ""
 
 <p>One of the tallest trees in Singapore Botanic Gardens, this Jelawi Jaha was discovered during the construction of the Gardens and has been standing here for more than 150 years. This Heritage Tree had a girth of 6.5m when measured in Year 2001. The buttresses are up to 5m high. Measured at 1.3m height including the buttresses, the girth was 11m in Year 2013.</p>
 
-<p>Juveniles of the Clouded Monitor (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/4/841"><em>Varanus nebulosus</em></a>) have been observed on the trunk and seeking shelter in the trunk hollow of this Heritage Tree — a behaviour to avoid predators such as snakes and adult monitor lizards.</p>
+<p>Juveniles of the Clouded Monitor (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/4/841"><em>Varanus nebulosus</em></a>) have been observed taking shelter in the trunk hollow of this Heritage Tree.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3302">here</a>.</p>
 
