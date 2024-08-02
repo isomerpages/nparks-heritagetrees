@@ -515,9 +515,9 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2003-62"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-62)</a></td><td>Sentosa (beside Sentosa Development Corporation Office, 2nd Tree)</td></tr>
  <tr><td><a href="/ht-2003-64"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-64)</a></td><td>Pulau Ubin, within National Police Cadet Corps camp site</td></tr>
  <tr><td><a href="/ht-2003-67"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-67)</a></td><td>Sentosa, behind bus-stop at Allanbrooke Rd, near Bkt Manis Rd junction</td></tr>
- <tr><td><a href="/ht-2005-66"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-66)</a></td><td>Sentosa - Capella Hotel, outside Room 11 (Garden Villa)</td></tr>
- <tr><td><a href="/ht-2007-155"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2007-155)</a></td><td>Sentosa - Capella Hotel, outside Room 27 (Gdn Villa Unit 1) </td></tr>
- <tr><td><a href="/ht-2019-303"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2019-303)</a></td><td>Sentosa - Capella Hotel, Room 1</td></tr>
+ <tr><td><a href="/ht-2005-66"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-66)</a></td><td>Sentosa (Capella Hotel, outside Room 11 (Garden Villa))</td></tr>
+ <tr><td><a href="/ht-2007-155"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2007-155)</a></td><td>Sentosa (Capella Hotel, outside Room 27 (Gdn Villa Unit 1)) </td></tr>
+ <tr><td><a href="/ht-2019-303"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2019-303)</a></td><td>Sentosa (Capella Hotel, Room 1)</td></tr>
  <tr><td><a href="/ht-2003-126"><b>Leban</b> / <i>Vitex pinnata</i> (HT 2003-126)</a></td><td>Sentosa (Images Of Singapore forecourt)</td></tr>
  <tr><td><a href="/ht-2005-139"><b>Medang</b> / <i>Litsea elliptica</i> (HT 2005-139)</a></td><td>Sentosa (Serapong Hill)</td></tr>
  <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td><td>Saint John's Island, near village house and jetty entrance</td></tr>
