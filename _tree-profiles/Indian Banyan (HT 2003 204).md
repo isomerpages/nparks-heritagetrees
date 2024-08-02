@@ -15,7 +15,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Ficus benghalensis</em>
-<br><strong>Family name: </strong>Moraaceae
+<br><strong>Family name: </strong>Moraceae
 <br><strong>Girth: </strong>22.8 m @ 1.3 m height
 <br><strong>Height: </strong>18.4 m
 </td>
