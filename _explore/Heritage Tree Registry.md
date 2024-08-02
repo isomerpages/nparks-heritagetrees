@@ -512,7 +512,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2003-71"><b><i>Ficus stricta</i></b> (HT 2003-71)</a></td><td>Pulau Ubin, at granite outcrop near Police Post</td></tr>
  <tr><td><a href="/ht-2013-206"><b><i>Ficus stricta</i></b> (HT 2013-206)</a></td><td>Pulau Ubin, forest, left side of Jalan Noordin toward NPCC campsite, along fence</td></tr>
  <tr><td><a href="/ht-2013-207"><b><i>Ficus stricta</i></b> (HT 2013-207)</a></td><td>Pulau Ubin, roadside, right side of Jalan Noordin toward NPCC campsite, along fence</td></tr>
- <tr><td><a href="/ht-2003-62"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-62)</a></td><td>Sentosa (beside Sentosa Development Corporation Office, 2nd Tree)</td></tr>
+ <tr><td><a href="/ht-2003-62"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-62)</a></td><td>Sentosa, near Bkt Manis Rd junction (beside Asian Tours Headquarters)</td></tr>
  <tr><td><a href="/ht-2003-64"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-64)</a></td><td>Pulau Ubin, within National Police Cadet Corps camp site</td></tr>
  <tr><td><a href="/ht-2003-67"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-67)</a></td><td>Sentosa, behind bus-stop at Allanbrooke Rd, near Bkt Manis Rd junction</td></tr>
  <tr><td><a href="/ht-2005-66"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-66)</a></td><td>Sentosa (Capella Hotel, outside Room 11 (Garden Villa))</td></tr>
