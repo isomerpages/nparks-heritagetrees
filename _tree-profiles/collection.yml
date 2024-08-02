@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Johor Fig (HT 2003 62).md
       - Johor Fig (HT 2003 64).md
       - Johor Fig (HT 2003 65).md
       - Johor Fig (HT 2003 67).md
