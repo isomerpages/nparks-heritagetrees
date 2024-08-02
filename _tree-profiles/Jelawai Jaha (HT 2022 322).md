@@ -34,7 +34,7 @@ description: ""
 
 <p>The Singapore Island Country Club organizes tours to view the Heritage Trees with a minimum group size of 15 pax. Please contact&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/Lifestyle@sicc.org.sg">Lifestyle@sicc.org.sg</a>&nbsp;for more information.</p>
 
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4185">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3302">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
