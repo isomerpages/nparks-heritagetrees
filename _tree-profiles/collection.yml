@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Indian Banyan (HT 2003 204).md
       - Inai Inai (HT 2003 52).md
       - Indian Rubber Tree (HT 2010 181).md
       - Indian Rubber Tree (HT 2012 203).md
