@@ -21,7 +21,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.247521999996474&amp;lng=103.82804100000065">
- <br>&nbsp;Sentosa, along Bukit Manis Rd<br>(beside Asian Tours Headquarters)</a>
+ <br>Sentosa, near Bkt Manis Rd junction<br>(beside Asian Tours Headquarters)</a>
 </td>
 </tr>
 </tbody>
