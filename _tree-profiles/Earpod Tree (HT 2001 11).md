@@ -11,17 +11,17 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2003-71
+<br>HT 2001-11
 </td>
 <td rowspan="1" colspan="1">
-	<strong>Scientific name:</strong> <em>Ficus stricta</em>
-<br><strong>Family name: </strong>Moraceae
-<br><strong>Girth: </strong>9.2 m @ 1.3 m height
-<br><strong>Height: </strong>24 m
+	<strong>Scientific name:</strong> <em>Enterolobium cyclocarpum</em>
+<br><strong>Family name: </strong>Fabaceae (Leguminosae)
+<br><strong>Girth: </strong>5.94 m @ 1.3 m height
+<br><strong>Height: </strong>17.9  m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4034839999959523&amp;lng=103.97346800000318">
- <br>Pulau Ubin, at granite outcrop<br>near Police Post</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2951919999973902&amp;lng=103.84506600000279">
+ <br>Fort Canning Park, along<br>path behind the Fort Wall<br>and The Legends</a>
 </td>
 </tr>
 </tbody>
