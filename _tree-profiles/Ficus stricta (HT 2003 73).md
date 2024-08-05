@@ -30,6 +30,8 @@ description: ""
 	
 <p>This rare strangler fig species was recorded as native to Singapore in 2012, and the first specimen described in Singapore was discovered in Changi. It was only known in Changi and Pulau Ubin and it had previously been botanically uncollected and overlooked, and thus was a new record for Singapore. The species can also be found in Southern China, Myanmar, Sumatra, Peninsular Malaysia, and Java.</p> 
 
+<p>This Heritage Tree had a girth of 6 m when measured in Year 2003.</p>
+
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/5/6/5623">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
