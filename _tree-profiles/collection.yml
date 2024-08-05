@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Ficus stricta (HT 2003 72).md
       - Ficus stricta (HT 2003 73).md
       - Ficus stricta (HT 2013 206).md
       - Ficus stricta (HT 2013 207).md
