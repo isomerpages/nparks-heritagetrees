@@ -16,8 +16,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Ficus stricta</em>
 <br><strong>Family name: </strong>Moraceae
-<br><strong>Girth: </strong>4.72 m @ 1.3 m height
-<br><strong>Height: </strong>26.6 m
+<br><strong>Girth: </strong>5.07 m @ 1.3 m height
+<br><strong>Height: </strong>25.1 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3131400000362303&amp;lng=103.81363999996007">
