@@ -1,0 +1,50 @@
+---
+title: Horse Mango (HT 2014 227)
+permalink: /ht-2014-227/
+variant: markdown
+description: ""
+---
+<div class="isomer-image-wrapper">
+<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+</div>
+<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Unique ID</strong>
+<br>HT 2014-227
+</td>
+<td rowspan="1" colspan="1">
+	<strong>Scientific name:</strong> <em>Mangifera foetida</em>
+<br><strong>Family name: </strong>Anacardiaceae
+<br><strong>Girth: </strong>2.55 m @ 1.3 m height
+<br><strong>Height: </strong>25 m
+</td>
+<td rowspan="1" colspan="1">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.294969999999008&amp;lng=103.84833999999121">
+ <br>Canning Rise,<br>opposite Lamp Post 7</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Horse Mango is a large tree that can grow up to 40 m in height. Though critically endangered in Singapore, the tree can be found in Thailand, Vietnam, Sumatra, Peninsular Malaysia, and Borneo. The crown is dense and dome-shaped. The trunk is columnar, without buttresses. The bark is light brown in colour and exudes irritant whitish sap.</p>
+
+<p>The leaves are large, stiff and leathery. The reddish-pink&nbsp;flowers occur in upright panicles near branch tips. The fruits are yellowish-green with brown lenticels, and the skin is about 5mm thick. The flesh colour ranges from pale-orange to yellow. They are fibrous and juicy with a strong smell of turpentine.</p>
+
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3012">here</a>.</p>
+
+<h4><b>Gallery</b></h4>
+<div class="isomer-card-grid">
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
