@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Hazel Sterculia (HT 2019 307).md
       - Horse Mango (HT 2003 90).md
       - Horse Mango (HT 2014 227).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
