@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Hazel Sterculia (HT 2016 282).md
       - Hazel Sterculia (HT 2019 307).md
       - Horse Mango (HT 2003 90).md
       - Horse Mango (HT 2014 227).md
