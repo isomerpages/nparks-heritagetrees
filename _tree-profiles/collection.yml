@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Ficus stricta (HT 2013 206).md
       - Ficus stricta (HT 2013 207).md
       - Hazel Sterculia (HT 2016 282).md
       - Hazel Sterculia (HT 2019 307).md
