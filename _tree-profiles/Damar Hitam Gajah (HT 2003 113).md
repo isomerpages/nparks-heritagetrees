@@ -20,21 +20,17 @@ description: ""
 <br><strong>Height: </strong>20 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3519500000433011&amp;lng=103.77652000003525">
- <br>Bukit Timah Nature Reserve<br>near Singtel Tower</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3909310000013555&amp;lng=103.97968399999671">
+ <br>Changi, Netheravon Road<br>near Bus Stop B06</a>
 </td>
 </tr>
 </tbody>
 </table>
-<p>A shrub or a small tree that can grow up to 20 m in height,&nbsp;<em>Cratoxylum maingayi</em>&nbsp;is native to Singapore where its conservation status is ‘Critically Endangered’. It can be also found naturally distributed in Myanmar, Indochina, Sumatra, Peninsular Malaysia, and Borneo</p>
+<p>The Damar Hitam Gajah is a large emergent tree with greyish-brown bole and large and sharp buttresses. The bark is closely fissured when young, becoming scaly when older. It has white flowers with a tinge of pink, about 1 cm wide. The fruits are winged. The three outer wings (~ 1 cm) are slightly hairy. <em>Richetia gibbosa</em> was formerly known as <em>Shorea gibbosa</em>, and is the only local species in the damar hitam group of Shorea (now collectively grouped under the genus <em>Richetia</em>), named for the black <em>dammar</em> (resin) they produce.
+  
+</p><p>This Tree is probably one of the last few of this species standing in Singapore. It produces commercially valuable timber and is popular with loggers because it is relatively free from defects and works well and cleanly with power and hand tools. This Heritage Tree was seen flowering in August 2013. However, no fruit setting was observed later.</p>
 
-<p>It is suitable as a landscape tree in parks and streetscapes for its small size, light pink or white flowers and reddish new leaves. These fresh and bright colours make the tree very attractive when it is in full bloom or when there is a burst of new leaves.</p>
-
-<p>This species was formerly known as <em>Shorea gibbosa</em>.</p>
-
-<p>This Heritage&nbsp;Tree had a girth of 2.85 m when it was endorsed in 2020.</p>
-
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/6/3685">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2849">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
