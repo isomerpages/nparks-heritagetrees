@@ -4,3 +4,51 @@ permalink: /damar-hitam-gajah-ht-2003-112/
 variant: markdown
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+</div>
+<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Unique ID</strong>
+<br>HT 2003-113
+</td>
+<td rowspan="1" colspan="1">
+	<strong>Scientific name:</strong> <em>Richetia gibbosa</em>
+<br><strong>Family name: </strong>Dipterocarpaceae
+<br><strong>Girth: </strong>2.85 m @ 1.3 m height
+<br><strong>Height: </strong>20 m
+</td>
+<td rowspan="1" colspan="1">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3519500000433011&amp;lng=103.77652000003525">
+ <br>Bukit Timah Nature Reserve<br>near Singtel Tower</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A shrub or a small tree that can grow up to 20 m in height,&nbsp;<em>Cratoxylum maingayi</em>&nbsp;is native to Singapore where its conservation status is ‘Critically Endangered’. It can be also found naturally distributed in Myanmar, Indochina, Sumatra, Peninsular Malaysia, and Borneo</p>
+
+<p>It is suitable as a landscape tree in parks and streetscapes for its small size, light pink or white flowers and reddish new leaves. These fresh and bright colours make the tree very attractive when it is in full bloom or when there is a burst of new leaves.</p>
+
+<p>This species was formerly known as <em>Shorea gibbosa</em>.</p>
+
+<p>This Heritage&nbsp;Tree had a girth of 2.85 m when it was endorsed in 2020.</p>
+
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/6/3685">here</a>.</p>
+
+<h4><b>Gallery</b></h4>
+<div class="isomer-card-grid">
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
