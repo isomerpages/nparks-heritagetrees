@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Common Pulai (HT 2022 320).md
       - Damar Hitam Gajah (HT 2003 113).md
       - Derum (HT 2020 317).md
       - Derum Selunchor (HT 2018 293).md
