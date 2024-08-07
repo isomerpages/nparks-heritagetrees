@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Chinese Laurel (HT 2013 211).md
       - Chinese Olive (HT 2018 299).md
       - Chittagong Wood (HT 2018 292).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
