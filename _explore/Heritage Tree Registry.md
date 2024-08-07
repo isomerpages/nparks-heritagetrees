@@ -20,12 +20,12 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
 	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td></tr>
 	 <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td></tr>
 	 <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td></tr>
+	<tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td></tr>
+ <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td></tr>
  <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td></tr>
  <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td></tr>
- <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td></tr>
- <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td></tr>
  <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td></tr>
  <tr><td><a href="/ht-2007-159/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-159)</a></td></tr>
 	 <tr><td><a href="/ht-2015-247/"><b>Bangkal</b> / <i>Nauclea orientalis</i> (HT 2015-247)</a></td></tr>
