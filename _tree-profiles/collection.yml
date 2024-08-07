@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Giant Cola (HT 2014 229).md
       - Collared Fig (HT 2013 205).md
       - Common Pulai (HT 2003 35).md
       - Common Pulai (HT 2003 36).md
