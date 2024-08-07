@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Cannon Ball Tree (HT 2014 230).md
       - Cannon Ball Tree (HT 2017 289).md
       - Chengal Pasir (HT 2015 246).md
       - Chinese Laurel (HT 2013 211).md
