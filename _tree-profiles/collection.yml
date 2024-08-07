@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Chengal Pasir (HT 2015 246).md
       - Chinese Laurel (HT 2013 211).md
       - Chinese Olive (HT 2018 299).md
       - Chittagong Wood (HT 2018 292).md
