@@ -500,8 +500,8 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa - Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa (entrance of Shangri-La Rasa Sentosa Hotel)</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa (at entrance to Images Of Singapore)</td></tr>
- <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-121)</a></td><td>Found in(Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
- <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-129)</a></td><td>Found in(Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
+ <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa (Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
+ <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa (Images Of Singapore near Sky Tower, ~ 2nd Tree)</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa Capella Hotel, Suite B 7103 - 7105</td></tr>
  <tr><td><a href="/ht-2003-37"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-37)</a></td><td>Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu</td></tr>
