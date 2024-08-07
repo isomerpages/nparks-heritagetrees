@@ -11,26 +11,28 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2015-247
+<br>HT 2016-281
 </td>
 <td rowspan="1" colspan="1">
-	<strong>Scientific name:</strong> <em>Nauclea orientalis</em>
+	<strong>Scientific name:</strong> <em>Adina eurhyncha</em>
 <br><strong>Family name: </strong>Rubiaceae
-<br><strong>Girth: </strong>2.5 m @ 1.3 m height
-<br><strong>Height: </strong>15.2 m
+<br><strong>Girth: </strong>3.83 m @ 1.3 m height
+<br><strong>Height: </strong>24.1 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3199900000001576&amp;lng=103.81546999999172">
- <br>Singapore Botanic Gardens,<br>EG14</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3142900000446305&amp;lng=103.81591000000272">
+ <br>Singapore Botanic Gardens,<br>Rainforest near NParks HQ</a>
 </td>
 </tr>
 </tbody>
 </table>
-<p>This species originated from India, Myanmar to Malesia, New Guinea and Australia. It was introduced to Singapore as a landscape plant.</p>
+<p><em>Adina eurhyncha</em> is a medium to large tree that can grow up to 30 m tall, often with a fluted or latticed trunk. Its wood is used for general construction and as firewood and the stems are used as pillars. </p>
+  
+<p><em>Adina eurhyncha</em> is found naturally in undisturbed to slightly disturbed (open) mixed dipterocarp and swamp forests up to 900 m in altitude, usually on hillsides and ridges with sandy soils. In secondary forests, it is usually present as a pre-disturbance remnant. It occurs in Sumatra, Peninsular Malaysia, Singapore, and Borneo; its conservation status in Singapore is vulnerable.</p>
 
-<p>The tree can grow to a height of 30 m and bears spherical clusters of fragrant flowers that develop into edible but bitter fruits. The wood is used for timber and in woodcarving. Traditionally the tree bark was also used to treat stomach aches and animal bites.</p>
+<p>This species was formerly known as <em>Pertusadina eurhyncha</em>.</p>
 
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3038">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/7/7/7730">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
