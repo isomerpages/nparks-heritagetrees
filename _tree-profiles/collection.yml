@@ -2,8 +2,10 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Africa Butter Tree (HT 2003 97).md
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Adina eurhyncha (HT 2016 281).md
+      - Africa Butter Tree (HT 2003 97).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Bangkal (HT 2015 247).md
       - Baobab (HT 2016 283).md
       - Belinjau (HT 2017 291).md
@@ -15,8 +17,6 @@ collections:
       - Bodhi Tree (HT 2003 69).md
       - Bodhi Tree (HT 2007 156).md
       - Bodhi Tree (HT 2014 225).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Broad leafed Mahogany (HT 2003 118).md
       - Broad leafed Mahogany (HT 2003 119).md
       - Broad leafed Mahogany (HT 2003 120).md
