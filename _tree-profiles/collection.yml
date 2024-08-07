@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Bodhi Tree (HT 2001 18).md
       - Bodhi Tree (HT 2003 69).md
       - Bodhi Tree (HT 2007 156).md
       - Bodhi Tree (HT 2014 225).md
