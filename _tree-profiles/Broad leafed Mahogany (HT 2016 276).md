@@ -11,17 +11,17 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2017-286
+<br>HT 2016-276
 </td>
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Swietenia macrophylla</em>
 <br><strong>Family name: </strong>Meliaceae
-<br><strong>Girth: </strong>4.57 m @ 1.3 m height
-<br><strong>Height: </strong>22.2 m
+<br><strong>Girth: </strong>3.9 m @ 1.3 m height
+<br><strong>Height: </strong>24.2 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3074399999985848&amp;lng=103.78159999999696">
- <br>Seletar Aerospace Drive,<br> after Bus-stop No. 5</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3029399999906224&amp;lng=103.82117999997986">
+ <br>Tanglin Road near House<br>No. 287</a>
 </td>
 </tr>
 </tbody>
@@ -30,11 +30,7 @@ description: ""
 
 <p>Its flowers are lightly fragrant, pale yellow to greenish in colour and occur in large bunches. The fruit is a distinctive, brown, large and heavy woody pod held upright on its stalk, splitting into five segments to release numerous flat single-winged seeds when mature.</p>
 
-<p>The Broad-leafed Mahogany is a native of Tropical America; it was introduced to Malesia region, which includes Singapore, in 1876 from Honduras. Its timber is valued highly for making furniture, panelling and musical instruments.</p>
-
-<p>Before the Seletar Aerospace Park was developed in 2008, this Tree was located near what was previously Bayswater Road and Hay Market Road. Since then, the houses here have been demolished, these two roads were expunged and the land profile was altered. However, this large Heritage Broad-leafed Mahogany together with the two Heritage Broad-leafed Mahoganies (HT 2003-118 and HT 2003-119) in the vicinity of the new Seletar Aerospace Drive bus-stop number 05, were painstakingly conserved.</p>
-
-<p>These large Trees could have been planted in the 1930s around the time of the development of the Royal Air Force’s Seletar station, and so this Tree was estimated to be around 80 years of age when it was endorsed as a Heritage Tree in 2017.</p> 
+<p>The Broad-leafed Mahogany is a native of Tropical America; it was introduced to Malesia region, which includes Singapore, in 1876 from Honduras. Its timber is valued highly for making furniture, panelling and musical instruments. In the third edition of Professor E.J.H. Corner’s book,&nbsp;<em>Wayside Trees of Malaya</em>&nbsp;(1988 reprint), it was noted that this species was introduced to Malaya around 1876. In fact, this Heritage Tree near the Singapore Botanic Gardens could have been planted by Professor Corner himself in 1935, as he was the Assistant Director of the Gardens at the time.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3150">here</a>.</p>
 
