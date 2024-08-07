@@ -15,7 +15,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Adansonia digitata</em>
-<br><strong>Family name: </strong>Baobab
+<br><strong>Family name: </strong>Malvaceae
 <br><strong>Girth: </strong>4.8 m @ 1 m height
 <br><strong>Height: </strong>10.4 m
 </td>
