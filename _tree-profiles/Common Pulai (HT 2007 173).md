@@ -11,7 +11,7 @@ description: ""
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2006-173
+<br>HT 2007-173
 </td>
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Alstonia angustiloba</em>
@@ -20,13 +20,13 @@ description: ""
 <br><strong>Height: </strong>32.2 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3141600000015752&amp;lng=103.81395999999674">
- <br>Singapore Botanic Gardens,<br>in forest within National<br>Orchid Gardens</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.267531000002814&amp;lng=103.82226499999629">
+ <br>Temenggong Road, on<br>stateland opposite House<br>No. 22 towards Marang<br>Road</a>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The Common Pulai or&nbsp;<em>Alstonia angustiloba</em>&nbsp;is a mid-canopy tree that can reach up to 40 m in height. It is native to Singapore and is naturally distributed across the primary or secondary forests and swamp forests of Sumatra, Peninsular Malaysia, Borneo and Java.</p>
+<p>The Common Pulai or <em>Alstonia angustiloba</em>&nbsp;is a mid-canopy tree that can reach up to 40 m in height. It is native to Singapore and is naturally distributed across the primary or secondary forests and swamp forests of Sumatra, Peninsular Malaysia, Borneo and Java.</p>
 
 <p>It has buttress roots and its deeply fluted, dark grey trunk supports a pagoda-shaped crown. The Common Pulai has simple, glossy, dark green leaves that are oval shaped, arranged in whorls. The tree exudes latex when any part of the plant is damaged. In Singapore, flowering can be triggered by distinctly cool dry weather, and the tree produces many sprays of creamy-white flowers accompanied by a heady fragrance reminiscent of burnt sugar.</p>
 
