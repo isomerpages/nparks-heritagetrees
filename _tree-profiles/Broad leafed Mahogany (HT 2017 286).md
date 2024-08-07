@@ -36,7 +36,7 @@ description: ""
 
 <p>These large Trees could have been planted in the 1930s around the time of the development of the Royal Air Force’s Seletar station, and so this Tree was estimated to be around 80 years of age when it was endorsed as a Heritage Tree in 2017.</p> 
 
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/8/1/8138">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3151">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
