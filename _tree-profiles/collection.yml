@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Belinjau (HT 2017 291).md
       - Binjai (HT 2003 86).md
       - Binjai (HT 2003 87).md
       - Binjai (HT 2003 88).md
