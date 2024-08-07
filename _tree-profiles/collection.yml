@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Collared Fig (HT 2013 205).md
       - Common Pulai (HT 2003 35).md
       - Common Pulai (HT 2003 36).md
       - Common Pulai (HT 2003 37).md
