@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Bodhi Tree (HT 2014 225).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Albizia niopoides var niopoides (HT 2012 186).md
       - Broad leafed Mahogany (HT 2003 118).md
