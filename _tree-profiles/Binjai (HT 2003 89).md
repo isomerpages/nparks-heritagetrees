@@ -30,7 +30,7 @@ description: ""
   
 <p>The Binjai was commonly planted in villages for its brown potato-like fruits. Spottiswoode Park used to be a nutmeg plantation in the 1840s before it was converted into bungalow-like residences with a garden-like setting for employees of the Tanjong Pagar Dock Company (the present Port of Singapore Authority) in the early 1900s. The residents or estate managers during that period may have planted this binjai tree for its sourish-sweet fruits.</p>
 
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2915">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3011">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
