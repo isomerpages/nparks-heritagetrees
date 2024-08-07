@@ -2,6 +2,8 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Broad leaf Mahogany (HT 2003 118).md
       - Broad leafed Mahogany (HT 2003 119).md
       - Broad leafed Mahogany (HT 2003 120).md
@@ -23,8 +25,6 @@ collections:
       - Chinese Laurel (HT 2013 211).md
       - Chinese Olive (HT 2018 299).md
       - Chittagong Wood (HT 2018 292).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Collared Fig (HT 2013 205).md
       - Common Pulai (HT 2003 35).md
       - Common Pulai (HT 2003 36).md
