@@ -33,7 +33,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>258</b> Heritage Tre
 	 <tr><td><a href="/ht-2017-291/"><b>Belinjau</b> / <i>Gnetum gnemon</i> (HT 2017-291)</a></td></tr>
 	 <tr><td><a href="/ht-2003-86/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-86)</a></td></tr>
  <tr><td><a href="/ht-2003-87/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-87)</a></td></tr> 
- <tr><td><a href="/ht-2003-88/"><b>Binjai</b> / <i>Mangifera caesia</i>a (HT 2003-88)</a></td></tr>
+ <tr><td><a href="/ht-2003-88/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-88)</a></td></tr>
  <tr><td><a href="/ht-2003-89/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-89)</a></td></tr>
 	 <tr><td><a href="/ht-2001-18/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2001-18)</a></td></tr> 
  <tr><td><a href="/ht-2003-69/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-69)</a></td></tr>
