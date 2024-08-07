@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adina eurhyncha (HT 2016 281).md
       - Bangkal (HT 2015 247).md
       - Baobab (HT 2016 283).md
       - Belinjau (HT 2017 291).md
