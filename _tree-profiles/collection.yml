@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Binjai (HT 2003 88).md
       - Binjai (HT 2003 89).md
       - Bodhi Tree (HT 2001 18).md
       - Bodhi Tree (HT 2003 69).md
