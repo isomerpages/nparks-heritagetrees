@@ -2,7 +2,8 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Giant Cola (HT 2014 229).md
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Collared Fig (HT 2013 205).md
       - Common Pulai (HT 2003 35).md
       - Common Pulai (HT 2003 36).md
@@ -25,12 +26,11 @@ collections:
       - Ficus stricta (HT 2003 73).md
       - Ficus stricta (HT 2013 206).md
       - Ficus stricta (HT 2013 207).md
+      - Giant Cola (HT 2014 229).md
       - Hazel Sterculia (HT 2016 282).md
       - Hazel Sterculia (HT 2019 307).md
       - Horse Mango (HT 2003 90).md
       - Horse Mango (HT 2014 227).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Inai Inai (HT 2003 52).md
       - Indian Banyan (HT 2013 204).md
       - Indian Rubber Tree (HT 2010 181).md
