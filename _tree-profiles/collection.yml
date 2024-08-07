@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Brown Woolly Fig (HT 2010 180).md
       - Burmese Banyan (HT 2009 174).md
       - Burmese Banyan (HT 2011 184).md
       - Cannon Ball Tree (HT 2014 230).md
