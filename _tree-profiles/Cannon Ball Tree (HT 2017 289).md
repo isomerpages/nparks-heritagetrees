@@ -20,8 +20,8 @@ description: ""
 <br><strong>Height: </strong>13.6 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.316219999993928&amp;lng=103.81543999999457">
- <br>Singapore Botanic Gardens,<br>LXA</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.303769999967643&amp;lng=103.82190000000645">
+ <br>Tanglin Road; Second Tree from<br>gate of House. No. 249</a>
 </td>
 </tr>
 </tbody>
