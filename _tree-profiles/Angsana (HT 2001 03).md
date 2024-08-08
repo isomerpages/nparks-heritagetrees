@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/Pteind_ht2001-03_habit.jpg">
+<img style="width: 60%;" src="/images/Heritage_trees_photos/pteind_ht2001-03_habit.jpg">
 </div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -36,7 +36,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/Pteind_ht2001-03_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/pteind_ht2001-03_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/Pteind_ht2001-03_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2001-03_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
