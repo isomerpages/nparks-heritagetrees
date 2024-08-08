@@ -5,9 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" src="/images/Heritage_trees_photos/adieur_ht2016-281_habit.jpg">
-</div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%;" width="100%" src="/images/Heritage_trees_photos/adieur_ht2016-281_habit.jpg">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
