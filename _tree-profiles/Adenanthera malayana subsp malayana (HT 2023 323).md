@@ -5,14 +5,14 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Home%20Page%20/Adenanthera_malayana_Dennis_Sng_lowres.jpg">
+<img src="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg">
 </div>
-<p></p>
+
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
-<br>HT 2019-306
+<br>HT 2023-323
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong>  <em>Adenanthera malayana</em> subsp. <em>malayana</em>
@@ -21,29 +21,18 @@ description: ""
 <br><strong>Height: </strong>15 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong>
-<br>Singapore Botanic Gardens
-<br>Gallop Green
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3142500000000004&amp;lng=103.81033999999998">
+	<br>Singapore Botanic Gardens<br>Gallop Green</a>
 </td>
 </tr></tbody></table>
 <p>Closely related to Saga (<em>Adenanthera pavonina</em>), this </p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>.
 </p>
-<h4>Gallery</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+
+<h4><b>Gallery</b></h4>
+<div class="isomer-card-grid">
+<a href="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Habit of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Flowers of Albizia niopioides var. niopioides" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Flowers</div>
-<div class="isomer-card-link"></div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruits of Albizia niopioides var. niopioides" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruit</div><div class="isomer-card-link"></div></div></a>
-</div>
-<p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
