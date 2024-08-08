@@ -10,7 +10,7 @@ sections:
       title: Heritage Trees of Singapore
       background: /images/hero_banner_heritage_tree_5dollars_edit.jpg
       button: Search for a heritage tree
-      url: /heritage-tree-registry/
+      url: /heritage-tree-register/
       variant: center
       backgroundColor: gray
   - infobar:
