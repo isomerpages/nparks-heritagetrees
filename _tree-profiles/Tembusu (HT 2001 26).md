@@ -4,10 +4,7 @@ permalink: /ht-2001-26/
 variant: markdown
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"> 
-</div>
-<p></p>
+<img style="width: 100%;" height="100%" width="100%" src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitnew.jpg"> 
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -36,22 +33,17 @@ description: ""
 
 </p><h4>Gallery</h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitnew.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitnew.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Foliage</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Photograph from 2011</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/tembusu_ht_2001_26-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_branch.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tembusu_ht_2001_26-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/tembusu_ht_2001_26-branch.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tembusu_ht_2001_26-branch.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Lateral Branch</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_branch.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Lateral Branch</div><div class="isomer-card-description">Photograph from 2011</div></div></a></div>
