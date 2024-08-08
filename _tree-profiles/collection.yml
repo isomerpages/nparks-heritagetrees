@@ -2,6 +2,10 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Adina eurhyncha (HT 2016 281).md
+      - Africa Butter Tree (HT 2003 97).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
       - Angsana (HT 2001 03).md
       - Angsana (HT 2003 98).md
       - Angsana (HT 2003 99).md
@@ -11,10 +15,6 @@ collections:
       - Angsana (HT 2003 103).md
       - Angsana (HT 2007 158).md
       - Angsana (HT 2007 159).md
-      - Adenanthera malayana subsp malayana (HT 2023 323).md
-      - Adina eurhyncha (HT 2016 281).md
-      - Africa Butter Tree (HT 2003 97).md
-      - Albizia niopoides var niopoides (HT 2012 186).md
       - Bangkal (HT 2015 247).md
       - Baobab (HT 2016 283).md
       - Belinjau (HT 2017 291).md
