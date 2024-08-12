@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg">
+<img style="width: 60%;" src="/images/Heritage_trees_photos/pelpte_ht2019-306_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -39,6 +39,6 @@ description: ""
  
 <h4><b>Gallery<b></b></b></h4><b><b>
 <div class="isomer-card-grid">
-	<a href="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg" class="isomer-card">
+	<a href="/images/Heritage_trees_photos/pelpte_ht2019-306_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div></b></b>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pelpte_ht2019-306_habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div></b></b>
