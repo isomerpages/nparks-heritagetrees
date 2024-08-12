@@ -30,7 +30,7 @@ description: ""
 
 <p>The tree could be as old as 88 years when it was endorsed as a Heritage Tree in 2015.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3151">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3151">here</a>.</p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid">
