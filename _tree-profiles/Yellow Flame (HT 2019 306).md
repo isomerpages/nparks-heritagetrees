@@ -41,5 +41,4 @@ description: ""
 <div class="isomer-card-grid">
 	<a href="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-<p></p></div></b></b>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div></b></b>
