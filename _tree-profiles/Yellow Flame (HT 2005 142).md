@@ -44,5 +44,5 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/pelpte_ht2005-142_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pelpte_ht2005-142_habit"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pelpte_ht2005-142_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
