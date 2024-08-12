@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg">
+<img style="width: 60%;" src="/images/Heritage_trees_photos/yellow_flame_ht_2019_306-habit.jpg">
 </div>
 <p></p>
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
@@ -37,7 +37,7 @@ description: ""
 
 <p>This Heritage Yellow Flame measured 4.8 m in girth when endorsed as a Heritage Tree in 2019. It is estimated to have stood here for more than 70 years.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a></p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a>.</p>
  
 <h4><b>Gallery<b></b></b></h4><b><b>
 <div class="isomer-card-grid">
