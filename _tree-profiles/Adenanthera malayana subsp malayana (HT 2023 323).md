@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="height: 480px;" src="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg">
+<img src="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg">
 </div>
 
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
