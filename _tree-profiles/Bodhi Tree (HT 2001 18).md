@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/Ficrel_ht2001-18_habit.jpg">
+<img src="/images/Heritage_trees_photos/ficrel_ht2001-18_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -33,12 +33,12 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/Ficrel_ht2001-18_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficrel_ht2001-18_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/Ficrel_ht2001-18_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficrel_ht2001-18_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/Ficrel_ht2001-18_location.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficrel_ht2001-18_location.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/Ficrel_ht2001-18_location.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficrel_ht2001-18_location.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Location</div></div></a></div>
