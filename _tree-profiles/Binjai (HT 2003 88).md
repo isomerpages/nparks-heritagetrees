@@ -36,4 +36,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/mangcae_ht2003-88_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangcae_ht2003-88_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/mangcae_ht2003-88_flowering.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangcae_ht2003-88_flowering.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">In bloom</div><div class="isomer-card-description">Photographed in 2018</div></div></a><p></p></div>
