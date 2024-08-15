@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/fickur_HT2011-184_landscape.jpg">
+<img src="/images/Heritage_trees_photos/fickur_ht2011-184_landscape.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -33,12 +33,12 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/fickur_HT2011-184_landscape.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/fickur_ht2011-184_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/fickur_HT2011-184_landscape.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/fickur_ht2011-184_landscape.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/fickur_HT2011-184_base.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/fickur_ht2011-184_base.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/fickur_HT2011-184_base.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/fickur_ht2011-184_base.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Area under Canopy</div></div></a></div>
