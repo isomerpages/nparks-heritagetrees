@@ -43,4 +43,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/alsangb_ht2003-36_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-36_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Landscape</div></div></a></div>
