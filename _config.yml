@@ -2,11 +2,11 @@ title: Heritage Trees SG
 url: https://www.heritagetrees.nparks.gov.sg
 favicon: /images/NParks_Favicon.png
 colors:
-  primary-color: "#7a9a01"
-  secondary-color: "#215732"
+  primary-color: "#215732"
+  secondary-color: "#417505"
   media-colors:
     - title: media-color-one
-      color: "#417505"
+      color: "#7a9a01"
     - title: media-color-two
       color: "#488108"
     - title: media-color-three
