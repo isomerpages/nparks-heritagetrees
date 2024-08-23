@@ -43,4 +43,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficker_ht2012-195_roots.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficker_ht2012-195_roots.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Close-up of Roots</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Trunk Base &amp; Prop Roots</div></div></a></div>
