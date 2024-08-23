@@ -415,6 +415,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2003-49"><b>Keruing Kerut</b> / <i>Dipterocarpus sublamellatus</i> (HT 2003-49)</a></td><td>Changi, Cranwell Road near junction with Loyang Avenue</td></tr>
  <tr><td><a href="/ht-2016-275"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2016-275)</a></td><td>Marine Parade Rd Park / Playground</td></tr>
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
+ <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
  <tr><td><a href="/ht-2013-210"><b>Mentulang Daun Lebar</b> / <i>Alangium ridleyi</i> (HT 2013-210)</a></td><td>Singapore Botanic Gardens Lawn H</td></tr>
  <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
  <tr><td><a href="/ht-2018-296"><b>Orange Jasmine</b> / <i>Murraya paniculata</i> (HT 2018-296)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
@@ -486,7 +487,6 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
  <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Hindhede Nature Park, Bt Timah Nature Reserve, along South View Path</td></tr>
  <tr><td><a href="/ht-2008-164"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2008-164)</a></td><td>Linden Drive, opp. LP13, behind House No. 79.</td></tr>
- <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
  <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opposite Gombak Drive. UppBTRd junction with Cashew Rd</td></tr>
  <tr><td><a href="/ht-2003-79/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-79)</a></td><td>Nanyang Technological University, at Nanyang Drive, Bus-stop in front of Innovation Centre</td></tr><tr></tr>
 </tbody></table></div></details></div>
