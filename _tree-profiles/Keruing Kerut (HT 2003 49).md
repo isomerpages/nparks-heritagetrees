@@ -6,18 +6,17 @@ description: ""
 ---
 <div class="isomer-image-wrapper">
 <img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
 <br>HT 2003-49
 </td>
 <td rowspan="1" colspan="1">
-	<strong>Scientific name:</strong> <em>Vitex pinnata</em>
-<br><strong>Family name: </strong>Lamiaceae (Labiatae)
-<br><strong>Girth: </strong>1.96 m @ 1.3 m height
-<br><strong>Height: </strong>16.1 m
+	<strong>Scientific name:</strong> <em>Dipterocarpus sublamellatus</em>
+<br><strong>Family name: </strong>Dipterocarpaceae
+<br><strong>Girth: </strong>3.83 m @ 1.3 m height
+<br><strong>Height: </strong>37.4 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3876120000007341&amp;lng=103.98008999999817">
