@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/pitdul_ht2016-275_habitold.jpg">
+<img src="/images/Heritage_trees_photos/pitdul_ht2016-275_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3056000000451469&amp;lng=103.90924000004007">
- <br>Marine Parade Road Park</a>
+ <br>Marine Parade Road Park &amp; Playground</a>
 </td>
 </tr>
 </tbody>
@@ -35,7 +35,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/pitdul_ht2016-275_habitold.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/pitdul_ht2016-275_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitdul_ht2016-275_habitold.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitdul_ht2016-275_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
