@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2505259999994771&amp;lng=103.8226359999965">
- <br>Sentosa (forested slope<br>opposite Sentosa Development<br>Corporation chalets)</a>
+ <br>Sentosa Capella Hotel,<br>Suite B, 7103 - 7105&nbsp;</a>
 </td>
 </tr>
 </tbody>
