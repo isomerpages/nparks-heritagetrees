@@ -16,7 +16,6 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 	<table style="font-size: 18px; text-indent: 30px;">
  <tbody>
 	 <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td></tr>
-	 <tr><td><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></td></tr>
 	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td></tr>
 	 <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td></tr>
 	 <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td></tr>
@@ -144,6 +143,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 	 <tr><td><a href="/ht-2005-139"><b>Medang</b> / <i>Litsea elliptica</i> (HT 2005-139)</a></td></tr>
 	 <tr><td><a href="/ht-2012-196"><b>Mengkulang</b> / <i>Heritiera elata</i> (HT 2012-196)</a></td></tr>
 	 <tr><td><a href="/ht-2013-210"><b>Mentulang Daun Lebar</b> / <i>Alangium ridleyi</i> (HT 2013-210)</a></td></tr>
+	 <tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td></tr>
 	 <tr><td><a href="/ht-2001-30"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-30)</a></td></tr>
  <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td></tr>
 	 <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td></tr>
@@ -261,7 +261,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 <table style="font-size: 17px;">
 	<tbody>
 <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
- <tr><td><a href="/ht-2016-281/"><b><i>Adina eurhyncha</i></b> (HT 2016-281)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
+
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens, Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens, behind Block 5</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens Lawn E</td></tr>
@@ -312,6 +312,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2021-319"><b>Mango</b> / <i>Mangifera indica</i> (HT 2021-319)</a></td><td>Mount Emily Park</td></tr>
  <tr><td><a href="/ht-2010-183"><b>Marsh Pulai</b> / <i>Alstonia pneumatophora</i> (HT 2010-183)</a></td><td>Singapore Botanic Gardens, Lawn H</td></tr>
  <tr><td><a href="/ht-2012-196"><b>Mengkulang</b> / <i>Heritiera elata</i> (HT 2012-196)</a></td><td>Singapore Botanic Gardens, Lawn O, near HT Kapok Tree</td></tr>
+<tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
  <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
  <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens, Lawn H</td></tr>
  <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td><td>Singapore Botanic Gardens, Lawn H</td></tr>
