@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.310499999984973&amp;lng=103.81740999999552">
- <br>Singapore Botanic Gardens,<br>near Botany Centre,<br>Lawn O</a>
+ <br>Singapore Botanic Gardens<br>(near Fernery)</a>
 </td>
 </tr>
 </tbody>
