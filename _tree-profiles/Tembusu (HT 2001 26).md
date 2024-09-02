@@ -29,7 +29,7 @@ description: ""
 
 <p>This Tembusu was recently estimated to be around 170 years old (as of 2017). It is featured on the back of our Portrait series, Singapore 5-dollar note. It has a unique lower lateral branch which makes it easily recognisable. Many visitors over the generations have taken pictures with this iconic Tembusu Heritage Tree.
 
-</p><p>For more information on this species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>
+</p><p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>.
 
 </p><h4>Gallery</h4>
 <div class="isomer-card-grid">
