@@ -31,11 +31,11 @@ description: ""
 
 <p>The genus <em>Koompassia</em> is a Latinised derivation of <em>Kempas</em>, the Malay name of this species. The specific epithet <em>malaccensis</em> is Latin for 'Malacca', referring to one locality in the natural distribution of this species.</p>
 
-<p>For more information on the species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2984">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2984">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/koomal_ht2016-280_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/koomal_ht2016-280_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2016</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
