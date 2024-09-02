@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg">
-</div>
-
+<img src="/images/Heritage_trees_photos/ademalmal_ht2023-323_habit.jpg"></div>
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -22,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3142500000000004&amp;lng=103.81033999999998">
-	<br>Singapore Botanic Gardens<br>Gallop Green</a>
+	<br>Singapore Botanic Gardens,<br>Gallop Green</a>
 </td>
 </tr></tbody></table>
 <p><em>Adenanthera malayana</em> subsp. <em>malayana</em>&nbsp;is an&nbsp;endangered tree in Singapore. It can reach up to 45 m and have bipinnate leaves. The fruit pod twists into a spiral and splits open when ripe. Each fruit contains about 10 red and black ornamental glossy seeds.</p>
@@ -33,12 +31,12 @@ description: ""
 
 <p>This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
 	
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>.
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>.
 </p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ademalmal_ht2023-323_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/adenanthera_malayana-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ademalmal_ht2023-323_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
