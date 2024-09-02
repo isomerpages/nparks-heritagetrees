@@ -21,7 +21,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong>
-<br>Singapore Botanic Gardens, <br>Lawn E (near  HT Tembusu)
+	<br><a href="https://www.onemap.gov.sg/?lat=1.3086199999961092&amp;lng=103.81651000000093">Singapore Botanic Gardens, <br>Lawn E (near HT Tembusu)</a>
 </td>
 </tr>
 </tbody>
