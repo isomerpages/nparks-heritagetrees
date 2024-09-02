@@ -4,7 +4,7 @@ permalink: /ht-2001-26/
 variant: markdown
 description: ""
 ---
-<img style="width: 100%;" height="100%" width="100%" src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitnew.jpg"> 
+<img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg"> 
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -19,7 +19,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1"><strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3085900000014634&amp;lng=103.81682899999699">
 <br>Singapore Botanic Gardens,
-<br>at Lawn E</a>
+<br>Lawn E</a>
 </td>
 </tr>
 </tbody></table>
@@ -29,21 +29,16 @@ description: ""
 
 <p>This Tembusu was recently estimated to be around 170 years old (as of 2017). It is featured on the back of our Portrait series, Singapore 5-dollar note. It has a unique lower lateral branch which makes it easily recognisable. Many visitors over the generations have taken pictures with this iconic Tembusu Heritage Tree.
 
-</p><p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>
+</p><p>For more information on this species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>
 
 </p><h4>Gallery</h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitnew.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitnew.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
 <a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Photograph from 2011</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_branch.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitold.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_branch.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Lateral Branch</div><div class="isomer-card-description">Photograph from 2011</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitold.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div><div class="isomer-card-description">Taken in 2011</div></div></a></div>
