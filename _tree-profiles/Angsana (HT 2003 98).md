@@ -5,9 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%" src="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -21,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.257793000002993&amp;lng=103.81064700000216">
- <br>Sentosa (entrance of Shangri-La<br>Rasa Sentosa Hotel)</a>
+ <br>Sentosa (near entrance of<br>Shangri-La Rasa Sentosa Hotel)</a>
 </td>
 </tr>
 </tbody>
@@ -32,21 +31,16 @@ description: ""
 	
 <p>This Heritage Tree has the largest girth for an Angsana in this Register.</p>
 
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3093">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3093">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">View from base</div><div class="isomer-card-description">Taken in 2022</div></div></a>
+
+<a href="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a></div>
