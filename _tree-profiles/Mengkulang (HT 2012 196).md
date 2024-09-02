@@ -5,9 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -21,28 +20,23 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3109899999970722&amp;lng=103.8167499999987">
- <br>Singapore Botanic Gardens,<br>Lawn O, near HT Kapok</a>
+ <br>Singapore Botanic Gardens,<br> along Lower Ring Rd</a>
 </td>
 </tr>
 </tbody>
 </table>
-<p>This species was described as new to science in 1908 from material obtained from this Tree. Henry Ridley, the first Director of the Gardens, had this to say when he described the species: "There are two or three of these fine trees in the Gardens' Jungle. The finest is a conspicuous object by the plant sheds." Besides being probably older than the Gardens and the first plant of its kind known to science, the Tree itself has a unique growth habit. The entire trunk of the Tree is made up of vertically folded plates, which are a unique feature of this species.</p>
+<p>This species was described as new to science in 1908 from material obtained from this Tree. Henry Ridley, the first Director of the Gardens, had this to say when he described the species: <em> "There are two or three of these fine trees in the Gardens' Jungle. The finest is a conspicuous object by the plant sheds."</em> Besides being probably older than the Gardens and the first plant of its kind known to science, the Tree itself has a unique growth habit. The entire trunk of the Tree is made up of vertically folded plates, which are a unique feature of this species.</p>
 
-<p>For more information on the species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2951">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2951">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Top of Canopy</div></div></a></div>
