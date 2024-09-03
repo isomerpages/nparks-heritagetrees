@@ -40,7 +40,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">View from base</div><div class="isomer-card-description">Taken in 2022</div></div></a>
 
-<a href="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/pteind_ht2003-98_habitfar.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habitfar.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a></div>
