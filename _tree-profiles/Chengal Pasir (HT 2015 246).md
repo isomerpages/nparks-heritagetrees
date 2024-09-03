@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%" src="/images/Heritage_trees_photos/hopodo_ht2015-245_habit.jpg">
+<img style="width: 75%" src="/images/Heritage_trees_photos/hopodo_ht2015-245_habit.png">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.316219999993928&amp;lng=103.81543999999457">
- <br>Singapore Botanic Gardens,<br>(near Cornet</a>
+ <br>Singapore Botanic Gardens,<br>(Corner Walk)</a>
 </td>
 </tr>
 </tbody>
@@ -37,7 +37,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/hopodo_ht2015-245_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/hopodo_ht2015-245_habit.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/hopodo_ht2015-245_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/hopodo_ht2015-245_habit.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
