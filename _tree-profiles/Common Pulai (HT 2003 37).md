@@ -47,7 +47,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-37_base.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Tree Base</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/alsangb_ht2003-37_far.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/alsangb_ht2003-37_far.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-37_far.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-37_far.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">View from Bumboat</div></div></a></div>
