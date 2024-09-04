@@ -21,7 +21,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3169630000022665&amp;lng=103.81734600000291">
- <br>Singapore Botanic Gardens,<br>Healing Gardens, behind<br>House 5</a>
+ <br>Singapore Botanic Gardens,<br>Healing Gardens</a>
 </td>
 </tr>
 </tbody>
