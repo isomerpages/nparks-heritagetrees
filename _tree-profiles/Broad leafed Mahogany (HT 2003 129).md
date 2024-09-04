@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2548539999972133&amp;lng=103.81779500000442">
- <br>Sentosa (Images Of Singapore<br>near Sky Tower - 2nd Tree)</a>
+ <br>Sentosa (near SkyHelix<br>- Tree on the Right)</a>
 </td>
 </tr>
 </tbody>
