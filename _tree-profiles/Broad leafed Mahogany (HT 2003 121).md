@@ -21,7 +21,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2549189999975894&amp;lng=103.81775699999825">
- <br>Sentosa (Images Of Singapore<br>near Sky Tower - 1st Tree)</a>
+ <br>Sentosa (near SkyHelix<br>- Tree on the Left)</a>
 </td>
 </tr>
 </tbody>
