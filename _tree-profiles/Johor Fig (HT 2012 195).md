@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3128600000027308&amp;lng=103.81586000000048">
- <br>Singapore Botanic Gardens<br>within Rainforest (Tag #8)</a>
+ <br>Singapore Botanic Gardens<br>(Rainforest)</a>
 </td>
 </tr>
 </tbody>
