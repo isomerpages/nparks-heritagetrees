@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4184499999974471&amp;lng=103.97277500000035">
- <br>Pulau Ubin, within<br>National Police Cadet<br>Corps camp site</a>
+ <br>Pulau Ubin, within National<br>Police Cadet Corps campsite</a>
 </td>
 </tr>
 </tbody>
