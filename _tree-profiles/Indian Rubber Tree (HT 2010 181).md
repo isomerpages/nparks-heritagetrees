@@ -38,7 +38,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficela_ht2010-181_gate.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Roots</div><div class="isomer-card-description">Strangler roots growing around portion of the fence that once surrounded the National Museum of Singapore</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_gate.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Aerial Roots</div><div class="isomer-card-description">Strangler roots growing around portion of the fence that once surrounded the National Museum of Singapore</div></div></a></div>
