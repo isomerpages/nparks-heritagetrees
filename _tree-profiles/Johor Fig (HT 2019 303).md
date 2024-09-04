@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2492799999701674&amp;lng=103.82532000001041">
- <br>Sentosa, in Capella Hotel<br>grounds, near Room 1</a>
+ <br>Sentosa (Capella Hotel,<br>near Room 1)</a>
 </td>
 </tr>
 </tbody>
