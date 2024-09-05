@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.294718000001721&amp;lng=103.84833399999721">
- <br>Fort Canning Slope, behind<br>Kwa Geok Choo Law Library</a>
+ <br>Fort Canning Slope, near<br>Pedestrian Underpass</a>
 </td>
 </tr>
 </tbody>
