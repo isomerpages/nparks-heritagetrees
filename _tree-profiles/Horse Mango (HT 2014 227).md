@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.294969999999008&amp;lng=103.84833999999121">
- <br>Canning Rise,<br>opposite Lamp Post 7</a>
+ <br>Fort Canning Slope<br>(between HT Merbatu)</a>
 </td>
 </tr>
 </tbody>
@@ -36,4 +36,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2017</div></div></a><p></p></div>
