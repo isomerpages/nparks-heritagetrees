@@ -6,9 +6,7 @@ description: ""
 ---
 <div class="isomer-image-wrapper">
 <img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -22,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3076299999996654&amp;lng=103.81674999999981">
- <br>Singapore Botanic Gardens,<br>Lawn B, near Swan Lake</a>
+ <br>Singapore Botanic Gardens,<br>Lawn B (near Swan Lake0</a>
 </td>
 </tr>
 </tbody>
@@ -35,15 +33,5 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
