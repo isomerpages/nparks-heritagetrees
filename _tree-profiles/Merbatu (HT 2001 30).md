@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+<img style="width: 60%" src="/images/Heritage_trees_photos/marcor_ht2001-30_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2951980000041516&amp;lng=103.84847200000091">
- <br>Fort Canning Slope,<br>behind Kwa Geok Choo<br>Law Library </a>
+ <br>Fort Canning Slope, behind<br>Kwa Geok Choo Law Library</a>
 </td>
 </tr>
 </tbody>
@@ -33,17 +33,12 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/marcor_ht2001-30_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/marcor_ht2001-30_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2023</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Landscape View</div><div class="isomer-card-description">Taken in 2024</div></div></a></div>
