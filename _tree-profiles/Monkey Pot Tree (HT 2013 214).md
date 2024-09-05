@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img src="/images/Heritage_trees_photos/lecpis_ht2013-214-215_compare.png">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -22,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3101899999973825&amp;lng=103.81565000000171">
- <br>Singapore Botanic Gardens,<br>(between Sun Garden and<br>Ginger Garden; Left Tree)</a>
+ <br>Singapore Botanic Gardens,<br>(opposite Sun Garden; Left Tree)</a>
 </td>
 </tr>
 </tbody>
@@ -33,11 +31,11 @@ description: ""
 
 <p>This tree is dedicated to Hotel Properties Limited (HPL). The HPL Canopy Link was supported by the company through National Parks Board's registered charity Garden City Fund.</p>
 
-<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/7/5/7553">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/7/5/7553">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/lecpis_ht2013-214-215_compare.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/lecpis_ht2013-214-215_compare.png"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
