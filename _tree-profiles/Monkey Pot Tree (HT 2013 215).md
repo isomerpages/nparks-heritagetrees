@@ -22,7 +22,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3101899999973825&amp;lng=103.81565000000171">
- <br>Singapore Botanic Gardens,<br>Lawn H</a>
+ <br>Singapore Botanic Gardens,<br>(between Sun Garden and<br>Ginger Garden; Right Tree)</a>
 </td>
 </tr>
 </tbody>
