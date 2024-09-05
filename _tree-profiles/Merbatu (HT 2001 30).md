@@ -5,9 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -21,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2951980000041516&amp;lng=103.84847200000091">
- <br>along Canning Rise,<br>SMU Law School<br>(opposite lamppost 8)</a>
+ <br>Fort Canning Slope,<br>behind Kwa Geok Choo<br>Law Library </a>
 </td>
 </tr>
 </tbody>
@@ -30,7 +29,7 @@ description: ""
   
 <p>These two Merbatu or Sea Beam trees stand at the lower slopes of Fort Canning Hill. The nearby Fort Canning Tunnel was the site of the former National Library, which was built in 1926, and relocated to Bras Brasah Road in 2004. These trees remain, standing tall amid changing landscapes. They can sometimes be seen in old images of the former National Library building location.</p>
 
-<p></p><p>For more information on the species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3017">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3017">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
