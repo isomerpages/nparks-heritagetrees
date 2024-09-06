@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="50%" width="100%" src="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg"> 
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%;" src="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg"> 
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -22,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2752600000447851&amp;lng=103.79240000002645">
-<br>Pasir Panjang Park,<br>near MRT station</a>
+<br>Pasir Panjang Park Carpark,<br>near MRT station</a>
 </td>
 </tr>
 </tbody></table>
@@ -38,17 +36,17 @@ description: ""
 
 <p>In 1963, it was recorded that then Prime Minister Lee Kuan Yew planted a Sea Almond at Pasir Panjang Park. Though the tree planted by PM Lee cannot be definitively located, it is believed that this Heritage Sea Almond was also planted during the time. Hence, it was estimated to be greater than 57 years of age and had a girth of 3.1 m when it was endorsed as a Heritage Tree in 2020.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile<a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a> .</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2020</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Prime Minister Lee Kuan Yew planting a Sea Almond [<em>Terminalia catappa</em>] sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore.)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Then Prime Minister Lee Kuan Yew planting a <em>Terminalia catappa</em> sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore.)</div></div></a>
 </div>
