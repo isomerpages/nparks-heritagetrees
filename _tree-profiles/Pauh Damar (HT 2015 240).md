@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+<img style="width: 60%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -27,7 +27,7 @@ description: ""
 </table>
 <p>Based on Flora Malesiana (1978), the distribution of this species in Malesia was recorded as Malay Peninsula (Kedah, Perak, Pahang, Johore and Singapore). A common village tree in Kedah, it is also native to Singapore.</p>
 
-<p>The single Singapore herbarium specimen collected by H.N. Ridley and cited by Ding Hou, is without a known location. As of February 2016, no other specimen of M. pentandra has been reported in our forests.</p>
+<p>The single Singapore herbarium specimen collected by H.N. Ridley and cited by Ding Hou, is without a known location. As of February 2016, no other specimen of <em>M. pentandra</em> has been reported in our forests.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile
  <a href="https://www.nparks.gov.sg/florafaunaweb/flora/6/7/6787">here</a>.</p>
