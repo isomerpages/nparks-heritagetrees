@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2940319999999756&amp;lng=103.84765400000184">
- <br>Fort Canning Park, <br>behind Registry of Marriages</a>
+ <br>Fort Canning Park, <br>behind Registry of Marriage</a>
 </td>
 </tr>
 </tbody>
