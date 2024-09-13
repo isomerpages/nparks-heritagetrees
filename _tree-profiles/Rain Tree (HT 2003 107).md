@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+<img src="/images/Heritage_trees_photos/samsam_ht2003-107_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -31,13 +31,13 @@ description: ""
 
 <p>This Tropical American species has been dispersed throughout the tropics since the middle of the 1900s. It was introduced to Singapore in 1876 and spread throughout the region. Due to its excellent shade, the species was planted in the 1900s in coffee and nutmeg plantations, and along roadsides. The sweetish fruit pulp was relished by cattle, goats, horses, pigs and even children in some countries.</p>
 	
-<p>This Heritage Tree, as well as the one opposite the Block 10 multi-storey carpark, were planted probably as part of the landscaping for the Spottiswoode Park estate. in 2017, a pair of oriental pied hornbills (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/7/174"><em>Anthracoceros albirostris</em></a>)were observed nesting in one of the tree holes.</p>
+<p>This Heritage Tree, as well as the one opposite the Block 10 multi-storey carpark, were planted probably as part of the landscaping for the Spottiswoode Park estate. in 2017, a pair of oriental pied hornbills (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/7/174"><em>Anthracoceros albirostris</em></a>) were observed nesting in one of the tree holes.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/samsam_ht2003-107_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2003-107_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2022</div></div></a><p></p></div>
