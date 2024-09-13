@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
+<img src="/images/Heritage_trees_photos/samsam_ht2003-106_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -33,11 +33,11 @@ description: ""
 	
 <p>This Heritage Tree had a girth of 7.5m when measured in Year 2003. Among the Rain Trees in this Register, this is the one with the largest girth currently.</p>
 
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/samsam_ht2003-106_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2003-106_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
