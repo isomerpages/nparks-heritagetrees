@@ -40,12 +40,12 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_habi.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 20##</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/ficela_ht2010-181_gat.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_gat.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Remnants of Fence</div><div class="isomer-card-description">Strangler roots growing around portion of the fence that once surrounded the National Museum of Singapore. Taken In 20##</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Roots around the Fence</div><div class="isomer-card-description">Strangler roots has grown around portion of the fence that once surrounded the National Museum of Singapore. Taken In 20##</div></div></a>
 
-<a href="/images/Heritage_trees_photos/ficela_ht2010-181_gat.jpg" class="isomer-card">
+<a href="" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_gat.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_archive.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">An old postcard, dated 1955, of Raffles Museum and Library (now, National Museum of Singapore) with the Heritage Indian Rubber seen on the right. (Photo courtesy of National Archives of Singapore)</div></div></a></div>
