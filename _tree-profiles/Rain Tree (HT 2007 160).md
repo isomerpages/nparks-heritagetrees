@@ -6,9 +6,7 @@ description: ""
 ---
 <div class="isomer-image-wrapper">
 <img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg">
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -36,21 +34,11 @@ description: ""
 	
 <p>This Heritage Tree had a girth of 6.2m when measured in Year 2007.</p>
 
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Bird's Eye View</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/rain_tree_hyet_2005_45-canopy.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-canopy.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Canopy</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
