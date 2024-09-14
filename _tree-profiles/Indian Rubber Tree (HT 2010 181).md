@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/ficela_ht2010-181_habi.jpg">
+<img src="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_habi.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 20##</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg" class="isomer-card">
