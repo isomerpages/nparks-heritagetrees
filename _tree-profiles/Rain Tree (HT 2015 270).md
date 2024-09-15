@@ -21,7 +21,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3101199999915205&amp;lng=103.81506999999432">
  <br>Singapore Botanic Gardens, 
- <br>Lawn G</a>
+ <br>near Learning Forest restroom</a>
 </td>
 </tr>
 </tbody>
