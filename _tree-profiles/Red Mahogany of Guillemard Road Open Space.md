@@ -42,11 +42,11 @@ description: ""
 </tr></tbody>
 </table>
 </td></tr></tbody></table>
-<p>A large tree that can grow up to 60m in its native environment. Trunk massive and straight, with buttresses. Bark is greyish- brown in colour. Leaves are compound, dark glossy green above and pale lighter green below, leaflets abour 17x7cm in size. Flowers are white in colour, sweet smell. Fruits are woody capsules, 3-5cm in diameter, splitting into 4-5 valves. Seeds are winged.</p>
+<p>A large tree that can grow up to 60m in its native environment. Trunk massive and straight, with buttresses. Bark is greyish-brown in colour. Leaves are compound, dark glossy green above and pale lighter green below, leaflets abour 17x7cm in size. Flowers are white in colour, sweet smell. Fruits are woody capsules, 3-5cm in diameter, splitting into 4-5 valves. Seeds are winged.</p>
   
-<p><em>Khaya nyasica</em> is native to Tropical Africa and was introduced to Singapore in the late 1970s. It produces small, white, sweet-scented flowers which then give way to tennis-ball size fruits. These fruits spilt open when ripe to release many flat brown winged seeds.</p>
+<p>The Red Mahogany is native to Tropical Africa and was introduced to Singapore in the late 1970s. It produces small, white, sweet-scented flowers which then give way to tennis-ball size fruits. These fruits spilt open when ripe to release many flat brown winged seeds.</p>
 
-<p>The surrounding area used to be a Malay settlement in the early 19<sup>th</sup> century which grew coconut plantations in the mid-1850s before cultivating lemongrass, hence the name Geylang Serai (Serai is Malay for lemongrass). The Geylang police post used to be situated here in the 1970s, before it was converted into a green space where these trees were planted. <em>Khaya nyasica</em> trees are now uncommon in our landscape, and this cluster of four Heritage Trees serve as a reminder of our past floral heritage. This Heritage Tree had a girth of 2.9m when measured in Year 2001.</p>
+<p>The surrounding area used to be a Malay settlement in the early 19<sup>th</sup> century which grew coconut plantations in the mid-1850s before cultivating lemongrass, hence the name Geylang Serai (Serai is Malay for lemongrass). The Geylang police post used to be situated here in the 1970s, before it was converted into a green space where these trees were planted. Red Mahogany trees are now uncommon in our landscape, and this cluster of four Heritage Trees serve as a reminder of our past floral heritage. This Heritage Tree had a girth of 2.9 m when measured in Year 2001.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/7/2/7256">here</a>.</p>
 
