@@ -41,4 +41,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/samsam_ht2005-145_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2005-145_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2023</div></div></a><p></p></div>
