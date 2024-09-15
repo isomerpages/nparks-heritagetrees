@@ -6,8 +6,7 @@ description: ""
 ---
 <div class="isomer-image-wrapper">
 <img width="100%" alt="" src="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg"> 
-</div>
-<p></p><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Samanea saman</em> 
@@ -142,7 +141,6 @@ Tree planting was formalised in 1881 by the then Superintendent of the Singapore
 <p>The Avenue of Heritage Trees underscores the rich history of the Civic District and how these majestic Rain Trees &nbsp;have matured over the course of time together with the growth of Singapore as a global city-state.</p>
 
 <h4>About Rain Trees</h4>
-
 <p>The Rain Tree (<em>Samanea saman</em>) is easily recognised by its massive umbrella-shaped, widely-spreading crown which can reach 20 to 30m across. It has small clusters of flowers that are pinkish or whitish and are slightly fragrant.</p>
   
 <p>Its seed pods are thick, long, straight and fleshy inside. The pods ripen black and the seeds germinate readily into seedlings, sometimes while still inside the fruit. Its sweet fruit pulp is relished by cattle, goats, horses, pigs and even children in some countries. Epiphytes like ferns and orchids tend to perch on old Rain Trees.</p>
@@ -150,3 +148,10 @@ Tree planting was formalised in 1881 by the then Superintendent of the Singapore
 <p>The Rain Tree originates from Tropical America. It was introduced to Singapore in 1876, and by the mid-1900s, it was planted throughout the tropics.</p>
   
 <p>The leaves consist of leaflets which fold up in the evenings. This is why the Malays call it ‘Pukul Lima’, which means ‘5 o’clock’.</p>
+
+<h4><b>Gallery</b></h4>
+<div class="isomer-card-grid">
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a></div>
