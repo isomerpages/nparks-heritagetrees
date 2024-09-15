@@ -6,9 +6,7 @@ description: ""
 ---
 <div class="isomer-image-wrapper">
 <img src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"> 
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
