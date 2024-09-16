@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="50%" width="100%" alt="" src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"> 
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%" src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"> 
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -30,12 +28,12 @@ description: ""
   
 <p>According to EJH Corner, in his book "Wayside Trees of Malaya", he observed that the pale giant squirrel (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/233"><em>Ratufa affinis</em></a>) would eat the fruits of this species of tree. Interestingly, and sadly at the same time, the pale giant squirrel was once readily found in our forests but now it is estimated that there are not more than 10 individuals left in our forests.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3282">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3282">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"></div></div>
+	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
 <p></p></div>
