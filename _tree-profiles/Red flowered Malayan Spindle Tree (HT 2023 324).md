@@ -28,7 +28,7 @@ description: ""
   
 <p>According to EJH Corner, in his book "Wayside Trees of Malaya", he observed that the pale giant squirrel (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/2/3/233"><em>Ratufa affinis</em></a>) would eat the fruits of this species of tree. Interestingly, and sadly at the same time, the pale giant squirrel was once readily found in our forests but now it is estimated that there are not more than 10 individuals left in our forests.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3282">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3282">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
