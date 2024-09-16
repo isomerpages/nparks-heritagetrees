@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"> 
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"> 
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -37,21 +35,11 @@ description: ""
 
 <p>As a slow growing species with a girth of 2.2 m, this Heritage Tree was estimated to be around 100 years of age when it was endorsed as a Heritage Tree in 2017. female flowers are found on the same tree (monoecious). Its fruit is about 18 cm long, and turns from cream-yellow to brown and emits a nauseous, rancid smell when ripe.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3077">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3077">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Flowers</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Fruit</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
