@@ -48,5 +48,5 @@ description: ""
 <a href="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Then Prime Minister Lee Kuan Yew planting a <em>Terminalia catappa</em> sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore.)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Then Prime Minister Lee Kuan Yew planting a <em>Terminalia catappa</em> sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore)</div></div></a>
 </div>
