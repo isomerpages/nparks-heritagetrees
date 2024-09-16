@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"> 
+<img src="/images/Heritage_trees_photos/khanya_ht2010-182_habit.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3339500000030349&amp;lng=103.84464999999611">
-<br>In front Blk 150<br>Lorong 1 Toa Payoh</a>
+<br>In front of Blk 150,<br>Lorong 1, Toa Payoh</a>
 </td>
 </tr>
 </tbody></table>
@@ -32,8 +32,8 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/khanya_ht2010-182_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sea_almond_ht_2020_31-habit.jpg"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/khanya_ht2010-182_habit.jpg"></div></div>
+	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
 <p></p></div>
