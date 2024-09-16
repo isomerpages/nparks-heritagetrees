@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3321159999988958&amp;lng=103.9462810000039">
-<br>East Village Car-park, at<br>junction of Bedok Road and<br>Upper Changi Road</a>
+<br>East Village Carpark, near<br>junction of Bedok Road and<br>Upper Changi Road</a>
 </td>
 </tr>
 </tbody></table>
