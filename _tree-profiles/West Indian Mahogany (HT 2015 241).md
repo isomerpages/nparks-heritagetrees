@@ -6,8 +6,7 @@ description: ""
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" src="/images/Heritage_trees_photos/swimah_ht2015-241_habit.jpg">
-</div>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -21,8 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3115599999809424&amp;lng=103.81479000003529">
-<br>Lawn R, Singapore Botanic
-	<br>Gardens, near Orchid Plaza</a>
+<br>Singapore Botanic Gardens,<br>near Orchid Plaza</a>
 </td>
 </tr>
 </tbody></table>
@@ -36,6 +34,6 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/swimah_ht2015-241_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/swimah_ht2015-241_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/swimah_ht2015-241_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
 <p></p></div>
