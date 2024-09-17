@@ -32,7 +32,7 @@ description: ""
 
 <p>This species was previously known by its synonym, <em>Callerya atropurpurea</em>.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2769">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2769">here</a>.</p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid">
