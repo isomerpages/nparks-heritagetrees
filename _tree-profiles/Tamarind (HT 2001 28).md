@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"> 
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img src="/images/Heritage_trees_photos/tamind_ht2001-28_habit.jpg"> 
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -22,8 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3556949999956114&amp;lng=103.88424599999901">
-<br>Surin Avenue
-	<br> Neighbourhood Park</a>
+<br>Surin Avenue<br> Neighbourhood Park</a>
 </td>
 </tr>
 </tbody></table>
@@ -35,21 +32,11 @@ description: ""
 
 </p><p>Mostly Chinese and Eurasian villagers occupied this part of Upper Serangoon in the early 1900s and many of them kept fruit tree plantations; this tree could be one of the fruit trees sown by villagers in their garden or plantation land. This Heritage Tree had a girth of 3.5m when measured in Year 2001.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3174">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3174">here</a>.</p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/tamind_ht2001-28_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Flowers</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Fruit</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tamind_ht2001-28_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
