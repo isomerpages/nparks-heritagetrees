@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Heritage Trees SG
+title: Heritage Trees of Singapore
 description: Brief site description here
 image: /images/heritage_trees_logo.png
 permalink: /
