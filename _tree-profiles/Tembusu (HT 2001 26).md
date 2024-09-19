@@ -41,4 +41,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitold.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitold.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div><div class="isomer-card-description">Taken in 2011</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit (old)</div><div class="isomer-card-description">Taken in 2011</div></div></a></div>
