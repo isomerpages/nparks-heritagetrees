@@ -27,7 +27,7 @@ description: ""
   
 </p><p>It was recorded that in the past when they were numerous, the Malayan Flying Fox (<em>Pteropus vampyrus</em>) fed on the berries of the Tembusu in season. The skins and minute seeds were disgorged in red splashes. From these minute, ejected grains, the big trees slowly develop. Other than bats and birds, the berries were too bitter to be relished by other animals. The wood was extremely durable and resistant to termite attack, making it highly suitable for heavy construction, bridges and carving. In fact the wood was so hard that the Malays in metaphor compare a hard heart to it. </p>
 
-<p>This Tembusu is estimated to be over 200 years (as of 2014). It is featured on the back of our Portrait series, Singapore 5-dollar note. It has a unique lower lateral branch which makes it easily recognisable. Many visitors over the generations have taken pictures with this iconic Tembusu Heritage Tree.
+<p>This Tembusu is estimated to be over 200 years (as of 2014) and is featured on the back of our Portrait series, Singapore 5-dollar note. It has a unique lower lateral branch which makes it easily recognisable. Many visitors over the generations have taken pictures with this iconic Tembusu Heritage Tree.
 
 </p><p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>.
 
