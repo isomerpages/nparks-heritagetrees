@@ -13,8 +13,8 @@ description: ""
 <br><strong>Family name: </strong>Meliaceae
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.314695000000055&amp;lng=103.89240499999623">
-<br>Guillemard Road Open Space</a>
+<strong>Location</strong>
+<br>Guillemard Road Open Space
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3">
@@ -26,17 +26,17 @@ description: ""
  <th>Tree Height</th>
 </tr>
 <tr>
- <td>HT 2001-14</td>
+ <td><a href="https://www.onemap.gov.sg/?lat=1.314695000000055&amp;lng=103.89240499999623">HT 2001-14</a></td>
  <td>3.28 m @ 1.3 m height</td>
  <td>31 m</td>
 </tr>
 <tr>
- <td>HT 2001-15</td>
+ <td><a href="https://www.onemap.gov.sg/?lat=1.3146979999978112&amp;lng=103.89251600000291">HT 2001-15</a></td>
  <td>3.26 m @ 1.3 m height</td>
  <td>31 m</td>
 </tr>
 <tr>
- <td>HT 2001-16</td>
+	<td><a href="https://www.onemap.gov.sg/?lat=1.3147479999978293&amp;lng=103.89245000000368">HT 2001-16</a></td>
  <td>2.78 m @ 1.3 m height</td>
  <td>24.2 m</td>
 </tr></tbody>
