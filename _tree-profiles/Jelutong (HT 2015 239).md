@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.311029999996307&amp;lng=103.81581999999976">
- <br>Singapore Botanic Gardens<br>(Rainforest entrance, near<br>Lower Ring Rd)</a>
+ <br>Singapore Botanic Gardens,<br>Rainforest entrance, near<br>Lower Ring Rd</a>
 </td>
 </tr>
 </tbody>
