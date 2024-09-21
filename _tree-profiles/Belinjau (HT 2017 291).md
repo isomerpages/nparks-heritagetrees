@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3191299999870336&amp;lng=103.81571999997253">
- <br>Singapore Botanic Gardens<br>(behind The Garage)</a>
+ <br>Singapore Botanic Gardens,<br>behind The Garage</a>
 </td>
 </tr>
 </tbody>
