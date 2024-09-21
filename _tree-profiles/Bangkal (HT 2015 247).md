@@ -21,7 +21,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3199900000001576&amp;lng=103.81546999999172">
- <br>Singapore Botanic Gardens,<br>(behind Foliage Garden)</a>
+ <br>Singapore Botanic Gardens,<br>behind Foliage Garden</a>
 </td>
 </tr>
 </tbody>
