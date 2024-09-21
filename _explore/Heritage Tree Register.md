@@ -47,10 +47,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2005-149"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-149)</a></td></tr>
  <tr><td><a href="/ht-2016-276"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i>(HT 2016-276)</a></td></tr>
  <tr><td><a href="/ht-2017-286"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2017-286)</a></td></tr>
-	 <tr><td><a href="/ht-2010-177"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-177)</a></td></tr>
- <tr><td><a href="/ht-2010-178"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-178)</a></td></tr>
- <tr><td><a href="/ht-2010-179"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-179)</a></td></tr>
- <tr><td><a href="/ht-2010-180"><b>Brown Woolly Fig</b> / <i>Ficus drupacea</i> (HT 2010-180)</a></td></tr>
+	 <tr><td><a href="/ht-2010-177-180"><b>Brown Woolly Figs of Singapore Polytechnic</b> (HT 2010-177 - HT 2010-180)</a></td></tr>
 	 <tr><td><a href="/ht-2009-174"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2009-174)</a></td></tr>
 	 <tr><td><a href="/ht-2011-184"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2011-184)</a></td></tr>
 	 <tr><td><a href="/ht-2014-230"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2014-230)</a></td></tr>
@@ -154,11 +151,11 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 	 <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td></tr>
 	 <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td></tr>
 	 <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td></tr>
- <tr><td><a href="/ht-2015-271-272"><b>Nutmegs</b>/ <i>Myristica fragrans</i> (HT 2015-271 &amp; HT 2015-272)</a></td></tr>
+ <tr><td><a href="/ht-2015-271-277"><b>Nutmegs of Singapore Botanic Gardens</b>/ <i>Myristica fragrans</i> (HT 2015-271 - HT 2015-272)</a></td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td></tr>
 	 <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td></tr>
-	 <tr><td><a href="//ht-2018-296-ht-2019-305/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td></tr>
+	 <tr><td><a href="//ht-2018-296-ht-2019-305/"><b>Orange Jasmines of Fairy Point Chalet</b> (HT 2018-296 - HT 2019-305)</a></td></tr>
 	 <tr><td><a href="/ht-2010-176"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2010-176)</a></td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td></tr>
  <tr><td><a href="/ht-2018-294"><b>Para Rubber</b> / <i>Hevea brasiliensis</i> (HT 2018-294)</a></td></tr>
@@ -166,7 +163,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td></tr>
- <tr><td><a href="/ht-2007-162-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162 &amp; HT 2007-163)</a></td></tr>
+ <tr><td><a href="/ht-2007-162-163"><b>Perepats of Pulau Ubin</b> (HT 2007-162 - HT 2007-163)</a></td></tr>
  <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td></tr>
@@ -190,12 +187,10 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2009-175"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2009-175)</a></td></tr>
  <tr><td><a href="/ht-2014-228"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2014-228)</a></td></tr>
  <tr><td><a href="/ht-2015-270"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2015-270)</a></td></tr>
-	<tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248) - (HT 2015-269)</a></td></tr>
+	<tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248 - HT 2015-269)</a></td></tr>
  <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td></tr>
 	 <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td></tr>
- <tr><td><a href="/ht-2001-14"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-14)</a></td></tr>
- <tr><td><a href="/ht-2001-15"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-15)</a></td></tr>
- <tr><td><a href="/ht-2001-16"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-16)</a></td></tr>
+ <tr><td><a href="/ht-2001-14-16"><b>Red Mahoganies of Guillemard Road Open Space</b> (HT 2001-14 - HT 2001-16)</a></td></tr>
 	 <tr><td><a href="/ht-2010-182"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2010-182)</a></td></tr>
 	 <tr><td><a href="/ht-2001-19/"><b>Saga</b> / <i>Adenanthera pavonina</i> (HT 2001-19)</a></td></tr>
 	 <tr><td><a href="/ht-2013-213/"><b>Sausage Tree</b> / <i>Kigelia africana</i> (HT 2013-213)</a></td></tr>
@@ -262,8 +257,8 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
 
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens, Gallop Green</td></tr>
- <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens, behind Block 5</td></tr>
- <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens Lawn E</td></tr>
+ <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens, Healing Garden</td></tr>
+ <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens, Lawn E</td></tr>
  <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2015-247/"><b>Bangkal</b> / <i>Nauclea orientalis</i> (HT 2015-247)</a></td><td>Singapore Botanic Gardens, EG14</td></tr>
@@ -403,7 +398,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 <table style="font-size: 17px;">
  <tbody>
  <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
- <tr><td><a href="/ht-2003-113"><b>Damar Hitam Gajah</b> / <i>Shorea gibbosa</i> (HT 2003-113)</a></td><td>Changi, Netheravon Road near Bus Stop B06</td></tr>
+ <tr><td><a href="/ht-2003-113"><b>Damar Hitam Gajah</b> / <i>Richetia gibbosa</i> (HT 2003-113)</a></td><td>Changi, Netheravon Road near Bus Stop B06</td></tr>
  <tr><td><a href="/ht-2003-72"><b><i>Ficus stricta</i></b> (HT 2003-72)</a></td><td>Changi, Netheravon Road within CSC @ Changi II grounds</td></tr>
  <tr><td><a href="/ht-2003-73"><b><i>Ficus stricta</i></b> (HT 2003-73)</a></td><td>Changi, Netheravon Road within CSC @ Changi II grounds</td></tr>
  <tr><td><a href="/ht-2003-52"><b>Inai Inai</b> / <i>Erythroxylum cuneatum</i> (HT 2003-52)</a></td><td>Changi, Leuchars Road opposite Fairy Point Bungalow 1</td></tr>
@@ -421,9 +416,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  	 <tr><td><a href="//ht-2018-296-ht-2019-305/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
  <tr><td><a href="/ht-2022-321"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2022-321)</a></td><td>East Coast Park Area C, near Marine Cove</td></tr>
- <tr><td><a href="/ht-2001-14"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-14)</a></td><td>Guillemard Road Open Space</td></tr>
- <tr><td><a href="/ht-2001-15"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-15)</a></td><td>Guillemard Road Open Space</td></tr>
- <tr><td><a href="/ht-2001-16"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
+ <tr><td><a href="/ht-2001-14-16"><b>Red Mahoganies</b> / <i>Khaya nyasica</i> (HT 2001-14 - HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
  <tr><td><a href="/ht-2010-182"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2010-182)</a></td><td>In front of Blk 150 Lorong 1 Toa Payoh (Along store front)</td></tr>
  <tr><td><a href="/ht-2003-78/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-78)</a></td><td>At Bedok Food Centre Car Park, opposite Eastwood Centre</td></tr>
  <tr><td><a href="/ht-2008-168/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2008-168)</a></td><td>Junction of Bedok Rd and Upper Changi Rd junction, East Village Car-park (former Changi Complex)</td></tr>
