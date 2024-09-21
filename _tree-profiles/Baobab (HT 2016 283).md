@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3209199999611885&amp;lng=103.81455999995923">
- <br>Singapore Botanic Gardens,<br>Melati Gate, near Cluny<br>Park Road</a>
+ <br>Singapore Botanic Gardens,<br>near Melati Gate</a>
 </td>
 </tr>
 </tbody>
