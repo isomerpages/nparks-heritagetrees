@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3876690000014043&amp;lng=103.98039899999924">
- <br>Singapore Botanic Gardens,<br>at Lower Ring Road and<br>Liane Road junction</a>
+ <br>Singapore Botanic Gardens,<br>Rainforest entrance, near<br>Lower Ring Rd</a>
 </td>
 </tr>
 </tbody>
