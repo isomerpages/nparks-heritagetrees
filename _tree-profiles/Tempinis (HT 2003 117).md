@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="50%" width="100%" alt="" src="/images/Albizia_niopoides_variety.jpg">
-</div>
-<p></p>
-<table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<img style="width: 60%" src="/images/Heritage_trees_photos/cyrfra_ht2003-60_habit.jpg">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Unique ID</strong>
@@ -30,24 +28,13 @@ description: ""
 </tbody></table>
 <p>A bushy evergreen tree that can grow up to 35 m in height. Crown is rounded. Bark is greyish-brown and rough. Leaves are oblong elliptic, tipped, thinly leathery and drooping, rather yellowish green (young leaves are pinkish brown). Flowers occur in hanging green spikes or catkins (8 - 20cm long). Fruits are round (1cm wide), enclosed at the base of the flower. </p>
   
-<p>The leaves can be recognised as they are very unequal-sided at the base with the broadest side foremost. ('Streblus' in Greek means 'crooked'.)</p>
+<p>The leaves can be recognised as they are very unequal-sided at the base with the broadest side foremost. The species was previously known as <em>Streblus elongata</em>, where ('Streblus' in Greek means 'crooked'.)</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3145">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3145">here</a>.</p>
 
 <h4>Gallery</h4>
 <div class="isomer-card-grid">
-<a href="https://www.isomer.gov.sg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/cyrfra_ht2003-60_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="https://placehold.co/600x400"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="https://placehold.co/600x400"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Flowers</div></div></a>
-	
-<a href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="https://placehold.co/600x400"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Fruit</div></div></a>
-</div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2003-60_habit.jpg"></div></div>
+	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><br></div>
