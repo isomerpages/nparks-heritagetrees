@@ -20,10 +20,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3131400000362303&amp;lng=103.81363999996007">
- <br>Singapore Botanic Gardens,<br>within nursery of Singapore<br>Orchid Garden</a>
+ <br>Singapore Botanic Gardens,<br>National Orchid Garden's nursery</a>
 </td>
 </tr>
-	<tr><td rowspan="1" colspan="3"><center>⛔ Take note that this tree is not accessible to the public.</center></td></tr>
+	<tr><td style="text-align: center;" colspan="3">⛔ Take note that this tree is not accessible to the public.</td></tr>
 </tbody>
 </table>
 <p>The Hazel Sterculia is a large deciduous tree that can reach heights of up to 40 m. Its natural distribution is from India, Sri Lanka, Bangladesh to Southeast Asia. It grows on coastal areas and in semi-open forests, and has a straight bole with a smooth grey to whitish outer bark and fibrous inner bark.</p>
