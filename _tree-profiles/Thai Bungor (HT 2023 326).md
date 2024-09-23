@@ -28,7 +28,7 @@ description: ""
 </tbody></table>
 <p>A tree that can grow up to 30 m tall. It bears attractive bright to pale purple flowers. It is found growing naturally in Thailand. </p>
 
-<p>This&nbsp;<em>Lagerstroemia loudonii</em> was received by Singapore Botanic Gardens as a seed from F.N. (Frank Norman) Howes on 27 Feb 1928. The introduction notes say Sriracha, Siam, which was probably where he collected the seeds from. The estimated age of this tree in 2023 is about 95 years.</p>
+<p>This&nbsp;<em>Lagerstroemia loudonii</em> was received by Singapore Botanic Gardens as a seed from Frank Norman Howes on 27 February 1928. The introduction notes say "Sriracha, Siam", which was probably where he collected the seeds from. This Heritage Tree is estimated to be about 95 years, as of 2003.</p>
 	
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2990">here</a>.</p>
 
