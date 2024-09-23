@@ -19,8 +19,8 @@ description: ""
 <br><strong>Height: </strong>30.4 m
 </td>
 <td rowspan="1" colspan="1"><strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4541889999990905&amp;lng=103.82882600000019">
-<br>Lagos Circle, in front
-<br>of House No. 208</a>
+<br>Lagos Circle, opposite 
+<br>House No. 211</a>
 </td>
 </tr>
 </tbody></table>
