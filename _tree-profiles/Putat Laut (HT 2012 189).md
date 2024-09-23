@@ -36,4 +36,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken near the courtyard at entrance in 2024</div></div></a>
+
+<a href="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div><div class="isomer-card-description">Taken from beside the water fountain in 2024</div></div></a></div>
