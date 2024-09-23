@@ -80,7 +80,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="ht-2013-206"><b><i>Ficus stricta</i></b> (HT 2013-206)</a></td></tr>
  <tr><td><a href="/ht-2013-207"><b><i>Ficus stricta</i></b> (HT 2013-207)</a></td></tr>
 	 <tr><td><a href="/ht-2016-282"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i> (HT 2016-282)</a></td></tr>
- <tr><td><a href="/ht-2019-307"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i>a (HT 2019-307)</a></td></tr>
+ <tr><td><a href="/ht-2019-307"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i> (HT 2019-307)</a></td></tr>
 	 <tr><td><a href="/ht-2003-90"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2003-90)</a></td></tr>
  <tr><td><a href="/ht-2014-227"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2014-227)</a></td></tr>
 	 <tr><td><a href="/ht-2003-52"><b>Inai Inai</b> / <i>Erythroxylum cuneatum</i> (HT 2003-52)</a></td></tr>
