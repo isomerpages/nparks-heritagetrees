@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"></div>
+<img src="/images/Heritage_trees_photos/terap_ht_2015_235-habit.jpg"></div>
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -28,11 +28,11 @@ description: ""
   
 </p><p>It was recorded that in the past when they were numerous, the Malayan Flying Fox (<em>Pteropus vampyrus</em>) fed on the berries of the Tembusu in season. The skins and minute seeds were disgorged in red splashes. From these minute, ejected grains, the big trees slowly develop. Other than bats and birds, the berries were too bitter to be relished by other animals. The wood was extremely durable and resistant to termite attack, making it highly suitable for heavy construction, bridges and carving. In fact the wood was so hard that the Malays in metaphor compare a hard heart to it. </p>
 	
-<p></p><p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2895">here</a>.</p>
 
-</p><h4>Gallery</h4>
+<h4>Gallery</h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><br></div>
