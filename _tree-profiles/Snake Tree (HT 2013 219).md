@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" src="/images/heritage_trees_photos/stefim_ht2013-219_habit.jpg"> 
+<img style="width: 60%;" src="/images/Heritage_trees_photos/stefim_ht2013-219_habit.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3071900000034402&amp;lng=103.81711000000446">
-<br>Singapore Botanic Gardens,<br> along Main Gate Road<br>(Opposite Marsh Garden)</a>
+<br>Singapore Botanic Gardens,<br> along Main Gate Road<br>(opposite Marsh Garden)</a>
 </td>
 </tr>
 </tbody></table>
