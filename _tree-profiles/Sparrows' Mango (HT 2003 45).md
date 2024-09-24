@@ -31,7 +31,7 @@ description: ""
 	
 </p><p>This Heritage Tree had a girth of 2.1m when measured in Year 2003, and 2.28m in Year 2012.</p>
 	
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4173">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4173">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
