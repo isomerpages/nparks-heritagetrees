@@ -29,7 +29,7 @@ description: ""
   
 <p>In its native range, it flowers often, but fruits infrequently. Once it reaches around 30 or 40 years of age, the trunk begins to swell disproportionately to the size of its crown, often reaching 17 m in girth. This species is known to reach about 47 m in girth after 1,000 years, and the age of the largest Baobabs has been estimated at several thousand years.</p>
   
-<p>This Heritage Tree is a relatively young specimen, close to 30 years of age at the time of its endorsement in 2016. It is likely to be one of the few Baobabs that were grown from seed in Singapore.</p>
+<p>This Heritage Tree is a relatively young specimen, close to 30 years of age at the time of its endorsement in 2016. Likely to be one of the few Baobabs that were grown from seed in Singapore, and was transplanted.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2696">here</a>.</p>
 
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/adadig_ht2016-283_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/adadig_ht2016-283_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
