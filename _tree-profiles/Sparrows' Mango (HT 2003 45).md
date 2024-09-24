@@ -21,9 +21,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.389393999997606&amp;lng=103.97417600000013">
 <br>Andover Road,<br>Fairy Point Chalet 6</a>
-</td>
-</tr>
-		<tr><td style="text-align: center;" colspan="3">⚠️ Take note that this tree is only accessible to the chalet guests.</td></tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⚠️ Take note that this tree is only accessible to the chalet guests.</td></tr>
 </tbody></table>
 <p>An evergreen tree that grows up to 25m in height. Crown is compact with upright leaves. Bark is pinkish brown, red on the inside, smooth and oozes harmless greyish gum when cut. Young leaves are pink in colour. Flowers occur in panicles towards the ends of the branches, white to cream in colour, usually 5-6 petals. Fruits are small, globular, about 1 cm in diameter, reddish to purple-black when ripe. The fruits look like little mangoes but are not edible. </p>
   
