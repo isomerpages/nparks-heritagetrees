@@ -24,7 +24,7 @@ description: ""
 <br>Jacob Ballas Children's Garden 
 	<br>(Forest Section)</a>
 </td></tr>
-<tr><td style="text-align: center;" colspan="3">⚠️ <a href="https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden">Take note of the opening hours and admission requirements of this location.</a></td></tr>
+<tr><td style="text-align: center;" colspan="3">⚠️ <a href="https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden">Take note of the opening hours and admission requirements for this location.</a></td></tr>
 </tbody></table>
 <p>A medium sized evergreen tree that grows up to 30 m in height, with a crown diameter of 4.6 m. Likely from eastern Malesia.  
   
