@@ -26,14 +26,15 @@ description: ""
 </tbody>
 </table>
    
+   
 
-<p>A fast growing tree that can reach a height of 25 m, the Para Rubber originates from Tropical South America. It has greyish and smooth bark. Its leaves are alternately arranged and compound with three leaflets. The fruit is a hard pod with three compartments that explode loudly when ripe and dry, dispersing the seeds more than 20 m from the parent tree. The name of the genus, <em>Hevea</em>, is a Latinised form of the tree’s Guyanan name,&nbsp;<em>heve</em>. The specific name <em>brasiliensis</em> refers to its Brazilian origins.</p>
+<p>A fast growing tree that can reach a height of 25 m, the Para Rubber originates from Tropical South America. It has greyish and smooth bark. Its leaves are alternately arranged and compound with three leaflets. The fruit is a hard pod with three compartments that explode loudly when ripe and dry, dispersing the seeds more than 20 m from the parent tree. The name of the genus <em>Hevea</em> is a Latinised form of the tree’s Guyanan name, <em>heve</em>. The specific name <em>brasiliensis</em> refers to its Brazilian origins. The common name is probably derived from the province of Pará, Brazil.</p>
 
 <p>The Para Rubber is the source of natural rubber, produced from latex obtained from tapping the trunk of the tree. The latex is derived from the inner bark and flows within the vessels of the tree. It is thought that the latex provides defence against insect predators.</p>
 
-<p>In 1877, 11 Para Rubber seedlings shipped from Kew Gardens were successfully planted in the Singapore Botanic Gardens by Henry James Murton, who was the director of the Gardens from 1875 until 1880. More trees were cultivated from the fruits of the existing trees by Henry Nicholas Ridley, director of the Gardens from 1888 to 1912, who experimented different tapping techniques and eventually led to the expansion of Para Rubber as a cash crop. It is believed that these plants were the source of the rubber trees that started the rubber industry in the region. </p>
+<p>In 1877, 11 Para Rubber seedlings shipped from Kew Gardens were successfully planted in the Singapore Botanic Gardens by Henry James Murton, who was the director of the Gardens from 1875 until 1880. It is believed that these plants were the source of the rubber trees that started the rubber industry in the region. </p>
 
-<p>This Heritage Tree is likely a remnant of a rubber plantation, which was around as early as 1927 as seen in old topographic maps. The area was cleared in 1971 to make way for Woodlands New Town. It was estimated to be more than 50 years of age when it was endorsed as a Heritage Tree in 2018.</p>
+<p>This Para Rubber Heritage Tree is likely a remnant of the rubber plantation that cover much of the North of Singapore. This plantation can be traced back as early as 1927, as seen in old topographical maps. It was estimated to be more than 50 years of age when it was endorsed as a Heritage Tree in 2018.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile
  <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2953">here</a>.</p>
