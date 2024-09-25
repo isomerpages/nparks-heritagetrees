@@ -24,9 +24,9 @@ description: ""
 </td>
 </tr>
 </tbody></table>
-<p>The species originated from Tropical West Africa to Uganda. It is a fast growing tree. It is naturally found in riverine forests and savannah woodlands but has become relatively scarce due to heavy exploitation.</p>
+<p>The Senegal Mahogany is a fast-growing tree native from Tropical West Africa to Uganda. It is a fast growing tree. It is naturally found in riverine forests and savannah woodlands but has become relatively scarce due to heavy exploitation.</p>
   
-<p>This Tree was planted by the former Prime Minister Lee Kuan Yew on 2 Nov 1980. In the 1980s, the Senegal Mahogany was commonly used for road-side planting in Singapore due to its rapid growth, ease of transplanting, and ability to tolerate the harsh &amp; dry urban environment.</p>
+<p>This Heritage Tree was planted by the former Prime Minister, Lee Kuan Yew on 2 Nov 1980. In the 1980s, the Senegal Mahogany was commonly used for road-side planting in Singapore due to its rapid growth, ease of transplanting, and ability to tolerate the harsh &amp; dry urban environment.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2979">here</a>.</p>
 
