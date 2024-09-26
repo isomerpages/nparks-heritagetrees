@@ -1,4 +1,5 @@
 collections:
   heritage-tree-register:
     output: true
-    order: []
+    order:
+      - Heritage Tree Register full.md
