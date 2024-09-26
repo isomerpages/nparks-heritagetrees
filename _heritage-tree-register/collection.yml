@@ -2,4 +2,4 @@ collections:
   heritage-tree-register:
     output: true
     order:
-      - Heritage Tree Register full.md
+      - Heritage Tree Register.md
