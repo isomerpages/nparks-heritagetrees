@@ -32,7 +32,7 @@ description: ""
 
 </p><p>As with many other <em>Ficus</em> species, the figs are a reliable source of food for fruit-eating animals such as the Pink-necked Green Pigeon (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/6/4/645"><em>Treron vernans</em></a>), Coppersmith Barbet (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/5/35"><em>Megalaima haemacephala</em></a>) and Yellow-vented Bulbul (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/7/6/763"><em>Pycnonotus goiavier</em></a>). The figs are whitish with dull pink spots and&nbsp;ripen to a dull greyish purple. 
 
-</p><p>The base of this Heritage Stem-fruited Fig Tree was 24 m in girth when endorsed in 2019.</p>
+</p><p>The base of this Heritage Tree was 24 m in girth when endorsed in 2019.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4173">here</a>.</p>
 
