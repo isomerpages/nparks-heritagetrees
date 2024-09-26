@@ -13,7 +13,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 <div data-type="detailGroup"><details class="isomer-details">
 <summary style="font-size: 20px; font-weight: bold;">Select a Heritage Tree</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-	<table style="font-size: 18px; text-indent: 30px;">
+	<table style="font-size: 18px;">
  <tbody>
 	 <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td></tr>
 	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td></tr>
@@ -151,7 +151,7 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
 	 <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td></tr>
 	 <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td></tr>
 	 <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td></tr>
- <tr><td><a href="/ht-2015-271-277"><b>Nutmegs of Singapore Botanic Gardens</b>/ <i>Myristica fragrans</i> (HT 2015-271 - HT 2015-272)</a></td></tr>
+ <tr><td><a href="/ht-2015-271-277"><b>Nutmegs of Singapore Botanic Gardens</b>/ <i>Myristica fragrans</i><br>(HT 2015-271 - HT 2015-272)</a></td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td></tr>
 	 <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td></tr>
