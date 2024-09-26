@@ -24,15 +24,15 @@ description: ""
 </td>
 </tr>
 </tbody></table>
-<p>The Stem-fruited Fig is a large, deciduous tree that can grow up to 35 m tall. It develops a cast crown of spreading branches. It occurs naturally in Sri Lanka, India, Myanmar, Thailand, Ryukyu Islands, Taiwan, Peninsular Malaysia, Singapore, Sumatra, Java, the Lesser Sunda Islands, Borneo, the Philippines, the Celebes, the Moluccas, New Guinea and the Solomon Islands.
+<p>The Stem-fruited Fig is a large, deciduous tree that can grow up to 35 m tall. It develops a cast crown of spreading branches. It occurs naturally in Sri Lanka, India, Myanmar, Thailand, Ryukyu Islands, Taiwan, Peninsular Malaysia, Singapore, Sumatra, Java, the Lesser Sunda Islands, Borneo, the Philippines, the Celebes, the Moluccas, New Guinea and the Solomon Islands.</p>
 
-</p><p>This deciduous tree undergoes a distinct pattern when changing its leaves – the old leaves are shed rapidly, remains bare for a few days, and develops the new leaves simultaneously over most of the crown within a fortnight. During this process, the crown is flushed with reddish-pink while pale-green stipules and fallen leaves carpet the ground below the tree.
+<p>This deciduous tree undergoes a distinct pattern when changing its leaves – the old leaves are shed rapidly, remains bare for a few days, and develops the new leaves simultaneously over most of the crown within a fortnight. During this process, the crown is flushed with reddish-pink and the ground below the tree is littered with pale-green bud-scales (technically stipules) and fallen leaves. A similar habit seems to occur in related species, such as <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916"><em>Ficus superba</em></a> and <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4196"><em>Ficus virens</em></a>.</p>
 
-</p><p>As with many other&nbsp;<em>Ficus</em>&nbsp;species, the figs are a reliable source of food for fruit-eating animals such as the Pink-necked Green Pigeon (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/6/4/645"><em>Treron vernans</em></a>), Coppersmith Barbet (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/5/35"><em>Megalaima haemacephala</em></a>) and Yellow-vented Bulbul (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/7/6/763"><em>Pycnonotus goiavier</em></a>). The figs are whitish with dull pink spots and&nbsp;ripen to a dull greyish purple. 
+<p>The specific epithet <em>caulocarpa</em> is derived from ancient Greek, <em>kaulos</em> meaning "stem" and <em>karpos</em> meaning "fruit"; hence, the common name "stem-fruited fig".
+
+</p><p>As with many other <em>Ficus</em> species, the figs are a reliable source of food for fruit-eating animals such as the Pink-necked Green Pigeon (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/6/4/645"><em>Treron vernans</em></a>), Coppersmith Barbet (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/5/35"><em>Megalaima haemacephala</em></a>) and Yellow-vented Bulbul (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/7/6/763"><em>Pycnonotus goiavier</em></a>). The figs are whitish with dull pink spots and&nbsp;ripen to a dull greyish purple. 
 	
-	In Ancient Greek,&nbsp;<em>kaulos</em> refers to the stem, while&nbsp;<em>karpos</em>&nbsp;refers to the fruit; hence, the name&nbsp;<em>Ficus caulocarpa</em>&nbsp;means&nbsp;'stem-fruited fig'.
-	
-</p><p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4173">here</a></p>
+</p><p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/1/4173">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
