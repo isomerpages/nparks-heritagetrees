@@ -2,4 +2,5 @@ collections:
   heritage-tree-register:
     output: true
     order:
+      - Heritage Tree Register based on Location.md
       - Heritage Tree Register.md
