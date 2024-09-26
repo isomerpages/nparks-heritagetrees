@@ -530,6 +530,8 @@ As of 1<sup>st</sup> September 2024, there are currently <b>256</b> Heritage Tre
  <tr><td><a href="/ht-2003-80/"><b>White Fig</b> / <i>Ficus vasculosa</i> (HT 2003-80)</a></td><td>Sentosa (within Satellite Station grounds)</td></tr><tr></tr>
 </tbody></table></div></details></div>
 
+<a href="/heritage-tree-register-full/">&gt;</a>
+
 <style> 
 .button { 
 border: 5px solid #FFF;
