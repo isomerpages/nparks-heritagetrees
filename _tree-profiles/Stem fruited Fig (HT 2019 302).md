@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2832299999585994&amp;lng=103.79510999996707">
-<br>Open Land, in front of<br>No. 3 Winchester Road</a>
+<br>Open Space, in front of<br>No. 3 Winchester Road</a>
 </td>
 </tr>
 </tbody></table>
