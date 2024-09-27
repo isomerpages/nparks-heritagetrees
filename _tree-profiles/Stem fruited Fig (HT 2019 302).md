@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2019-302
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2832299999585994&amp;lng=103.79510999996707">
-<br>In front of No. 3 <br> Winchester Road</a>
+<br>Open Land, in front of<br>No. 3 Winchester Road</a>
 </td>
 </tr>
 </tbody></table>
@@ -40,5 +40,5 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/ficcau_ht2019-302_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><br></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficcau_ht2019-302_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: name</div></div></a><br></div>
