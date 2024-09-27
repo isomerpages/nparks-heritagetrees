@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-99
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.273071000000389&amp;lng=103.81509700000404">
- <br>Pender Road, within grounds<br>of the Danish Seamen's Mission</a>
+ <br>Pender Road, within grounds<br>of the Danish Seamen's Church</a>
 </td>
 </tr>
 </tbody>
@@ -38,5 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/pteind_ht2003-99_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-99_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p>
-</p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
