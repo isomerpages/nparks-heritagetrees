@@ -28,7 +28,7 @@ description: ""
 <p>The Binjai is a large tree that grows up to 45 m in height. Its trunk is columnar, without buttresses, and with grey-ish bark that exudes irritant sap.
 Its crown is dense and dome-shaped, and its leaves are large and leathery. The tree flowers profusely around April to June, colouring the canopy with light purple inflorescences</p>
 
-<p>Related to <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3013">Mango</a> and <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3012">Horse Mango</a>, the Binjai can be distinguised from the other species by its lavender-coloured flowers, and pale-brown, rough-skinned fruits. Unlike the sweet-tasting fruits of Mango, the white-fleshed fruits of Binjai has a sour taste.</p> 
+<p>Related to the <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3013">Mango (<em>M. indica</em>)</a> and the <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3012">Horse Mango (<em>M. foetida</em>)</a>, the Binjai can be distinguised from the other species by its lavender-coloured flowers, and pale-brown, rough-skinned fruits. Unlike the sweet-tasting fruits of Mango, the white-fleshed fruits of Binjai has a sour taste.</p> 
  
 <p>The Binjai was commonly planted in villages for its brown, potato-like fruits. The fruits can be eaten as a tamarind substitute, or used as ingredients in sambal or rojak.</p>
 
