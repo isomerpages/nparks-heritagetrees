@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-98
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.257793000002993&amp;lng=103.81064700000216">
- <br>Sentosa (near entrance of<br>Shangri-La Rasa Sentosa Hotel)</a>
+ <br>Sentosa, near entrance of<br>Shangri-La Rasa Sentosa Hotel</a>
 </td>
 </tr>
 </tbody>
@@ -29,7 +29,7 @@ description: ""
   
 <p>The floral buds of the Angsana develop high up on the crown, unnoticed by anyone, until the right stimulus triggers the buds on the crown to bloom in yellow simultaneously. This brilliant display of colour lasts only for a day, after which the tree lays a soft carpet of yellow flowers on the ground beneath it.</p>
 	
-<p>This Heritage Tree has the largest girth for an Angsana in this Register.</p>
+<p>This Heritage Tree has the largest girth for an Angsana in thie Register.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3093">here</a>.</p>
 
@@ -38,9 +38,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">View from base</div><div class="isomer-card-description">Taken in 2022</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">View from the base of Heritage Tree<br>(📷: Brendon Phuah)</div></div></a>
 
 <a href="/images/Heritage_trees_photos/pteind_ht2003-98_habitfar.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habitfar.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the hotel entrance (📷: Brendon Phuah)</div></div></a></div>
