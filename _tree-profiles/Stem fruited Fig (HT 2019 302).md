@@ -41,4 +41,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficcau_ht2019-302_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficcau_ht2019-302_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: name</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
