@@ -21,9 +21,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.257793000002993&amp;lng=103.81064700000216">
  <br>Sentosa, near entrance of<br>Shangri-La Rasa Sentosa Hotel</a>
-</td>
-</tr>
-</tbody>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⚠️ Take note that this Heritage Tree is within hotel property and access might be restricted.</td></tr>
+	</tbody>
 </table>
 <p>The Angsana is a large deciduous tree that grows up to 40m in height. Its crown is dense, dome-shaped, wide-spreading, with drooping, pinnate compound leaves. Its flowers are yellow and occur in large bunches of 15-30 cm long, and the fruits are flattened, disc-like pods with papery wings about 5cm in diameter, 1 or more seeds in each. Cultivated as a street tree here in Singapore, the Angsana is native to India, China throughout Southeast Asia, excluding Singapore.</p>
   
