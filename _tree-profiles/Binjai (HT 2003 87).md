@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-87
 </td>
 <td rowspan="1" colspan="1">
@@ -26,11 +26,11 @@ description: ""
 </tbody>
 </table>
 <p>The Binjai is a large tree that grows up to 45 m in height. Its trunk is columnar, without buttresses, and with grey-ish bark that exudes irritant sap.
-Its crown is dense and dome-shaped, and its leaves are large and leathery. The tree flowers profusely around April to June, colouring the canopy with light purple inflorescences</p>
+Its crown is dense and dome-shaped, and its leaves are large and leathery.</p>
 
-<p>Related to the <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3013">Mango (<em>M. indica</em>)</a> and the <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3012">Horse Mango (<em>M. foetida</em>)</a>, the Binjai can be distinguised from the other species by its lavender-coloured flowers, and pale-brown, rough-skinned fruits. Unlike the sweet-tasting fruits of Mango, the white-fleshed fruits of Binjai has a sour taste.</p> 
+<p>The tree flowers profusely around April to June, colouring the canopy with light purple inflorescences. Related to <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3013">Mango</a> and <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3012">Horse Mango</a>, the Binjai can be distinguised from the other species by its pale-lilac flowers, and pale-brown, rough-skinned fruits.</p> 
  
-<p>The Binjai was commonly planted in villages for its brown, potato-like fruits. The fruits can be eaten as a tamarind substitute, or used as ingredients in sambal or rojak.</p>
+<p>The Binjai was commonly planted in villages for its sourish-sweet fruits, which could be eaten as a tamarind substitute, or used as ingredients in sambal or rojak.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3011">here</a>.</p>
 
@@ -39,4 +39,4 @@ Its crown is dense and dome-shaped, and its leaves are large and leathery. The t
 <a href="/images/Heritage_trees_photos/mangcae_ht2003-87_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangcae_ht2003-87_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
