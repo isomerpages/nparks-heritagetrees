@@ -21,8 +21,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3031599999590948&amp;lng=103.84184000000246">
  <br>Istana Ground</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that the Istana is not open to the public, except during <a href="https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House">certain dates.</a></td></tr>
 </tbody>
 </table>
 <p>The Binjai is a large tree that grows up to 45 m in height. Its trunk is columnar, without buttresses, and with grey-ish bark that exudes irritant sap.
