@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-100
 </td>
 <td rowspan="1" colspan="1">
@@ -20,9 +20,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2504640000025962&amp;lng=103.82466100000305">
- <br>Sentosa (Capella Hotel,<br>front lawn)</a>
-</td>
-</tr>
+ <br>Sentosa, Capella Singapore<br>(front lawn)</a>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⚠️ Please note that this Heritage Tree is within hotel property; access might only be limited to guests.</td></tr>
 </tbody>
 </table>
 <p>The Angsana is a large deciduous tree that grows up to 40m in height. Its crown is dense, dome-shaped, wide-spreading, with drooping, pinnate compound leaves. Its flowers are yellow and occur in large bunches of 15-30 cm long, and the fruits are flattened, disc-like pods with papery wings about 5cm in diameter, 1 or more seeds in each. Cultivated as a street tree here in Singapore, the Angsana is native to India, China throughout Southeast Asia, excluding Singapore.</p>
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/pteind_ht2003-100_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-100_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
