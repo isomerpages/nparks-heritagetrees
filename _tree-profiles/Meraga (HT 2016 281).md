@@ -21,10 +21,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3142900000446305&amp;lng=103.81591000000272">
  <br>Singapore Botanic Gardens,<br>Rainforest (near Visitor<br>Centre)</a>
-</td>
-</tr>
-</tbody>
-</table>
+</td></tr>
+</tbody></table>
 <p>The Meraga is a medium to large tree that can grow up to 30 m tall, often with a fluted or latticed trunk. Its wood is used for general construction and as firewood and the stems are used as pillars. </p>
   
 <p>The Meraga is found naturally in undisturbed to slightly disturbed (open) mixed dipterocarp and swamp forests up to 900 m in altitude, usually on hillsides and ridges with sandy soils. In secondary forests, it is usually present as a pre-disturbance remnant. It occurs in Sumatra, Peninsular Malaysia, Singapore, and Borneo; its conservation status in Singapore is vulnerable.</p>
