@@ -10,7 +10,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2015-247
 </td>
 <td rowspan="1" colspan="1">
@@ -37,9 +37,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/nauori_ht2015-247_habit.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/nauori_ht2015-247_habit.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Bougainvillea collection, Eco-Garden (📷: Hazri Boey)</div></div></a>
 
 <a href="/images/Heritage_trees_photos/nauori_ht2015-247_back.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/nauori_ht2015-247_back.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">View from Foliage Garden</div><div class="isomer-card-description">Taken in 2024</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Foliage Garden (📷: Hazri Boey)</div></div></a></div>
