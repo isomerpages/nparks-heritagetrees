@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2016-282
 </td>
 <td rowspan="1" colspan="1">
@@ -36,4 +36,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/sterfoe_ht2016-282_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sterfoe_ht2016-282_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><p></p></div>
