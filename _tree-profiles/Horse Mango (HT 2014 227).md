@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2014-227
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.294969999999008&amp;lng=103.84833999999121">
- <br>Fort Canning Slope<br>(between HT Merbatu)</a>
+ <br>Fort Canning Slope,<br>behind SMU School<br>of Social Sciences</a>
 </td>
 </tr>
 </tbody>
@@ -36,9 +36,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2017</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree (middle) among other trees<br>(📷: Heritage Tree Secretariat)</div></div></a>
 
 <a href="/images/Heritage_trees_photos/mangfoe_ht2014-227_habi.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangfoe_ht2014-227_habi.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Landscape (annotated)</div><div class="isomer-card-description"> </div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
