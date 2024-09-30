@@ -20,9 +20,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3029399999906224&amp;lng=103.82117999997986">
- <br>Seletar Airbase, West Camp<br>Road near Singapore Youth<br>Flying Club entrance</a>
-</td>
-</tr>
+ <br>Seletar Airbase, West Camp Road<br>near Singapore Youth Flying Club<br>entrance, near </a>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that this tree is not accessible to the public.</td></tr>
 </tbody>
 </table>
 <p>The Broad-leafed Mahogany is a large tree that can grow up to 40 m with a dense crown. It bears compound leaves that are glossy and dark green with asymmetric leaflets that are crescent-shaped. Being semi-deciduous in nature, it can lose its leaves during pronounced dry spells but young new leaves quickly open before the old leaves are completely shed. The broad and buttressed trunk has uneven, fissured dark grey bark.</p>
