@@ -21,9 +21,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3141600000015752&amp;lng=103.81395999999674">
  <br>Singapore Botanic Gardens,<br>in forest within National<br>Orchid Gardens</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">  
+⛔ Please note that this Heritage Tree is not accessible to the public.</td></tr>
 </tbody>
+
 </table>
 <p>The Common Pulai or&nbsp;<em>Alstonia angustiloba</em>&nbsp;is a mid-canopy tree that can reach up to 40 m in height. It is native to Singapore and is naturally distributed across the primary or secondary forests and swamp forests of Sumatra, Peninsular Malaysia, Borneo and Java.</p>
 
