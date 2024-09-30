@@ -36,7 +36,7 @@ description: ""
 <a href="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree (middle) among other trees<br>(📷: Heritage Tree Secretariat)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree (middle) among other trees<br>(📷: Brendon Phuah)</div></div></a>
 
 <a href="/images/Heritage_trees_photos/mangfoe_ht2014-227_habi.jpg" class="isomer-card">
 <div class="isomer-card-image">
