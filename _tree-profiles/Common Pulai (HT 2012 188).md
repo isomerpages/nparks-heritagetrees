@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference  ID</strong>
 <br>HT 2012-188
 </td>
 <td rowspan="1" colspan="1">
@@ -38,9 +38,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/alsangb_ht2012-188_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2012-188_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Landscape</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Overall shot of Heritage Tree with surrounding landscape (📷: Heritage Tree Secretariat)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/alsangb_ht2012-188_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2012-188_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Overall Shot of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div></div></a></div>
