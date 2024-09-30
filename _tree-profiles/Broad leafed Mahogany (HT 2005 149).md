@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3029399999906224&amp;lng=103.82117999997986">
- <br>Seletar Airbase, West Camp Road<br>near Singapore Youth Flying Club<br>entrance, near </a>
+ <br>Seletar Airbase, West Camp Road<br>near Singapore Youth Flying Club<br>entrance (along the fence)</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">⛔ Please note that this tree is not accessible to the public.</td></tr>
 </tbody>
