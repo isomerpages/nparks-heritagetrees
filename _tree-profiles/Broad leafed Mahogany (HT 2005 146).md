@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2005-146
 </td>
 <td rowspan="1" colspan="1">
@@ -40,9 +40,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/swimac_ht2005-146_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/swimac_ht2005-146_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2014</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/swimac_ht2005-146_habit2.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/swimac_ht2005-146_habit2.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken before 2005</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
