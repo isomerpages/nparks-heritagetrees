@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.311629999999238&amp;lng=103.8136399999997">
- <br>Singapore Botanic Gardens,<br>along Burkill Drive</a>
+ <br>Singapore Botanic Gardens,<br>along Learning Forest coach parking</a>
 </td>
 </tr>
 </tbody>
@@ -38,9 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/alsangb_ht2012-187_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2012-187_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/alsangb_ht2012-187_base.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2012-187_base.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">View from Burkill Drive</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
