@@ -9,18 +9,19 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2011-184
 </td>
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Ficus kurzii</em>
-<br><strong>Family name: </strong>Moraaceae
+<br><strong>Family name: </strong>Moraceae
 <br><strong>Girth: </strong>28.8 m @ 1.3 m height
 <br><strong>Height: </strong>22.7 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3071099999996327&amp;lng=103.81637000000235">
- <br>Singapore Botanic Gardens,<br>Lawn A</a>
+ <br>Singapore Botanic Gardens,<br>between Swan Lake &amp; Marsh Garden
+</a>
 </td>
 </tr>
 </tbody>
@@ -36,9 +37,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/fickur_ht2011-184_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/fickur_ht2011-184_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/fickur_ht2011-184_base.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/fickur_ht2011-184_base.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Area under Canopy</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
