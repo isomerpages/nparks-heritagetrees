@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2014-225
 </td>
 <td rowspan="1" colspan="1">
@@ -21,9 +21,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4061180000037914&amp;lng=103.86639599999585">
  <br>Bendemeer Secondary School</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⚠️ Take note that this Heritage Tree is within school property; access to the tree might be restricted.</td></tr>
 </tbody>
+
 </table>
 <p>The Bodhi Tree is a large, fast growing deciduous tree that can reach up to 25 m to 35 m in height. It has a large and wide-spreading crown with light-grey bark. Its figs are purple in colour. White latex is present in all such parts: the simple, long-stalked leaves, which are heart-shaped and long tipped; and the new flush of leaves which are purple, turning fresh green, then yellowish green. The flowers are tiny and found inside the small fleshy figs, which ripen to greenish-yellow, then purple. There are three kinds of flowers: male, female and sterile.</p>
   
@@ -36,4 +37,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficrel_ht2014-225_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficrel_ht2014-225_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><p></p></div>
