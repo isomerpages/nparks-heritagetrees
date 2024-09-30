@@ -39,4 +39,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficstr_ht2003-73_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficstr_ht2003-73_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a></div><p></p>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
