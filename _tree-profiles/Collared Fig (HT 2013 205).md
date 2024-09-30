@@ -21,8 +21,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.412479999995838&amp;lng=103.943689999999">
  <br>Pulau Ubin, along Ketam bike<br>trail, near Pipit Hut</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">  
+
+⚠️&nbsp;Please note that this Heritage Tree is in a forested area.</td></tr>
 </tbody>
 </table>
 <p>The Collared Fig is a rainforest and coastal forest fig species that can reach up to 30 m in height. It is critically endangered in Singapore but can be naturally found Myanmar, Thailand, Sumatra, Peninsular Malaysia, the Philippines, Borneo, Java, New Guinea, and the Solomon Islands. This strangler fig has a wide, spreading crown and its leaves are leathery, ranging from elliptic, oblong to narrow drop-shaped, measuring between 8–38 cm long by 2.5–16 cm wide. Its round figs are subtended by yellowish green bracts, and borne along the axils, either in pairs or solitary. The figs turn from yellow to dark red upon maturity.</p>
