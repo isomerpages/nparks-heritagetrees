@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.370079999999267&amp;lng=103.81283999999951">
- <br>Island Club Road<br>Singapore Island Country Club</a>
+ <br>Singapore Island Country Club</a>
 </td>
 </tr>
 </tbody>
