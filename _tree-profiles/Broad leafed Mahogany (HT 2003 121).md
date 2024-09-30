@@ -10,7 +10,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-121
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2549189999975894&amp;lng=103.81775699999825">
- <br>Sentosa (near SkyHelix<br>- Tree on the Left)</a>
+ <br>Sentosa, near SkyHelix<br>(HT on the Left)</a>
 </td>
 </tr>
 </tbody>
@@ -39,4 +39,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/swimac_ht2003-121_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/swimac_ht2003-121_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2022</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><p></p></div>
