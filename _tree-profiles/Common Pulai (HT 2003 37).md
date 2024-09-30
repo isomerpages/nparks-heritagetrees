@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-37
 </td>
 <td rowspan="1" colspan="1">
@@ -40,14 +40,14 @@ description: ""
 <a href="/images/Heritage_trees_photos/alsangb_ht2003-37_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-37_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Canopy Shot of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/alsangb_ht2003-37_base.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-37_base.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Tree Base</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">The trunk base of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/alsangb_ht2003-37_far.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-37_far.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">View from Bumboat</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage tree seen from Bumboat<br>(📷: Heritage Tree Secretariat)</div></div></a></div>
