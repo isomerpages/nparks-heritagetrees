@@ -21,7 +21,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 16px;">
 <tbody>
 <tr>
- <th>Unique ID</th>
+ <th>Reference ID</th>
  <th>Tree Girth</th>
  <th>Tree Height</th>
 </tr>
@@ -58,9 +58,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficdru_ht2010-177-180_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficdru_ht2010-177-180_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Landscape</div><div class="isomer-card-description">Taken in 2024</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/ficdru_ht2010-177-180_map.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficdru_ht2010-177-180_map.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Map</div><div class="isomer-card-description">Created in 2024</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
