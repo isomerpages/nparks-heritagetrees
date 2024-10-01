@@ -14,7 +14,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3898800000060385&amp;lng=103.97422999999657">
-<br>Andover Road, Fairy Point<br>Chalet 7, beside the BBQ pits<br>(Accessible only to guests)</a>
+<br>Andover Road, Fairy Point<br>Chalet 7, beside the BBQ pits</a>
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3">
@@ -36,7 +36,10 @@ description: ""
  <td>7.5 m</td>
 </tr></tbody>
 </table>
-</td></tr></tbody></table>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that this Heritage Tree is only accessible to chalet guests.</td></tr>
+</tbody>
+</table>
 <p>The Orange Jasmine is native to Southern and Southeast Asia, Northern Australia and New Caledonia. A compact evergreen shrub that typically grows to 2.5 to 3.5 m tall, it can occasionally become a tree reaching up to about 12 m in height, as this remarkable specimen highlights.</p>
 
 <p>The Orange Jasmine has a dense growth form and blooms year-round, making it an excellent hedge plant for screening. Its compound leaves are alternate and pinnate, with three to seven dark green and glossy leaflets. Its small and white flowers are produced in abundance and have a very pleasant fragrance.</p>
@@ -52,4 +55,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/myrfra_ht2015-271-272_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/myrfra_ht2015-271-272_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 20##</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
