@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4153599999975293&amp;lng=103.96737000000196">
- <br>Pulau Ubin, along Jalan Noordin,<br>nearer to road junction</a>
+ <br>Pulau Ubin, along Jalan Noordin,<br>nearer to road junction (within<br>forest)</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">⚠️ Please note that this Heritage Tree is in a forested area. </td></tr>
 </tbody>
