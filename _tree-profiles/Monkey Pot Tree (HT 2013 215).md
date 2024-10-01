@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2013-215
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3101899999973825&amp;lng=103.81565000000171">
- <br>Singapore Botanic Gardens<br>(opposite Sun Garden)</a>
+ <br>Singapore Botanic Gardens,<br>opposite Sun Garden</a>
 </td>
 </tr>
 </tbody>
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/lecpis_ht2013-214-215_compare.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/lecpis_ht2013-214-215_compare.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Landscape (annotated)</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
