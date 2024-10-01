@@ -29,7 +29,7 @@ description: ""
   
 <p>The floral buds of the Angsana develop high up on the crown, unnoticed by anyone, until the right stimulus triggers the buds on the crown to bloom in yellow simultaneously. This brilliant display of colour lasts only for a day, after which the tree lays a soft carpet of yellow flowers on the ground beneath it.</p>
 	
-<p>This Heritage Tree has the largest girth for an Angsana in thie Register. The tree is believed to be planted in the 1880s by the British when the artillery battalion was stationed on Pulau Blakang Mati, Sentosa’s old name.</p>
+<p>This Heritage Tree has the largest girth for an Angsana in the Register. The tree is believed to be planted in the 1880s by the British when the artillery battalion was stationed on Pulau Blakang Mati, Sentosa’s old name.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3093">here</a>.</p>
 
