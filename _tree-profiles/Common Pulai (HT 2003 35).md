@@ -21,8 +21,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2505259999994771&amp;lng=103.8226359999965">
  <br>Sentosa Capella Hotel,<br>Suite B, 7103 - 7105&nbsp;</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that this Heritage Tree is only accessible to hotel guests.</td></tr>
 </tbody>
 </table>
 <p>The Common Pulai or <em>Alstonia angustiloba</em> is a mid-canopy tree that can reach up to 40 m in height. It is native to Singapore and is naturally distributed across the primary or secondary forests and swamp forests of Sumatra, Peninsular Malaysia, Borneo and Java.</p>
