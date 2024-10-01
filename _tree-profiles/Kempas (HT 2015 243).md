@@ -40,4 +40,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/koomal_ht2015-243_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/koomal_ht2015-243_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
