@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2932060000032972&amp;lng=103.84636599999668">
- <br>Fort Canning Park,<br>along path beside<br>Service Reservoir</a>
+ <br>Fort Canning Park, along path<br>beside Service Reservoir (opposite<br>service gate)</a>
 </td>
 </tr>
 </tbody>
@@ -35,7 +35,12 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/pitcel_ht2001-06_habitold.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/pitcel_ht2001-04_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitcel_ht2001-06_habitold.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitcel_ht2001-04_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Overall shot of Heritage Tree<br>📷: Hazri Boey</div></div></a>
+
+<a href="/images/Heritage_trees_photos/pitcel_ht2001-04_habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitcel_ht2001-04_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of HT Madras Thorn in Fort Canning Park</div></div></a></div>
