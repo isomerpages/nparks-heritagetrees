@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2010-181
 </td>
 <td rowspan="1" colspan="1">
@@ -38,14 +38,14 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 20##</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Overall shot of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Roots around the Fence</div><div class="isomer-card-description">Strangler roots has grown around portion of the fence that once surrounded the National Museum of Singapore. Taken In 20##</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Strangler roots has grown around portion of the fence that once surrounded the National Museum of Singapore.<br>(📷: Heritage Tree Secretariat)</div></div></a>
 
 <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/b3eb74bc-1161-11e3-83d5-0050568939ad" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_archive.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Archive Photo (1955)</div><div class="isomer-card-description">An old postcard of the side of the Raffles Museum and Library (now, National Museum of Singapore) with the Heritage Indian Rubber seen on the right. (Photo courtesy of National Archives of Singapore)</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">An old postcard (dated 1955) of the side of the Raffles Museum and Library (now, National Museum of Singapore) with the Heritage Indian Rubber seen on the right.<br>(Photo courtesy of National Archives of Singapore)</div></div></a></div>
