@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-125
 </td>
 <td rowspan="1" colspan="1">
@@ -25,7 +25,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The Jelawai Jaha or <em>Terminalia subspathulata</em> is a forest tree that is native to Singapore and can grow up to 45 m in height or more. It can also be found naturally distributed in the forests of Sumatra, Peninsular Malaysia, Borneo and Java. The trunk is heavily buttressed, and the bark is pale brown with narrow cracks. This emergent tree has a wide and flat topped crown — a character, particularly distinct in mature trees of this species. Its open and tiered crown has been observed to be favoured by large birds of prey as nesting sites in Singapore.</p>
+<p>The Jelawai Jaha is a forest tree that is native to Singapore and can grow up to 45 m in height or more. It can also be found naturally distributed in the forests of Sumatra, Peninsular Malaysia, Borneo and Java. The trunk is heavily buttressed, and the bark is pale brown with narrow cracks. This emergent tree has a wide and flat topped crown — a character, particularly distinct in mature trees of this species. Its open and tiered crown has been observed to be favoured by large birds of prey as nesting sites in Singapore.</p>
 
 <p>The spathula-shaped leaves are leathery, bearing long leaf stalks and are spirally arranged, with its edges curved. The Jelawai Jaha bears greenish to yellow flowers which are pollinated by insects while its flat, two-winged fruits are wind dispersed.</p>
 
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/tersub_ht2003-125_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tersub_ht2003-125_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
