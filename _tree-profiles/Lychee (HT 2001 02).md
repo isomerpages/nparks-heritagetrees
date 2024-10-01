@@ -40,7 +40,7 @@ description: ""
 <a href="/images/Heritage_trees_photos/litchi_ht2001-02_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/litchi_ht2001-02_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in 2023<br>(📷: Brendon Phuah)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in 2023, with supports <br>(📷: Brendon Phuah)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/litchi_ht2001-02_habitold.jpg" class="isomer-card">
 <div class="isomer-card-image">
