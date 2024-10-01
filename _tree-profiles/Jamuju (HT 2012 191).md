@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3090000000020945&amp;lng=103.81596999999667">
- <br>Singapore Botanic Gardens,<br>on Lawn H (beside HT<br>Marsh Pulai)</a>
+ <br>Singapore Botanic Gardens,<br>Lawn H (beside HT<br>Marsh Pulai)</a>
 </td>
 </tr>
 </tbody>
