@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2001-02
 </td>
 <td rowspan="1" colspan="1">
@@ -40,9 +40,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/litchi_ht2001-02_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/litchi_ht2001-02_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in 2023<br>(📷: Brendon Phuah)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/litchi_ht2001-02_habitold.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/litchi_ht2001-02_habitold.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div><div class="isomer-card-description">Taken in 2011</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in 2011<br>(📷: Heritage Tree Secretariat)</div></div></a></div>
