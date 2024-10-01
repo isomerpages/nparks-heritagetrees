@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2012-195
 </td>
 <td rowspan="1" colspan="1">
@@ -38,9 +38,10 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficker_ht2012-195_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficker_ht2012-195_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Worm's Eye View of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/ficker_ht2012-195_roots.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficker_ht2012-195_roots.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Trunk Base &amp; Prop Roots</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Trunk base &amp; prop roots of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div>
+</div></a></div>
