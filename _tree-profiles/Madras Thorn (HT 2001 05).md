@@ -5,11 +5,11 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%" src="/images/Heritage_trees_photos/pitcel_ht2001-05_habitold.jpg">
+<img style="width: 60%" src="/images/Heritage_trees_photos/pitcel_ht2001-05_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2001-05
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2933520000015701&amp;lng=103.84601100000184">
- <br>Fort Canning Park,<br>along path beside<br>Service Reservoir</a>
+ <br>Fort Canning Park, along path<br>beside Service Reservoir (beside<br>leaning tree)</a>
 </td>
 </tr>
 </tbody>
