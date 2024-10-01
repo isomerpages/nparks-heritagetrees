@@ -46,7 +46,7 @@ description: ""
 
 <p>Birds like the Yellow-vented Bulbul (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/7/6/763"><em>Pycnonotus goiavier</em></a>), Black-naped Oriole (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/4/5/458"><em>Oriolus chinensis</em></a>), and Coppersmith Barbet (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/5/35"><em>Megalaima haemacephala</em></a>) are attracted by the fleshy and bright red fruit and help to disperse the seeds after feeding on the fruit.</p>
 
-<p>These Trees were likely planted after the Fairy Point Chalets were built in the late 1920s as residences for senior British officers and were thought to have stood here for more than 70 years. The first Orange Jasmine Heritage Tree had a girth of 2.6 m when endorsed in 2018, while the second Orange Jasmine has a girth of 2 m when endorsed in 2019. 
+<p>These Heritage Trees were likely planted after the Fairy Point Chalets were built in the late 1920s as residences for senior British officers and were thought to have stood here for more than 70 years. The first Orange Jasmine Heritage Tree had a girth of 2.6 m when endorsed in 2018, while the second Orange Jasmine has a girth of 2 m when endorsed in 2019. 
 
 </p><p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2239">here</a>.</p>
 
