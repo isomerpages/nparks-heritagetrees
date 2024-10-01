@@ -21,8 +21,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4184499999974471&amp;lng=103.97277500000035">
  <br>Pulau Ubin, within National<br>Police Cadet Corps campsite</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">  
+⛔ Please note that this Heritage Tree is not accessible to the public.</td></tr>
 </tbody>
 </table>
 <p>The Johor Fig is an immense strangling fig that can grow up to 45 m in height. It has a very large and wide spreading crown and pinkish brown bark. Its figs ripen to a pale yellow or orange colour. Native to Singapore and endangered in the wild, this species was reportedly common in Java and Malaya in the mid-1900s.
