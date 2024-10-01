@@ -33,7 +33,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/ficstrht_2013-206_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficstr_ht2013-206_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficstr_ht2013-206_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Overall shot of the Heritage Tree<br>(📷: Brendon Phuah)</div></div></a>
