@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2001-01
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3436940000024293&amp;lng=103.8534689999985">
- <br>Braddell Road, at Toa Payoh<br>North Flyover Traffic Island</a>
+ <br>Braddell Road, Toa Payoh North<br>Flyover Traffic Island</a>
 </td>
 </tr>
 </tbody>
@@ -38,9 +38,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/ceipen_ht2001-01_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ceipen_ht2001-01_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Lee Sae Yun</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/ceipen_ht2001-01_habit2.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ceipen_ht2001-01_habit2.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div><div class="isomer-card-description">Taken in 2007</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a></div>
