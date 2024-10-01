@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2009-93
 </td>
 <td rowspan="1" colspan="1">
@@ -20,8 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2543709999958417&amp;lng=103.81797700000189">
-<br>Sentosa (Madame Tussauds
-	<br>forecourt)</a>
+<br>Sentosa, Madame Tussands<br>Singapore forecourt</a>
 </td>
 </tr>
 </tbody></table>
@@ -38,4 +37,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/mimele_ht2003-93_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mimele_ht2003-93_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2023</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
