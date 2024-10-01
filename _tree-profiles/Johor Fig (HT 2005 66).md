@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2005-66
 </td>
 <td rowspan="1" colspan="1">
@@ -20,9 +20,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2487400000030855&amp;lng=103.82488999999654">
- <br>Sentosa (Capella Hotel,<br>outside Room 11)</a>
-</td>
-</tr>
+ <br>Sentosa, Capella Hotel,<br>outside Room 11</a>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that this Heritage Tree is only accessible to hotel guests.</td></tr>
 </tbody>
 </table>
 <p>The Johor Fig is an immense strangling fig that can grow up to 45 m in height. It has a very large and wide spreading crown and pinkish brown bark. Its figs ripen to a pale yellow or orange colour. Native to Singapore and endangered in the wild, this species was reportedly common in Java and Malaya in the mid-1900s.
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficker_ht2005-66_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficker_ht2005-66_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><p></p></div>
+	<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
