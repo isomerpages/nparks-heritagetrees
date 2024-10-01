@@ -20,9 +20,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4165199999990628&amp;lng=103.96690000000159">
- <br>Pulau Ubin, along Jalan<br>Noordin, within forested area</a>
+ <br>Pulau Ubin, along Jalan Noordin,<br>near National Police Cadet<br>Corps (NPCC) Camp</a>
 </td></tr>
-<tr><td style="text-align: center;" colspan="3">⚠️ Please note that this Heritage Tree is in a forested area. </td></tr>
+
 </tbody>
 </table>
 <p><em>Ficus stricta</em> is lowland rainforest fig species that can reach up to 40 m in height. It has a wide, spreading crown, supported by aerial roots, and grey, smooth bark. Its leaves are smooth and leathery, ranging from elliptic, oblong to oval-shaped, each measuring up to 8- 14 cm long and 3.5 - 6 cm wide. Its smooth figs are borne along the axils in pairs, sometimes solitary, and turns from yellow, to orange, to dark red or pink to purple upon maturity. Oriental Pied Hornbills (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/7/174"><em>Anthracoceros albirostris</em></a>) were seen feeding on the figs.</p>
