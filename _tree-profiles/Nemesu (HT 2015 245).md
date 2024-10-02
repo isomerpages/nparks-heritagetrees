@@ -9,7 +9,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2015-245
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,7 @@ description: ""
 
 <p>This majestic tree is part of the Singapore Botanic Gardens’ rainforest. It has a straight bole up to 60 m tall. It is near to the edge of the rainforest and can be easily viewed from Lower Ring Road.</p>
 
-<p>The road name Nemesu Avenue, near the Lower Peirce Reservoir area, was named after this tree species.</p>
+<p>The road name, Nemesu Avenue, near the Lower Peirce Reservoir area, was named after this species.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/7/4720">here</a>.</p>
 
