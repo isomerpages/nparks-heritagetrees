@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2012-201
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3076299999996654&amp;lng=103.81674999999981">
- <br>Singapore Botanic Gardens,<br>Lawn B (near Swan Lake)</a>
+ <br>Singapore Botanic Gardens,<br>Lawn B, near Main Gate Road</a>
 </td>
 </tr>
 </tbody>
@@ -34,4 +34,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/podner_ht2012-201_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/podner_ht2012-201_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
