@@ -13,8 +13,8 @@ description: ""
 <br><strong>Family name: </strong>Myristicaceae
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">
-<br>Singapore Botanic Gardens<br>(behind The Garage)</a>
+<strong>Location</strong>
+<br>Singapore Botanic Gardens,<br>behind The Garage
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3">
@@ -26,12 +26,12 @@ description: ""
  <th>Tree Height</th>
 </tr>
 <tr>
- <td>HT 2015-271</td>
+ <td><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">HT 2015-271</a></td>
  <td>1.22 m @ 1.3 m height</td>
  <td>13.6 m</td>
 </tr>
 <tr>
- <td>HT 2015-272</td>
+ <td><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">HT 2015-272</a></td>
  <td>1.15 m @ 0.7 m height</td>
  <td>13.2 m</td>
 </tr></tbody>
@@ -50,4 +50,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/myrfra_ht2015-271-272_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/myrfra_ht2015-271-272_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Hazri Boey</div></div></a><br></div>
