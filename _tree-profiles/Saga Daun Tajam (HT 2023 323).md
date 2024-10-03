@@ -23,13 +23,13 @@ description: ""
 	<br>Singapore Botanic Gardens,<br>Gallop Green</a>
 </td>
 </tr></tbody></table>
-<p><em>Adenanthera malayana</em> subsp. <em>malayana</em>&nbsp;is an&nbsp;endangered tree in Singapore. It can reach up to 45 m and have bipinnate leaves. The fruit pod twists into a spiral and splits open when ripe. Each fruit contains about 10 red and black ornamental glossy seeds.</p>
+<p><em>Adenanthera malayana</em> subsp. <em>malayana</em> is an tall, evergreen tree that can reach up to 45 metres. It has a dark green, heavy crown supported by wide-spreading limbs, and a light brownish grey bark that is lightly cracked and fissured. The bipinnate leaves comprises of 2 to 3 pairs of pinnae, each with 3-5 large, oblong, and thinly leathery leaflets, usually with a pointed tip.</p>
 
-<p>The species has a dark green, heavy crown supported by wide-spreading limbs. Its bark is light brownish grey and lightly cracked and fissured. The leaves are large, oblong, thinly leathery, and have 10-14 pairs of side veins with very fine crowded parallel veinlets between them.</p>
+<p>The tree produces racemes of small, faintly fragrant, white flowers that eventually turn yellow over time. The fruit pod twists into a spiral before turning purplish-black and splitting open when ripe. Each fruit contains about 10 red and black glossy seeds.</p>
 
-<p>It produces small, faintly fragrant, red flowers measuring about 0.5 cm across in slender unbranched spikes. Its egg-shaped, olive-yellow coloured fruit is about 4 cm long and contains one brown seed covered in a bright orange aril. This aril is eaten by birds and small mammals like squirrels.  </p>
+<p>This species is related to the well-known <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2697">Saga (<em>Adenanthera pavonina</em>)</a> but be differentiate from one another by the rounded tips on its leaflets and the single-coloured, red seeds. <em>Adenanthera malayana</em> subsp. <em>malayana</em> is an endangered species in Singapore.  
 
-<p>This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
+</p><p>This Heritage Tree, the tallest among the cluster of three, can be found between the Forest Discovery Centre (Atbara) and the Botanical Art Gallery (Inverturret), which are among some of the Singapore's oldest-surviving colonial houses. An old aerial photograph from the 1950s shows what appears to be this Heritage Tree, making it at least 70 years old. This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>.
 </p>
