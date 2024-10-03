@@ -37,17 +37,17 @@ description: ""
 </tr></tbody>
 </table>
 </td></tr></tbody></table>
-<p>This is an evergreen monopodial tree, with the sexes separated on different trees (dioecious).</p>
+<p>The Nutmeg is a medium tree that reach up to 10 metres, producing a pyramid-shaped crown. The dark green leaves are fragrant when crushed. The tree produces yellow, bell-shaped flowers, and ovoid fruits with a fleshy husk that splits to reveal the seed kernel (nutmeg) and the aromatic red lace-like aril (mace).</p>
 
-<p>A native of the Moluccas, the Nutmeg tree is the source of the nutmeg spice. Nutmeg was a major spice crop in Singapore in the 1840s before disease destroyed plantations in the 1860s. In the 1800s, the area around present-day Orchard Road was occupied by nutmeg, pepper and fruit orchards, which gave rise to the road’s name.</p>
+<p>A native of the Moluccas, the Nutmeg was a major spice crop in Singapore in the 1840s before disease wiped out the local plantations in the 1860s. The area around present-day Orchard Road used to be occupied by nutmeg, pepper and fruit orchards, which gave rise to the road’s name.</p>
 
-<p>This Heritage Trees are female trees as they were observed to have fruited. The flowers are pollinated by beetles.</p>
+<p>As <em>Myristica fragrans</em>are dioecious (male and female flowers are borne on different trees), these Heritage Trees are identified as female trees for they have been observed fruiting. These trees are one of the few remaining crop trees in the former Economic Garden, which started in 1879.</p>
 
-<p></p><p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3037">here</a></p>
+<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3037">here</a></p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/myrfra_ht2015-271-272_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/myrfra_ht2015-271-272_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Hazri Boey</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
