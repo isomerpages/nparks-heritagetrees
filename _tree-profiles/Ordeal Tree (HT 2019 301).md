@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference  ID</strong>
 <br>HT 2019-301
 </td>
 <td rowspan="1" colspan="1">
@@ -20,9 +20,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.313630000020236&amp;lng=103.81393000001891">
- <br>Singapore Botanic Gardens<br>(National Orchid Garden Nursery<br>- Not Accessible to Public)</a>
-</td>
-</tr>
+ <br>Singapore Botanic Gardens,<br>National Orchid Garden Nursery<br></a>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">  
+⛔ Please note that this Heritage Tree is not accessible to the public.</td></tr>
 </tbody>
 </table>
 <p>The Ordeal Tree originates from tropical Africa and can grow to a height of 20 m to 30 m. It has a wide-spreading crown and its young leaves are attractive with their coppery&nbsp;colour. Its flowers are small, cream to yellow, and grow in dense, long bunches. When pollinated, they mature into flat, woody pods.</p>
@@ -40,4 +41,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/erypsua_ht2019-301_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/erypsua_ht2019-301_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2022</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
