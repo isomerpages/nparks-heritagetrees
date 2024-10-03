@@ -1,5 +1,5 @@
 collections:
-  heritage-tree-register:
+  do-not-publish-ht-register:
     output: true
     order:
       - Heritage Tree Register.md
