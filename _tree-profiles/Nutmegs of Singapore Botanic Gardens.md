@@ -41,7 +41,7 @@ description: ""
 
 <p>A native of the Moluccas, the Nutmeg was a major spice crop in Singapore in the 1840s before disease wiped out the local plantations in the 1860s. The area around present-day Orchard Road used to be occupied by nutmeg, pepper and fruit orchards, which gave rise to the road’s name.</p>
 
-<p>As <em>Myristica fragrans</em> are dioecious (male and female flowers are borne on different trees), these Heritage Trees are identified as female trees for they have been observed fruiting. These trees are one of the few remaining crop trees in the former Economic Garden, where research and experimentation of economic plants were carried out since 1879.</p>
+<p>As <em>Myristica fragrans</em> are dioecious (male and female flowers are borne on different trees), these Heritage Trees are identified as female trees for they have been observed fruiting. These trees are one of the few remaining crop trees in the former Economic Garden, which started in 1879 for the research and experimentation of economic plants.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3037">here</a>.</p>
 
