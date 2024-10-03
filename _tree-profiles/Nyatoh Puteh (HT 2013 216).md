@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2013-216
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ description: ""
   
 <p>Processed latex from <em>Palaquium</em> trees, including the Nyatoh Puteh, is called gutta percha. As early as the 1820s, Malays in Singapore were using gutta percha for production of articles such as flexible whips and handles for machetes. In 1843, Dr William Montgomerie wrote to the Bengal Medical Board that gutta percha could potentially be used to make knife handles and for various medical devices. Gutta percha was known to be durable and have good elasticity when compared to leather and other types of rubber. When placed in temperature below boiling water, gutta percha becomes soft, making it easy to mould. When cooled, gutta percha becomes hard and retains its shape without any change by contraction or warping. Gutta percha became a commodity and was popularly used for insulation of submarine cables. Singapore was a great entrepot for gutta percha trading as the world's supply came from the surrounding Malay Peninsula and Indonesia Archipelago. Nowadays, gutta percha is still used as dental fillings.</p>
 
-<p>The area where this Heritage Tree is located was formerly part of the Economic Garden, where research and experimentation of economic plants were carried out. Given its size, this tree could have been planted for experiment during the time of former SBG Director, H N Ridley at around 1897. During the time of Burkill, Keeper of Gardens in 1918, other Gutta trees were planted in the slope of the former Economic Garden.</p>
+<p>The area where this Heritage Tree is located was formerly part of the Economic Garden, where research and experimentation of economic plants were carried out. Given its size, this tree could have been planted for experiment during the time of former Director of Singapore Botanic Gardens, H. N. Ridley at around 1897. During the time of Burkill, Keeper of Gardens in 1918, other Gutta trees were planted in the slope of the former Economic Garden.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3048">here</a>.</p>
 
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/palobo_ht2013-216_habit.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/palobo_ht2013-216_habit.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
