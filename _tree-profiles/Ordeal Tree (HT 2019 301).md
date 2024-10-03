@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Reference  ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2019-301
 </td>
 <td rowspan="1" colspan="1">
