@@ -4,43 +4,61 @@ permalink: /heritage-tree-panel/
 variant: markdown
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage_Tree_Panel.jpg">
-</div>
-<p>From left to right: Mr Simon John Longman; Ms Tay Bee Choo&nbsp;(Ms Tay
-has stepped down from the panel);&nbsp;Mr Ng Cheow Kheng;&nbsp;Dr Shawn
-K Y Lum;&nbsp;&nbsp;Dr Leong Chee Chiew (Dr Leong has stepped down from
-the panel);&nbsp;Dr Easaw Thomas;&nbsp;Mr Kong Yit San;&nbsp;Mr Oh Cheow
-Sheng;&nbsp;Mr Tan See Nin; Mr Tee Swee Ping&nbsp;
+<img src="/images/ht-panel-04102024.jpg">
+<div style="font-size: 14px; text-align: center">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn
+K Y Lum</div>
 <br>
-</p>
-<p><strong>Dr Tan Puay Yok</strong>
+<div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel members</b></div>
+<table style="background: #F4F6F7">
+<tbody>
+
+<tr><td>
+<b>Dr Tan Puay Yok</b>
 <br>Group Director, Singapore Botanic Gardens
-<br>National Parks Board<strong>&nbsp;</strong>
-</p>
-<p><strong>Mr Kong Yit San</strong>
+<br>National Parks Board</td>
+</tr>
+<tr><td>
+<b>Mr Kong Yit San</b>
 <br>Executive Director, Jurong Lake Gardens
-<br>National Parks Board</p>
-<p><strong>Mr Oh Cheow Sheng</strong>
+<br>National Parks Board</td></tr>
+
+<tr><td>
+<b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
-<br>National Parks Board</p>
-<p><strong>Mr Tan See Nin</strong>
+<br>National Parks Board </td>
+</tr>
+<tr><td>
+<b>Mr Tan See Nin</b>
 <br>Senior Director, Physical Planning
-<br>Urban Redevelopment Authority</p>
-<p><strong>Dr Shawn Kaihekulani Yamauchi Lum</strong>
+<br>Urban Redevelopment Authority (URA)</td>
+</tr>
+<tr><td>
+<b>Dr Shawn Kaihekulani Yamauchi Lum</b>
 <br>President, Nature Society Singapore;
 <br>Senior Lecturer, Asian School of the Environment, Nanyang Technological
-University</p>
-<p><strong>Dr Easaw Thomas</strong>
+University (NTU)</td>
+</tr>
+<tr><td>
+<b>Dr Easaw Thomas</b>
 <br>Singapore Representative, Perniagaan Tunas Harapan
 <br>(Malaysia Rainforest Trees for Conservation, Forest Plantations &amp;
-Landscaping)</p>
-<p><strong>Mr Koh Piak Huat</strong>
-<br>Divisional Director, Island Operations, Sentosa Development Corporation</p>
-<p><strong>Mr Ng Cheow Kheng</strong>
-<br>Private Consultant</p>
-<p><strong>Mr Simon John Longman</strong>
-<br>Consultant</p>
-<p><strong>Mr Tee Swee Ping</strong>
-<br>Private Consultant</p>
+Landscaping)</td>
+</tr>
+<tr><td>
+<b>Mr Koh Piak Huat</b>
+<br>Divisional Director, Island Operations, Sentosa Development Corporation</td>
+</tr>
+<tr><td>
+<b>Mr Ng Cheow Kheng</b>
+<br>Private Consultant</td>
+</tr>
+<tr><td>
+<b>Mr Simon John Longman</b>
+<br>Consultant</td>
+</tr>
+<tr><td>
+<b>Mr Tee Swee Ping</b>
+<br>Private Consultant</td>
+</tr>
+</tbody>
+</table>
