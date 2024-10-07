@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-74
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2197770000018124&amp;lng=103.84859000000343">
-<br>Saint John's Island (near<br>water tank, forested area)</a>
+<br>Saint John's Island, near<br>water tank, forested area</a>
 </td>
 </tr>
 </tbody></table>
@@ -36,5 +36,5 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a><br></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
