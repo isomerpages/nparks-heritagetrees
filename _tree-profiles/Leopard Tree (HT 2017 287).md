@@ -31,7 +31,7 @@ description: ""
 	
 <p>The specific epithet <em>ferrea</em> means 'iron' in Latin and referes to the extremely dense and heavy wood, which is often used for making furniture, flooring and fingerboards for electric basses and guitars. Unlike most other types of wood which float in water, seasoned wood of the Leopard Tree is so dense that it will sink instead!</p>
 
-<p>This fine specimen at Esplanade Park had a girth of 2.6 m when it was endorsed as a Heritage Tree in 2017.</p>
+<p>This fine specimen at Esplanade Park had a girth of 2.6 m when it was endorsed as a Heritage Tree in 2017. This tree is dedicated to Singtel for their contribution to the <a href="https://www.gardencityfund.gov.sg/">Garden City Fund</a>.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2767">here</a>.</p>
 
