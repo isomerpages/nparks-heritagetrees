@@ -44,7 +44,8 @@ Landscaping)</td>
 </tr>
 <tr><td>
 <b>Mr Koh Piak Huat</b>
-<br>Divisional Director, Island Operations, Sentosa Development Corporation</td>
+<br>Divisional Director, Island Operations,
+	<br>Sentosa Development Corporation</td>
 </tr>
 <tr><td>
 <b>Mr Ng Cheow Kheng</b>
@@ -52,7 +53,7 @@ Landscaping)</td>
 </tr>
 <tr><td>
 <b>Mr Simon John Longman</b>
-<br>Consultant</td>
+<br>Private Consultant</td>
 </tr>
 <tr><td>
 <b>Mr Tee Swee Ping</b>
