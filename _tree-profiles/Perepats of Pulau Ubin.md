@@ -13,8 +13,8 @@ description: ""
 <br><strong>Family name:</strong> Lythraceae
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">
-<br>Pulau Ubin, near Chek Jawa,<br>from House No. 1 on the right</a>
+<strong>Location</strong>
+<br>Pulau Ubin, near Chek Jawa,<br>from House No. 1 on the right
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3">
@@ -26,12 +26,12 @@ description: ""
  <th>Tree Height</th>
 </tr>
 <tr>
- <td>HT 2007-162 (left)</td>
+ <td><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">HT 2007-162</a></td>
  <td>5.5 m @ 1.3 m height</td>
  <td>18.9 m</td>
 </tr>
 <tr>
- <td>HT 2007-163 (right)</td>
+ <td><a href="https://www.onemap.gov.sg/?lat=1.4073610000024859&amp;lng=103.98829199999919">HT 2007-163</a></td>
  <td>5.3 m @ 1.3 m height</td>
  <td>18.9 m</td>
 </tr></tbody>
