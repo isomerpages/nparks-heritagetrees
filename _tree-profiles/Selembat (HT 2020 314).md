@@ -29,11 +29,11 @@ description: ""
 
 <p>The species is naturally distributed in Peninsular Malaysia and Singapore.&nbsp;<em>Syzygium</em>&nbsp;is well represented in the Singapore forest and trees of the genus have similar leaf morphology. Therefore, it may take further investigation into the reproductive structure,s like flowers and fruits, when available in order to uncover the tree species.</p>
 
-<p>This rare&nbsp;<em>Syzygium conglomeratum</em>&nbsp;(Selembat) had a large girth of 2.65 m when it was endorsed as a Heritage Tree in 2020.</p>
+<p>This rare Selembat had a large girth of 2.65 m when it was endorsed as a Heritage Tree in 2020.</p>
 
-<p>For more information on the species, please refer to NParks Flora &amp; Fauna's profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/8/4/8409">here</a>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/8/4/8409">here</a>.</p>
 
-</p><h4>Gallery</h4>
+<h4>Gallery</h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
