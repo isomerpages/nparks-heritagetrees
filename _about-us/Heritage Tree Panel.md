@@ -6,7 +6,8 @@ description: ""
 ---
 <img src="/images/ht-panel-04102024.jpg">
 <div style="text-align: center">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn
-K Y Lum</div><p>
+K Y Lum</div>
+<p>The Heritage Tree Panel comprises of NParks officials, representatives from government agencies, as well as others with a broad diversity of expertise. As members, </p>
 <table>
 <tbody>
 <tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel members</b></div>
@@ -60,4 +61,4 @@ Landscaping)</td>
 <br>Private Consultant</td>
 </tr>
 </tbody>
-</table></p>
+</table><p></p>
