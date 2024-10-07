@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2003-61
 </td>
 <td rowspan="1" colspan="1">
@@ -20,8 +20,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2222529999957508&amp;lng=103.84448599999733">
-<br>Saint John's Island 
-	<br>(Block 15 Prison Gate)</a>
+<br>Saint John's Island, 
+	<br>Block 15 Prison Gate</a>
 </td>
 </tr>
 </tbody></table>
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/cyrfra_ht2003-61_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2003-61_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2022</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
