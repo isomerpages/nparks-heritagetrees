@@ -41,4 +41,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/samsam_ht2007-161_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2007-161_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">(📷: Brendon Phuah</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
