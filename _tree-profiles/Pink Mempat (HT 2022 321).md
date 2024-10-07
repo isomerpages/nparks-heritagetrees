@@ -42,9 +42,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/crafor_ht2022-321_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/crafor_ht2022-321_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees with foliage<br>(📷: Brendon Phuah)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with foliage<br>(📷: Brendon Phuah)</div></div></a>
 
 <a href="/images/Heritage_trees_photos/crafor_ht2022-321_hab.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/crafor_ht2022-321_hab.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees in full bloom<br>(📷: Zaki Jamil)</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in full bloom<br>(📷: Zaki Jamil)</div></div></a></div>
