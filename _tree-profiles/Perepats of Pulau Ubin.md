@@ -21,7 +21,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 16px; border: #000;">
 <tbody>
 <tr>
- <th>Unique ID</th>
+ <th>Reference ID</th>
  <th>Tree Girth</th>
  <th>Tree Height</th>
 </tr>
@@ -45,9 +45,10 @@ description: ""
 <a href="/images/Heritage_trees_photos/sonalb_ht2007-162-163_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sonalb_ht2007-162-163_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (Low Tide)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees seen during low tide<br>📷: Brendon Phuah</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/sonalb_ht2007-162-163_water.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sonalb_ht2007-162-163_water.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (High Tide)</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah
+</div></div></a></div>
