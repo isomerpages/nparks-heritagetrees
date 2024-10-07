@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2020-316
 </td>
 <td rowspan="1" colspan="1">
@@ -43,10 +43,10 @@ description: ""
 <a href="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2020</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Archive Photo</div><div class="isomer-card-description">Then Prime Minister Lee Kuan Yew planting a <em>Terminalia catappa</em> sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Then Prime Minister Lee Kuan Yew planting a <em>Terminalia catappa</em> sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore)</div></div></a>
 </div>
