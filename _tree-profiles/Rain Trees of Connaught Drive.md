@@ -24,7 +24,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 16px; border: #000;">
 <tbody>
 <tr>
- <th>Unique ID</th>
+ <th><div class="isomer-card-description">📷: Hazri Boey</div>ID</th>
  <th>Tree Girth</th>
  <th>Tree Height</th>
 </tr>
@@ -149,9 +149,16 @@ Tree planting was formalised in 1881 by the then Superintendent of the Singapore
   
 <p>The leaves consist of leaflets which fold up in the evenings. This is why the Malays call it ‘Pukul Lima’, which means ‘5 o’clock’.</p>
 
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a>.</p>
+
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Trees along Connaught Drive<br>(📷: Hazri Boey)</div></div></a>
+
+<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
