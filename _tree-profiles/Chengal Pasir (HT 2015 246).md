@@ -33,7 +33,9 @@ description: ""
 
 <p>As described in the book ‘Wayside Trees of Malaya’, this tree was occasionally found in some villages on or near the coast of Kelantan and Trengganu. In Kuala Trengganu, it was abundant in kampongs on a few streets, and huts were even constructed round the boles of big specimens.</p>
 
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2959">here</a>.</p>
+<p>This tree is dedicated to LU Foundation for their contribution to the <a href="https://www.gardencityfund.gov.sg/">Garden City Fund</a>.
+
+</p><p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2959">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
