@@ -6,10 +6,11 @@ description: ""
 ---
 <img src="/images/ht-panel-04102024.jpg">
 <div style="text-align: center">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn
-K Y Lum</div><p>
-</p><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel members</b></div>
-<table style="background: #F4F6F7">
+K Y Lum</div><br>
+<table>
 <tbody>
+<tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel members</b></div>
+</td></tr>
 <tr><td>
 <b>Dr Tan Puay Yok</b>
 <br>Group Director, Singapore Botanic Gardens
