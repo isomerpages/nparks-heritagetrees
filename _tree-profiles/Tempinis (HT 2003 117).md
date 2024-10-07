@@ -28,7 +28,7 @@ description: ""
 </tbody></table>
 <p>A bushy evergreen tree that can grow up to 35 m in height. Crown is rounded. Bark is greyish-brown and rough. Leaves are oblong elliptic, tipped, thinly leathery and drooping, rather yellowish green (young leaves are pinkish brown). Flowers occur in hanging green spikes or catkins (8 - 20cm long). Fruits are round (1cm wide), enclosed at the base of the flower. </p>
   
-<p>The leaves can be recognised as they are very unequal-sided at the base with the broadest side foremost. The species was previously known as <em>Streblus elongata</em>, where the generic epithet <i>Streblus</i>means 'crooked' in Greek.</p>
+<p>The leaves can be recognised as they are very unequal-sided at the base with the broadest side foremost. The species was previously known as <em>Streblus elongata</em>, where the generic epithet <i>Streblus</i> means 'crooked' in Greek.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3145">here</a>.</p>
 
