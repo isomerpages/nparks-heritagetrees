@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2013-213
 </td>
 <td rowspan="1" colspan="1">
@@ -19,8 +19,8 @@ description: ""
 <br><strong>Height: </strong>9.6 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2752600000447851&amp;lng=103.79240000002645">
-<br>Singapore Botanic Gardens,<br> Lawn H (near Heritage Garden)</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.309590000001142&amp;lng=103.81590999999729">
+<br>Singapore Botanic Gardens,<br> near Sundial Garden</a>
 </td>
 </tr>
 </tbody></table>
@@ -35,5 +35,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/kigafr_ht2013-213_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/kigafr_ht2013-213_habit.jpg"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
-<p></p></div>
+	<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
