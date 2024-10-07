@@ -33,7 +33,7 @@ description: ""
 
 <p>It is also the preferred local food plant for caterpillars of the Archduke (<a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/0/1011"><em>Lexias pardalis dirteana</em></a>). The adult of the Archduke lays its eggs singly on the undersides of leaves and when the caterpillars hatch, they emerge to feed on the leaves of the host plant.</p>
 
-<p>This beautiful Pink Mempat tree in East Coast Park has a girth of 2.2 m when it was endorsed as a Heritage Tree in 2022.</p>
+<p>This beautiful Pink Mempat tree in East Coast Park has a girth of 2.2 m when it was endorsed as a Heritage Tree in 2022. This tree is dedicated to the Ocean Network Express (ONE) for their contribution to the <a href="https://www.gardencityfund.gov.sg/">Garden City Fund</a>.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2830">here</a>.</p>
 
@@ -42,4 +42,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/crafor_ht2022-321_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/crafor_ht2022-321_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees with foliage<br>📷: Brendon Phuah</div></div></a>
+
+<a href="/images/Heritage_trees_photos/crafor_ht2022-321_hab.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/crafor_ht2022-321_hab.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees in full bloom<br>📷: Zaki Jamil</div></div></a></div>
