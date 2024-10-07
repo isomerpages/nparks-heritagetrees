@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 ---
 <img src="/images/ht-panel-04102024.jpg">
-<center>From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn
-K Y Lum</center>
+<div style="text-align: center">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn
+K Y Lum</div>
 <div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel members</b></div>
 <table style="background: #F4F6F7">
 <tbody>
@@ -19,7 +19,6 @@ K Y Lum</center>
 <b>Mr Kong Yit San</b>
 <br>Executive Director, Jurong Lake Gardens
 <br>National Parks Board</td></tr>
-
 <tr><td>
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
