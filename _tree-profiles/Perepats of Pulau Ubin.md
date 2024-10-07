@@ -50,5 +50,6 @@ description: ""
 <a href="/images/Heritage_trees_photos/sonalb_ht2007-162-163_water.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sonalb_ht2007-162-163_water.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees seen during high tide<br>📷: Brendon Phuah
+
 </div></div></a></div>
