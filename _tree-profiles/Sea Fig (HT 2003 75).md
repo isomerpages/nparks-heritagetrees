@@ -30,7 +30,7 @@ description: ""
   
 <p>The Sea Fig is endangered in and native to Singapore, and widely distributed from Japan, China, Indochina, and Malesia to Australia.</p>
 	
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a></p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
