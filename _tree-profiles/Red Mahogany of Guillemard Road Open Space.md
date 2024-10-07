@@ -21,7 +21,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 16px;">
 <tbody>
 <tr>
- <th>Unique ID</th>
+ <th>Reference ID</th>
  <th>Tree Girth</th>
  <th>Tree Height</th>
 </tr>
@@ -55,5 +55,5 @@ description: ""
 <a href="/images/Heritage_trees_photos/khanya_ht2001-14-15-16_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/khanya_ht2001-14-15-16_habit.jpg"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
-<p></p></div>
+	<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a>
+<br></div>
