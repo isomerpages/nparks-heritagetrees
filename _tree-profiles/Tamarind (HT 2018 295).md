@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2018-295
 </td>
 <td rowspan="1" colspan="1">
@@ -21,10 +21,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3058036000219595&amp;lng=103.84176790002947">
 <br>Istana ground, 
-	<br>near nursery car park</a>
-</td>
-</tr>
-</tbody></table>
+	<br>nursery carpark</a>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">  
+⛔ Please note that this Heritage Tree is not accessible to the public.</td></tr></tbody></table>
 <p>The Tamarind or Asam is a slow-growing and medium-sized tree that can reach 12 m to 30 m tall. It has beautiful fine-textured leaves and a round-shaped crown. It is native to Africa, and grows best in well-draining soil.
 
 </p><p>Tamarindus is monotypic, meaning that there is only one species in this genus (i.e.,&nbsp;<em>Tamarindus indica</em>). The name of the genus&nbsp;<em>Tamarindus</em>&nbsp;is derived from the Arabic phrase&nbsp;<em>at-tamr al-hindi,</em>&nbsp;meaning ‘date of India’, which refers to its fruit. The specific epithet&nbsp;<em>indica</em>&nbsp;suggests its origins to be from India.
@@ -40,4 +40,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/tamind_ht2018-295_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tamind_ht2018-295_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2022</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
