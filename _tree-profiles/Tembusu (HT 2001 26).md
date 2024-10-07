@@ -8,7 +8,7 @@ description: ""
 <table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2001-26
 </td>
 <td rowspan="1" colspan="1">
@@ -36,9 +36,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken in 2024</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in 2024<br>(📷: Hazri Boey)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitold.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/cyrfra_ht2001-26_habitold.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (old)</div><div class="isomer-card-description">Taken in 2011</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree in 2011<br>(📷: Heritage Tree Secretariat)</div></div></a></div>
