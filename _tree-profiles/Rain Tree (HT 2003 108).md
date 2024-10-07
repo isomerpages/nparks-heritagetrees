@@ -21,8 +21,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.306679999994662&amp;lng=103.84578999998942">
  <br>Istana Ground</a>
-</td>
-</tr>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that the Istana is not open to the public, except during <a href="https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House">certain dates.</a></td></tr>
 </tbody>
 </table>
 <p>The tree can grow up to 30 m in height with an umbrella-shaped crown, spreading 20 to 30m across. The bark is dark brown, rough and flaky in mature specimens while its leaves are twice pinnate compound. Its small clusters of flowers are pinkish or whitish and slightly fragrant and its fruit pods are thick, long, straight and fleshy inside. The pods ripen black and do not split open. The seeds readily germinate into seedlings, sometimes while still inside the fruit. Epiphytes like ferns and orchids tend to perch on old Rain Trees.</p>
