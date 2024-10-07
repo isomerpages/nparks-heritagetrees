@@ -9,7 +9,7 @@ description: ""
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
-<strong>Unique ID</strong>
+<strong>Reference ID</strong>
 <br>HT 2012-189
 </td>
 <td rowspan="1" colspan="1">
@@ -29,6 +29,8 @@ description: ""
   
 <p>This Heritage Tree could be the largest of its kind in Singapore in terms of girth. The seeds of this species are used as a fish poison. They are crushed and thrown in water, after which the fish are stunned/die by the saponin released from the seeds and float to the surface allowing them to be harvested.</p>
 
+<p>This tree is dedicated to Vincent and Amanda Toh-Steckler for their contribution to the <a href="https://www.gardencityfund.gov.sg/">Garden City Fund</a>.</p>
+
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2744">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
@@ -36,9 +38,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit</div><div class="isomer-card-description">Taken near the courtyard at entrance in 2024</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the Healing Garden courtyard (📷: Hazri Boey)</div></div></a>
 
-<a href="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/barasi_ht2012-189_fountain.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Habit (2)</div><div class="isomer-card-description">Taken from beside the water fountain in 2024</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_fountain.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the water fountain at the base of the slope (📷: Hazri Boey)</div></div></a></div>
