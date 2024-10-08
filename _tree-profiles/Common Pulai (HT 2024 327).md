@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Alstonia angustiloba</em>
 <br><strong>Family name: </strong>Apocynaceae
-<br><strong>Girth: </strong>6.61 m @ 1.3 m height
-<br><strong>Height: </strong>29 m
+<br><strong>Girth: </strong>6.78 m @ 1.3 m height
+<br><strong>Height: </strong>38 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2505259999994771&amp;lng=103.8226359999965">
