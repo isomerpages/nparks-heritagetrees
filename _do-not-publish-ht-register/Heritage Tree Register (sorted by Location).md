@@ -127,11 +127,11 @@ description: ""
  <tr><td><a href="/ht-2018-295/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2018-295)</a></td><td>Istana, near Nursery car-park</td></tr>
  <tr><td><a href="/ht-2014-234/"><b>Teak</b> / <i>Tectona grandis</i> (HT 2014-234)</a></td><td>Singapore Botanic Gardens, near Botany Centre</td></tr>
  <tr><td><a href="/ht-2013-218/"><b>Temak</b> / <i>Shorea roxburghii</i> (HT 2013-218)</a></td><td>Singapore Botanic Gardens, along Main Gate Road</td></tr>
- <tr><td><a href="/ht-2001-26/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2001-26)</a></td><td>Singapore Botanic Gardens,Lawn E</td></tr> <tr><td><a href="/ht-2001-22/"><b>Tulang Daing</b> / <i>Adinobotrys atropurpureus</i> (HT 2001-22)</a></td><td>Singapore Botanic Gardens, behind Swan Lake</td></tr>
- <tr><td><a href="/ht-2001-12/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2001-12)</a></td><td>Fort Canning Park, along 14th Century Walk of History</td></tr>
- <tr><td><a href="/ht-2014-223/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2014-223)</a></td><td>Fort Canning Park, Fort Green, near Canning Rise L/P 11F</td></tr>
- <tr><td><a href="/ht-2015-235/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2015-235)</a></td><td>Found in Fort Canning Park near Raffles Terrace</td></tr>
- <tr><td><a href="/ht-2016-279/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2016-279)</a></td><td>Fort Canning Pk, beh. Blk 2, R Val Rd</td></tr><tr></tr>
+ <tr><td><a href="/ht-2001-26/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2001-26)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr> <tr><td><a href="/ht-2001-22/"><b>Tulang Daing</b> / <i>Adinobotrys atropurpureus</i> (HT 2001-22)</a></td><td>Singapore Botanic Gardens, behind Swan Lake</td></tr>
+ <tr><td><a href="/ht-2001-12/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2001-12)</a></td><td>Fort Canning Park,<br>along 14th Century Walk of History</td></tr>
+ <tr><td><a href="/ht-2014-223/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2014-223)</a></td><td>Fort Canning Park,<br>near Canning Rise L/P 11F</td></tr>
+ <tr><td><a href="/ht-2015-235/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2015-235)</a></td><td>Fort Canning Park,<br>near Raffles Terrace</td></tr>
+ <tr><td><a href="/ht-2016-279/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2016-279)</a></td><td>Fort Canning Pk,<br>along Five Kings Walk (behind The Foothills)</td></tr><tr></tr>
 	<tr><td><a href="/ht-2023-326/"><b>Thai Bungor</b> / <i>Lagerstroemia loudonii</i> (HT 2023-326)</a></td><td>Singapore Botanic Gardens,<br>behind Swan Lake</td></tr>
  <tr><td><a href="/ht-2003-84/"><b>West Indian Locust Tree</b> / <i>Hymenaea courbaril</i> (HT 2003-84)</a></td><td>Istana Ground</td></tr>
  <tr><td><a href="/ht-2014-231/"><b>West Indian Locust Tree</b> / <i>Hymenaea courbaril</i> (HT 2014-231)</a></td><td>Singapore Botanic Gardens,<br>Corner House Lawn</td></tr>
@@ -167,7 +167,6 @@ description: ""
  <tr><td><a href="/ht-2003-115/"><b><i>Sindora</i> × <i>changiensis</i></b> (HT 2003-115)</a></td><td>Changi, Cranwell Road in front of Cranwell Bungalow 1</td></tr>
  <tr><td><a href="/ht-2003-45/"><b>Sparrows' Mango</b> / <i>Buchanania arborescens</i> (HT 2003-45)</a></td><td>Changi, Andover Road, Fairy Point Chalet 6 (Accessible only to Chalet guests)</td></tr>
  <tr><td><a href="/ht-2014-221/"><b>Stem-fruited Fig</b> / <i>Ficus caulocarpa</i> (HT 2014-221)</a></td><td>Changi, Hendon Road, opposite No. 35</td></tr>
- <tr><td><a href="/ht-2019-304/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2019-304)</a></td><td>Block 137 Lor Ah Soo, Hougang Ave 1</td></tr>
  <tr><td><a href="/ht-2003-116/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-116)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7 (Accessible only to Chalet guests)</td></tr><tr></tr>
 	</tbody></table>
 
@@ -176,9 +175,9 @@ description: ""
  <tbody>
  <tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td><td>Woodlands Road, in front of Woodlands Fire Station</td></tr>
- <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Island Club Road, Singapore Island Country Club</td></tr>
+ <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
  <tr><td><a href="/ht-2003-90"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2003-90)</a></td><td>MacRitchie Reservoir Park, near Public Utilities Board office</td></tr>
- <tr><td><a href="/ht-2022-322"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2022-322)</a></td><td>Island Club Road, Singapore Island Country Club</td></tr>
+ <tr><td><a href="/ht-2022-322"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2022-322)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
  <tr><td><a href="/ht-2018-297"><b>Longan</b> / <i>Dimocarpus longan</i> (HT 2018-297)</a></td><td>Sembawang Park, near Shelter J, off Toilet 2 &amp; Fitness Corner</td></tr>
  <tr><td><a href="/ht-2007-152"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2007-152)</a></td><td>Singapore Zoological Gardens,<br>behind the White Tiger Enclosure</td></tr>
  <tr><td><a href="/ht-2007-153"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2007-153)</a></td><td>Singapore Zoological Gardens,<br>behind the Orang Utan Enclosure</td></tr>
@@ -207,6 +206,7 @@ description: ""
  <tr><td><a href="/ht-2017-286"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2017-286)</a></td><td>Seletar Aerospace Drive, after Bus-stop No. 5</td></tr>
  <tr><td><a href="/ht-2007-161"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-161)</a></td><td>Seletar Airbase, open space between Old Birdcage Walk and Oxford Street</td></tr>
  <tr><td><a href="/ht-2001-28/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2001-28)</a></td><td>Surin Avenue Park</td></tr>
+ <tr><td><a href="/ht-2019-304/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2019-304)</a></td><td>Block 137 Lor Ah Soo, Hougang Ave 1</td></tr>
 </tbody></table>
 
 <h4><b>West Region</b></h4>
@@ -229,14 +229,14 @@ description: ""
  <tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa - Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa (entrance of Shangri-La Rasa Sentosa Hotel)</td></tr>
- <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa (at entrance to Images Of Singapore)</td></tr>
- <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa (Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
- <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Sweitenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa (Images Of Singapore near Sky Tower, ~ 2nd Tree)</td></tr>
+ <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa (at entrance to Images Of Singapore)</td></tr>
+ <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa (Images Of Singapore near Sky Tower, ~ 1st Tree)</td></tr>
+ <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa (Images Of Singapore near Sky Tower, ~ 2nd Tree)</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa Capella Hotel, Suite B 7103 - 7105</td></tr>
  <tr><td><a href="/ht-2003-37"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-37)</a></td><td>Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu</td></tr>
- <tr><td><a href="/ht-2003-39"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-39)</a></td><td>Saint John's Island (Block 12 &amp; 13)</td></tr>
- <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa (Mount Serapong, within forested nature area)</td></tr>
+ <tr><td><a href="/ht-2003-39"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-39)</a></td><td>Saint John's Island, Block 12 &amp; 13</td></tr>
+ <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
  <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa (near junction of Imbiah Hill Road / Imbiah Road, beside Siloso Beach Resort)</td></tr>
  <tr><td><a href="/ht-2007-154"><b>Durian</b> / <i>Durio zibethinus</i> (HT 2007-154)</a></td><td>Pulau Ubin, in forested knoll off Jalan Batu Ubin behind cemetery grounds</td></tr>
  <tr><td><a href="/ht-2003-71"><b><i>Ficus stricta</i></b> (HT 2003-71)</a></td><td>Pulau Ubin, at granite outcrop near Police Post</td></tr>
@@ -245,26 +245,26 @@ description: ""
  <tr><td><a href="/ht-2003-62"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-62)</a></td><td>Sentosa, near Bkt Manis Rd junction (beside Asian Tours Headquarters)</td></tr>
  <tr><td><a href="/ht-2003-64"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-64)</a></td><td>Pulau Ubin, within National Police Cadet Corps camp site</td></tr>
  <tr><td><a href="/ht-2003-67"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-67)</a></td><td>Sentosa, behind bus-stop at Allanbrooke Rd, near Bkt Manis Rd junction</td></tr>
- <tr><td><a href="/ht-2005-66"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-66)</a></td><td>Sentosa (Capella Hotel, outside Room 11 (Garden Villa))</td></tr>
- <tr><td><a href="/ht-2007-155"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2007-155)</a></td><td>Sentosa (Capella Hotel, outside Room 27 (Gdn Villa Unit 1)) </td></tr>
- <tr><td><a href="/ht-2019-303"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2019-303)</a></td><td>Sentosa (Capella Hotel, Room 1)</td></tr>
- <tr><td><a href="/ht-2003-126"><b>Leban</b> / <i>Vitex pinnata</i> (HT 2003-126)</a></td><td>Sentosa (Images Of Singapore forecourt)</td></tr>
- <tr><td><a href="/ht-2005-139"><b>Medang</b> / <i>Litsea elliptica</i> (HT 2005-139)</a></td><td>Sentosa (Serapong Hill)</td></tr>
+ <tr><td><a href="/ht-2005-66"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-66)</a></td><td>Sentosa, Capella Hotel, outside Room 11 (Garden Villa)</td></tr>
+ <tr><td><a href="/ht-2007-155"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2007-155)</a></td><td>Sentosa, Capella Hotel, outside Room 27 (Gdn Villa Unit 1)</td></tr>
+ <tr><td><a href="/ht-2019-303"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2019-303)</a></td><td>Sentosa, Capella Hotel, Room 1</td></tr>
+ <tr><td><a href="/ht-2003-126"><b>Leban</b> / <i>Vitex pinnata</i> (HT 2003-126)</a></td><td>Sentosa, Madame Tussauds Singapore forecourt</td></tr>
+ <tr><td><a href="/ht-2005-139"><b>Medang</b> / <i>Litsea elliptica</i> (HT 2005-139)</a></td><td>Sentosa, Serapong Hill</td></tr>
  <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td><td>Saint John's Island, near village house and jetty entrance</td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa (Dragon tail - Earth Dragon)</td></tr>
  <tr><td><a href="/ht-2007-162-163"><b>Perepat</b> / <i>Sonneratia alba</i> (HT 2007-162 &amp; HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa,<br>from House No. 1 on the right</td></tr>
- <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa (Gunner Lane, behind Ranger Station)</td></tr>
- <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td><td>Sentosa (within Satellite Station grounds)</td></tr>
- <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>Sentosa - Resorts World Sentosa forest</td></tr>
+ <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa, Gunner Lane, behind Ranger Station</td></tr>
+ <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td><td>Sentosa, Woolwich Rd (within Satellite Station grounds)</td></tr>
+ <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>Sentosa, Resorts World Sentosa forest</td></tr>
  <tr><td><a href="/ht-2003-74/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-74)</a></td><td>Saint John's Island (near water tank)</td></tr>
  <tr><td><a href="/ht-2003-75/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-75)</a></td><td>Saint John's Island (Camp site 1 &amp; 2)</td></tr>
  <tr><td><a href="/ht-2003-76/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-76)</a></td><td>Saint John's Island (Block 7A, on slope of hill)</td></tr>
  <tr><td><a href="/ht-2003-77/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-77)</a></td><td>Saint John's Island (Former Sepak Takraw Court)</td></tr>
  <tr><td><a href="/ht-2003-81/"><b>Seashore Mangosteen</b> / <i>Garcinia celebica</i> (HT 2003-81)</a></td><td>Sentosa (former Maritime Museum, restricted area)</td></tr>
- <tr><td><a href="/ht-2003-93/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2003-93)</a></td><td>Sentosa (Images Of Singapore forecourt)</td></tr>
- <tr><td><a href="/ht-2003-58/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-58)</a></td><td>Sentosa (beside Images Of Singapore)</td></tr>
+ <tr><td><a href="/ht-2003-93/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2003-93)</a></td><td>Sentosa, Madame Tussauds Singapore forecourt</td></tr>
+ <tr><td><a href="/ht-2003-58/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-58)</a></td><td>Sentosa, behind Madame Tussauds Singapore</td></tr>
  <tr><td><a href="/ht-2003-59/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-59)</a></td><td>Saint John's Island (Block 5 &amp; 8)</td></tr>
  <tr><td><a href="/ht-2003-61/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-61)</a></td><td>Saint John's Island (Block 15 Prison Gate)</td></tr>
  <tr><td><a href="/ht-2003-117/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-117)</a></td><td>Saint John's Island (fencing beside camp site 1 &amp; 2)</td></tr>
- <tr><td><a href="/ht-2003-80/"><b>White Fig</b> / <i>Ficus vasculosa</i> (HT 2003-80)</a></td><td>Sentosa (within Satellite Station grounds)</td></tr><tr></tr>
+ <tr><td><a href="/ht-2003-80/"><b>White Fig</b> / <i>Ficus vasculosa</i> (HT 2003-80)</a></td><td>Sentosa, Woolwich Rd (within Satellite Station grounds)</td></tr><tr></tr>
 </tbody></table>
