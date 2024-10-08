@@ -495,6 +495,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2003-39"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-39)</a></td><td>Saint John's Island, Block 12 &amp; 13</td></tr>
  <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
  <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, near junction of Imbiah Hill Road / Imbiah Road, beside Siloso Beach Resort</td></tr>
+ <tr><td><a href="/ht-2024-327"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2024-327)</a></td><td>Sentosa, Resort World Sentosa Forest, opposite Equarius Hotel</td></tr>
  <tr><td><a href="/ht-2007-154"><b>Durian</b> / <i>Durio zibethinus</i> (HT 2007-154)</a></td><td>Pulau Ubin, in forested knoll off Jalan Batu Ubin behind cemetery grounds</td></tr>
  <tr><td><a href="/ht-2003-71"><b><i>Ficus stricta</i></b> (HT 2003-71)</a></td><td>Pulau Ubin, at granite outcrop near Police Post</td></tr>
  <tr><td><a href="/ht-2013-206"><b><i>Ficus stricta</i></b> (HT 2013-206)</a></td><td>Pulau Ubin, forest, left side of Jalan Noordin toward NPCC campsite, along fence</td></tr>
