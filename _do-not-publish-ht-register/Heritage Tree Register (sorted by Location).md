@@ -7,8 +7,7 @@ description: ""
 <h4><b>Central Region</b></h4>
 <table style="font-size: 17px;">
 	<tbody>
-<tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
-
+<tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
@@ -143,7 +142,7 @@ description: ""
 <h4><b>East Region</b></h4>
 <table style="font-size: 17px;">
  <tbody>
- <tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-113"><b>Damar Hitam Gajah</b> / <i>Richetia gibbosa</i> (HT 2003-113)</a></td><td>Changi, Netheravon Road near Bus Stop B06</td></tr>
  <tr><td><a href="/ht-2003-72"><b><i>Ficus stricta</i></b> (HT 2003-72)</a></td><td>Changi, Netheravon Road within CSC @ Changi II grounds</td></tr>
  <tr><td><a href="/ht-2003-73"><b><i>Ficus stricta</i></b> (HT 2003-73)</a></td><td>Changi, Netheravon Road within CSC @ Changi II grounds</td></tr>
@@ -173,7 +172,7 @@ description: ""
 <h4><b>North Region</b></h4>
 <table style="font-size: 17px;">
  <tbody>
- <tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td><td>Woodlands Road, in front of Woodlands Fire Station</td></tr>
  <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
  <tr><td><a href="/ht-2003-90"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2003-90)</a></td><td>MacRitchie Reservoir Park, near Public Utilities Board office</td></tr>
@@ -196,7 +195,7 @@ description: ""
 <h4><b>North-East Region</b></h4>
 <table style="font-size: 17px;">
 <tbody>
- <tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
  <tr><td><a href="/ht-2003-88/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-88)</a></td><td>Jalan Naung, behind House No. 70</td></tr>
  <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, near Bus-stop B05; Lamp-post 62</td></tr>
@@ -212,7 +211,7 @@ description: ""
 <h4><b>West Region</b></h4>
 <table style="font-size: 17px;">
 <tbody>
-<tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
+<tr><th>Heritage Tree Names / Unique IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-86/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-86)</a></td><td>Binjai Park, within grounds of House No. 32</td></tr>
  <tr><td><a href="/ht-2010-177-180"><b>Brown Woolly Figs</b> / <i>Ficus drupacea</i> of Singapore Polytechnic<br>(HT 2010-178 — HT 2010-180)</a></td><td>Singapore Polytechnic, behind Food Court 1</td></tr>
  <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
@@ -226,7 +225,7 @@ description: ""
 <h4><b>Off-shore Islands</b></h4>
 <table style="font-size: 17px;">
 <tbody>
- <tr><th>Heritage Tree Names and Reference IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa Hotel</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
