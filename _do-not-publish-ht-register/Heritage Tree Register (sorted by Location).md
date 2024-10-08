@@ -21,7 +21,6 @@ description: ""
  <tr><td><a href="/ht-2015-247/"><b>Bangkal</b> / <i>Nauclea orientalis</i> (HT 2015-247)</a></td><td>Singapore Botanic Gardens, behind Foliage Garden</td></tr>
  <tr><td><a href="/ht-2016-283/"><b>Baobab</b> / <i>Adansonia digitata</i> (HT 2016-283)</a></td><td>Singapore Botanic Gardens, near Melati Gate</td></tr>
  <tr><td><a href="/ht-2017-291/"><b>Belinjau</b> / <i>Gnetum gnemon</i> (HT 2017-291)</a></td><td>Singapore Botanic Gardens, behind The Garage</td></tr>
- <tr><td><a href="/ht-2003-86/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-86)</a></td><td>Binjai Park, within grounds of House No. 32</td></tr>
  <tr><td><a href="/ht-2003-87/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-87)</a></td><td>Istana Ground</td></tr> 
 <tr><td><a href="/ht-2003-89/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-89)</a></td><td>Spottiswoode Park Road, opposite Spottiswoode Apartments</td></tr>
  <tr><td><a href="/ht-2001-18/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2001-18)</a></td><td>Pearl's Hill City Park hilltop, near Service Reservoir gate</td></tr> 
@@ -29,7 +28,6 @@ description: ""
  <tr><td><a href="/ht-2007-156"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2007-156)</a></td><td>Canterbury Road, on Stateland near Lamp Post 14</td></tr>
  <tr><td><a href="/ht-2014-225"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2014-225)</a></td><td>Bendemeer Secondary School grounds, entrance roundabout porch</td></tr>
  <tr><td><a href="/ht-2016-276"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2016-276)</a></td><td>Tanglin Rd near Hse No 287</td></tr>
- <tr><td><a href="/ht-2010-177-180"><b>Brown Woolly Figs</b> / <i>Ficus drupacea</i> of Singapore Polytechnic<br>(HT 2010-178 — HT 2010-180)</a></td><td>Singapore Polytechnic, behind Food Court 1</td></tr>
  <tr><td><a href="/ht-2009-174"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2009-174)</a></td><td>No. 162 Mount Pleasant Road, gateway</td></tr>
  <tr><td><a href="/ht-2011-184"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2011-184)</a></td><td>Singapore Botanic Gardens, between Marsh Garden &amp; Swan Lake</td></tr>
  <tr><td><a href="/ht-2014-230"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2014-230)</a></td><td>Singapore Botanic Gardens,<br>Ginger Gardens (behind waterfall)</td></tr>
@@ -158,8 +156,6 @@ description: ""
  <tr><td><a href="/ht-2003-49"><b>Keruing Kerut</b> / <i>Dipterocarpus sublamellatus</i> (HT 2003-49)</a></td><td>Changi, Cranwell Road near junction with Loyang Avenue</td></tr>
  <tr><td><a href="/ht-2016-275"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2016-275)</a></td><td>Marine Parade Rd Park / Playground</td></tr>
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
- <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
- <tr><td><a href="/ht-2013-210"><b>Mentulang Daun Lebar</b> / <i>Alangium ridleyi</i> (HT 2013-210)</a></td><td>Singapore Botanic Gardens Lawn H</td></tr>
  <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
  	 <tr><td><a href="//ht-2018-296-ht-2019-305/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
@@ -199,12 +195,11 @@ description: ""
  <tr><td><a href="/ht-2003-60/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-60)</a></td><td>Lagos Circle, in front of House No. 206</td></tr><tr></tr>
 </tbody></table>
 
-
 <h4><b>North-East Region</b></h4>
 <table style="font-size: 17px;">
 <tbody>
  <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
- <tr><td><a href="/ht-2003-88/"><b>Binjai</b> / <i>Mangifera caesia</i>a (HT 2003-88)</a></td><td>Jalan Naung, behind House No. 70</td></tr>
+ <tr><td><a href="/ht-2003-88/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-88)</a></td><td>Jalan Naung, behind House No. 70</td></tr>
  <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, near Bus-stop B05; Lamp-post 62</td></tr>
  <tr><td><a href="/ht-2003-119"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-119)</a></td><td>Seletar Aerospace Drive, near Bus-stop B05; Lamp-post 64</td></tr>
  <tr><td><a href="/ht-2005-146"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-146)</a></td><td>Seletar Airbase, West Camp Road near Singapore Youth Flying Club entrance Seletar Aerospace Park</td></tr>
@@ -217,10 +212,13 @@ description: ""
 <h4><b>West Region</b></h4>
 <table style="font-size: 17px;">
 <tbody>
- <tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
+<tr><th>Heritage Tree Names and Unique IDs</th><th style="width: 35%;">Location</th></tr>
+ <tr><td><a href="/ht-2003-86/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-86)</a></td><td>Binjai Park, within grounds of House No. 32</td></tr>
+ <tr><td><a href="/ht-2010-177-180"><b>Brown Woolly Figs</b> / <i>Ficus drupacea</i> of Singapore Polytechnic<br>(HT 2010-178 — HT 2010-180)</a></td><td>Singapore Polytechnic, behind Food Court 1</td></tr>
  <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
  <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Hindhede Nature Park, Bt Timah Nature Reserve, along South View Path</td></tr>
  <tr><td><a href="/ht-2008-164"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2008-164)</a></td><td>Linden Drive, opp. LP13, behind House No. 79.</td></tr>
+<tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
  <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opposite Gombak Drive. UppBTRd junction with Cashew Rd</td></tr>
  <tr><td><a href="/ht-2003-79/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-79)</a></td><td>Nanyang Technological University, at Nanyang Drive, Bus-stop in front of Innovation Centre</td></tr><tr></tr>
 </tbody></table>
