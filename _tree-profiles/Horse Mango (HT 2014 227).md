@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.294969999999008&amp;lng=103.84833999999121">
- <br>Fort Canning Slope,<br>behind SMU School<br>of Social Sciences</a>
+ <br>Canning Rise, on slope behind<br>SMU School of Social Sciences</a>
 </td>
 </tr>
 </tbody>
