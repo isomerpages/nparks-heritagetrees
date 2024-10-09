@@ -11,7 +11,7 @@ description: ""
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
- <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within grounds of<br>the Danish Seamen's Mission</td></tr> 
+ <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
 	<tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>National Cancer Centre,<br>Hospital Drive &amp; Second Hospital Ave roundabout</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction<br>with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Junction of Canterbury Road &amp; Berkshire Road, on sloping ground</td></tr>
