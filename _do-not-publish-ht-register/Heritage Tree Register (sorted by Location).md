@@ -58,7 +58,7 @@ description: ""
  <tr><td><a href="/ht-2008-167"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2008-167)</a></td><td>Upper Seletar Reservoir Park, near golf course</td></tr>
  <tr><td><a href="/ht-2008-171"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2008-171)</a></td><td>Singapore Botanic Gardens,<br>beside Holttum Hall</td></tr>
  <tr><td><a href="/ht-2015-236"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2015-236)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
- <tr><td><a href="/ht-2020-308"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2020-308)</a></td><td>Jalan Kilang Barat, near Block 1001 Bukit Merah Lane 3 (Railway Corridor)</td></tr>
+ <tr><td><a href="/ht-2020-308"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2020-308)</a></td><td>Railway Corridor Jalan Kilang Barat, near Block 1001 Bukit Merah Lane 3 (Railway Corridor)</td></tr>
  <tr><td><a href="/ht-2012-192"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-192)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (opposite HT Mountain Teak)</td></tr>
  <tr><td><a href="/ht-2012-193"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-193)</a></td><td>Singapore Botanic Gardens,<br>near Band Stand</td></tr>
  <tr><td><a href="/ht-2012-194"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-194)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (behind HT Marsh Pulai)</td></tr>
@@ -91,7 +91,7 @@ description: ""
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2015-240"><b>Pauh Damar</b> / <i>Mangifera pentandra</i> (HT 2015-240)</a></td><td>Singapore Botanic Gardens,<br>opposite Sun Garden</td></tr>
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td><td>Singapore Botanic Gardens,<br>near Botany Centre Auditorium</td></tr>
- <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, within National Heritage Museum grounds, near Kent Ridge Park [Alexandra Park]</td></tr>
+ <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, outside<br>National Heritage Museum grounds</td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td><td>Mount Faber, on slope near Marina Deck</td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road bend opposite side of Danish Seaman's Mission</td></tr>
  <tr><td><a href="/ht-2012-197"><b>Pianggu</b> / <i>Horsfieldia irya</i> (HT 2012-197)</a></td><td>Singapore Botanic Gardens,<br>between Carpark A &amp; B</td></tr>
