@@ -16,7 +16,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
 	<table style="font-size: 18px;">
  <tbody>
 	 <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td></tr>
-	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> / <i>Pentadesma butyracea</i> (HT 2003-97)</a></td></tr>
+	 <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b> (HT 2003-97)<br><i>Pentadesma butyracea</i></a></td></tr>
 	 <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td></tr>
 	 <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td></tr>
 	<tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td></tr>
