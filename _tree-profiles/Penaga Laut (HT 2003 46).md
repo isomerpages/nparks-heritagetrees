@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2796700000012293&amp;lng=103.79387299999641">
- <br>31K Pepys Road, within<br>National Heritage Museum<br>grounds</a>
+ <br>31K Pepys Road, outside<br>National Heritage Museum</a>
 </td>
 </tr>
 </tbody>
