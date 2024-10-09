@@ -54,5 +54,8 @@ description: ""
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/murpan_ht2018-296_2019-305_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/murpan_ht2018-296_2019-305_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/murpan_ht2018-296_2019-305_habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-description">View of both Orange Jasmine Heritage Trees at Fairy Point Chalet (L: HT 2018-296, R: HT 2019-305)<br>(📷: Brendon Phuah)</div></div></a>
+
+<a href="/images/Heritage_trees_photos/murpan_ht2018-296_habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/murpan_ht2018-296_habit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree (HT 2019-305)<br>(📷: Brendon Phuah)</div></div></a></div>
