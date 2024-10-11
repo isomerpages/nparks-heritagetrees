@@ -20,8 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.324849999999545&amp;lng=103.84781999999782">
-<br>Jalan Tan Tock Seng, within 
-<br>Renci Hospital car-park,
+<br>Carpark of former Pavilion Wards,
 <br>in front of Ward 510</a>
 </td>
 </tr>
@@ -34,7 +33,7 @@ description: ""
 
 <p>In Java, the bark yields a yellow-brown dye that is used in batik. The bark is also reportedly used to treat dysentery and relieve sprains and muscle aches.</p>
 
-<p>This Heritage Tree measured 4.8 m in girth when endorsed as a Heritage Tree in 2019. It is estimated to have stood here for more than 70 years.</p>
+<p>This Heritage Tree measured 5.6 m in girth when endorsed as a Heritage Tree in 2005.</p>
 	
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a>.</p>
 
