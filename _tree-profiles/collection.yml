@@ -2,7 +2,6 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Common Pulai (HT 2024 328).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - Africa Butter Tree (HT 2003 97).md
       - Albizia niopoides var niopoides (HT 2012 186).md
@@ -57,6 +56,7 @@ collections:
       - Common Pulai (HT 2014 222).md
       - Common Pulai (HT 2022 320).md
       - Common Pulai (HT 2024 327).md
+      - Common Pulai (HT 2024 328).md
       - Damar Hitam Gajah (HT 2003 113).md
       - Derum (HT 2020 317).md
       - Derum Selunchor (HT 2018 293).md
