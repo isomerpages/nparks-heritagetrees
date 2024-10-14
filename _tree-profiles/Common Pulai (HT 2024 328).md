@@ -19,7 +19,7 @@ description: ""
 <br><strong>Height: </strong>35 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2505259999994771&amp;lng=103.8226359999965">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3458121&amp;lng=103.7846276">
  <br>Rifle Range Nature Park,<br>Kampong Chantek trail</a>
 </td></tr>
 </tbody>
