@@ -19,7 +19,7 @@ description: ""
 <br><strong>Height: </strong>38 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2505259999994771&amp;lng=103.8226359999965">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2572342&amp;lng=103.8164433">
  <br>Resort World Sentosa forest,<br>opposite Equarius Hotel</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3"> ⚠️&nbsp;Please note that this Heritage Tree is in a forested area.</td></tr>
