@@ -38,4 +38,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/pteind_ht2003-99_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-99_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Pender Road<br>(📷: Heritage Tree Secretariat)</div></div></a>
+
+<a href="/images/Heritage_trees_photos/pteind_ht2003-99_front.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-99_front.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Danish Seamen's Church grounds<br>(📷: Brendon Phuah)</div></div></a></div>
