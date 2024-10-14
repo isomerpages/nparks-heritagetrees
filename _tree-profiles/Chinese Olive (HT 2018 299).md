@@ -40,4 +40,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/canavul_ht2018-299_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/canavul_ht2018-299_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><p></p></div>
