@@ -29,7 +29,7 @@ description: ""
 
 <p>When this tree begins to bloom, its crown becomes densely covered in white flowers. Its fruit is a flat and thin oblong pod about 3–4.5 cm wide by 9.5–15 cm long and contains a flat seed.</p>
 
-<p>The genus <em>Koompassia</em> is a Latinised derivation of <em>Kempas</em>, the Malay name of this species. The specific epithet <em>malaccensis</em> is Latin for 'Malacca', referring to one locality in the natural distribution of this species.</p>
+<p>The genus <em>Koompassia</em> is a Latinised derivation of <em>Kempas</em>, the Malay name of this species. The specific epithet <em>malaccensis</em> is Latin for 'Malacca', referring to one locality in the natural distribution of this species. Kempas Road, located in Bendemeer district, is named after this species' common name.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2984">here</a>.</p>
 
