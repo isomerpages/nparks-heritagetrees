@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3101500000081137&amp;lng=103.81317999998606">
- <br>Singapore Botanic Gardens,<br>Tyersall Learning Forest<br>(Canarium Pond area)</a>
+ <br>Singapore Botanic Gardens,<br>Learning Forest along Canarium<br>Pond, near Tyersall Avenue</a>
 </td>
 </tr>
 </tbody>
@@ -29,9 +29,9 @@ description: ""
 
 <p>Its seeds are eaten roasted and are sometimes used as a substitute for commercially produced almonds. The soft, easily-carved wood can be used for canoes, while the buttresses are used to make paddles.</p>
 
-<p>A colonnade of Chinese Olives lines the driveway which once led up to the Tyersall House, built by William Napier in 1854. It is not known when these trees were planted but they have evidently weathered the ravages of time more successfully than the estate that they formerly belonged to. With the restoration of the Keppel Discovery Wetlands in 2017, these trees and their unique stream-side habitat can now be appreciated by one and all.</p>
+<p>This colonnade of Chinese Olives lines the driveway, which once led up to the Tyersall House, built by William Napier in 1854. It is not known when these trees were planted but they have evidently weathered the ravages of time more successfully than the estate that they formerly belonged to. With the restoration of the Keppel Discovery Wetlands in 2017, these trees and their unique stream-side habitat can now be appreciated by one and all.</p>
 
-<p>This tree is dedicated to Keppel Corporation.</p>
+<p>This Heritage Tree is dedicated to Keppel Corporation, for their generous contributions to NParks' registered charity and Institution of a Public Character (IPC), the Garden City Fund. </p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/6/3659">here</a>.</p>
 
