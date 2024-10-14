@@ -40,4 +40,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/canavul_ht2018-299_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/canavul_ht2018-299_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Overall view of Heritage Tree<br>(📷: Hazri Boey)</div></div></a>
+
+<a href="/images/Heritage_trees_photos/canavul_ht2018-299_roots.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/canavul_ht2018-299_roots.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Close-up of the buttresses<br>(📷: Hazri Boey)</div></div></a></div>
