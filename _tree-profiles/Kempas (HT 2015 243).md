@@ -31,7 +31,7 @@ description: ""
 
 <p>The genus <em>Koompassia</em> is a Latinised derivation of <em>Kempas</em>, the Malay name of this species. The specific epithet <em>malaccensis</em> is Latin for 'Malacca', referring to one locality in the natural distribution of this species.</p>
 
-<p>This Heritage Tree is one of the biggest specimens in the Singapore Botanic Gardens, and can also be viewed up-close by the public. This tree is dedicated to Mingxin Foundation.</p>
+<p>This Heritage Tree is one of the biggest specimens in the Singapore Botanic Gardens, and can also be viewed up-close by the public. This Heritage Tree is dedicated to Mingxin Foundation, for their generous contributions to NParks' registered charity and Institution of a Public Character (IPC), the Garden City Fund. </p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2984">here</a>.</p>
 
