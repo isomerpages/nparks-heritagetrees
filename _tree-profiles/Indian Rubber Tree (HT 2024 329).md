@@ -19,7 +19,7 @@ description: ""
 <br><strong>Height: </strong>24 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2772500000001614&amp;lng=103.84212000000359">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2769459&amp;lng=103.8277447">
  <br>Rail Corridor, near<br>142 Jalan Bukit Merah</a>
 </td>
 </tr>
