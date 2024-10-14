@@ -2,7 +2,6 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Indian Rubber Tree (HT 2024 329).md
       - Common Pulai (HT 2024 328).md
       - Common Pulai (HT 2024 327).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
@@ -77,6 +76,7 @@ collections:
       - Indian Banyan (HT 2013 204).md
       - Indian Rubber Tree (HT 2010 181).md
       - Indian Rubber Tree (HT 2012 203).md
+      - Indian Rubber Tree (HT 2024 329).md
       - Jamuju (HT 2012 191).md
       - Jelawai Jaha (HT 2001 25).md
       - Jelawai Jaha (HT 2003 124).md
