@@ -20,15 +20,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3486899999971482&amp;lng=103.77748000000298">
- <br>Bukit Timah Nature Reserve,<br>along South View Path</a>
+ <br>Bukit Timah Nature Reserve,<br>along South View Path,<br>near Visitor Centre</a>
 </td>
 </tr>
 </tbody>
 </table>
 <p>The Kayu Pontianak is native to Andaman Islands, Myanmar, Thailand, Sumatra, Peninsular Malaysia, Singapore and Borneo but is critically endangered in Singapore. Its wood can be harvested as light timber, known in India as Red Dhup. This genus includes a few kinds of large, buttressed forest-trees difficult to identify in the absence of the characteristic fruits. The pinnate leaves distinguish the genus from the Dipterocarps and from the Rengas-trees, which have rather similar fruits. It is a deciduous tree, which flowers before the leaves come out or with new leaves. The bright red fruits are conspicuous when the crown is bare of leaves.</p>
 
-<p>An entry taken from the Journal of Straits Branch Asiatic Society; 1900, page 68
-</p><blockquote><em>Parishia pubescens</em> Hook. lil. A lofty tree, 150 ft tall, flowering before the leaves come out, flowers white, very rare, Dalvey Road. <em>P. pubescens</em> is reduced to P. insignis in Flora Malesiana.</blockquote><p></p>
+<p>An entry taken from the Journal of Straits Branch Asiatic Society; 1900, page 68:
+</p><blockquote><em>Parishia pubescens</em> Hook. lil. A lofty tree, 150 ft tall, flowering before the leaves come out, flowers white, very rare, Dalvey Road. <em>P. pubescens</em> is reduced to <em>P. insignis</em> in Flora Malesiana.</blockquote><p></p>
 
 <p>For more information on the species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3377">here</a>.</p>
 
