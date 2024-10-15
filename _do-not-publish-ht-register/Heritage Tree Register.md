@@ -61,6 +61,8 @@ description: ""
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td></tr>
+ <tr><td><a href="/ht-2024-327"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2024-327)</a></td><td>Resort World Sentosa forest,<br>opposite Equarius Hotel</td></tr>	 
+ <tr><td><a href="/ht-2024-328"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2024-328)</a></td><td>Rifle Range Nature Park,<br>Kampong Chantek trail,<br>towards Jln Kampong Chantek</td></tr>
 	 <tr><td><a href="/ht-2003-113"><b>Damar Hitam Gajah</b> / <i>Shorea gibbosa</i> (HT 2003-113)</a></td></tr>
 	 <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td></tr>
  <tr><td><a href="/ht-2018-293"><b>Derum Selunchor</b> / <i>Cratoxylum cochinchinensis</i> (HT 2018-293)</a></td><td>Telok Blangah Green, near Shelter, Meeting Point 1, Carpark 2</td></tr>
