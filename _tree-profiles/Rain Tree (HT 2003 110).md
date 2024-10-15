@@ -41,4 +41,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/samsam_ht2003-110_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2003-110_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Shan Road<br>(📷: Brendon Phuah)</div></div></a>
+
+<a href="/images/Heritage_trees_photos/samsam_ht2003-110_habit2.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2003-110_habit2.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Irrawaddy Road<br>(📷: Hazri Boey)</div></div></a></div>
