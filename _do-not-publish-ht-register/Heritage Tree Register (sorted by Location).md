@@ -93,7 +93,7 @@ description: ""
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td><td>Singapore Botanic Gardens,<br>near Botany Centre Auditorium</td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, outside<br>National Heritage Museum grounds</td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td><td>Mount Faber, on slope near Marina Deck</td></tr>
- <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road bend opposite side of Danish Seaman's Mission</td></tr>
+ <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road bend opposite Danish Seaman's Church</td></tr>
  <tr><td><a href="/ht-2012-197"><b>Pianggu</b> / <i>Horsfieldia irya</i> (HT 2012-197)</a></td><td>Singapore Botanic Gardens,<br>between Carpark A &amp; B</td></tr>
  <tr><td><a href="/ht-2012-189"><b>Putat Laut</b> / <i>Barringtonia asiatica</i> (HT 2012-189)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2001-08"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2001-08)</a></td><td>Fort Canning Park,<br>behind Registry of Marriage</td></tr>
@@ -106,8 +106,8 @@ description: ""
  <tr><td><a href="/ht-2003-111"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-111)</a></td><td>Kim Yam Road Stateland, beside Gambier Court condominium</td></tr>
  <tr><td><a href="/ht-2005-144"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-144)</a></td><td>Jalan Hang Jebat, in front of Block 109</td></tr>
  <tr><td><a href="/ht-2005-145"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-145)</a></td><td>Everton Road, top of the slope opposite Block 10 multi-storey carpark</td></tr>
- <tr><td><a href="/ht-2008-169"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2008-169)</a></td><td>Kampong Java Road, LTA Office (Courtyard garden)</td></tr>
- <tr><td><a href="/ht-2009-175"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2009-175)</a></td><td>Tiong Bahru. 8 Lower Delta Rd</td></tr>
+ <tr><td><a href="/ht-2008-169"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2008-169)</a></td><td>Kampong Java Road, Land Transport Authority Headquarter's garden</td></tr>
+ <tr><td><a href="/ht-2009-175"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2009-175)</a></td><td>Tiong Bahru, 8 Lower Delta Rd</td></tr>
  <tr><td><a href="/ht-2014-228"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2014-228)</a></td><td>Fort Canning Park,<br>near Raffles Garden</td></tr>
  <tr><td><a href="/ht-2015-270"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2015-270)</a></td><td>Singapore Botanic Gardens,<br>near Learning Forest restroom</td></tr>
  <tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248 — HT 2015-269)</a></td><td>Connaught Drive</td></tr>
@@ -117,9 +117,9 @@ description: ""
  <tr><td><a href="/ht-2017-290/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2017-290)</a></td><td>Singapore Botanic Gardens, Ethno-botany Garden</td></tr>
  <tr><td><a href="/ht-2020-316/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2020-316)</a></td><td>Pasir Panjang Park Carpark,<br>near MRT Station</td></tr>
  <tr><td><a href="/ht-2013-212/"><b>Senegal Mahogany</b> / <i>Khaya senegalensis</i> (HT 2013-212)</a></td><td>Singapore Botanic Gardens,<br>along Main Gate Road (near Swan Lake)</td></tr>
- <tr><td><a href="/ht-2020-313/"><b>Sentul</b> / <i>Sandoricum keotjape</i> (HT 2020-313)</a></td><td>Clemenceau Ave North, near lamp-post No. 8, opposite Blk 100 Cavenagh House</td></tr>
+ <tr><td><a href="/ht-2020-313/"><b>Sentul</b> / <i>Sandoricum keotjape</i> (HT 2020-313)</a></td><td>Clemenceau Ave North, opp. 100 Caveanagh Hse</td></tr>
  <tr><td><a href="/ht-2013-219/"><b>Snake Tree</b> / <i>Stereospermum fimbriatum</i> (HT 2013-219)</a></td><td>Singapore Botanic Gardens,<br>along Main Gate Road (opposite Marsh Garden)</td></tr>
- <tr><td><a href="/ht-2019-302/"><b>Stem-fruited Fig</b> / <i>Ficus caulocarpa</i> (HT 2019-302)</a></td><td>No 3 Winchester Road (off), near Pasir Panjang Nursery fence</td></tr>
+ <tr><td><a href="/ht-2019-302/"><b>Stem-fruited Fig</b> / <i>Ficus caulocarpa</i> (HT 2019-302)</a></td><td>Open Space, in front of No. 3 Winchester Road</td></tr>
 	<tr><td><a href="/ht-2005-138/"><b>Tahiti Chestnut</b> / <i>Inocarpus fagifer</i> (HT 2005-138)</a></td><td>Singapore Botanic Gardens, Jacob Ballas Children's Garden (Forest section)</td></tr>
  <tr><td><a href="/ht-2014-224/"><b>Tamalan Tree</b> / <i>Dalbergia oliveri</i> (HT 2014-224)</a></td><td>Fort Canning Park, Fort Green</td></tr>
  <tr><td><a href="/ht-2008-170/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2008-170)</a></td><td>Fullerton Road, entrance to The Fullerton Waterboat House garden</td></tr>
