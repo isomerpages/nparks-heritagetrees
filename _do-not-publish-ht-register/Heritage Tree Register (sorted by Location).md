@@ -30,10 +30,10 @@ description: ""
  <tr><td><a href="/ht-2011-184"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2011-184)</a></td><td>Singapore Botanic Gardens, between Marsh Garden &amp; Swan Lake</td></tr>
  <tr><td><a href="/ht-2014-230"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2014-230)</a></td><td>Singapore Botanic Gardens,<br>Ginger Gardens (behind waterfall)</td></tr>
  <tr><td><a href="/ht-2017-289"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2017-289)</a></td><td>Tanglin Rd; 2nd Tree from gate of Hse. No. 249</td></tr>
- <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,<br>Learning Forest (Canarium Pond area)</td></tr>
- <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No 21A</td></tr>
  <tr><td><a href="/ht-2015-246"><b>Chengal Pasir</b> / <i>Hopea odorata</i> (HT 2015-246)</a></td><td>Singapore Botanic Gardens,<br>near Corner Walk</td></tr>
  <tr><td><a href="/ht-2013-211"><b>Chinese Laurel</b> / <i>Antidesma bunius</i> (HT 2013-211)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (near HT Sausage Tree)</td></tr>
+ <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,<br>Learning Forest (Canarium Pond area)</td></tr>
+ <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No 21A</td></tr>
 	<tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>Royal Road end, on slope behind House No. 7</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opposite House No. 22</td></tr>
  <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>Burkill Drive Carpark</td></tr>
