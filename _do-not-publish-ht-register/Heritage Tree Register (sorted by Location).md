@@ -58,7 +58,7 @@ description: ""
  <tr><td><a href="/ht-2008-167"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2008-167)</a></td><td>Upper Seletar Reservoir Park, near golf course</td></tr>
  <tr><td><a href="/ht-2008-171"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2008-171)</a></td><td>Singapore Botanic Gardens,<br>beside Holttum Hall</td></tr>
  <tr><td><a href="/ht-2015-236"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2015-236)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
- <tr><td><a href="/ht-2020-308"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2020-308)</a></td><td>Railway Corridor Jalan Kilang Barat, near Block 1001 Bukit Merah Lane 3 (Railway Corridor)</td></tr>
+ <tr><td><a href="/ht-2020-308"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2020-308)</a></td><td>Railway Corridor (South), between Bukit Merah Lane 4 &amp; Jalan Kilang Barat</td></tr>
  <tr><td><a href="/ht-2012-192"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-192)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (opposite HT Mountain Teak)</td></tr>
  <tr><td><a href="/ht-2012-193"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-193)</a></td><td>Singapore Botanic Gardens,<br>near Band Stand</td></tr>
  <tr><td><a href="/ht-2012-194"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-194)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (behind HT Marsh Pulai)</td></tr>
@@ -69,9 +69,9 @@ description: ""
  <tr><td><a href="/ht-2018-298"><b>Leopard Tree</b> / <i>Libidibia ferrea</i> (HT 2018-298)</a></td><td>Mount Emily Park</td></tr>
  <tr><td><a href="/ht-2001-02"><b>Lychee</b> / <i>Litchi chinensis</i> (HT 2001-02)</a></td><td>Mount Rosie Road, opposite House No. 11J</td></tr>
  <tr><td><a href="/ht-2001-04"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-04)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
- <tr><td><a href="/ht-2001-05"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-05)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
- <tr><td><a href="/ht-2001-06"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-06)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
- <tr><td><a href="/ht-2001-07"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-07)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
+ <tr><td><a href="/ht-2001-05"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-05)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (beside leaning tree)</td></tr>
+ <tr><td><a href="/ht-2001-06"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-06)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (opposite service gate)</td></tr>
+ <tr><td><a href="/ht-2001-07"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-07)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (near HT kapok)</td></tr>
  <tr><td><a href="/ht-2016-274"><b>Mango</b> / <i>Mangifera indica</i> (HT 2016-274)</a></td><td>Chay Yan St State Land</td></tr>
  <tr><td><a href="/ht-2021-319"><b>Mango</b> / <i>Mangifera indica</i> (HT 2021-319)</a></td><td>Mount Emily Park</td></tr>
  <tr><td><a href="/ht-2010-183"><b>Marsh Pulai</b> / <i>Alstonia pneumatophora</i> (HT 2010-183)</a></td><td>Singapore Botanic Gardens,<br>Lawn H</td></tr>
