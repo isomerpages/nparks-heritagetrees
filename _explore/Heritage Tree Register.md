@@ -247,8 +247,9 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
 	 <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td></tr>
 </tbody></table>
 </div></details>
-</div>
-<h5><b>Find Heritage Trees based on Location</b></h5>
+</div><p>
+
+</p><h5><b>Find Heritage Trees based on Location</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
 <summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">Central Region</summary>
 <div data-type="detailsContent" class="isomer-details-content">
