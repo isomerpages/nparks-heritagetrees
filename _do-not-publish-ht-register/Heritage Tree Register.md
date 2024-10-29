@@ -4,9 +4,9 @@ permalink: /heritage-tree-register-full/
 variant: markdown
 description: ""
 ---
+<iframe height="480" width="640" src="https://www.google.com/maps/d/u/0/embed?mid=15DpUFCyrYXI8\_T-rVkKB1xuCkSpkf-M&amp;ehbc=2E312F"></iframe>
 <div data-type="detailsContent" class="isomer-details-content">
-	
-tr&gt;<table style="font-size: 18px;">
+<table style="font-size: 18px;">
  <tbody>
 <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
