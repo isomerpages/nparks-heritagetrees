@@ -4,6 +4,8 @@ permalink: /heritage-tree-register/
 variant: markdown
 description: ""
 ---
+<iframe height="480" width="640" src="https://www.google.com/maps/d/u/0/embed?mid=15DpUFCyrYXI8\_T-rVkKB1xuCkSpkf-M&amp;ehbc=2E312F"></iframe>
+
 <div style="font-size: 25px; color: #098e3e; text-align: center"><b>Search for Heritage Trees using the Map below</b></div><a class="button" href="https://www.onemap.gov.sg/"><img src="/images/Heritage_Tree_Map.png"></a>
 As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Trees in the Heritage Tree Register.
 
