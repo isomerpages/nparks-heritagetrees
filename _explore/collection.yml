@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Heritage Tree Register (Google).md
       - Heritage Tree Register.md
       - DIY Walking Trail Guides.md
       - Heritage Tree Appreciation Walk.md
