@@ -21,7 +21,7 @@ description: ""
  <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Cres roundabout</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction<br>with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td><td>Woodlands Road, in front of Woodlands Fire Station</td></tr>
- <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Junction of Canterbury Road &amp; Berkshire Road, on sloping ground</td></tr>
+ <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Behind No. 7 Canterbury Rd, near junction of Canterbury Rd &amp; Berkshire Rd</td></tr>
  <tr><td><a href="/ht-2007-159/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-159)</a></td><td>Winchester Road, within premises of Hse No. 6</td></tr>
  <tr><td><a href="/ht-2015-247/"><b>Bangkal</b> / <i>Nauclea orientalis</i> (HT 2015-247)</a></td><td>Singapore Botanic Gardens,<br>behind Foliage Garden</td></tr>
  <tr><td><a href="/ht-2016-283/"><b>Baobab</b> / <i>Adansonia digitata</i> (HT 2016-283)</a></td><td>Singapore Botanic Gardens,<br>near Melati Gate</td></tr>
