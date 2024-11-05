@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.274896000001087&amp;lng=103.83707700000437">
- <br>Spottiswoode Park Road,<br>opposite Spottiswoode<br>Apartments</a>
+ <br>Spottiswoode Park Road,<br>opp Oakswood Heights</a>
 </td>
 </tr>
 </tbody>
