@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2808300000001096&amp;lng=103.79793900000321">
- <br>Junction of Canterbury Road<br>and Berkshire Road, on<br>sloping ground</a>
+ <br>Behind No. 7 Canterbury Rd,<br>near junction of Canterbury Rd &amp; Berkshire Rd</a>
 </td>
 </tr>
 </tbody>
