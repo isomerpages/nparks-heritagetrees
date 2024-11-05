@@ -182,7 +182,7 @@ description: ""
  <tr><td><a href="/ht-2005-145"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-145)</a></td><td>Everton Road, top of the slope opp. Blk 10 multi-storey carpark</td></tr>
  <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opp. Gombak Drive</td></tr>
  <tr><td><a href="/ht-2007-161"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-161)</a></td><td>Seletar Airbase, open space between Old Birdcage Walk and Oxford Street</td></tr>
- <tr><td><a href="/ht-2008-169"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2008-169)</a></td><td>Kampong Java Road, Land Transport Authority Headquarter's garden</td></tr>
+ <tr><td><a href="/ht-2008-169"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2008-169)</a></td><td>Kampong Java Road, Land Transport Authority Headquarter garden</td></tr>
  <tr><td><a href="/ht-2009-175"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2009-175)</a></td><td>Tiong Bahru, 10 Lower Delta Rd</td></tr>
  <tr><td><a href="/ht-2014-228"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2014-228)</a></td><td>Fort Canning Park,<br>near Raffles Garden</td></tr>
  <tr><td><a href="/ht-2015-270"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2015-270)</a></td><td>Singapore Botanic Gardens,<br>near Learning Forest restroom</td></tr>
