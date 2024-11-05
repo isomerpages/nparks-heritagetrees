@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3909310000013555&amp;lng=103.97968399999671">
- <br>Changi, Netheravon Road<br>near Bus Stop B06</a>
+ <br>Changi, Netheravon Road<br>near Bus Stop (99091)</a>
 </td>
 </tr>
 </tbody>
