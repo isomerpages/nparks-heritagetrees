@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2504640000025962&amp;lng=103.82466100000305">
- <br>Sentosa, Capella Singapore<br>(front lawn)</a>
+ <br>Sentosa, Capella Singapore,<br>front lawn</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">⚠️ Please note that this Heritage Tree is within hotel property; access might only be limited to guests.</td></tr>
 </tbody>
