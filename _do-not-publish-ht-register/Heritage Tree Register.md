@@ -154,7 +154,7 @@ description: ""
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa, Imbiah Rd, near Skyline Luge Ticket Booth</td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens,<br>behind Raffles Building</td></tr>
  <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td><td>Singapore Botanic Gardens,<br>along Evolution Garden Walk</td></tr>
- <tr><td><a href="//ht-2018-29-2019-305/"><b>Orange Jasmines of Fairy Point Chalet</b> (HT 2018-296 - HT 2019-305)</a></td><td>Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ <tr><td><a href="/ht-2018-296-2019-305/"><b>Orange Jasmines of Fairy Point Chalet</b> (HT 2018-296 - HT 2019-305)</a></td><td>Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2010-176"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2010-176)</a></td><td>Upper Seletar Reservoir Park, on slope behind carpark along Mandai Rd</td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2018-294"><b>Para Rubber</b> / <i>Hevea brasiliensis</i> (HT 2018-294)</a></td><td>Woodlands Town Park East, near Blk 103 Woodlands Street 13</td></tr>
