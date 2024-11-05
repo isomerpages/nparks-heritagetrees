@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2550890000021355&amp;lng=103.81725600000145">
- <br>Sentosa, Imbiah Rd, near<br>Skyline Luge Ticket Booth</a>
+ <br>Sentosa, Imbiah Rd, near<br>Skyline Luge exit</a>
 </td>
 </tr>
 </tbody>
