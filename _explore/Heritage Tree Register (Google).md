@@ -49,7 +49,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2005-149"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-149)</a></td><td>Singapore Youth Flying Club entrance, West Camp Road (along fence)</td></tr>
  <tr><td><a href="/ht-2016-276"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2016-276)</a></td><td>Tanglin Rd, near Hse No. 287</td></tr>
  <tr><td><a href="/ht-2017-286"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2017-286)</a></td><td>Seletar Aerospace Drive, after Bus Stop (68089)</td></tr>
- <tr><td><a href="/ht-2010-177-180"><b>Brown Woolly Figs of Singapore Polytechnic</b> (HT 2010-177 — HT 2010-180)</a></td><td>Singapore Polytechnic, behind Food Court 1</td></tr>
+ <tr><td><a href="/ht-2010-177-180"><b>Brown Woolly Figs of Singapore Polytechnic</b> (HT 2010-177 – HT 2010-180)</a></td><td>Singapore Polytechnic, behind Food Court 1</td></tr>
  <tr><td><a href="/ht-2009-174"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2009-174)</a></td><td>No. 162 Mount Pleasant Road, beside gate</td></tr>
  <tr><td><a href="/ht-2011-184"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2011-184)</a></td><td>Singapore Botanic Gardens, between Marsh Garden &amp; Swan Lake</td></tr>
  <tr><td><a href="/ht-2014-230"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2014-230)</a></td><td>Singapore Botanic Gardens,<br>Ginger Gardens, behind waterfall</td></tr>
@@ -57,15 +57,15 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2015-246"><b>Chengal Pasir</b> / <i>Hopea odorata</i> (HT 2015-246)</a></td><td>Singapore Botanic Gardens,<br>near Corner Walk</td></tr>
  <tr><td><a href="/ht-2013-211"><b>Chinese Laurel</b> / <i>Antidesma bunius</i> (HT 2013-211)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (near HT Sausage Tree)</td></tr>
  <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,<br>Learning Forest (Canarium Pond area)</td></tr>
- <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No 21A</td></tr>
+ <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No. 21A</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa, Capella Singapore, Suite B 7103 - 7105</td></tr>
- <tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>Royal Road end, on slope behind Hse No. 7</td></tr>
+ <tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>End of Royal Road, on slope behind Hse No. 7</td></tr>
  <tr><td><a href="/ht-2003-37"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-37)</a></td><td>Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu</td></tr>
  <tr><td><a href="/ht-2003-39"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-39)</a></td><td>Saint John's Island, Block 12 &amp; 13</td></tr>
  <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
  <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, near junction of Imbiah Hill Rd / Imbiah Rd, beside Siloso Beach Resort</td></tr>
- <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opp. Hse No. 22</td></tr>
+ <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opp Hse No. 22</td></tr>
  <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>Burkill Drive Carpark</td></tr>
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
