@@ -22,7 +22,7 @@ description: ""
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3092770000016616&amp;lng=103.84801599999727">
 <br>Kampong Java Road, 
 <br>Land Transport Authority
-<br>Headquarter's garden</a>
+<br>Headquarter garden</a>
 </td>
 </tr>
 </tbody>
