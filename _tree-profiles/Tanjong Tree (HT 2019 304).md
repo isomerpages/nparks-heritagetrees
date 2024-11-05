@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3483699999965129&amp;lng=103.88638000000125">
-<br>Opposite Block 137 Lorong Ah Soo;
+<br>Opp Blk 137 Lorong Ah Soo,
 	<br>Hougang Avenue 1 (future Tanjong Tree<br>Residences)</a>
 </td>
 </tr>
