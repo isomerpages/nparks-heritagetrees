@@ -14,7 +14,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong>
-<br>Pulau Ubin, near Chek Jawa,<br>from House No. 1 on the right
+<br>Pulau Ubin, near Chek Jawa,<br>Hse No. 1
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3">
