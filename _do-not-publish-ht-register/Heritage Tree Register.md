@@ -60,7 +60,7 @@ description: ""
  <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
  <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, near junction of Imbiah Hill Rd / Imbiah Rd, beside Siloso Beach Resort</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opp. House No. 22</td></tr>
- <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>Burkill Drive Carpark</td></tr>
+ <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
@@ -113,7 +113,7 @@ description: ""
  <tr><td><a href="/ht-2012-192"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-192)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (opp. HT Mountain Teak)</td></tr>
  <tr><td><a href="/ht-2012-193"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-193)</a></td><td>Singapore Botanic Gardens,<br>near Band Stand</td></tr>
  <tr><td><a href="/ht-2012-194"><b>Kapur</b> / <i>Dryobalanops aromatica</i> (HT 2012-194)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (behind HT Marsh Pulai)</td></tr>
- <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Bukit Timah Nature Reserve,<br>along South View Path,  near Visitor Centre</td></tr>
+ <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Bukit Timah Nature Reserve,<br>along South View Path, near Visitor Centre</td></tr>
  <tr><td><a href="/ht-2003-128"><b>Kelat Hitam</b> / <i>Syzygium syzyioides</i> (HT 2003-128)</a></td><td>Changi, Catterick Road, in front of Fairy Point Chalet 4</td></tr>
  <tr><td><a href="/ht-2015-243"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2015-243)</a></td><td>Singapore Botanic Gardens,<br>behind Corner House</td></tr>
  <tr><td><a href="/ht-2016-280"><b>Kempas</b> / <i>Koompassia malaccensis</i> (HT 2016-280)</a></td><td>Singapore Botanic Gardens,<br>near Fernery</td></tr>
