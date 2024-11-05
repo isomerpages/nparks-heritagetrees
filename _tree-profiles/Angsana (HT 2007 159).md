@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2845989999996195&amp;lng=103.7935359999964">
- <br>Winchester Road, within<br>premises of House No. 6,<br>Alexandra Park</a>
+ <br>Winchester Road, within<br>premises of Hse No. 6</a>
 </td>
 </tr>
 </tbody>
