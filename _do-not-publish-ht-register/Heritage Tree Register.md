@@ -231,7 +231,7 @@ description: ""
  <tr><td><a href="/ht-2003-60/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-60)</a></td><td>Lagos Circle, in front of Hse No. 206</td></tr>
  <tr><td><a href="/ht-2003-61/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-61)</a></td><td>Saint John's Island, Block 15 Prison Gate</td></tr>
  <tr><td><a href="/ht-2003-116/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-116)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7</td></tr>
- <tr><td><a href="/ht-2003-117/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-117)</a></td><td>Saint John's Island, fencing beside camp site 1 &amp; 2</td></tr>
+ <tr><td><a href="/ht-2003-117/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-117)</a></td><td>Saint John's Island, edge of forest,<br>near path to Tropical Marine Science Institute</td></tr>
  <tr><td><a href="/ht-2001-12/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2001-12)</a></td><td>Fort Canning Park,<br>along 14<sup>th</sup> Century Walk of History</td></tr>
  <tr><td><a href="/ht-2014-223/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2014-223)</a></td><td>Fort Canning Park,<br>end of Canning Rise (near Tombstones)</td></tr>
  <tr><td><a href="/ht-2015-235/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2015-235)</a></td><td>Fort Canning Park,<br>near Raffles Terrace</td></tr>
