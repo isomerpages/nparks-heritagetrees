@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4064330000012313&amp;lng=103.86670600000406">
- <br>Seletar Aerospace Drive, near<br>Bus-stop B05; Lamp-post 64</a>
+ <br>Seletar Aerospace Drive, near<br>Bus Stop (68089), near bridge/shelter</a>
 </td>
 </tr>
 </tbody>
