@@ -188,7 +188,7 @@ description: ""
  <tr><td><a href="/ht-2015-270"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2015-270)</a></td><td>Singapore Botanic Gardens,<br>near Learning Forest restroom</td></tr>
  <tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248 — HT 2015-269)</a></td><td>Along Connaught Drive</td></tr>
  <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td><td>Sentosa, Woolwich Rd (within Satellite Station grounds)</td></tr>
- <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>Sentosa, Resorts World Sentosa forest</td></tr>
+ <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>, Resorts World Sentosa forest  ,near junction of Imbiah Rd &amp; Siloso Rd</td></tr>
  <tr><td><a href="/ht-2001-14-16"><b>Red Mahoganies of Guillemard Road Open Space</b> (HT 2001-14 — HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
  <tr><td><a href="/ht-2010-182"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2010-182)</a></td><td>Near Blk 150, Lorong 1 Toa Payoh</td></tr>
  <tr><td><a href="/ht-2001-19/"><b>Saga</b> / <i>Adenanthera pavonina</i> (HT 2001-19)</a></td><td>Singapore Botanic Gardens, near Frangipani Garden</td></tr>
