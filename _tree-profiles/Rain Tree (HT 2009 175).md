@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2881369999974162&amp;lng=103.82502999999963">
- <br>10 Lower Delta Rd</a>
+ <br>Tiong Bahru, 10 Lower Delta Rd</a>
 </td>
 </tr>
 </tbody>
