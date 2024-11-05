@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.257793000002993&amp;lng=103.81064700000216">
- <br>Sentosa, near entrance of<br>Shangri-La Rasa Sentosa Hotel</a>
+ <br>Sentosa, near entrance of<br>Shangri-La Rasa Sentosa</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">⚠️ Take note that this Heritage Tree is within hotel property; access might be restricted.</td></tr>
 	</tbody>
@@ -43,4 +43,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/pteind_ht2003-98_habitfar.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pteind_ht2003-98_habitfar.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the hotel entrance (📷: Brendon Phuah)</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the hotel entrance<br>(📷: Brendon Phuah)</div></div></a></div>
