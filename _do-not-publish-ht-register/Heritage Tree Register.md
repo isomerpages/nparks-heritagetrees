@@ -162,7 +162,7 @@ description: ""
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td><td>Singapore Botanic Gardens,<br>near Botany Centre Auditorium</td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, outside<br>National Heritage Museum grounds</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
- <tr><td><a href="/ht-2007-162-163"><b>Perepats of Pulau Ubin</b> (HT 2007-162 - HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa,   from House No. 1 on the right</td></tr>
+ <tr><td><a href="/ht-2007-162-163"><b>Perepats of Pulau Ubin</b> (HT 2007-162 - HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa, Hse No. 1</td></tr>
  <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa, Gunner Lane, behind Ranger Station</td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td><td>Mount Faber, on slope near Marina Deck</td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road-bend opp. Danish Seaman's Church</td></tr>
