@@ -17,8 +17,8 @@ description: ""
  <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa Hotel</td></tr>
  <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
- <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Hotel, front lawn</td></tr>
- <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>National Cancer Centre,<br>Hospital Drive &amp; Second Hospital Ave roundabout</td></tr>
+ <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Singapore, front lawn</td></tr>
+ <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Cres roundabout</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction<br>with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td><td>Woodlands Road, in front of Woodlands Fire Station</td></tr>
  <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Junction of Canterbury Road &amp; Berkshire Road, on sloping ground</td></tr>
