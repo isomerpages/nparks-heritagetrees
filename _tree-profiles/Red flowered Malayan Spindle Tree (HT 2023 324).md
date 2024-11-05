@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2474750000009502&amp;lng=103.83487800000113">
-<br>Resorts World Sentosa<br>near junction of Imbiah Rd &amp; Siloso Rd</a>
+<br>Resorts World Sentosa forest,<br>near junction of Imbiah Rd &amp; Siloso Rd</a>
 </td>
 </tr>
 </tbody></table>
