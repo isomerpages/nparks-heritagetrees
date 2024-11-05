@@ -21,7 +21,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (beside HT Tembusu)</td></tr>
  <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
- <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa Hotel</td></tr>
+ <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa</td></tr>
  <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Singapore, front lawn</td></tr>
  <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Cres roundabout</td></tr>
@@ -138,7 +138,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2016-275"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2016-275)</a></td><td>Marine Parade Rd Park / Playground</td></tr>
  <tr><td><a href="/ht-2016-274"><b>Mango</b> / <i>Mangifera indica</i> (HT 2016-274)</a></td><td>Chay Yan St State Land</td></tr>
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
- <tr><td><a href="/ht-2020-312"><b>Mango</b> / <i>Mangifera indica</i> (HT 2020-312)</a></td><td>Kranji Close/Kranji Road State Land (opp. junction)</td></tr>
+ <tr><td><a href="/ht-2020-312"><b>Mango</b> / <i>Mangifera indica</i> (HT 2020-312)</a></td><td>State Land, near junction of Kranji Close &amp; Kranji Road</td></tr>
  <tr><td><a href="/ht-2021-319"><b>Mango</b> / <i>Mangifera indica</i> (HT 2021-319)</a></td><td>Mount Emily Park</td></tr>
  <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
  <tr><td><a href="/ht-2010-183"><b>Marsh Pulai</b> / <i>Alstonia pneumatophora</i> (HT 2010-183)</a></td><td>Singapore Botanic Gardens,<br>Lawn H</td></tr>
