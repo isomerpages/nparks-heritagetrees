@@ -2,5 +2,5 @@ collections:
   do-not-publish-ht-register:
     output: true
     order:
-      - Heritage Tree Register.md
+      - Heritage Tree Register (no dropdown).md
       - Heritage Tree Register (sorted by Location).md
