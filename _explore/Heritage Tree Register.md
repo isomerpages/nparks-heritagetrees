@@ -27,7 +27,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Cres roundabout</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction<br>with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2003-103/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-103)</a></td><td>Woodlands Road, in front of Woodlands Fire Station</td></tr>
- <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Behind Canterbury Road No 7., near junction of Canterbury Rd &amp; Berkshire Rd</td></tr>
+ <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Behind Canterbury Road No. 7, near junction of Canterbury Rd &amp; Berkshire Rd</td></tr>
  <tr><td><a href="/ht-2007-159/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-159)</a></td><td>Winchester Road, within premises of Hse No. 6</td></tr>
  <tr><td><a href="/ht-2015-247/"><b>Bangkal</b> / <i>Nauclea orientalis</i> (HT 2015-247)</a></td><td>Singapore Botanic Gardens,<br>behind Foliage Garden</td></tr>
  <tr><td><a href="/ht-2016-283/"><b>Baobab</b> / <i>Adansonia digitata</i> (HT 2016-283)</a></td><td>Singapore Botanic Gardens,<br>near Melati Gate</td></tr>
@@ -39,7 +39,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2001-18/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2001-18)</a></td><td>Pearl's Hill City Park hilltop, near Service Reservoir gate</td></tr> 
  <tr><td><a href="/ht-2003-69/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-69)</a></td><td>Duxton Plain Park, near Neil Road</td></tr>
  <tr><td><a href="/ht-2007-156"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2007-156)</a></td><td>Canterbury Road, on Stateland near Lamp Post 14</td></tr>
- <tr><td><a href="/ht-2014-225"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2014-225)</a></td><td>Bendemeer Secondary School, roundabout near entrance</td></tr>
+ <tr><td><a href="/ht-2014-225"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2014-225)</a></td><td>Bendemeer Secondary School roundabout</td></tr>
  <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, behind Bus Stop (68089)</td></tr>
  <tr><td><a href="/ht-2003-119"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-119)</a></td><td>Seletar Aerospace Drive, behind Bus Stop (68089), near bridge/shelter</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
@@ -53,11 +53,11 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2009-174"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2009-174)</a></td><td>No. 162 Mount Pleasant Road, beside gate</td></tr>
  <tr><td><a href="/ht-2011-184"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2011-184)</a></td><td>Singapore Botanic Gardens, between Marsh Garden &amp; Swan Lake</td></tr>
  <tr><td><a href="/ht-2014-230"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2014-230)</a></td><td>Singapore Botanic Gardens,<br>Ginger Gardens, behind waterfall</td></tr>
- <tr><td><a href="/ht-2017-289"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2017-289)</a></td><td>Tanglin Rd; second tree from gate of House. No. 249</td></tr>
+ <tr><td><a href="/ht-2017-289"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2017-289)</a></td><td>Tanglin Rd; second tree from gate of Hse No. 249</td></tr>
  <tr><td><a href="/ht-2015-246"><b>Chengal Pasir</b> / <i>Hopea odorata</i> (HT 2015-246)</a></td><td>Singapore Botanic Gardens,<br>near Corner Walk</td></tr>
  <tr><td><a href="/ht-2013-211"><b>Chinese Laurel</b> / <i>Antidesma bunius</i> (HT 2013-211)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (near HT Sausage Tree)</td></tr>
  <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,<br>Learning Forest (Canarium Pond area)</td></tr>
- <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No. 21A</td></tr>
+ <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near Hse No. 21A</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa, Capella Singapore, Suite B 7103 - 7105</td></tr>
  <tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>End of Royal Road, on slope behind Hse No. 7</td></tr>
