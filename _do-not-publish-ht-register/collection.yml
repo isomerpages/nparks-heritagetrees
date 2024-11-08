@@ -1,5 +1,4 @@
 collections:
   do-not-publish-ht-register:
     output: true
-    order:
-      - Heritage Tree Register (sorted by Location).md
+    order: []
