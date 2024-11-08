@@ -4,10 +4,6 @@ permalink: /heritage-tree-register-dropdown/
 variant: markdown
 description: ""
 ---
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/0/embed?mid=15DpUFCyrYXI8_T-rVkKB1xuCkSpkf-M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
-</div><p>
 <table style="font-size: 17px;">
 <tbody><tr><td></td><td></td></tr>
  <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
@@ -246,7 +242,7 @@ description: ""
  <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td><td>Mount Emily Park, near Upp Wilkie Rd roundabout</td></tr><tr></tr>
 </tbody></table>
 
-</p><p>
+<p></p><p>
 
 </p><h5><b>Find Heritage Trees based on Location</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
