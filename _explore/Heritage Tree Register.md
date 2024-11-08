@@ -56,7 +56,7 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2017-289"><b>Cannon Ball Tree</b> / <i>Couroupita guianensis</i> (HT 2017-289)</a></td><td>Tanglin Rd; second tree from gate of Hse No. 249</td></tr>
  <tr><td><a href="/ht-2015-246"><b>Chengal Pasir</b> / <i>Hopea odorata</i> (HT 2015-246)</a></td><td>Singapore Botanic Gardens,<br>near Corner Walk</td></tr>
  <tr><td><a href="/ht-2013-211"><b>Chinese Laurel</b> / <i>Antidesma bunius</i> (HT 2013-211)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (near HT Sausage Tree)</td></tr>
- <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,<br>Learning Forest (Canarium Pond area)</td></tr>
+ <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,  <br>Learning Forest along Canarium Pond, near Tyersall Avenue</td></tr>
  <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near Hse No. 21A</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa, Capella Singapore, Suite B 7103 - 7105</td></tr>
