@@ -1,4 +1,0 @@
-collections:
-  do-not-publish-ht-register:
-    output: true
-    order: []
