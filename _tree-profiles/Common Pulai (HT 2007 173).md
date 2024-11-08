@@ -20,10 +20,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.267531000002814&amp;lng=103.82226499999629">
- <br>Temenggong Road, on open land<br>opposite House No. 22</a>
+ <br>Stateland between Temenggong Road &amp; Marang Road</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">  
-⛔ Please note that this Heritage Tree is not accessible to the public.</td></tr></tbody>
+⚠️ Please note that this Heritage Tree is no longer accessible from Temenggong Road.</td></tr></tbody>
 </table>
 <p>The Common Pulai or <em>Alstonia angustiloba</em>&nbsp;is a mid-canopy tree that can reach up to 40 m in height. It is native to Singapore and is naturally distributed across the primary or secondary forests and swamp forests of Sumatra, Peninsular Malaysia, Borneo and Java.</p>
 
