@@ -64,9 +64,10 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2003-37"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-37)</a></td><td>Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu</td></tr>
  <tr><td><a href="/ht-2003-39"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-39)</a></td><td>Saint John's Island, Block 12 &amp; 13</td></tr>
  <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
- <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, near junction of Imbiah Hill Rd / Imbiah Rd, beside Siloso Beach Resort</td></tr>
- <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opp Hse No. 22</td></tr>
- <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>Burkill Drive Carpark</td></tr>
+ <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, beside Siloso Beach Resort</td></tr>
+ <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Between Temenggong Road &amp; Marang Road</td></tr>
+ <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>  
+along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
@@ -288,8 +289,9 @@ As of 1<sup>st</sup> December 2024, there are currently <b>259</b> Heritage Tree
  <tr><td><a href="/ht-2015-246"><b>Chengal Pasir</b> / <i>Hopea odorata</i> (HT 2015-246)</a></td><td>Singapore Botanic Gardens,<br>near Corner Walk</td></tr>
  <tr><td><a href="/ht-2013-211"><b>Chinese Laurel</b> / <i>Antidesma bunius</i> (HT 2013-211)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (near HT Sausage Tree)</td></tr>
 	<tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>End of Royal Road, on slope behind Hse No. 7</td></tr>
- <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on Stateland opposite House No. 22 (gated, Year 2013) - walking access to HT via Marang Road</td></tr>
- <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens, Burkill Drive Carpark</td></tr>
+ <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Stateland between Temenggong Road &amp; Marang Road</td></tr>
+ <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>  
+along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2018-293"><b>Derum Selunchor</b> / <i>Cratoxylum cochinchinensis</i> (HT 2018-293)</a></td><td>Telok Blangah Green, near Shelter, Meeting Point 1, Carpark 2</td></tr>
