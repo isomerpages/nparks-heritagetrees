@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.412479999995838&amp;lng=103.943689999999">
- <br>Pulau Ubin, along Ketam bike<br>trail, near Pipit Hut</a>
+ <br>Pulau Ubin,<br>along Ketam bike</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">  
 
