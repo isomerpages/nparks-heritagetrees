@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3241619999995584&amp;lng=103.84614600000153">
- <br>Irrawaddy Road, on slope beside HealthCity Novena</a>
+ <br>Irrawaddy Road, on slope<br>beside HealthCity Novena</a>
 </td>
 </tr>
 </tbody>
