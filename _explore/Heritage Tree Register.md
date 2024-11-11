@@ -299,7 +299,7 @@ along Learning Forest coach parking</td></tr>
 <tr><td><a href="/ht-2014-229"><b>Giant Cola</b> / <i>Cola gigantea</i> (HT 2014-229)</a></td><td>Singapore Botanic Gardens, Orchid Plaza</td></tr>
  <tr><td><a href="/ht-2016-282"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i> (HT 2016-282)</a></td><td>Singapore Botanic Gardens,<br>near Plant Resource Ctr Shelter</td></tr>
  <tr><td><a href="/ht-2019-307"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i>a (HT 2019-307)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
- <tr><td><a href="/ht-2014-227"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2014-227)</a></td><td>Canning Rise, opposite lamp-post 7</td></tr>
+ <tr><td><a href="/ht-2014-227"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2014-227)</a></td><td>Canning Rise, on slope<br>between HT Merbatus</td></tr>
  <tr><td><a href="/ht-2012-203"><b>Indian Rubber Tree</b> / <i>Ficus elastica</i> (HT 2012-203)</a></td><td>Duxton Plain Park, near Pinnacle block 1D</td></tr>
  <tr><td><a href="/ht-2013-204"><b>Indian Banyan</b> / <i>Ficus benghalensis</i> (HT 2013-204)</a></td><td>Tiong Bahru Park</td></tr>
  <tr><td><a href="/ht-2010-181"><b>Indian Rubber Tree</b> / <i>Ficus elastica</i> (HT 2010-181)</a></td><td>In front of National Museum of Singapore</td></tr>
@@ -331,8 +331,8 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2021-319"><b>Mango</b> / <i>Mangifera indica</i> (HT 2021-319)</a></td><td>Mount Emily Park</td></tr>
  <tr><td><a href="/ht-2010-183"><b>Marsh Pulai</b> / <i>Alstonia pneumatophora</i> (HT 2010-183)</a></td><td>Singapore Botanic Gardens,<br>Lawn H</td></tr>
  <tr><td><a href="/ht-2012-196"><b>Mengkulang</b> / <i>Heritiera elata</i> (HT 2012-196)</a></td><td>Singapore Botanic Gardens,<br>along Lower Ring Rd</td></tr>
- <tr><td><a href="/ht-2001-30"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-30)</a></td><td>Canning Rise, SMU Law School</td></tr>
- <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td><td>Canning Rise, near pedestrian underpass</td></tr>
+ <tr><td><a href="/ht-2001-30"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-30)</a></td><td>Canning Rise, on slope behind<br>Kwa Geok Choo Law Library</td></tr>
+ <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td><td>Canning Rise, on slope,<br>near pedestrian underpass</td></tr>
 <tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td><td>Singapore Botanic Gardens,<br>Rainforest (near Visitor Centre)</td></tr>
  <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
  <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane</td></tr>
@@ -357,7 +357,7 @@ along Learning Forest coach parking</td></tr>
 <tr><td><a href="/ht-2003-107"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-107)</a></td><td>Spottiswoode Park Road, top of the slope at junction of Spottiswoode Park Road and Everton Road</td></tr>
  <tr><td><a href="/ht-2003-108"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-108)</a></td><td>Istana Ground</td></tr>
  <tr><td><a href="/ht-2003-109"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-109)</a></td><td>Holland Road, near junction<br>with Belmont Road</td></tr>
- <tr><td><a href="/ht-2003-110"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-110)</a></td><td>Irrawaddy Road, on slope beside HealthCity Novena</td></tr>
+ <tr><td><a href="/ht-2003-110"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-110)</a></td><td>Irrawaddy Road, on slope<br>beside HealthCity Novena</td></tr>
  <tr><td><a href="/ht-2003-111"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-111)</a></td><td>Kim Yam Road Stateland, beside Gambier Court condominium</td></tr>
  <tr><td><a href="/ht-2005-144"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-144)</a></td><td>Jalan Hang Jebat, in front of Block 109</td></tr>
  <tr><td><a href="/ht-2005-145"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-145)</a></td><td>Everton Road, top of the slope opposite Block 10 multi-storey carpark</td></tr>
