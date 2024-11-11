@@ -40,7 +40,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the Healing Garden courtyard (📷: Brendon Phuah)</div></div></a>
 
-<a href="/images/Heritage_trees_photos/barasi_ht2012-189_fountain.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/barasi_ht2012-189_habit2.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_fountain.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/barasi_ht2012-189_habit2.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from the water fountain at the base of the slope (📷: Hazri Boey)</div></div></a></div>
