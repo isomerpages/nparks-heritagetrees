@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/Heritage_trees_photos/swimac_ht2003-129_habit.jpg">
+<img style="width: 60%" src="/images/Heritage_trees_photos/swimac_ht2003-129_habit.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/swimac_ht2003-129_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/swimac_ht2003-129_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: </div></div></a><p></p></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><p></p></div>
