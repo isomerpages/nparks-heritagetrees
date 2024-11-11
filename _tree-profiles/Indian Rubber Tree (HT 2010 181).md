@@ -40,9 +40,9 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Overall shot of Heritage Tree<br>(📷: Heritage Tree Secretariat)</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/ficela_ht2010-181_gate.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_gate.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficela_ht2010-181_fence.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Strangler roots has grown around portion of the fence that once surrounded the National Museum of Singapore.<br>(📷: Heritage Tree Secretariat)</div></div></a>
 
 <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/b3eb74bc-1161-11e3-83d5-0050568939ad" class="isomer-card">
