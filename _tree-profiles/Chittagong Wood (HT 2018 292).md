@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%" src="/images/Heritage_trees_photos/chutab_ht2018-292_habit.jpg">
+<img style="width: 60%" src="/images/Heritage_trees_photos/chutab_ht2018-292_habit.png">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/chutab_ht2018-292_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/chutab_ht2018-292_habit.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/chutabu_ht2018-292_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/chutab_ht2018-292_habit.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
