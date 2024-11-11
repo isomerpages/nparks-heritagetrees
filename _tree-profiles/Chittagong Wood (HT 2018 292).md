@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3111319999988438&amp;lng=103.81514099999768">
- <br>Hooper Rd Playground, near<br>House No. 21A</a>
+ <br>Hooper Rd Playground, near<br>Hse No. 21A</a>
 </td>
 </tr>
 </tbody>
@@ -39,7 +39,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/chutabu_ht2018-292_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/chutab_ht2018-292_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/chutabu_ht2018-292_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
