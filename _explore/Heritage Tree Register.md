@@ -337,8 +337,8 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
  <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane</td></tr>
  <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane</td></tr>
- <tr><td><a href="/ht-2012-201"><b>Mountain Teak</b> / <i>Podocarpus nerrifolius</i> (HT 2012-201)</a></td><td>Singapore Botanic Gardens, Lawn B</td></tr>
- <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td><td>Singapore Botanic Gardens,<br>Rainforest</td></tr>
+ <tr><td><a href="/ht-2012-201"><b>Mountain Teak</b> / <i>Podocarpus nerrifolius</i> (HT 2012-201)</a></td><td>Singapore Botanic Gardens,<br>Lawn B</td></tr>
+ <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td><td>Singapore Botanic Gardens,<br>Rainforest (near HT Mengkulang)</td></tr>
  <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td><td>Singapore Botanic Gardens,<br>near Swiss Granite Fountain</td></tr>
  <tr><td><a href="/ht-2015-271-272"><b>Nutmeg Trees</b>/ <i>Myristica fragrans</i> (HT 2015-271 &amp; HT 2015-272)</a></td><td>Singapore Botanic Gardens,<br>behind The Garage</td></tr>
 <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens,<br>behind Raffles Building</td></tr>
@@ -357,7 +357,7 @@ along Learning Forest coach parking</td></tr>
 <tr><td><a href="/ht-2003-107"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-107)</a></td><td>Spottiswoode Park Road, top of the slope at junction of Spottiswoode Park Road and Everton Road</td></tr>
  <tr><td><a href="/ht-2003-108"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-108)</a></td><td>Istana Ground</td></tr>
  <tr><td><a href="/ht-2003-109"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-109)</a></td><td>Holland Road, near junction<br>with Belmont Road</td></tr>
- <tr><td><a href="/ht-2003-110"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-110)</a></td><td>Irrawaddy Road, on slope facing Ministry of Home Affairs Headquarters</td></tr>
+ <tr><td><a href="/ht-2003-110"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-110)</a></td><td>Irrawaddy Road, on slope beside HealthCity Novena</td></tr>
  <tr><td><a href="/ht-2003-111"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-111)</a></td><td>Kim Yam Road Stateland, beside Gambier Court condominium</td></tr>
  <tr><td><a href="/ht-2005-144"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-144)</a></td><td>Jalan Hang Jebat, in front of Block 109</td></tr>
  <tr><td><a href="/ht-2005-145"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2005-145)</a></td><td>Everton Road, top of the slope opposite Block 10 multi-storey carpark</td></tr>
