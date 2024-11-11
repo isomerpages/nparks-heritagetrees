@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.412479999995838&amp;lng=103.943689999999">
- <br>Pulau Ubin,<br>along Ketam bike</a>
+ <br>Pulau Ubin,<br>along Ketam bike trail</a>
 </td></tr>
 <tr><td style="text-align: center;" colspan="3">  
 
