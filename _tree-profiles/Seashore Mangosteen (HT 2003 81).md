@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img src="/images/heritage_trees_photos/terap_ht_2015_235-habit.jpg"> 
+<img style="width: 60%" src="/images/Heritage_trees_photos/garcel_ht2003-81_temp.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -28,11 +28,11 @@ description: ""
 
 <p>This species was previously known as <em>Garcinia hombroniana.</em></p>
 
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3392">here</a>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3392">here</a>.
 
 </p><h4>Gallery</h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/garcel_ht2003-81_temp.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tulang_daing_ht_2001_22-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Habit</div></div></a><br></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/garcel_ht2003-81_temp.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
