@@ -20,15 +20,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2730719999968958&amp;lng=103.81540899999591">
- <br>Mount Faber Loop, near<br>road bend opposite side
-<br>of Danish Seaman's Mission</a>
+ <br>Mount Faber Loop, near<br>road bend opp Danish Seaman's Church</a>
 </td>
 </tr>
 </tbody>
 </table>
 <p>The Petai Kerayong is a large forest tree growing up to 50 metres tall and is found from Northeast India to Java. It has a stout smooth trunk with large buttresses supporting an umbrella-shaped crown. The compound leaves are feather-like with small narrow leaflets and its intriguing flowers are closely set on a round head with a long stalk, which develop into longish fruit pods.</p>
   
-<p>The building being used by the Danish Seamen's Mission at No. 10 Pender Road was built in 1909. It was called the 'Golden Bell' and was built as the home of Mr Tan Boo Liat, a grandson of Mr Tan Tock Seng, the philanthropist whose name the famous Hospital was named after. Mr Tan B L sold the 'Golden Bell' some time after it was built. It is recorded that Dr Sun Yat Sen spent a night in the "Golden Bell" during a visit to Singapore.</p>
+<p>This tree sits  building being used by the Danish Seamen's Church at No. 10 Pender Road was built in 1909. It was formerly called the Golden Bell mansion and was built as the home of Mr Tan Boo Liat, a great-grandson of Mr Tan Tock Seng, the philanthropist whose name the famous Hospital was named after. Mr Tan B.L. sold the Golden Bell mansion some time after it was built. It is recorded that Dr Sun Yat Sen spent a night in the 'Golden Bell" during a visit to Singapore.</p>
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3053">here</a>.</p>
 
