@@ -6,6 +6,5 @@ description: ""
 ---
 <h4><strong>Join us for our Tree Appreciation Walk!</strong></h4>
 <p>Discover the natural heritage of Singapore by participating in guided
-walks to visit the Heritage Trees in Singapore Botanic Gardens or Changi.</p>
-<p></p>
-<p>&lt;add sign up form&gt;</p>
+walks to visit the Heritage Trees in Chinatown area or Changi.</p>
+<p>Look out for our tours <a href="https://beta.nparks.gov.sg/visit/events" rel="noopener nofollow" target="_blank">here</a>.</p>
