@@ -18,6 +18,11 @@ growth&nbsp;since Singapore’s greening journey began in 1963.</p>
 <p>The Heritage Road Scheme, launched in 2001 by the National Parks Board,
 aims to conserve the scenic and significant tree-lined roads of Singapore.
 In 2006, the following five roads were gazetted as Heritage Roads:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="htroadbanner arcadia" src="/images/Heritage Roads/htroadbanner_arcadia.png">
+</div>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Arcadia Road</p>
