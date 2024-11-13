@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img width="100%" alt="" src="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg"> 
+<img src="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -153,12 +153,12 @@ Tree planting was formalised in 1881 by the then Superintendent of the Singapore
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Trees along Connaught Drive<br>(📷: Hazri Boey)</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Trees along Connaught Drive<br>(📷:  Heritage Tree Secretariat)</div></div></a>
 
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/HTmap_Connaught.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/HTmap_Connaught.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
