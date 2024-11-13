@@ -29,7 +29,9 @@ description: ""
   
 <p>The floral buds of the Angsana develop high up on the crown, unnoticed by anyone, until the right stimulus triggers the buds on the crown to bloom in yellow simultaneously. This brilliant display of colour lasts only for a day, after which the tree lays a soft carpet of yellow flowers on the ground beneath it.</p>
 	
-<p>The Building at No. 10 Pender Road was built in 1909. It was called the 'Golden Bell' and was built as the home of Mr Tan Boo Liat, a grandson of Mr Tan Tock Seng, the philanthropist whose name the famous Hospital was named after. Mr Tan B. L. sold the 'Golden Bell' some time after it was built. It is recorded that Dr Sun Yat Sen spent a night in the "Golden Bell" during a visit to Singapore. It is likely that this Angsana Heritage Tree had withstood the ravages of time since the early half of the 20<sup>th</sup> Century.</p>
+<p>The building being used by the Danish Seamen's Church nearby at 10 Pender Road was built in 1910. It was formerly called the Golden Bell mansion and was built as the home of Mr Tan Boo Liat, a great-grandson of Mr Tan Tock Seng, the philanthropist whose name the famous Hospital was named after. Mr Tan B.L. sold the Golden Bell mansion shortly some time after it was built. It is recorded that Dr Sun Yat Sen spent a night in the 'Golden Bell' during a visit to Singapore.</p>
+
+<p>It is likely that this Heritage Tree had withstood the ravages of time since the early half of the 20<sup>th</sup> century.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3093">here</a>.</p>
 
