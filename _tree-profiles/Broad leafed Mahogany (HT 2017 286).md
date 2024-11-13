@@ -42,4 +42,9 @@ description: ""
 <a href="/images/Heritage_trees_photos/swimac_ht2017-286_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/swimac_ht2017-286_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a>
+
+<a href="/images/Heritage_trees_photos/HTmap_SADr.png" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/HTmap_SADr.png"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
