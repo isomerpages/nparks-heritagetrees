@@ -38,7 +38,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangfoe_ht2014-227_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree (middle) among other trees<br>(📷: Brendon Phuah)</div></div></a>
 
-<a href="/images/Heritage_trees_photos/mangfoe_ht2014-227_habi.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/HTmap_CanningRise.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/mangfoe_ht2014-227_habi.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/HTmap_CanningRise.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
