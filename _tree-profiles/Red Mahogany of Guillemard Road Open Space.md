@@ -56,4 +56,8 @@ description: ""
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/khanya_ht2001-14-15-16_habit.jpg"></div></div>
 	<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a>
-<br></div>
+
+<a href="/images/Heritage_trees_photos/HTmap_GROS.png" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/HTmap_GROS.png"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
