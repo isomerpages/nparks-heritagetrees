@@ -4,7 +4,7 @@ permalink: /heritage-tree-register/
 variant: markdown
 description: ""
 ---
-<div style="font-size: 25px; color: #098e3e; text-align: center"><b>Search for Heritage Trees using the Map below</b></div>
+<div style="font-size: 25px; color: #417505; text-align: center"><b>Search for Heritage Trees using the Map below</b></div>
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/0/embed?mid=15DpUFCyrYXI8_T-rVkKB1xuCkSpkf-M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div><p>
