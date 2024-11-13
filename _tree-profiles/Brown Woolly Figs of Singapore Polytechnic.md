@@ -60,7 +60,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficdru_ht2010-177-180_landscape.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/ficdru_ht2010-177-180_map.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/HTmap_SP.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficdru_ht2010-177-180_map.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/HTmap_SP.png"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
