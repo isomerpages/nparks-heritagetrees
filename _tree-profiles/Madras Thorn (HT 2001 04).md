@@ -42,7 +42,7 @@ description: ""
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitdul_ht2001-04_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Overall shot of Heritage Tree<br>(📷: Hazri Boey)</div></div></a>
 
-<a href="/images/Heritage_trees_photos/pitcel_ht2001-04_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/HTmap_FCP.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/pitcel_ht2001-04_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Map of HT Madras Thorn in Fort Canning Park</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/HTmap_FCP.png"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Map of Heritage Trees in the area</div></div></a></div>
