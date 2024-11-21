@@ -41,7 +41,7 @@ tunnel links Dover to Pasir Panjang Road, and require careful navigation.</p>
 Vista Road used to offer drivers stunning elevated sea views. Constructed
 before World War II, the ridges were the site of the famous battle of Pasir
 Panjang, which took place in February 1942 between the invading Japanese
-forces and the Malay Regiment, led by Lt. Adnan.&nbsp;</p>
+forces and the Malay Regiment, led by Lieutenant Adnan Saidi.&nbsp;</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XFgWx2bNBaM"></iframe>
