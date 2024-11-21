@@ -39,11 +39,10 @@ bungalows fronted by wild sown trees such as cinnamon, palms and figs.</p>
 <p>The elegant pre-war homes in this area were built to house families of
 Police Force officers during Singapore’s colonial era. An early resident,
 Mr G. H. Brown owned the estate in the 1860s and lived in a residence that
-shared the same name as the hill it was sited on – Mount Pleasant (Source:
-Makepeace et al, 1921*). Part of the property had been called Bukit Brown,
-possibly after Mr Brown, and cemetery grounds now cover the hilly slopes
-along Lornie Road.</p>
-<p><em><sup>*Makepeace, W.,e Brooke, G.E. &amp; Braddell, R. St. J. (eds) (1921) One Hundred Years of Singapore, Singapore, Oxford University Press, Vol. 2, pg 557</sup></em>
+shared the same name as the hill it was sited on – Mount Pleasant<sup>1</sup>.
+Part of the property had been called Bukit Brown, possibly after Mr Brown,
+and cemetery grounds now cover the hilly slopes along Lornie Road.</p>
+<p><em><sup>1</sup><sub>Makepeace, W.,e Brooke, G.E. &amp; Braddell, R. St. J. (eds) (1921) One Hundred Years of Singapore, Singapore, Oxford University Press, Vol. 2, pg 557</sub></em>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cGExxnrRfK4"></iframe>
