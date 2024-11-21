@@ -59,7 +59,7 @@ sections:
         - title: Who can nominate?
           description: Anyone can nominate a tree to be a Heritage Tree.
         - title: What criteria is there?
-          description: The nominated tree is usually more than 5 m in girth or noted for
+          description: The nominated tree is usually more than 5 m in girth and noted for
             its botanical, historical, or cultural significance.
         - title: What happens next?
           description: Nominated trees will undergo a health check before being considered
