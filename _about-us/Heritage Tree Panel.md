@@ -18,10 +18,6 @@ K Y Lum</div>
 <br>National Parks Board</td>
 </tr>
 <tr><td>
-<b>Mr Kong Yit San</b>
-<br>Executive Director, Jurong Lake Gardens
-<br>National Parks Board</td></tr>
-<tr><td>
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
 <br>National Parks Board </td>
@@ -47,6 +43,10 @@ Landscaping)</td>
 <b>Mr Koh Piak Huat</b>
 <br>Divisional Director, Island Operations,
 	<br>Sentosa Development Corporation</td>
+</tr>
+<tr><td>
+<b>Mr Kong Yit San</b>
+	<br>Private Consultant</td>
 </tr>
 <tr><td>
 <b>Mr Ng Cheow Kheng</b>
