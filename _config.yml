@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dll651c8p8okg.amplifyapp.com
 prod: https://master.d4zv7m05p96w3.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/heritage_trees_logo.png
+shareicon: /images/heritage_trees_logo_new.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
