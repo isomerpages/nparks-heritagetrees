@@ -20,9 +20,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1"><strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.4026899999779296&amp;lng=103.78786000003946">
 <br>Night Safari, along<br>Tasmanian Devil Trail</a>
-</td>
-</tr>
-</tbody></table>
+	</td></tr>
+<tr><td style="text-align: center;" colspan="3">  
+⚠️ This Heritage Tree is only accessible to Night Safari visitors, and can only be visited at night.</td></tr></tbody></table>
+
+
 <p>An uncommon tree from the lowland forest, the Selembut can grow to 27 m tall. The flowers are white. The fruit is dark purplish, 1.2 cm across and depressed globose in shape.</p>
 
 <p>Previously recorded as extinct in Singapore, this species was recently re-discovered in Singapore in 2006 when keen-eyed botanists at the Singapore Zoo and NParks came across this tree.</p>
