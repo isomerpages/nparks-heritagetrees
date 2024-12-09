@@ -71,7 +71,7 @@ description: ""
  <tr><td><a href="/ht-2001-04"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-04)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir</td></tr>
  <tr><td><a href="/ht-2001-05"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-05)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (beside leaning tree)</td></tr>
  <tr><td><a href="/ht-2001-06"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-06)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (opposite service gate)</td></tr>
- <tr><td><a href="/ht-2001-07"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-07)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (near HT kapok)</td></tr>
+ <tr><td><a href="/ht-2001-07"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2001-07)</a></td><td>Fort Canning Park,<br>along path beside Service Reservoir (near HT Kapok)</td></tr>
  <tr><td><a href="/ht-2016-274"><b>Mango</b> / <i>Mangifera indica</i> (HT 2016-274)</a></td><td>Chay Yan St State Land</td></tr>
  <tr><td><a href="/ht-2021-319"><b>Mango</b> / <i>Mangifera indica</i> (HT 2021-319)</a></td><td>Mount Emily Park</td></tr>
  <tr><td><a href="/ht-2010-183"><b>Marsh Pulai</b> / <i>Alstonia pneumatophora</i> (HT 2010-183)</a></td><td>Singapore Botanic Gardens,<br>Lawn H</td></tr>
@@ -80,8 +80,8 @@ description: ""
  <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td><td>Canning Rise, on slope<br>near pedestrian underpass</td></tr>
 <tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td><td>Singapore Botanic Gardens,<br>Rainforest (near Visitor Centre)</td></tr>
  <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
- <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane</td></tr>
- <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane</td></tr>
+ <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane (left)</td></tr>
+ <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane (right)</td></tr>
  <tr><td><a href="/ht-2012-201"><b>Mountain Teak</b> / <i>Podocarpus nerrifolius</i> (HT 2012-201)</a></td><td>Singapore Botanic Gardens, Lawn B</td></tr>
  <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td><td>Singapore Botanic Gardens,<br>Rainforest</td></tr>
  <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td><td>Singapore Botanic Gardens,<br>near Swiss Granite Fountain</td></tr>
@@ -110,7 +110,7 @@ description: ""
  <tr><td><a href="/ht-2009-175"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2009-175)</a></td><td>Tiong Bahru, 8 Lower Delta Rd</td></tr>
  <tr><td><a href="/ht-2014-228"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2014-228)</a></td><td>Fort Canning Park,<br>near Raffles Garden</td></tr>
  <tr><td><a href="/ht-2015-270"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2015-270)</a></td><td>Singapore Botanic Gardens,<br>near Learning Forest restroom</td></tr>
- <tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248 — HT 2015-269)</a></td><td>Connaught Drive</td></tr>
+ <tr><td><a href="/rain-trees-of-connaught-drive/"><b>Rain Trees of Connaught Drive</b> (HT 2015-248 – HT 2015-269)</a></td><td>Connaught Drive</td></tr>
  <tr><td><a href="/ht-2010-182"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2010-182)</a></td><td>In front of Blk 150 Lorong 1 Toa Payoh (Along store front)</td></tr>
  <tr><td><a href="/ht-2001-19/"><b>Saga</b> / <i>Adenanthera pavonina</i> (HT 2001-19)</a></td><td>Singapore Botanic Gardens, near Frangipani Garden</td></tr>
  <tr><td><a href="/ht-2013-213/"><b>Sausage Tree</b> / <i>Kigelia africana</i> (HT 2013-213)</a></td><td>Singapore Botanic Gardens,<br>near Sundial Garden</td></tr>
@@ -128,14 +128,14 @@ description: ""
  <tr><td><a href="/ht-2013-218/"><b>Temak</b> / <i>Shorea roxburghii</i> (HT 2013-218)</a></td><td>Singapore Botanic Gardens, along Main Gate Road</td></tr>
  <tr><td><a href="/ht-2001-26/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2001-26)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr> <tr><td><a href="/ht-2001-22/"><b>Tulang Daing</b> / <i>Adinobotrys atropurpureus</i> (HT 2001-22)</a></td><td>Singapore Botanic Gardens, behind Swan Lake</td></tr>
  <tr><td><a href="/ht-2001-12/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2001-12)</a></td><td>Fort Canning Park,<br>along 14th Century Walk of History</td></tr>
- <tr><td><a href="/ht-2014-223/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2014-223)</a></td><td>Fort Canning Park,<br>near Canning Rise L/P 11F</td></tr>
+ <tr><td><a href="/ht-2014-223/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2014-223)</a></td><td>Fort Canning Park,<br>end of Canning Rise (near tombstones)</td></tr>
  <tr><td><a href="/ht-2015-235/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2015-235)</a></td><td>Fort Canning Park,<br>near Raffles Terrace</td></tr>
- <tr><td><a href="/ht-2016-279/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2016-279)</a></td><td>Fort Canning Pk,<br>along Five Kings Walk (behind The Foothills)</td></tr><tr></tr>
+ <tr><td><a href="/ht-2016-279/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2016-279)</a></td><td>Fort Canning Park,<br>on slope, behind The Foothills</td></tr><tr></tr>
 	<tr><td><a href="/ht-2023-326/"><b>Thai Bungor</b> / <i>Lagerstroemia loudonii</i> (HT 2023-326)</a></td><td>Singapore Botanic Gardens,<br>behind Swan Lake</td></tr>
  <tr><td><a href="/ht-2003-84/"><b>West Indian Locust Tree</b> / <i>Hymenaea courbaril</i> (HT 2003-84)</a></td><td>Istana Ground</td></tr>
  <tr><td><a href="/ht-2014-231/"><b>West Indian Locust Tree</b> / <i>Hymenaea courbaril</i> (HT 2014-231)</a></td><td>Singapore Botanic Gardens,<br>Corner House Lawn</td></tr>
  <tr><td><a href="/ht-2015-241/"><b>West Indian Mahogany</b> / <i>Swietenia mahagoni</i> (HT 2015-241)</a></td><td>Singapore Botanic Gardens,<br>beside National Orchid Garden entrance</td></tr>
- <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td><td>Jalan Tan Tock Seng, within Renci Hospital car-park</td></tr>
+ <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td><td>Within carpark of former Pavilion Wards, near Jln Tan Tock Seng</td></tr>
  <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td><td>Mount Emily Park, near Upp Wilkie Rd roundabout</td></tr><tr></tr>
 	</tbody></table>
 	
