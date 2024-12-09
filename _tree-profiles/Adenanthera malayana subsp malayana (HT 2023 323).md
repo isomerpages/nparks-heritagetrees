@@ -27,7 +27,7 @@ description: ""
 
 <p>The tree produces racemes of small, faintly fragrant, white flowers that eventually turn yellow over time. The fruit pod twists into a spiral before turning purplish-black and splitting open when ripe. Each fruit contains about 10 red and black glossy seeds.</p>
 
-<p>This species is related to the well-known <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2697">Saga (<em>Adenanthera pavonina</em>)</a> but be differentiate from one another by the rounded tips on its leaflets and the single-coloured, red seeds. <em>Adenanthera malayana</em> subsp. <em>malayana</em> is an endangered species in Singapore.  
+<p>This species is related to the well-known <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2697">Saga (<em>Adenanthera pavonina</em>)</a> but be differentiated from one another by the rounded tips on its leaflets and the single-coloured, red seeds. <em>Adenanthera malayana</em> subsp. <em>malayana</em> is an endangered species in Singapore.  
 
 </p><p>This Heritage Tree, the tallest among the cluster of three, can be found between the Forest Discovery Centre (Atbara) and the Botanical Art Gallery (Inverturret), which are among some of the Singapore's oldest-surviving colonial houses. An old aerial photograph from the 1950s shows what appears to be this Heritage Tree, making it at least 70 years old. This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
 	
