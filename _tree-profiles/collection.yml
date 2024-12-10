@@ -1,0 +1,237 @@
+collections:
+  tree-profiles:
+    output: true
+    order:
+      - Adenanthera malayana subsp malayana (HT 2023 323).md
+      - Africa Butter Tree (HT 2003 97).md
+      - Albizia niopoides var niopoides (HT 2012 186).md
+      - Angsana (HT 2001 03).md
+      - Angsana (HT 2003 98).md
+      - Angsana (HT 2003 99).md
+      - Angsana (HT 2003 100).md
+      - Angsana (HT 2003 101).md
+      - Angsana (HT 2003 102).md
+      - Angsana (HT 2003 103).md
+      - Angsana (HT 2007 158).md
+      - Angsana (HT 2007 159).md
+      - Bangkal (HT 2015 247).md
+      - Baobab (HT 2016 283).md
+      - Belinjau (HT 2017 291).md
+      - Binjai (HT 2003 86).md
+      - Binjai (HT 2003 87).md
+      - Binjai (HT 2003 88).md
+      - Binjai (HT 2003 89).md
+      - Bodhi Tree (HT 2001 18).md
+      - Bodhi Tree (HT 2003 69).md
+      - Bodhi Tree (HT 2007 156).md
+      - Bodhi Tree (HT 2014 225).md
+      - Broad leafed Mahogany (HT 2003 118).md
+      - Broad leafed Mahogany (HT 2003 119).md
+      - Broad leafed Mahogany (HT 2003 120).md
+      - Broad leafed Mahogany (HT 2003 121).md
+      - Broad leafed Mahogany (HT 2003 129).md
+      - Broad leafed Mahogany (HT 2005 146).md
+      - Broad leafed Mahogany (HT 2005 149).md
+      - Broad leafed Mahogany (HT 2016 276).md
+      - Broad leafed Mahogany (HT 2017 286).md
+      - Brown Woolly Figs of Singapore Polytechnic.md
+      - Burmese Banyan (HT 2009 174).md
+      - Burmese Banyan (HT 2011 184).md
+      - Cannon Ball Tree (HT 2014 230).md
+      - Cannon Ball Tree (HT 2017 289).md
+      - Chengal Pasir (HT 2015 246).md
+      - Chinese Laurel (HT 2013 211).md
+      - Chinese Olive (HT 2018 299).md
+      - Chittagong Wood (HT 2018 292).md
+      - Collared Fig (HT 2013 205).md
+      - Common Pulai (HT 2003 35).md
+      - Common Pulai (HT 2003 36).md
+      - Common Pulai (HT 2003 37).md
+      - Common Pulai (HT 2003 39).md
+      - Common Pulai (HT 2003 40).md
+      - Common Pulai (HT 2005 130).md
+      - Common Pulai (HT 2007 173).md
+      - Common Pulai (HT 2012 187).md
+      - Common Pulai (HT 2012 188).md
+      - Common Pulai (HT 2014 222).md
+      - Common Pulai (HT 2022 320).md
+      - Common Pulai (HT 2024 327).md
+      - Common Pulai (HT 2024 328).md
+      - Damar Hitam Gajah (HT 2003 113).md
+      - Derum (HT 2020 317).md
+      - Derum Selunchor (HT 2018 293).md
+      - Durian (HT 2007 154).md
+      - Earpod Tree (HT 2001 11).md
+      - Ficus stricta (HT 2003 71).md
+      - Ficus stricta (HT 2003 72).md
+      - Ficus stricta (HT 2003 73).md
+      - Ficus stricta (HT 2013 206).md
+      - Ficus stricta (HT 2013 207).md
+      - Giant Cola (HT 2014 229).md
+      - Hazel Sterculia (HT 2016 282).md
+      - Hazel Sterculia (HT 2019 307).md
+      - Horse Mango (HT 2003 90).md
+      - Horse Mango (HT 2014 227).md
+      - Inai Inai (HT 2003 52).md
+      - Indian Banyan (HT 2013 204).md
+      - Indian Rubber Tree (HT 2010 181).md
+      - Indian Rubber Tree (HT 2012 203).md
+      - Indian Rubber Tree (HT 2024 329).md
+      - Jamuju (HT 2012 191).md
+      - Jelawai Jaha (HT 2001 25).md
+      - Jelawai Jaha (HT 2003 124).md
+      - Jelawai Jaha (HT 2003 125).md
+      - Jelawai Jaha (HT 2022 322).md
+      - Jelutong (HT 2015 239).md
+      - Johor Fig (HT 2003 62).md
+      - Johor Fig (HT 2003 64).md
+      - Johor Fig (HT 2003 65).md
+      - Johor Fig (HT 2003 67).md
+      - Johor Fig (HT 2005 66).md
+      - Johor Fig (HT 2005 137).md
+      - Johor Fig (HT 2007 155).md
+      - Johor Fig (HT 2012 195).md
+      - Johor Fig (HT 2019 303).md
+      - Kapok (HT 2001 01).md
+      - Kapok (HT 2005 134).md
+      - Kapok (HT 2007 152).md
+      - Kapok (HT 2007 153).md
+      - Kapok (HT 2008 166).md
+      - Kapok (HT 2008 167).md
+      - Kapok (HT 2008 171).md
+      - Kapok (HT 2015 236).md
+      - Kapok (HT 2020 308).md
+      - Kapur (HT 2012 192).md
+      - Kapur (HT 2012 193).md
+      - Kapur (HT 2012 194).md
+      - Kayu Pontianak (HT 2013 208).md
+      - Kelat Hitam (HT 2003 128).md
+      - Kempas (HT 2015 243).md
+      - Kempas (HT 2016 280).md
+      - Kepayang (HT 2014 232).md
+      - Keruing Kerut (HT 2003 49).md
+      - Leban (HT 2003 126).md
+      - Leopard Tree (HT 2017 287).md
+      - Leopard Tree (HT 2018 298).md
+      - Longan (HT 2018 297).md
+      - Lychee (HT 2001 02).md
+      - Madras Thorn (HT 2001 04).md
+      - Madras Thorn (HT 2001 05).md
+      - Madras Thorn (HT 2001 06).md
+      - Madras Thorn (HT 2001 07).md
+      - Madras Thorn (HT 2008 164).md
+      - Madras Thorn (HT 2016 275).md
+      - Mango (HT 2016 274).md
+      - Mango (HT 2017 285).md
+      - Mango (HT 2020 312).md
+      - Mango (HT 2021 319).md
+      - Margaritaria indica (HT 2014 226).md
+      - Marsh Pulai (HT 2010 183).md
+      - Medang (HT 2005 139).md
+      - Mengkulang (HT 2012 196).md
+      - Mentulang Daun Lebar (HT 2013 210).md
+      - Meraga (HT 2016 281).md
+      - Merbatu (HT 2001 30).md
+      - Merbatu (HT 2001 31).md
+      - Mindanao Gum (HT 2003 53).md
+      - Monkey Pot Tree (HT 2011 185).md
+      - Monkey Pot Tree (HT 2013 214).md
+      - Monkey Pot Tree (HT 2013 215).md
+      - Mountain Teak (HT 2012 201).md
+      - Neem Tree (HT 2019 300).md
+      - Nemesu (HT 2015 245).md
+      - Neram (HT 2023 325).md
+      - Nutmegs of Singapore Botanic Gardens.md
+      - Nyatoh Puteh (HT 2003 94).md
+      - Nyatoh Puteh (HT 2012 198).md
+      - Nyatoh Puteh (HT 2013 216).md
+      - Orange Jasmines of Fairy Point Chalet.md
+      - Ordeal Tree (HT 2010 176).md
+      - Ordeal Tree (HT 2019 301).md
+      - Para Rubber (HT 2018 294).md
+      - Pauh Damar (HT 2015 240).md
+      - Penaga Laut (HT 2001 20).md
+      - Penaga Laut (HT 2003 46).md
+      - Penaga Laut (HT 2021 318).md
+      - Perepats of Pulau Ubin.md
+      - Petai (HT 2003 95).md
+      - Petai Kerayong (HT 2001 17).md
+      - Petai Kerayong (HT 2005 141).md
+      - Pianggu (HT 2012 197).md
+      - Pink Mempat (HT 2020 309).md
+      - Pink Mempat (HT 2022 321).md
+      - Putat Laut (HT 2012 189).md
+      - Rain Tree (HT 2001 08).md
+      - Rain Tree (HT 2001 27).md
+      - Rain Tree (HT 2003 106).md
+      - Rain Tree (HT 2003 107).md
+      - Rain Tree (HT 2003 108).md
+      - Rain Tree (HT 2003 109).md
+      - Rain Tree (HT 2003 110).md
+      - Rain Tree (HT 2003 111).md
+      - Rain Tree (HT 2005 144).md
+      - Rain Tree (HT 2005 145).md
+      - Rain Tree (HT 2007 160).md
+      - Rain Tree (HT 2007 161).md
+      - Rain Tree (HT 2008 169).md
+      - Rain Tree (HT 2009 175).md
+      - Rain Tree (HT 2014 228).md
+      - Rain Tree (HT 2015 270).md
+      - Rain Trees of Connaught Drive.md
+      - Red Mahogany of Guillemard Road Open Space.md
+      - Red mahogany (HT 2010 182).md
+      - Red flowered Malayan Spindle Tree (HT 2003 44).md
+      - Red flowered Malayan Spindle Tree (HT 2023 324).md
+      - Saga (HT 2001 19).md
+      - Sausage Tree (HT 2013 213).md
+      - Sea Almond (HT 2017 290).md
+      - Sea Almond (HT 2020 316).md
+      - Sea Fig (HT 2003 74).md
+      - Sea Fig (HT 2003 75).md
+      - Sea Fig (HT 2003 76).md
+      - Sea Fig (HT 2003 77).md
+      - Sea Fig (HT 2003 78).md
+      - Sea Fig (HT 2003 79).md
+      - Sea Fig (HT 2008 168).md
+      - Sea Fig (HT 2016 284).md
+      - Sea Teak (HT 2017 288).md
+      - Seashore Mangosteen (HT 2003 81).md
+      - Selembat (HT 2020 314).md
+      - Senegal Mahogany (HT 2013 212).md
+      - Sentul (HT 2020 313).md
+      - Sindora × changiensis (HT 2003 115).md
+      - Snake Tree (HT 2013 219).md
+      - Sparrows' Mango (HT 2003 45).md
+      - Stem fruited Fig (HT 2014 221).md
+      - Stem fruited Fig (HT 2019 302).md
+      - Tahiti Chestnut (HT 2005 138).md
+      - Tamalan Tree (HT 2014 224).md
+      - Tamarind (HT 2001 28).md
+      - Tamarind (HT 2008 170).md
+      - Tamarind (HT 2018 295).md
+      - Tanjong Tree (HT 2003 93).md
+      - Tanjong Tree (HT 2019 304).md
+      - Teak (HT 2014 234).md
+      - Temak (HT 2013 218).md
+      - Tembusu (HT 2001 26).md
+      - Tembusu (HT 2003 54).md
+      - Tembusu (HT 2003 55).md
+      - Tembusu (HT 2003 57).md
+      - Tembusu (HT 2003 58).md
+      - Tembusu (HT 2003 59).md
+      - Tembusu (HT 2003 60).md
+      - Tembusu (HT 2003 61).md
+      - Tempinis (HT 2003 116).md
+      - Tempinis (HT 2003 117).md
+      - Terap (HT 2001 12).md
+      - Terap (HT 2014 223).md
+      - Terap (HT 2015 235).md
+      - Terap (HT 2016 279).md
+      - Thai Bungor (HT 2023 326).md
+      - Tulang Daing (HT 2001 22).md
+      - West Indian Locust Tree (HT 2003 84).md
+      - West Indian Locust Tree (HT 2014 231).md
+      - West Indian Mahogany (HT 2015 241).md
+      - White Fig (HT 2003 80).md
+      - Yellow Flame (HT 2005 142).md
+      - Yellow Flame (HT 2019 306).md

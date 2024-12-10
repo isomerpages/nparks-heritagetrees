@@ -1,0 +1,41 @@
+---
+title: Terap (HT 2001 12)
+permalink: /ht-2001-12/
+variant: markdown
+description: ""
+---
+<div class="isomer-image-wrapper">
+<img style="width: 60%" src="/images/Heritage_trees_photos/artela_ht2001-12_habit.jpg">
+</div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
+<tbody><tr>
+<td rowspan="1" colspan="1">
+<strong>Reference ID</strong>
+<br>HT 2001-12
+</td>
+<td rowspan="1" colspan="1">
+<strong>Scientific name:</strong> <em>Artocarpus elasticus</em> 
+<br><strong>Family name:</strong> Moraceae
+<br><strong>Girth:</strong> 5.68 m @ 1 m height
+<br><strong>Height: </strong>26.4 m
+</td>
+<td rowspan="1" colspan="1">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2926620000032738&amp;lng=103.84638899999797">
+<br>Fort Canning Park, along
+	<br>14<sup>th</sup> Century Walk of History</a>
+</td>
+</tr>
+</tbody></table>
+<p>The Terap is a tall tree that can grow up to 45 m to 65 m in height in its native forest habitat in Singapore, Myanmar, Thailand, Sumatra, Peninsular Malaysia, Borneo, Java, Philippines and Lesser Sunda Islands where it is common.</p>
+  
+<p>Its trunk often displays great buttresses, particularly when the tree is mature. Its leaves and twigs have hairy surfaces. The leaves of a young tree are deeply lobed, but as the tree matures, it produces leaves that are more entire (non-lobed), stiff and leathery. The male flowers occur in spike-like heads that are furrowed and ridged, turn from yellow to brown, and hang from stalks that are about 6 cm long. In contrast, the female flower heads are upright and barrel-shaped with soft, hairy, curved spines. Male and female flowers are found on the same tree (monoecious). Its fruit is about 18 cm long, and turns from cream-yellow to brown and emits a nauseous, rancid smell when ripe.</p>
+  
+<p>Various parts of the Terap have ethnobotanical value, such as for food, medicine and building materials. The latex of the tree, known as&nbsp;<em>gutta terap</em>, is used as a gum (bird lime) to trap birds.</p>
+	
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2732">here</a>.</p>
+
+<h4><b>Gallery</b></h4>
+<div class="isomer-card-grid">
+<a href="/images/Heritage_trees_photos/artela_ht2001-12_habit.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/artela_ht2001-12_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>

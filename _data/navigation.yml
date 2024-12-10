@@ -1,0 +1,12 @@
+logo: /images/heritage_trees_logo_new.png
+links:
+  - title: About
+    collection: about-us
+  - title: Explore
+    collection: explore
+  - title: Get Involved
+    collection: get-involved
+  - title: Heritage Roads
+    collection: heritage-roads
+  - title: Contact Us
+    url: /contact-us/
