@@ -25,9 +25,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>This Tree was planted in 1926. The species is dioecious (male and female flowers on separate trees) and this Tree is a female tree. The flowers of a male tree of this species would smell strongly like 'belachan' or shrimp paste.</p>
-  
-<p>Fruits can be used to produce jam, jellies, wines etc.</p>
+<p>The Chinese Laurel is an evergreen tree that can grow up to 10 m in height. It can produce a single straight trunk or multiple trunks that branches near the base, with a dense crown of of oblong-lanceolate leaves. This species is native to India, through to Southeast Asia and Australia.</p>
+
+<p>This species is dioecious, producing male or female flowers on separate individuals. The flowers are minute and inconspicuous, arranged in a cluster called a spike. The flowers of male trees will produce a strong scent reminiscent of 'belachan' or shrimp paste. Female trees bear ornamental, edible fruits that change colour as they ripen: from yellowish-red to bluish-violet. In this region, the fruits are used to produce jam, jellies, and wine.</p>
+
+<p>This Heritage Tree has been planted on site since 1926 and has been observed producing female flowers.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2714">here</a>.</p>
 
