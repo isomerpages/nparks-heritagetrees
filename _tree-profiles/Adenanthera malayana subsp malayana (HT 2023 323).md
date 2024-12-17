@@ -23,11 +23,11 @@ description: ""
 	<br>Singapore Botanic Gardens,<br>Gallop Green</a>
 </td>
 </tr></tbody></table>
-<p><em>Adenanthera malayana</em> subsp. <em>malayana</em> is an tall, evergreen tree that can reach up to 45 metres. It has a dark green, heavy crown supported by wide-spreading limbs, and a light brownish grey bark that is lightly cracked and fissured. The bipinnate leaves comprises of 2 to 3 pairs of pinnae, each with 3-5 large, oblong, and thinly leathery leaflets, usually with a pointed tip.</p>
+<p><em>Adenanthera malayana</em> subsp. <em>malayana</em> is a tall, evergreen tree that can reach up to 45 metres. It has a dark green, heavy crown supported by wide-spreading limbs, and light brownish grey bark that is lightly cracked and fissured. The bipinnate leaves comprise of 2 to 3 pairs of pinnae, each with 3-5 large, oblong, and thinly leathery leaflets, usually with a pointed tip.</p>
 
-<p>The tree produces racemes of small, faintly fragrant, white flowers that eventually turn yellow over time. The fruit pod twists into a spiral before turning purplish-black and splitting open when ripe. Each fruit contains about 10 red and black glossy seeds.</p>
+<p>The species produces racemes of small, faintly fragrant, white flowers that eventually turn yellow over time. The fruit pod twists into a spiral before turning purplish-black and splitting open when ripe. Each fruit contains about 10 red and black glossy seeds.</p>
 
-<p>This species is related to the well-known <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2697">Saga (<em>Adenanthera pavonina</em>)</a> but be differentiated from one another by the rounded tips on its leaflets and the single-coloured, red seeds. <em>Adenanthera malayana</em> subsp. <em>malayana</em> is an endangered species in Singapore.  
+<p>This species is related to the better-known <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2697">Saga (<em>Adenanthera pavonina</em>)</a> and the species can be differentiated from each other by the rounded tips on its leaflets and the uniformly red coloured seeds of the Saga. <em>Adenanthera malayana</em> subsp. <em>malayana</em> is an endangered species in Singapore.  
 
 </p><p>This Heritage Tree, the tallest among the cluster of three, can be found between the Forest Discovery Centre (Atbara) and the Botanical Art Gallery (Inverturret), which are among some of the Singapore's oldest-surviving colonial houses. An old aerial photograph from the 1950s shows what appears to be this Heritage Tree, making it at least 70 years old. This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
 	
