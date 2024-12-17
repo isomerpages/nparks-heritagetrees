@@ -27,11 +27,8 @@ value (e.g. overall form and structure).</p>
 </ul>
 <p></p>
 <h4><strong>Nomination Form</strong></h4>
-<p>Please click <a href="https://form.gov.sg/66a8864cca8dd2f6da8818a9" rel="noopener noreferrer nofollow" target="_blank">here</a> if
-the embedded form below does not load.</p>
-<div class="iframe-wrapper">
-<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/66a8864cca8dd2f6da8818a9"></iframe>
-</div>
+<p>Please click <a href="https://npumavapsi07-t.azurewebsites.net/heritagetreenomination" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access the nomination form.</p>
 <p></p>
 <p></p>
 <p></p>
