@@ -25,9 +25,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The African Butter Tree of West Africa was introduced from Sierra Leone to the Singapore Botanic Gardens in 1897 for experimental purposes in the Economic Garden. This Tree is likely a remnant of the original introduction and has been at this location for more than a century. The fruit, which is 10 to 12 cm long and about 7cm in diameter, has a thick fleshy rind abounding in yellow greasy juice when the fruit is cut. The seeds are said to be edible before ripening but they become very bitter on maturing. Dried seeds are a source of oil and are about 40% fat.</p>
+<p>The African Butter Tree of West Africa was introduced from Sierra Leone to the Singapore Botanic Gardens in 1897 for experimental purposes in the Economic Garden. This Tree is likely a remnant of the original introduction and has been at this location for more than a century. The fruit, which is 10 to 12 cm long and about 7 cm in diameter, has a thick fleshy rind abounding in yellow greasy juice which the fruit exudes when it is cut. The seeds are said to be edible before ripening but they become very bitter tasting upon maturing. Dried seeds are a source of oil and are about 40% fat.</p>
   
-<p>This Heritage Tree had a girth of 3.2m when measured in Year 2003.</p>
+<p>This Heritage Tree had a girth of 3.2m when measured in 2003.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/5/4532">here</a>.</p>
 
