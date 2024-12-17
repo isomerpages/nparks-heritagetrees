@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Heritage Trees of Singapore
-      background: /images/hero_banner_heritage_tree_5dollars_edit.jpg
+      background: /images/hero_banner_heritage_tree_5dollars_editnew.jpg
       button: Search for a heritage tree
       url: /heritage-tree-register/
       variant: center
