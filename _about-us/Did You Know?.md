@@ -9,13 +9,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img src="/images/sinxcha_ht2003_115_crop.jpg"></div></td>
 <td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
-<h4><b>The Oldest Heritage Tree</b></h4>
-<i>Sindora</i> × <i>changiensis</i> (HT 2003-115) is the oldest Heritage Tree in the register, estimating to be at least 226 years old! Early aerial photographs taken around 1946 showed this mature tree growing as part of a remnant of the rainforest patch on the grounds of the bungalow at Cranwell Road, Changi.
-<br><br><a style="color: #417505" href="/ht-2001-01">Click here to learn more about this heritage tree.</a></td></tr></tbody></table>
+<h4><b>Oldest Heritage Tree</b></h4>
+<i>The Sindora</i> × <i>changiensis</i> (HT 2003-115) is the oldest known  Heritage tree in Singapore and through carbon dating, is estimated to be at least 226 years old (Choo et al, 2022)! Aerial photographs taken around 1946 show this mature tree growing as part of a remnant rainforest patch on the grounds of the bungalow at Cranwell Road, Changi.
+<br><br><a style="color: #417505" href="/ht-2001-01">Click here to learn more </a></td></tr></tbody></table>
 <table><tbody>
 <tr><td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
-<h4><b>The Tallest Heritage Tree</b></h4>
-The tallest Heritage Tree in the register is the Kayu Pontianak or <i>Parishia insignis</i> (HT 2013-208), reaching a whooping 47.8 m tall! That's about the height of 14 and a half storey building! It can be found at Bukit Timah Nature Reserve, along the South View Path.
+<h4><b>Tallest Heritage Tree</b></h4>
+The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 2013-208), which measures a whooping 47.8 m tall! That's almost the height of 15-storey building! This tree can be found at Bukit Timah Nature Reserve, along the South View Path.
 <br><br><a style="color: #417505" href="ht-2003-115">Click here to learn more about this heritage tree.</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
