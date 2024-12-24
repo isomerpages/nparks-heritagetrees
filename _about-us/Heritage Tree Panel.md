@@ -43,11 +43,12 @@ Landscaping)</td>
 <tr><td>
 <b>Mr Koh Piak Huat</b>
 <br>Divisional Director, Island Operations
-<br>Sentosa Development Corporation</td>
+<br>Sentosa Development Corporation (SDC)</td>
 </tr>
 <tr><td>
-<b>Mr Kong Yit San</b>
-	<br>Private Consultant</td>
+<b>Mr Choo Chin Hua</b>
+<br>Group Director, Design Development Group
+<br>Housing &amp; Development Board (HDB)</td>
 </tr>
 <tr><td>
 <b>Mr Ng Cheow Kheng</b>
@@ -60,11 +61,6 @@ Landscaping)</td>
 <tr><td>
 <b>Mr Tee Swee Ping</b>
 <br>Private Consultant</td>
-</tr>
-		<tr><td>
-<b>Mr Choo Chin Hua</b>
-<br>Group Director, Design Development Group
-<br>Housing &amp; Development Board (HDB)</td>
 </tr>
 </tbody>
 </table><p></p>
