@@ -26,7 +26,7 @@ The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 
 <div class="isomer-image-wrapper">
 <img src="/images/ceipen_ht2007_153_crop.jpg"></div></td>
 <td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
-<h4><b>Heritage Tree with<br>Largest Girth</b></h4>
+<h4><b>Heritage Tree with Largest Girth</b></h4>
 The Kapok or <i>Ceiba pentandra</i> (HT 2013-208) behind the Tiger Enclosure at the Singapore Zoological Gardens has the largest girth among all single-trunked Heritage Trees. This tree has a trunk circumference of 11.9 m!
 <br><br><a style="color: #417505" href="ht-2013-208">Click here to learn more </a></td></tr></tbody></table>
 <table><tbody>
