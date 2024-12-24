@@ -10,14 +10,15 @@ K Y Lum</div>
 <p>The Heritage Tree Panel comprises of NParks officials, representatives from government agencies, as well as others with a broad diversity of expertise. As members, they will assess the list of nominated trees for the year before endorsing them as new Heritage Trees.</p>
 <table>
 <tbody>
-<tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel members</b></div>
+<tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Chairman</b></div>
 </td></tr>
 <tr><td>
 <b>Dr Tan Puay Yok</b>
 <br>Group Director, Singapore Botanic Gardens
 <br>National Parks Board</td>
 </tr>
-<tr><td>
+	<tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
+</td></tr><tr><td>
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
 <br>National Parks Board </td>
@@ -41,8 +42,8 @@ Landscaping)</td>
 </tr>
 <tr><td>
 <b>Mr Koh Piak Huat</b>
-<br>Divisional Director, Island Operations,
-	<br>Sentosa Development Corporation</td>
+<br>Divisional Director, Island Operations
+<br>Sentosa Development Corporation</td>
 </tr>
 <tr><td>
 <b>Mr Kong Yit San</b>
@@ -59,6 +60,11 @@ Landscaping)</td>
 <tr><td>
 <b>Mr Tee Swee Ping</b>
 <br>Private Consultant</td>
+</tr>
+		<tr><td>
+<b>Mr Choo Chin Hua</b>
+<br>Group Director, Design Development Group
+<br>Housing &amp; Development Board (HDB)</td>
 </tr>
 </tbody>
 </table><p></p>
