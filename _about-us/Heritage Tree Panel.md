@@ -5,8 +5,9 @@ variant: markdown
 description: ""
 ---
 <img src="/images/ht-panel-04102024.jpg">
-<div style="text-align: center">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn
-K Y Lum</div>
+<div style="text-align: left">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 
+K Y Lum 
+<br>(Not in picture: Mr Oh Cheow Sheng, Mr Choo Chin Hua, Mr Ng Cheow Kheng, Mr Simon Longman) </div>
 <p>The Heritage Tree Panel comprises of representatives with a broad diversity of expertise and experience. </p>
 <table>
 <tbody>
