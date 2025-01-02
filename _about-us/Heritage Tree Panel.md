@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 ---
 <img src="/images/ht-panel-04102024.jpg">
-<div style="text-align: left">From left to right: Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 
-K Y Lum 
-<br>(Not in picture: Mr Oh Cheow Sheng, Mr Choo Chin Hua, Mr Ng Cheow Kheng, Mr Simon Longman) </div>
+<div style="text-align: center">From left to right: <i>Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 
+	K Y Lum </i>
+	<br>(Not in picture: <i>Mr Oh Cheow Sheng, Mr Choo Chin Hua, Mr Ng Cheow Kheng, Mr Simon Longman</i>) </div>
 <p>The Heritage Tree Panel comprises of representatives with a broad diversity of expertise and experience. </p>
 <table>
 <tbody>
@@ -18,7 +18,7 @@ K Y Lum
 <br>Group Director, Singapore Botanic Gardens
 <br>National Parks Board</td>
 </tr>
-	<tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
+	<tr><td><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
 </td></tr><tr><td>
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
@@ -61,7 +61,7 @@ Landscaping)</td>
 </tr>
 <tr><td>
 <b>Mr Tee Swee Ping</b>
-<br>Private Consultant</td>
-</tr>
+	<br>Private Consultant</td>
+	</tr><tr></tr>
 </tbody>
 </table><p></p>
