@@ -23,7 +23,7 @@ description: ""
 	<br>Singapore Botanic Gardens,<br>Gallop Green</a>
 </td>
 </tr></tbody></table>
-<p><em>Adenanthera malayana</em> subsp. <em>malayana</em> is a tall, evergreen tree that can reach up to 45 metres. It has a dark green, heavy crown supported by wide-spreading limbs, and light brownish grey bark that is lightly cracked and fissured. The bipinnate leaves comprise of 2 to 3 pairs of pinnae, each with 3-5 large, oblong, and thinly leathery leaflets, usually with a pointed tip.</p>
+<p><em>Adenanthera malayana</em> subsp. <em>malayana</em> is a tall, evergreen tree that can reach up to 45 m in height. It has a dark green, heavy crown supported by wide-spreading limbs, and light brownish grey bark that is lightly cracked and fissured. The bipinnate leaves comprise of 2 to 3 pairs of pinnae, each with 3-5 large, oblong, and thinly leathery leaflets, usually with a pointed tip.</p>
 
 <p>The species produces racemes of small, faintly fragrant, white flowers that eventually turn yellow over time. The fruit pod twists into a spiral before turning purplish-black and splitting open when ripe. Each fruit contains about 10 red and black glossy seeds.</p>
 
