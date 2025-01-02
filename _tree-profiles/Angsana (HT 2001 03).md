@@ -25,9 +25,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The Angsana is a large deciduous tree that grows up to 40 m in height. Its crown is dense, dome-shaped, wide-spreading, with drooping, pinnate compound leaves. Its faintly fragrant flowers are yellow and occur in large bunches measuring 15-30 cm long. The fruits are flattened, disc-like pods with papery wings about 5 cm in diameter, typically 1 or sometimes more seeds can be found in each. Cultivated as a street tree here in Singapore, the Angsana is native to India, China and throughout Southeast Asia, excluding Singapore.</p>
+<p>The Angsana is a large deciduous tree that grows up to 40 m in height. Its crown is dense, dome-shaped, wide-spreading, with drooping, pinnate compound leaves. Its faintly fragrant flowers are yellow and occur in large bunches measuring 15-30 cm long. The fruits are flattened, disc-like pods with papery wings about 5 cm in diameter, typically 1 or sometimes more seeds can be found in each. Cultivated as a street tree in Singapore, the Angsana is native to India, China and throughout Southeast Asia, excluding Singapore.</p>
   
-<p>The right stimuli can trigger the mass development floral buds high up on the crown of the Angsana, unnoticed by anyone, until it bursts into bloom simultaneously. This brilliant display of colour lasts only for a day, after which the tree lays a soft carpet of yellow flowers on the ground beneath it.</p>
+<p>The right stimuli can trigger the mass development of floral buds high up on the crown of the Angsana, unnoticed by anyone, until it bursts into bloom simultaneously. This brilliant display of colour lasts only for a day, after which the tree lays a soft carpet of yellow flowers on the ground beneath it.</p>
 	
 <p>This specimen along Upper Serangoon Road is probably more than 60 years of age and is one of the largest roadside trees in Singapore. This tree was saved from the axe through extensive collaboration between agencies that saw the realignment of a larger drainage channel under the road surface.</p>
 
