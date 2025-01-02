@@ -26,9 +26,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>This species originated from India, Myanmar to Malesia, New Guinea and Australia. It was introduced to Singapore as a landscape plant.</p>
+<p>The species <i>Nauclea orientalis</i> originated from India, Myanmar to Malesia, New Guinea and Australia and was introduced to Singapore as a landscape plant.</p>
 
-<p>The tree can grow to a height of 30 m and bears spherical clusters of fragrant flowers that develop into edible but bitter fruits. The wood is used for timber and in woodcarving. Traditionally the tree bark was also used to treat stomach aches and animal bites.</p>
+<p>The tree can grow to a height of 30 m and bears spherical clusters of fragrant flowers that develop into edible but bitter tasting fruits. The wood is used for timber and in woodcarving. Traditionally the tree bark was also used to treat stomach aches and animal bites.</p>
 
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3038">here</a>.</p>
 
