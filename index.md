@@ -27,7 +27,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /heritage-tree-scheme/
-      image: /images/heritage-tree-photo.jpg
+      image: /images/mainpage_tembusu.jpg
       subtitle: About
   - infopic:
       title: Heritage Trees DIY Trails & Guided Walks
