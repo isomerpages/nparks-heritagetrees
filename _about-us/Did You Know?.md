@@ -15,7 +15,7 @@ description: ""
 <table><tbody>
 <tr><td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>Tallest Heritage Tree</b></h4>
-The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 2013-208), which measures a whooping 47.8 m tall! That's almost the height of 15-storey building! Visit this tree at Bukit Timah Nature Reserve, along the South View Path.
+The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 2013-208), which measures a whooping 47.8 m tall! That's almost the height of a 15-storey building! Visit this tree at Bukit Timah Nature Reserve, along the South View Path.
 <br><br><a style="color: #417505" href="/ht-2013-208">Click here to learn more </a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -32,7 +32,7 @@ The Kapok or <i>Ceiba pentandra</i> (HT 2007-153) behind the Tiger Enclosure at 
 <table><tbody>
 <tr><td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>First Heritage Tree</b></h4>
-The first Heritage Tree to be registered is the Kapok or <i>Ceiba pentandra</i> (HT 2001-01). It can be found at the traffic island of Toa Payoh North Flyover, Braddell Road.
+The first Heritage Tree to be registered is the Kapok or <i>Ceiba pentandra</i> (HT 2001-01) that can be found at the traffic island of Toa Payoh North Flyover, Braddell Road.
 <br><br><a style="color: #417505" href="/ht-2001-01">Click here to learn more</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
