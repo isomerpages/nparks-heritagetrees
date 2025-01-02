@@ -31,14 +31,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Take a calm and relaxing drive on Mandai Road, one of Singapore’s oldest
-carriageways. Located along the verdant greenery of Upper Seletar Reservoir,
-this shaded boulevard allows you to enjoy a tranquil driving experience.
-As you cruise past rows of mature Rain trees with their widespread canopies,
-you will also be surrounded by lush vegetation of the secondary forest.</p>
-<p>Constructed in 1855, the road served as one of the main links between
-Woodlands and Upper Thomson, connecting agriculture and poultry farming
-villages such as Bukit Mandai, Sungei Mandai and Nee Soon Village.</p>
+<p>Take a calm and relaxing drive on Mandai Road, one of Singapore’s oldest carriageways. Located along the verdant greenery of Upper Seletar Reservoir, this shaded boulevard allows you to enjoy a tranquil driving experience. As you cruise past rows of mature <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">Rain Trees (<i>Samanea saman</i>)</a> with their widespread canopies, you will also be surrounded by lush vegetation of the secondary forest.</p>
+<p>Constructed in 1855, the road served as one of the main links between Woodlands and Upper Thomson, connecting agriculture and poultry farming villages such as Bukit Mandai, Sungei Mandai and Nee Soon Village.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VpL3btOpPw4"></iframe>
 </div>
