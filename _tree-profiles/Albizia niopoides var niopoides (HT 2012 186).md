@@ -26,7 +26,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The seeds were brought into Singapore from Darjeeling (India) on 4 May 1925 and they were nurtured in the Singapore Botanic Gardens nursery for 4 years until the sapling was planted at its current site on 17 May 1929.</p>
+<p>The seed of this Hreitage Tree was brought into Singapore from Darjeeling (India) on 4 May 1925 and nurtured in the Singapore Botanic Gardens nursery for 4 years until the sapling was planted at its current site on 17 May 1929.</p>
 <p>Initially thought to be <em>Albizia lebbekoides</em>, it was not until February 2016 when the tree was identified to be <em>Albizia niopoides</em> var. <em>niopoides</em>, a species native to tropical America. Despite its neotropical origins, this species has been introduced into cultivation in countries across the Old World tropics such as Nigeria, Mauritius, and India.</p>
 <p>This Heritage Tree has attained a height of 46 m with a trunk girth of 6.3 m as recorded in 2014.</p>
 <p></p>
