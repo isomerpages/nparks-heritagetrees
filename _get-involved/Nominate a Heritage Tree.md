@@ -21,7 +21,7 @@ for endorsement.</p>
 five (5)&nbsp;metres (dependent on species).</p>
 </li>
 <li>
-<p>The tree should ha botanical, social, historical, cultural and/or aesthetical
+<p>The tree should have botanical, social, historical, cultural and/or aesthetical
 value (e.g. overall form and structure).</p>
 </li>
 </ul>
