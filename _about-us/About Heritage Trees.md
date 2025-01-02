@@ -24,10 +24,9 @@ with a donation of $125,000. The Fund was used to initiate the conservation
 programme to safeguard our Heritage Trees and to promote appreciation of
 our natural heritage. Some of these programme initiatives include installation
 of lightning conductors, interpretive signages, and putting in place a
-nomination scheme for the community</p>
+nomination scheme for the community.</p>
 <p></p>
-<blockquote>
-<h4><strong>Did you know?</strong></h4>
+<h3><strong>Did you know?</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Heritage_trees_photos/connaught_drive_rain_trees.jpg">
 </div>
@@ -35,6 +34,5 @@ nomination scheme for the community</p>
 Heritage Trees. This "Avenue of Heritage Trees" has the largest number
 of trees in a single avenue endorsed under the NParks' Heritage Tree Scheme.</p>
 <p></p>
-</blockquote>
 <p></p>
 <p></p>
