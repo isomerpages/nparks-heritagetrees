@@ -10,7 +10,7 @@ description: ""
 <img src="/images/sinxcha_ht2003_115_crop.jpg"></div></td>
 <td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>Oldest Heritage Tree</b></h4>
-<i>The Sindora</i> × <i>changiensis</i> (HT 2003-115) is the oldest known  Heritage tree in Singapore and through carbon dating, is estimated to be at least 226 years old (Choo et al, 2022)! Aerial photographs taken around 1946 show this mature tree growing as part of a remnant rainforest patch on the grounds of the bungalow at Cranwell Road, Changi.
+<i>The Sindora</i> × <i>changiensis</i> (HT 2003-115) is the oldest known  Heritage tree in Singapore. Through carbon dating, it is estimated to be at least 226 years old (Choo et al, 2022)! Aerial photographs taken around 1946 show this mature tree growing as part of a remnant rainforest patch on the grounds of the bungalow at Cranwell Road, Changi.
 <br><br><a style="color: #417505" href="/ht-2003-115">Click here to learn more </a></td></tr></tbody></table>
 <table><tbody>
 <tr><td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
@@ -27,12 +27,12 @@ The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 
 <img src="/images/ceipen_ht2007_153_crop.jpg"></div></td>
 <td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>Heritage Tree with Largest Girth</b></h4>
-The Kapok or <i>Ceiba pentandra</i> (HT 2007-153) behind the Tiger Enclosure at the Singapore Zoological Gardens has the largest girth among all single-trunked Heritage Trees. This tree has a trunk circumference of 11.9 m!
+With a girth (or trunk circumference) measuring 11.9 m, the Kapok or <i>Ceiba pentandra</i> (HT 2007-153) behind the Tiger Enclosure at the Singapore Zoological Gardens has the largest girth among all single-trunked Heritage Trees!
 <br><br><a style="color: #417505" href="/ht-2007-153">Click here to learn more </a></td></tr></tbody></table>
 <table><tbody>
 <tr><td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>First Heritage Tree</b></h4>
-The first Heritage Tree to be registered is the Kapok or <i>Ceiba pentandra</i> (HT 2001-01) that can be found at the traffic island of Toa Payoh North Flyover, Braddell Road.
+The first Heritage Tree to be registered is the Kapok or <i>Ceiba pentandra</i> (HT 2001-01) at the traffic island of Toa Payoh North Flyover, Braddell Road.
 <br><br><a style="color: #417505" href="/ht-2001-01">Click here to learn more</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
