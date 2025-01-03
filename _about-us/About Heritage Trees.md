@@ -16,13 +16,13 @@ for their botanical, historical, social, cultural and/or aesthetic value.</p>
 <h3><strong>About the Heritage Tree Scheme</strong></h3>
 <p>The Heritage Tree Scheme was started on 17 August 2001 by the National
 Parks Board to identify, recognise and conserve mature trees in our landscape.
-With Singapore's rapid development, it is important to conserve our natural
-heritage.</p>
+With Singapore's rapid development, it is increasingly important to conserve
+our natural heritage.</p>
 <p>In support of this initiative, a Heritage Trees Fund was established with
 support from The Hongkong and Shanghai Banking Corporation Limited (HSBC),
-with a donation of $125,000. The Fund was used to initiate the conservation
-programme to safeguard our Heritage Trees and to promote appreciation of
-our natural heritage. Some of these programme initiatives include installation
+with a seed donation of $125,000. The Fund was used to initiate the conservation
+programme to safeguard Singapore's Heritage Trees and to promote appreciation
+of our natural heritage. Some of these programme initiatives include installation
 of lightning conductors, interpretive signages, and putting in place a
 nomination scheme for the community.</p>
 <p></p>
