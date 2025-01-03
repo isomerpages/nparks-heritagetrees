@@ -161,7 +161,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa, Imbiah Rd, near Skyline Luge Exit</td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens,<br>behind Raffles Building</td></tr>
  <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td><td>Singapore Botanic Gardens,<br>along Evolution Garden Walk</td></tr>
- <tr><td><a href="//ht-2018-296-ht-2019-305/"><b>Orange Jasmines of Fairy Point Chalet</b> (HT 2018-296 - HT 2019-305)</a></td><td>Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ <tr><td><a href="//ht-2018-296-2019-305/"><b>Orange Jasmines of Fairy Point Chalet</b> (HT 2018-296 - HT 2019-305)</a></td><td>Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2010-176"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2010-176)</a></td><td>Upper Seletar Reservoir Park, on slope behind carpark along Mandai Rd</td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2018-294"><b>Para Rubber</b> / <i>Hevea brasiliensis</i> (HT 2018-294)</a></td><td>Woodlands Town Park East, near Blk 103 Woodlands Street 13</td></tr>
@@ -412,7 +412,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2016-275"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2016-275)</a></td><td>Marine Parade Rd Park / Playground</td></tr>
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
  <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
- 	 <tr><td><a href="//ht-2018-296-ht-2019-305/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ 	 <tr><td><a href="//ht-2018-296-2019-305/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
  <tr><td><a href="/ht-2022-321"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2022-321)</a></td><td>East Coast Park Area C, near Marine Cove</td></tr>
  <tr><td><a href="/ht-2001-14-16"><b>Red Mahoganies</b> / <i>Khaya nyasica</i> (HT 2001-14 - HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
