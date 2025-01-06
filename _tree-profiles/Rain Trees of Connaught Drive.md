@@ -126,7 +126,7 @@ description: ""
 </table>
 </div></details></div></td></tr></tbody></table>
 
-Tree planting was formalised in 1881 by the then Superintendent of the Singapore Botanic Gardens, Nathaniel Cantley. Roadside greenery is now a main feature of the business and commercial districts in Singapore.<p></p>
+Tree planting was formalised in 1881 by the then-Superintendent of the Singapore Botanic Gardens, Nathaniel Cantley. Roadside greenery is now a main feature of the business and commercial districts in Singapore.
   
 <ul style="list-style: none;">
 	<p><b>1887</b> – Several Rain Tree saplings were planted along Connaught Drive, then known as New Esplanade Road. This road was renamed Connaught Drive in 1907 to commemorate the visit of Prince Arthur, Duke of Connaught.
@@ -140,14 +140,14 @@ Tree planting was formalised in 1881 by the then Superintendent of the Singapore
   
 <p>The Avenue of Heritage Trees underscores the rich history of the Civic District and how these majestic Rain Trees &nbsp;have matured over the course of time together with the growth of Singapore as a global city-state.</p>
 
-<h4>About Rain Trees</h4>
-<p>The Rain Tree (<em>Samanea saman</em>) is easily recognised by its massive umbrella-shaped, widely-spreading crown which can reach 20 to 30m across. It has small clusters of flowers that are pinkish or whitish and are slightly fragrant.</p>
+<h4><b>About Rain Trees</b></h4>
+<p>The Rain Tree (<em>Samanea saman</em>) is easily recognised by its massive umbrella-shaped, widely-spreading crown which can reach 20 to 30 m across. It has small clusters of flowers that are pinkish or whitish and are slightly fragrant. Its seed pods are thick, long, straight and fleshy inside. The pods ripen black and the seeds germinate readily into seedlings, sometimes while still inside the fruit.  Epiphytes like ferns and orchids tend to perch on old Rain Trees.</p>
   
-<p>Its seed pods are thick, long, straight and fleshy inside. The pods ripen black and the seeds germinate readily into seedlings, sometimes while still inside the fruit. Its sweet fruit pulp is relished by cattle, goats, horses, pigs and even children in some countries. Epiphytes like ferns and orchids tend to perch on old Rain Trees.</p>
+<p>The leaflets of the Rain Tree fold up in the evenings; this was why the Malays called it <i>Pukul Lima</i>, which means '5 o'clock'. Notably, the leaflets begins to close about one-and-a-half hours before sunset and open about the same time after sunrise. The leaflets also close during the day when the sky was overcast, thus giving rise to the name, Rain Tree.</p>
+
+<p>The Tropical American species was introduced to Singapore in 1876 and by the mid-1900s, it was spread throughout the tropics. Due to its excellent shade, the species have been planted in coffee and nutmeg plantations, and along roadsides. Its sweet fruit pulp is relished by cattle, goats, horses, pigs and even children in some countries.</p>
   
-<p>The Rain Tree originates from Tropical America. It was introduced to Singapore in 1876, and by the mid-1900s, it was planted throughout the tropics.</p>
-  
-<p>The leaves consist of leaflets which fold up in the evenings. This is why the Malays call it ‘Pukul Lima’, which means ‘5 o’clock’.</p>
+
 
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a>.</p>
 
