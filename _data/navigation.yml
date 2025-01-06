@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/heritage_trees_logo_new.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    collection: about-us
+  - title: Explore
+    collection: explore
+  - title: Get Involved
+    collection: get-involved
+  - title: Heritage Roads
+    collection: heritage-roads
