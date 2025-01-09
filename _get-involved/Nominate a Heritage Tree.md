@@ -27,7 +27,7 @@ value (e.g. overall form and structure).</p>
 </ul>
 <p></p>
 <h4><strong>Nomination Form</strong></h4>
-<p>Please click <a href="https://npumavapsi07-t.azurewebsites.net/heritagetreenomination" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://m2apps.nparks.gov.sg/heritagetreenomination" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access the nomination form.</p>
 <p></p>
 <p></p>
