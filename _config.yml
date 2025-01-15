@@ -1,5 +1,5 @@
 title: Heritage Trees of Singapore
-url: https://www.heritagetrees.nparks.gov.sg
+url: https://heritagetrees.nparks.gov.sg
 favicon: /images/NParks_Favicon.png
 colors:
   primary-color: "#215732"
@@ -15,7 +15,10 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: The Heritage Tree Scheme, managed by NParks, advocates the
+  conservation of Singapore’s mature trees. Support the Heritage Tree Scheme and
+  help us to identify, recognise and conserve mature trees in Singapore’s
+  landscape.
 permalink: none
 baseurl: ""
 exclude:
