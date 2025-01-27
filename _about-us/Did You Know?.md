@@ -45,4 +45,4 @@ The first Heritage Tree to be registered is the Kapok or <i>Ceiba pentandra</i> 
 <td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>Most Represented Species</b></h4>
 The most represented species in the Heritage Tree Register is the Rain Tree or <i>Samanea saman</i>, with a total of 35 representatives! The highest concentration of Heritage Trees can be found along Connaught Drive, where 19 Heritage Rain Trees make up the largest number of Heritage Trees endorsed in a single avenue. 
-<br><br><a style="color: #417505" href="/ht-2015-248-269/">Click here to learn more</a></td></tr></tbody></table>
+<br><br><a style="color: #417505" href="/ht-2015-255/">Click here to learn more</a></td></tr></tbody></table>

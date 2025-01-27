@@ -1,6 +1,6 @@
 ---
-title: Rain Trees of Connaught Drive
-permalink: /ht-2015-255/
+title: Rain Trees of Connaught Drive (261)
+permalink: /ht-2015-261/
 variant: markdown
 description: ""
 ---
@@ -147,8 +147,6 @@ Tree planting was formalised in 1881 by the then-Superintendent of the Singapore
 
 <p>The Tropical American species was introduced to Singapore in 1876 and by the mid-1900s, it was spread throughout the tropics. Due to its excellent shade, the species have been planted in coffee and nutmeg plantations, and along roadsides. Its sweet fruit pulp is relished by cattle, goats, horses, pigs and even children in some countries.</p>
   
-
-
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3106">here</a>.</p>
 
 <h4><b>Gallery</b></h4>

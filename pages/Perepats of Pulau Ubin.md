@@ -1,6 +1,6 @@
 ---
 title: Perepats of Pulau Ubin
-permalink: /ht-2007-162/
+permalink: /ht-2007-163/
 variant: markdown
 description: ""
 ---
@@ -14,7 +14,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong>
-<br>Pulau Ubin, near Chek Jawa,<br>Hse No. 1
+<br>Pulau Ubin, near Chek Jawa, Hse No. 1
 </td>
 </tr>
 <tr><td rowspan="1" colspan="3">
