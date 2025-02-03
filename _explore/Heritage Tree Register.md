@@ -19,7 +19,7 @@ As of 9 January 2025, there are currently <b>259</b> Heritage Trees in the Herit
  <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
- <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (beside HT Tembusu)</td></tr>
+ <tr><td><a href="/ht-2012-186/"><b><i>Pseudalbizzia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (beside HT Tembusu)</td></tr>
  <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa</td></tr>
  <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
@@ -43,7 +43,7 @@ As of 9 January 2025, there are currently <b>259</b> Heritage Trees in the Herit
  <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, Park behind Bus Stop (68089)</td></tr>
  <tr><td><a href="/ht-2003-119"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-119)</a></td><td>Seletar Aerospace Drive, Park behind Bus Stop (68089), near bridge/shelter</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
- <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix (left)</td></tr>
+ <tr><td><a href="/ht-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix (left)</td></tr>
  <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix (right)</td></tr>
  <tr><td><a href="/ht-2005-146"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-146)</a></td><td>Singapore Youth Flying Club entrance, West Camp Road (near carpark &amp; gate)</td></tr>
  <tr><td><a href="/ht-2005-149"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-149)</a></td><td>Singapore Youth Flying Club entrance, West Camp Road (along fence)</td></tr>
@@ -264,7 +264,7 @@ along Learning Forest coach parking</td></tr>
  <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
 <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
- <tr><td><a href="/ht-2012-186/"><b><i>Albizia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
+ <tr><td><a href="/ht-2012-186/"><b><i>Pseudalbizzia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
  <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
 	<tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Crescent roundabout</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction<br>with Oxley Rise</td></tr>
@@ -495,8 +495,8 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa Hotel</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
- <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix</td></tr>
- <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix</td></tr>
+ <tr><td><a href="/ht-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix (left)</td></tr>
+ <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix (right)</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa, Capella Hotel, Suite B 7103 - 7105</td></tr>
  <tr><td><a href="/ht-2003-37"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-37)</a></td><td>Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu</td></tr>
