@@ -43,7 +43,7 @@ As of 9 January 2025, there are currently <b>259</b> Heritage Trees in the Herit
  <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, Park behind Bus Stop (68089)</td></tr>
  <tr><td><a href="/ht-2003-119"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-119)</a></td><td>Seletar Aerospace Drive, Park behind Bus Stop (68089), near bridge/shelter</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
- <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix (left)</td></tr>
+ <tr><td><a href="/ht-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix (left)</td></tr>
  <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix (right)</td></tr>
  <tr><td><a href="/ht-2005-146"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-146)</a></td><td>Singapore Youth Flying Club entrance, West Camp Road (near carpark &amp; gate)</td></tr>
  <tr><td><a href="/ht-2005-149"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2005-149)</a></td><td>Singapore Youth Flying Club entrance, West Camp Road (along fence)</td></tr>
@@ -495,7 +495,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa Hotel</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
- <tr><td><a href="/HT-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix</td></tr>
+ <tr><td><a href="/ht-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix</td></tr>
  <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa, Capella Hotel, Suite B 7103 - 7105</td></tr>
