@@ -495,8 +495,8 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Hotel, front lawn)</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa Hotel</td></tr>
  <tr><td><a href="/ht-2003-120"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-120)</a></td><td>Sentosa, near Madame Tussauds Singapore forecourt</td></tr>
- <tr><td><a href="/ht-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix</td></tr>
- <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix</td></tr>
+ <tr><td><a href="/ht-2003-121"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-121)</a></td><td>Sentosa, near SkyHelix (left)</td></tr>
+ <tr><td><a href="/ht-2003-129"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-129)</a></td><td>Sentosa, near SkyHelix (right)</td></tr>
  <tr><td><a href="/ht-2013-205"><b>Collared Fig</b> / <i>Ficus crassiramea</i> subsp. <i>crassiramea</i> (HT 2013-205)</a></td><td>Pulau Ubin, along Ketam bike trail</td></tr>
  <tr><td><a href="/ht-2003-35"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-35)</a></td><td>Sentosa, Capella Hotel, Suite B 7103 - 7105</td></tr>
  <tr><td><a href="/ht-2003-37"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-37)</a></td><td>Pulau Ubin, Jalan Durian after Pekakak Hut, former Kampong Melayu</td></tr>
