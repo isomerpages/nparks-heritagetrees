@@ -138,7 +138,8 @@ description: ""
  <tr><td><a href="/ht-2015-241/"><b>West Indian Mahogany</b> / <i>Swietenia mahagoni</i> (HT 2015-241)</a></td><td>Singapore Botanic Gardens,<br>beside National Orchid Garden entrance</td></tr>
  <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td><td>Within carpark of former Pavilion Wards, near Jln Tan Tock Seng</td></tr>
  <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td><td>Mount Emily Park, near Upp Wilkie Rd roundabout</td></tr><tr></tr>
-	</tbody></table>
+</tbody></table>
+<a href="#top">Return to the top</a>
 	
 	
 <p></p><h5><b>East Region</b></h5>
@@ -170,6 +171,7 @@ description: ""
  <tr><td><a href="/ht-2014-221/"><b>Stem-fruited Fig</b> / <i>Ficus caulocarpa</i> (HT 2014-221)</a></td><td>Changi, Hendon Road, opposite No. 35</td></tr>
  <tr><td><a href="/ht-2003-116/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-116)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7 (Accessible only to Chalet guests)</td></tr><tr></tr>
 	</tbody></table>
+	<a href="#top">Return to the top</a>
 
 <p></p><h5><b>North Region</b></h5>
 <table style="font-size: 17px;">
@@ -193,7 +195,7 @@ description: ""
  <tr><td><a href="/ht-2003-57/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-57)</a></td><td>Lagos Circle, in front of House No. 208</td></tr>
  <tr><td><a href="/ht-2003-60/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2003-60)</a></td><td>Lagos Circle, in front of House No. 206</td></tr><tr></tr>
 </tbody></table>
-
+<a href="#top">Return to the top</a>
 
 <p></p><h5><b>North-East Region</b></h5>
 <table style="font-size: 17px;">
@@ -210,6 +212,7 @@ description: ""
  <tr><td><a href="/ht-2001-28/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2001-28)</a></td><td>Surin Avenue Park</td></tr>
  <tr><td><a href="/ht-2019-304/"><b>Tanjong Tree</b> / <i>Mimusops elengi</i> (HT 2019-304)</a></td><td>Block 137 Lor Ah Soo, Hougang Ave 1</td></tr>
 </tbody></table>
+<a href="#top">Return to the top</a>
 
 <p></p><h5><b>West Region</b></h5>
 <table style="font-size: 17px;">
@@ -224,6 +227,7 @@ description: ""
  <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opposite Gombak Drive</td></tr>
  <tr><td><a href="/ht-2003-79/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-79)</a></td><td>Nanyang Technological University, in front of Gaia Building</td></tr><tr></tr>
 </tbody></table>
+<a href="#top">Return to the top</a>
 
 <p></p><h5><b>Offshore Islands</b></h5>
 <table style="font-size: 17px;">
@@ -271,3 +275,4 @@ description: ""
  <tr><td><a href="/ht-2003-117/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-117)</a></td><td>Saint John's Island, fencing beside camp site 1 &amp; 2</td></tr>
  <tr><td><a href="/ht-2003-80/"><b>White Fig</b> / <i>Ficus vasculosa</i> (HT 2003-80)</a></td><td>Sentosa, Woolwich Rd (within Satellite Station grounds)</td></tr><tr></tr>
 </tbody></table>
+<a href="#top">Return to the top</a>
