@@ -1,4 +1,4 @@
 collections:
-  heritage-trees-register-list:
+  ht-register-list:
     output: true
     order: []
