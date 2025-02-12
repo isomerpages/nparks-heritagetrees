@@ -1,0 +1,6 @@
+collections:
+  ht-register-list:
+    output: true
+    order:
+      - Heritage Trees Register (By Location).md
+      - Heritage Tree Register (Full).md
