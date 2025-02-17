@@ -38,14 +38,14 @@ description: ""
 <a href="/images/Heritage_trees_photos/alsangb_ht2024-327_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree from eye level<br>(📷: Heritage Tree Secretariat)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/alsangb_ht2024-327_wev.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_wev.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Worms's Eye View of Heritage <br>(📷: Brendon Phuah)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/alsangb_ht2024-327_far.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_far.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Crown of Heritage Tree as seen from Hotel Entrance<br>(📷: Hazri Boey)</div></div></a></div>
