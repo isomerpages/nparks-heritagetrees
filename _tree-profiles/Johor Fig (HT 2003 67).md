@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2475160000042247&amp;lng=103.8270109999997">
- <br>Sentosa (within Future Raffles<br>Sentosa Singapore)</a>
+ <br>Sentosa, Raffles<br>Sentosa Singapore</a>
 </td>
 </tr>
 </tbody>
@@ -38,4 +38,4 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficker_ht2003-67_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficker_ht2003-67_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Brendon Phuah</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷:  Hazri Boey</div></div></a><br></div>
