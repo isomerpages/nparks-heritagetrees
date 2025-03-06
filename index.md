@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Heritage Trees of Singapore
+title: Heritage Trees of Singapore, National Parks Board
 description: The Heritage Tree Scheme, managed by NParks, advocates the
   conservation of Singapore’s mature trees. Support the Heritage Tree Scheme and
   help us to identify, recognise and conserve mature trees in Singapore’s
