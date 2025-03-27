@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.281762000000626&amp;lng=103.79668500000378">
- <br>Canterbury Road, on Stateland<br>near Lamp Post 14</a>
+ <br>Canterbury Road, on Stateland<br>near Lamp Post 18</a>
 </td>
 </tr>
 </tbody>
