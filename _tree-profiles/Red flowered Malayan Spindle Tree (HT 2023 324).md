@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%" src="/images/Heritage_trees_photos/bherob_ht2023-324_temp.jpg"> 
+<img style="width: 60%" src="/images/Heritage_trees_photos/bherob_ht2023-324_habit.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -20,9 +20,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2474750000009502&amp;lng=103.83487800000113">
-<br>Resorts World Sentosa forest,<br>near junction of Imbiah Rd &amp; Siloso Rd</a>
-</td>
-</tr>
+<br>Resorts World Sentosa forest,<br>near Siloso Rd</a>
+</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that this Heritage Tree is in a forested area and not accessible to the public.</td></tr>
 </tbody></table>
 <p>An evergreen tree that grows up to 40 m in height. Crown is dark green and heavy, supported by wide-spreading limbs. Bark is light brownish grey, somewhat cracked and fissured. Leaves are large, about 17cm by 2.5cm in size, oblong, thinly leathery, 10-14 pairs of side veins with very fine crowded parallel veinlets between them. Flowers occur in slender unbranched spikes, are small about 0.5cm across, red in colour, faintly fragrant. Fruit is about 4cm long, conical, olive yellow in colour, one brown seed covered in orange pulp.</p>
   
@@ -32,8 +32,8 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/bherob_ht2023-324_temp.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/bherob_ht2023-324_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/bherob_ht2023-324_temp.jpg"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage tree Secretariat</div></div></a>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/bherob_ht2023-324_habit.jpg"></div></div>
+	<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a>
 <br></div>

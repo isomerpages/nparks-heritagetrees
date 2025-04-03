@@ -276,7 +276,7 @@ along Learning Forest coach parking</td></tr>
 <tr><td><a href="/ht-2003-89/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-89)</a></td><td>Spottiswoode Park Road, opposite Spottiswoode Apartments</td></tr>
  <tr><td><a href="/ht-2001-18/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2001-18)</a></td><td>Pearl's Hill City Park hilltop, near Service Reservoir gate</td></tr> 
  <tr><td><a href="/ht-2003-69/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-69)</a></td><td>Duxton Plain Park, near Neil Road</td></tr>
- <tr><td><a href="/ht-2007-156"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2007-156)</a></td><td>Canterbury Road, on Stateland near Lamp Post 14</td></tr>
+ <tr><td><a href="/ht-2007-156"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2007-156)</a></td><td>Canterbury Road, on Stateland near Lamp Post 18</td></tr>
  <tr><td><a href="/ht-2014-225"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2014-225)</a></td><td>Bendemeer Secondary School, roundabout near entrance</td></tr>
  <tr><td><a href="/ht-2016-276"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2016-276)</a></td><td>Tanglin Rd, near Hse No 287</td></tr>
  <tr><td><a href="/ht-2009-174"><b>Burmese Banyan</b> / <i>Ficus kurzii</i> (HT 2009-174)</a></td><td>No. 162 Mount Pleasant Road, beside gate</td></tr>

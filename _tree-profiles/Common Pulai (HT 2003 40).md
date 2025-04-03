@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%" src="/images/Heritage_trees_photos/alsangb_ht2003-40_canopy.jpg">
+<img src="/images/Heritage_trees_photos/alsangb_ht2003-40_wev.jpg">
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2482140000013457&amp;lng=103.83392600000181">
  <br>Sentosa, Mount Serapong,<br>within forested nature area</a>
-</td></tr><tr><td style="text-align: center;" colspan="3">⚠️ Please note that this Heritage Tree is in a forested area. </td></tr>
+</td></tr><tr><td style="text-align: center;" colspan="3">⛔ Please note that this Heritage Tree is not accessible to the public. </td></tr>
 </tbody>
 
 </table>
@@ -35,7 +35,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/alsangb_ht2003-40_canopy.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/alsangb_ht2003-40_wev.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-40_canopy.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><p></p></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2003-40_wev.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><p></p></div>

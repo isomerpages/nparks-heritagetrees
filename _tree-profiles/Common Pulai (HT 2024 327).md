@@ -22,7 +22,7 @@ description: ""
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2572342&amp;lng=103.8164433">
  <br>Resort World Sentosa forest,<br>opposite Equarius Hotel</a>
 </td></tr>
-<tr><td style="text-align: center;" colspan="3"> ⚠️&nbsp;Please note that this Heritage Tree is in a forested area.</td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that this Heritage Tree is in a forested area and not accessible to the public.</td></tr>
 </tbody>
 </table>
 <p>The Common Pulai or <em>Alstonia angustiloba</em> is a mid-canopy tree that can reach up to 40 m in height. It is native to Singapore and is naturally distributed across the primary or secondary forests and swamp forests of Sumatra, Peninsular Malaysia, Borneo and Java.</p>
@@ -38,4 +38,14 @@ description: ""
 <a href="/images/Heritage_trees_photos/alsangb_ht2024-327_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree from eye level<br>(📷: Heritage Tree Secretariat)</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/alsangb_ht2024-327_wev.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_wev.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Worms's Eye View of Heritage <br>(📷: Brendon Phuah)</div></div></a>
+	
+<a href="/images/Heritage_trees_photos/alsangb_ht2024-327_far.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/alsangb_ht2024-327_far.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">Crown of Heritage Tree as seen from Hotel Entrance<br>(📷: Hazri Boey)</div></div></a></div>
