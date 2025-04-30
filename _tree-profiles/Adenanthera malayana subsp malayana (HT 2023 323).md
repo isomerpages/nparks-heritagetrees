@@ -16,7 +16,7 @@ description: ""
 <strong>Scientific name:</strong> <em>Adenanthera malayana</em> subsp. <em>malayana</em>
 <br><strong>Family name:</strong> Fabaceae (Leguminosae)
 <br><strong>Girth:</strong> 2.4 m @ 1.3 m height
-<br><strong>Height: </strong>15 m
+<br><strong>Height: </strong>18 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3142500000000004&amp;lng=103.81033999999998">
@@ -29,7 +29,7 @@ description: ""
 
 <p>This species is related to the better-known <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/6/2697">Saga (<em>Adenanthera pavonina</em>)</a> and the species can be differentiated from each other by the rounded tips on its leaflets and the uniformly red coloured seeds of the Saga. <em>Adenanthera malayana</em> subsp. <em>malayana</em> is an endangered species in Singapore.  
 
-</p><p>This Heritage Tree, the tallest among the cluster of three, can be found between the Forest Discovery Centre (Atbara) and the Botanical Art Gallery (Inverturret), which are among some of the Singapore's oldest-surviving colonial houses. An old aerial photograph from the 1950s shows what appears to be this Heritage Tree, making it at least 70 years old. This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
+</p><p>This Heritage Tree, the tallest among the cluster of three, can be found on the lawn between the Forest Discovery Centre (Atbara) and the Botanical Art Gallery (Inverturret), which are among some of the Singapore's oldest-surviving colonial houses. An old aerial photograph from the 1950s shows what appears to be this Heritage Tree, making it at least 70 years old. This Heritage tree had a girth of 3.1 m when it was endorsed in 2023.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/4/3495">here</a>.
 </p>
