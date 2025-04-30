@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Sterculia foetida</em>
 <br><strong>Family name: </strong>Malvaceae
-<br><strong>Girth: </strong>6.2 m @ 1.3 m height
+<br><strong>Girth: </strong>6.5 m @ 1.3 m height
 <br><strong>Height: </strong>33.8 m
 </td>
 <td rowspan="1" colspan="1">
