@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3131400000362303&amp;lng=103.81363999996007">
- <br>Singapore Botanic Gardens,<br>National Orchid Garden's nursery</a>
+ <br>Singapore Botanic Gardens,<br>National Orchid Garden nursery</a>
 </td>
 </tr>
 	<tr><td style="text-align: center;" colspan="3">⛔ Take note that this tree is not accessible to the public.</td></tr>
