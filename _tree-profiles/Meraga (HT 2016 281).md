@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Adina eurhyncha</em>
 <br><strong>Family name: </strong>Rubiaceae
-<br><strong>Girth: </strong>3.83 m @ 1.3 m height
-<br><strong>Height: </strong>24.1 m
+<br><strong>Girth: </strong>4.3 m @ 1.3 m height
+<br><strong>Height: </strong>24 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3142900000446305&amp;lng=103.81591000000272">
