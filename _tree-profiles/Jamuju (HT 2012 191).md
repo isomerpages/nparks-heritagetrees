@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Dacrycarpus imbricatus</em>
 <br><strong>Family name: </strong>Podocarpaceae
-<br><strong>Girth: </strong>2.21 m @ 1.3 m height
-<br><strong>Height: </strong>18.3 m
+<br><strong>Girth: </strong>2.6 m @ 1.3 m height
+<br><strong>Height: </strong>18.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3090000000020945&amp;lng=103.81596999999667">
