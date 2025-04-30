@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Terminalia subspathulata</em>
 <br><strong>Family name: </strong>Combretaceae
-<br><strong>Girth: </strong>6.13m @ 1.3 m height
-<br><strong>Height: </strong>41.8 m
+<br><strong>Girth: </strong>8 @ 1.3 m height
+<br><strong>Height: </strong>38.4 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3876690000014043&amp;lng=103.98039899999924">
