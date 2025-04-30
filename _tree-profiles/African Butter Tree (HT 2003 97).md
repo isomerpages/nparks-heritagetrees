@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Pentadesma butyracea</em>
 <br><strong>Family name: </strong>Clusiaceae (Guttiferae)
-<br><strong>Girth: </strong>3.17 m @ 1.3 m height
-<br><strong>Height: </strong>19.4 m
+<br><strong>Girth: </strong>4.3 m @ 1.3 m height
+<br><strong>Height: </strong>24 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3169630000022665&amp;lng=103.81734600000291">
