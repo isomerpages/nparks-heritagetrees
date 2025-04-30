@@ -16,7 +16,7 @@ description: ""
 	<strong>Scientific name:</strong> <em>Couroupita guianensis</em>
 <br><strong>Family name: </strong>Lecythidaceae
 <br><strong>Girth: </strong>2.8 m @ 1.3 m height
-<br><strong>Height: </strong>21.9 m
+<br><strong>Height: </strong>20 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3110829999935902&amp;lng=103.81501299999358">
