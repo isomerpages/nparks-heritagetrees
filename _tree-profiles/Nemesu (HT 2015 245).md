@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Rubroshorea pauciflora</em>
 <br><strong>Family name: </strong>Dipterocarpaceae
-<br><strong>Girth: </strong>6.64 m @ 1.3 m height
+<br><strong>Girth: </strong>6 m @ 1.3 m height
 <br><strong>Height: </strong>44.6 m
 </td>
 <td rowspan="1" colspan="1">
