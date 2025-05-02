@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Alangium ridleyi</em>
 <br><strong>Family name: </strong>Cornaceae
-<br><strong>Girth: </strong>2.2 m @ 1.3 m height
-<br><strong>Height: </strong>13 m
+<br><strong>Girth: </strong>2.9 m @ 1.3 m height
+<br><strong>Height: </strong>16.8 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3093299999989656&amp;lng=103.81525000000185">
