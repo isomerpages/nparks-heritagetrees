@@ -16,8 +16,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong>  <em>Adinobotrys atropurpureus</em>
 <br><strong>Family name:</strong> Fabaceae (Leguminosae)
-<br><strong>Girth:</strong> 4.61 m @ 1.3 m height
-<br><strong>Height: </strong>35 m
+<br><strong>Girth:</strong> 4.68 m @ 1.3 m height
+<br><strong>Height: </strong>35.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.307399000000949&amp;lng=103.81580000000169">
