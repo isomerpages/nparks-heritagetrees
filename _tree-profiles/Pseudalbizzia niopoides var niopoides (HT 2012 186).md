@@ -16,8 +16,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong>  <em>Pseudalbizzia niopoides </em>var. <em>niopoides</em>
 <br><strong>Family:</strong> Fabaceae (Leguminosae)
-<br><strong>Girth:</strong> 5.94 m @ 1.3 m height
-<br><strong>Height: </strong>41.6 m
+<br><strong>Girth:</strong> 7.5 m @ 1.3 m height
+<br><strong>Height: </strong>37 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong>
