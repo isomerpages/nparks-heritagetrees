@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Erythrophleum suaveolens</em>
 <br><strong>Family name: </strong>Fabaceae (Leguminosae)
-<br><strong>Girth: </strong>5.4 m @ 1.3 m height
-<br><strong>Height: </strong>25.8 m
+<br><strong>Girth: </strong>5.6 m @ 1.3 m height
+<br><strong>Height: </strong>28 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.313630000020236&amp;lng=103.81393000001891">
