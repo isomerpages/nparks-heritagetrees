@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Koompassia malaccensis</em>
 <br><strong>Family name: </strong>Fabaceae (Leguminosae)
-<br><strong>Girth: </strong>2.96 m @ 1.3 m height
-<br><strong>Height: </strong>19.6 m
+<br><strong>Girth: </strong>3 m @ 1.3 m height
+<br><strong>Height: </strong>36.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.310499999984973&amp;lng=103.81740999999552">
