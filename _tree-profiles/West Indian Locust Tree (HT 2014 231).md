@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong>  <em>Hymenaea courbaril</em>
 <br><strong>Family name:</strong> Fabaceae (Leguminosae)
-<br><strong>Girth:</strong> 3.3 m @ 1.3 m height
+<br><strong>Girth:</strong> 3.63 m @ 1.3 m height
 <br><strong>Height: </strong>32.8 m
 </td>
 <td rowspan="1" colspan="1">
