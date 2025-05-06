@@ -15,15 +15,13 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Alstonia angustiloba</em>
 <br><strong>Family name: </strong>Apocynaceae
-<br><strong>Girth: </strong>4.92 m @ 1.3 m height
-<br><strong>Height: </strong>39.4 m
+<br><strong>Girth: </strong>4.5 m @ 1.3 m height
+<br><strong>Height: </strong>36 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3141600000015752&amp;lng=103.81395999999674">
- <br>Singapore Botanic Gardens,<br>in forest within National<br>Orchid Gardens</a>
+ <br>Singapore Botanic Gardens,<br>in forest beside National<br>Orchid Gardens</a>
 </td></tr>
-<tr><td style="text-align: center;" colspan="3">  
-⛔ Please note that this Heritage Tree is not accessible to the public.</td></tr>
 </tbody>
 
 </table>

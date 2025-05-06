@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Koompassia malaccensis</em>
 <br><strong>Family name: </strong>Fabaceae (Leguminosae)
-<br><strong>Girth: </strong>4.51 m @ 1.3 m height
+<br><strong>Girth: </strong>4.5 m @ 1.3 m height
 <br><strong>Height: </strong>38.6 m
 </td>
 <td rowspan="1" colspan="1">

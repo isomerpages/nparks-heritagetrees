@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Barringtonia asiatica</em>
 <br><strong>Family name:</strong> Lecythidaceae
-<br><strong>Girth: </strong>3.38 m @ 1.3 m height
+<br><strong>Girth: </strong>3.3 m @ 1.3 m height
 <br><strong>Height: </strong>16.2 m
 </td>
 <td rowspan="1" colspan="1">

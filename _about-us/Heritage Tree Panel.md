@@ -2,7 +2,9 @@
 title: Heritage Tree Panel
 permalink: /heritage-tree-panel/
 variant: markdown
-description: ""
+description: The Heritage Tree Panel comprises of representatives with a broad
+  diversity of expertise and experience.
+image: /images/ht-panel-04102024.jpg
 ---
 <img src="/images/ht-panel-04102024.jpg">
 <div style="text-align: center">From left to right: <i>Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 

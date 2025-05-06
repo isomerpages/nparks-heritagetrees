@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Horsfieldia irya</em>
 <br><strong>Family name:</strong> Myristicaceae
-<br><strong>Girth: </strong>2.51 m @ 1.3 m height
-<br><strong>Height: </strong>15.1 m
+<br><strong>Girth: </strong>2.76 m @ 1.3 m height
+<br><strong>Height: </strong>15.8 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3160900000016578&amp;lng=103.81696999999632">

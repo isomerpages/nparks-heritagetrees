@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Pangium edule</em>
 <br><strong>Family name: </strong>Achariaceae
-<br><strong>Girth: </strong>2.96 m @ 1.3 m height
-<br><strong>Height: </strong>19.6 m
+<br><strong>Girth: </strong>3.3 m @ 1.3 m height
+<br><strong>Height: </strong>14 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3097909999944473&amp;lng=103.81593499999192">

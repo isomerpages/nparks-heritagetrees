@@ -27,8 +27,8 @@ description: ""
 </tr>
 <tr>
  <td><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">HT 2015-271</a></td>
- <td>1.22 m @ 1.3 m height</td>
- <td>13.6 m</td>
+ <td>1.07 m @ 1.3 m height</td>
+ <td>13.2 m</td>
 </tr>
 <tr>
  <td><a href="https://www.onemap.gov.sg/?lat=1.4073399999964449&amp;lng=103.98852599999908">HT 2015-272</a></td>

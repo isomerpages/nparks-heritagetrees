@@ -2,7 +2,10 @@
 title: Mount Pleasant Road
 permalink: /mount-pleasant-road/
 variant: markdown
-description: ""
+description: Enjoy a slow relaxing drive as you navigate through the meandering
+  and serene Mount Pleasant Road flanked by mature Saga trees (Adenanthera
+  pavonina).
+image: /images/Heritage Roads/Mount_Pleasant_1.png
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/Mount_Pleasant_1.png">

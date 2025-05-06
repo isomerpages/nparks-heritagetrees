@@ -15,12 +15,12 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Sterculia foetida</em>
 <br><strong>Family name: </strong>Malvaceae
-<br><strong>Girth: </strong>6.2 m @ 1.3 m height
+<br><strong>Girth: </strong>6.5 m @ 1.3 m height
 <br><strong>Height: </strong>33.8 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3131400000362303&amp;lng=103.81363999996007">
- <br>Singapore Botanic Gardens,<br>National Orchid Garden's nursery</a>
+ <br>Singapore Botanic Gardens,<br>National Orchid Garden nursery</a>
 </td>
 </tr>
 	<tr><td style="text-align: center;" colspan="3">⛔ Take note that this tree is not accessible to the public.</td></tr>

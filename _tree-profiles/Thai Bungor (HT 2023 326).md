@@ -16,7 +16,7 @@ description: ""
 <strong>Scientific name:</strong>  <em>Lagerstroemia loudonii</em>
 <br><strong>Family name:</strong> Lythraceae
 <br><strong>Girth:</strong> 2.8 m @ 1.3 m height
-<br><strong>Height: </strong>18 m
+<br><strong>Height: </strong>21 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3081300000000005&amp;lng=103.81537999999998">

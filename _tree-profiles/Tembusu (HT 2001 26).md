@@ -14,8 +14,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Cyrtophyllum fragrans</em> 
 <br><strong>Family name:</strong> Gentianaceae
-<br><strong>Girth:</strong> 5.39 m @ 1.6 m height
-<br><strong>Height: </strong>23.7 m
+<br><strong>Girth:</strong> 5 m @ 1.6 m height
+<br><strong>Height: </strong>20 m
 </td>
 <td rowspan="1" colspan="1"><strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3085900000014634&amp;lng=103.81682899999699">
 <br>Singapore Botanic Gardens,

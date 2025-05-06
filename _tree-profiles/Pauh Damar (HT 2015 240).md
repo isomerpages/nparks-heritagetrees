@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Mangifera pentandra</em>
 <br><strong>Family name: </strong>Anarcardiaceae
-<br><strong>Girth: </strong>2.28 m @ 1.3 m height
+<br><strong>Girth: </strong>2.5 m @ 1.3 m height
 <br><strong>Height: </strong>18.8 m
 </td>
 <td rowspan="1" colspan="1">

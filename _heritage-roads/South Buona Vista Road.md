@@ -2,7 +2,13 @@
 title: South Buona Vista Road
 permalink: /south-buona-vista-road/
 variant: markdown
-description: ""
+description: Laid through the high ridges of Kent Ridge Park, South Buona Vista
+  Road is a picturesque boulevard flanked by forest edges of Silver Back Trees
+  (Rhodamnia cinerea), Tembusu (Cyrtophyllum fragrans) and Tiup-tiup (Adinandra
+  dumosa), as well as planted Pelong (Pentaspadon motleyi), Spicate Eugenia
+  (Syzygium zeylanicum), Indonesian Bayleaf (S. polyanthum) and Yellow Flame
+  trees (Peltophorum pterocarpum).
+image: /images/Heritage Roads/South_Buona_Vista_Road_1.png
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/South_Buona_Vista_Road_1.png">

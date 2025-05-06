@@ -2,7 +2,10 @@
 title: About Heritage Trees
 permalink: /heritage-tree-scheme/
 variant: tiptap
-description: ""
+description: The Heritage Tree Scheme was started on 17 August 2001 by the
+  National Parks Board to identify, recognise and conserve mature trees in our
+  landscape.
+image: /images/mainpage_tembusu.jpg
 ---
 <h3><strong>What are Heritage Trees?</strong></h3>
 <p>Heritage Trees are a special group of mature trees that represent the

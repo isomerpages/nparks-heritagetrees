@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Canarium vulgare</em>
 <br><strong>Family name: </strong>Burseraceae
-<br><strong>Girth: </strong>1.9 m @ 1.3 m height
+<br><strong>Girth: </strong>2.4 m @ 1.3 m height
 <br><strong>Height: </strong>24.8 m
 </td>
 <td rowspan="1" colspan="1">

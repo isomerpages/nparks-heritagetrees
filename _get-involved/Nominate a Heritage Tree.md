@@ -2,7 +2,9 @@
 title: Nominate a Heritage Tree
 permalink: /nominate-tree/
 variant: tiptap
-description: ""
+description: Nominate a Heritage Tree today! Anyone from the public can nominate
+  Heritage Trees and submissions are open year-round.
+image: /images/ceipen_ht2001_01_crop.jpg
 ---
 <p><strong>Nominate a Heritage Tree today!</strong> 
 <br>Anyone from the public can nominate Heritage Trees and submissions are

@@ -2,7 +2,10 @@
 title: Heritage Tree Care
 permalink: /heritage-care-guide/
 variant: tiptap
-description: ""
+description: If you are maintaing a Heritage Tree in your property or interested
+  to know about taking care of them, click the link below to learn more about
+  Heritage Tree Care.
+image: /images/mainpage_tembusu.jpg
 ---
 <h4><strong>Do you have a  Heritage Tree in your area?</strong></h4>
 <p>If you are maintaing a Heritage Tree in your property or interested to

@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Adansonia digitata</em>
 <br><strong>Family name: </strong>Malvaceae
-<br><strong>Girth: </strong>4.8 m @ 1 m height
-<br><strong>Height: </strong>10.4 m
+<br><strong>Girth: </strong>5 m @ 1.3 m height
+<br><strong>Height: </strong>10.5 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3209199999611885&amp;lng=103.81455999995923">

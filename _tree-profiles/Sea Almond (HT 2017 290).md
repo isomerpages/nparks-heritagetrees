@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Terminalia catappa</em> 
 <br><strong>Family name:</strong> Combretaceae
-<br><strong>Girth:</strong> 3.94 m @ 1.3 m height
-<br><strong>Height: </strong>23.4 m
+<br><strong>Girth:</strong> 4.9 m @ 1.3 m height
+<br><strong>Height: </strong>20 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.320129999983867&amp;lng=103.8162999999905">

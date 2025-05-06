@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Gnetum gnemon</em>
 <br><strong>Family name: </strong>Gnetaceae
-<br><strong>Girth: </strong>1.98 m @ 1.3 m height
-<br><strong>Height: </strong>10.2 m
+<br><strong>Girth: </strong>1.69 m @ 1.3 m height
+<br><strong>Height: </strong>6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3191299999870336&amp;lng=103.81571999997253">

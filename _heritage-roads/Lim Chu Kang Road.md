@@ -2,7 +2,9 @@
 title: Lim Chu Kang Road
 permalink: /lim-chu-kang-road/
 variant: markdown
-description: ""
+description: Take a sneak peek into the past as you pass through part of the
+  historical Lim Chu Kang Road.
+image: /images/Heritage Roads/Lim_Chu_Kang_Road_1.png
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/Lim_Chu_Kang_Road_1.png">

@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Calophyllum inophyllum</em>
 <br><strong>Family name: </strong>Calophyllaceae
-<br><strong>Girth: </strong>7.14 m @ 1 m height
-<br><strong>Height: </strong>20.5 m
+<br><strong>Girth: </strong>7 m @ 1 m height
+<br><strong>Height: </strong>14 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.308503000003223&amp;lng=103.81822899999997">

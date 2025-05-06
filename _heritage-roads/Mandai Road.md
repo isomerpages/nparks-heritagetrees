@@ -2,7 +2,11 @@
 title: Mandai Road
 permalink: /mandai-road/
 variant: markdown
-description: ""
+description: Take a calm and relaxing drive on Mandai Road, one of Singapore’s
+  oldest carriageways. Located along the verdant greenery of Upper Seletar
+  Reservoir, this shaded boulevard allows you to enjoy a tranquil driving
+  experience.
+image: /images/Heritage Roads/Mandai_Road_1.png
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/Mandai_Road_1.png">

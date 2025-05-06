@@ -2,7 +2,9 @@
 title: DIY Walking Trail Guides
 permalink: /trail-guides/
 variant: tiptap
-description: ""
+description: Download the DIY trail guides below to discover the trees of
+  Changi, Chinatown and more!
+image: /images/trail-guides-photo.png
 ---
 <h4><strong>Discover the Heritage Trees by following these trail guides</strong></h4>
 <p>Download the DIY trail guides below to discover the trees of Changi, Chinatown

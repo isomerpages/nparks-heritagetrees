@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong>  <em>Swietenia mahagoni</em>
 <br><strong>Family name:</strong> Meliaceae
-<br><strong>Girth:</strong> 2.88 m @ 0.8 m height
-<br><strong>Height: </strong>16.8 m
+<br><strong>Girth:</strong> 2.9 m @ 0.8 m height
+<br><strong>Height: </strong>12 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3115599999809424&amp;lng=103.81479000003529">

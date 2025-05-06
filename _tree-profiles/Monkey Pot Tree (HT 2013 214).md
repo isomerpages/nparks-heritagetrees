@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Lecythis pisonis</em>
 <br><strong>Family name: </strong>Lecythidaceae
-<br><strong>Girth: </strong>4.30 m @ 1.3 m height
-<br><strong>Height: </strong>16.9 m
+<br><strong>Girth: </strong>5 m @ 1.3 m height
+<br><strong>Height: </strong>17.3 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3101899999973825&amp;lng=103.81565000000171">

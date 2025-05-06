@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Stereospermum fimbriatum</em> 
 <br><strong>Family name:</strong> Bignoniaceae
-<br><strong>Girth:</strong> 4.08 m @ 1.3 m height
+<br><strong>Girth:</strong> 4.6 m @ 1.3 m height
 <br><strong>Height: </strong>30.6 m
 </td>
 <td rowspan="1" colspan="1">

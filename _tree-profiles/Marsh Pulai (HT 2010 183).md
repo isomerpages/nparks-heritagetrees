@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Alstonia pneumatophora</em>
 <br><strong>Family name: </strong>Apocynaceae
-<br><strong>Girth: </strong>5.94 m @ 1.3 m height
-<br><strong>Height: </strong>31.2 m
+<br><strong>Girth: </strong>6 m @ 1.3 m height
+<br><strong>Height: </strong>31.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3090301&amp;lng=103.8160601">

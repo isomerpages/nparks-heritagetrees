@@ -2,7 +2,10 @@
 title: Arcadia Road
 permalink: /arcadia-road/
 variant: markdown
-description: ""
+description: Just a short drive away from the hustle and bustle of the city
+  centre lies Arcadia Road, a scenic avenue lined with mature Rain Trees
+  (Samanea saman) and planted Small-leafed Oil-fruit (Elaeocarpus mastersii).
+image: /images/Heritage Roads/Arcadia_Road_1.png
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage Roads/Arcadia_Road_1.png">

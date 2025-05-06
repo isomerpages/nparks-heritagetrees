@@ -2,7 +2,10 @@
 title: Heritage Road Scheme
 permalink: /heritage-road-scheme/
 variant: markdown
-description: ""
+description: In our city state, mature trees along the roads form the backbone
+  of Singapore’s landscape. With rapid development, it is important that we
+  recognise the importance of these mature trees and what they symbolise.
+image: /images/Heritage Roads/mandai_road_2.jpg
 ---
 <h4><strong>About the Heritage Road Scheme</strong></h4>
 <div class="isomer-image-wrapper">

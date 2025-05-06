@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Podocarpus neriifolius</em>
 <br><strong>Family name: </strong>Podocarpaceae
-<br><strong>Girth: </strong>3.88 m @ 0.5 m height
+<br><strong>Girth: </strong>3.49 m @ 0.5 m height
 <br><strong>Height: </strong>16.4 m
 </td>
 <td rowspan="1" colspan="1">

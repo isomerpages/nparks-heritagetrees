@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Inocarpus fagifer</em> 
 <br><strong>Family name:</strong> Fabaceae (Leguminosae)
-<br><strong>Girth:</strong> 4.44 m @ 1.3 m height
+<br><strong>Girth:</strong> 4.8 m @ 1.3 m height
 <br><strong>Height: </strong>14.4 m
 </td>
 <td rowspan="1" colspan="1">

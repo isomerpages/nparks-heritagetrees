@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Khaya senegalensis</em> 
 <br><strong>Family name:</strong> Meliaceae
-<br><strong>Girth:</strong> 6.28 m @ 1.3 m height
-<br><strong>Height: </strong>28.6 m
+<br><strong>Girth:</strong> 5.7 m @ 1.3 m height
+<br><strong>Height: </strong>25 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3070900000033954&amp;lng=103.8166899999972">

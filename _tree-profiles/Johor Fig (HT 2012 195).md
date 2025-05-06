@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Ficus kerkhovenii</em>
 <br><strong>Family name: </strong>Moraceae
-<br><strong>Girth: </strong>28.64 m @ 1.3 m height
-<br><strong>Height: </strong>41.6 m
+<br><strong>Girth: </strong>14 m @ 1.3 m height
+<br><strong>Height: </strong>26.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3128600000027308&amp;lng=103.81586000000048">

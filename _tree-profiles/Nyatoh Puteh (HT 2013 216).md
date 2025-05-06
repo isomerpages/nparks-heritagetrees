@@ -15,7 +15,7 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Palaquium obovatum</em> var. <em>obovatum</em>
 <br><strong>Family name: </strong>Sapotaceae
-<br><strong>Girth: </strong>4.13 m @ 1.3 m height
+<br><strong>Girth: </strong>4.36 m @ 1.3 m height
 <br><strong>Height: </strong>31.4 m
 </td>
 <td rowspan="1" colspan="1">

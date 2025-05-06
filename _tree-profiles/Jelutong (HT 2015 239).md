@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Dyera costulata</em>
 <br><strong>Family name: </strong>Apocynaceae
-<br><strong>Girth: </strong>3.48 m @ 1.3 m height
-<br><strong>Height: </strong>26.9 m
+<br><strong>Girth: </strong>4.10 m @ 1.3 m height
+<br><strong>Height: </strong>29.2m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.311029999996307&amp;lng=103.81581999999976">
