@@ -22,7 +22,7 @@ description: ""
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.303069999999125&amp;lng=103.84202999996688">
 	<br>Istana Ground</a>
 </td></tr>
-<tr><td style="text-align: center;" colspan="3">⛔ Please note that the Istana is not open to the public, except during <a href="https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House">certain dates.</a></td></tr>
+<tr><td style="text-align: center;" colspan="3">⛔ Please note that the Istana is not open to the public, except during <a href="https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House/Visit-Us">certain dates.</a></td></tr>
 </tbody></table>
 <p>This is a tall evergreen tree that can grow up to 25 m to 40 m in height. Its trunk is massive and cylindrical from the base. Its bark is smooth, pinkish-brown in colour, often cracking at the branch-trunk junction. It has compound leaves, with leaflets that are oblong elliptic, dark green, leathery, about 10 x 2cm in size, and dotted with minute oil glands. The flowers are about 3cm wide and smell of sour milk. Pods are heavy and woody and stink when bruised.</p>
   
