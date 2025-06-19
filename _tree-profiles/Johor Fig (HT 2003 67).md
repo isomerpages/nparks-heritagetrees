@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2475160000042247&amp;lng=103.8270109999997">
- <br>Sentosa, Raffles<br>Sentosa Singapore</a>
+ <br>Sentosa, within Raffles<br>Sentosa Singapore</a>
 </td>
 </tr>
 </tbody>
