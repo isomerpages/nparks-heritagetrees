@@ -13,71 +13,71 @@ image: /images/ht-panel-04102024.jpg
 <p>The Heritage Tree Panel comprises of representatives with a broad diversity of expertise and experience. </p>
 <table>
 <tbody>
-<tr><td><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Chairman</b></div>
+<tr><td rowspan="1" colspan="2"><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Chairman</b></div>
 </td></tr>
-<tr><td>
-<b>Prof Tan Puay Yok</b>
+	<tr><td style="width: 50px"></td><td>
+<b>Dr Tan Puay Yok</b>
 <br>Executive Director, National Parks and Gardens;
 <br>Group Director, Singapore Botanic Gardens; Chief Science and Technology Officer
 <br>National Parks Board</td>
 </tr>
-	<tr><td><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
-</td></tr><tr><td>
+	<tr><td rowspan="1" colspan="2"><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
+</td></tr><tr><td style="width: 50px"></td><td>
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
 <br>National Parks Board </td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Tan See Nin</b>
 <br>Senior Director, Physical Planning
 <br>Urban Redevelopment Authority (URA)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Dr Shawn Kaihekulani Yamauchi Lum</b>
 <br>President, Nature Society Singapore;
 <br>Senior Lecturer, Asian School of the Environment
 	<br>Nanyang Technological University (NTU)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Dr Easaw Thomas</b>
 <br>Singapore Representative, Perniagaan Tunas Harapan
 <br>(Malaysia Rainforest Trees for Conservation, Forest Plantations &amp;
 Landscaping)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Chew Yun Meng</b>
 <br>Divisional Director, Island Operations
 <br>Sentosa Development Corporation (SDC)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Choo Chin Hua</b>
 <br>Group Director, Design Development Group
 <br>Housing &amp; Development Board (HDB)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Ms Jan Seow</b>
 <br>Group Director, Land Planning &amp; Redevelopment 
 <br>Jurong Town Corporation (JTC)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Cheoh Wee Keat</b>
 <br>Director, Land Operations, Land Planning &amp; Coordination
 <br>Singapore Land Authority (SLA)</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Anton Van Der Schans</b>
 <br>Principal Horticulturist
 <br>Gardens by the Bay</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Ng Cheow Kheng</b>
 <br>Private Consultant</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Simon John Longman</b>
 <br>Private Consultant</td>
 </tr>
-<tr><td>
+<tr><td style="width: 50px"></td><td>
 <b>Mr Tee Swee Ping</b>
 <br>Private Consultant</td>
 </tr><tr></tr>
