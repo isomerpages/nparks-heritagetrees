@@ -7,7 +7,7 @@ description: The Heritage Tree Panel comprises of representatives with a broad
 image: /images/ht-panel-04102024.jpg
 ---
 <img src="/images/ht-panel-04102024.jpg">
-<div style="text-align: center">From left to right: <i>Mr Koh Piak Huat, Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 
+<div style="text-align: center">From left to right: <i>Mr Koh Piak Huat (Mr Koh has stepped down from the panel), Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 
 	K Y Lum </i>
 	<br>(Not in picture: <i>Mr Oh Cheow Sheng, Mr Choo Chin Hua, Mr Ng Cheow Kheng, Mr Simon Longman</i>) </div>
 <p>The Heritage Tree Panel comprises of representatives with a broad diversity of expertise and experience. </p>
