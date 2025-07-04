@@ -40,9 +40,7 @@ image: /images/ht-panel-04102024.jpg
 </tr>
 <tr><td style="width: 50px"></td><td>
 <b>Dr Easaw Thomas</b>
-<br>Singapore Representative, Perniagaan Tunas Harapan
-<br>(Malaysia Rainforest Trees for Conservation, Forest Plantations &amp;
-Landscaping)</td>
+<br>Chairperson of Friends of TreesSG</td>
 </tr>
 <tr><td style="width: 50px"></td><td>
 <b>Mr Chew Yun Meng</b>
