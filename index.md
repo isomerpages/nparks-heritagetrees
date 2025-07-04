@@ -7,7 +7,9 @@ description: The Heritage Tree Scheme, managed by NParks, advocates the
   landscape.
 image: /images/heritage_trees_logo_new.png
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Heritage Trees of Singapore
@@ -67,16 +69,4 @@ sections:
         - title: What happens next?
           description: Nominated trees will undergo a health check before being considered
             by the Heritage Tree Panel.
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Beware of Impersonation Scam
-          date: 23 June 2025
-          announcement: Government officials will NEVER ask you to transfer money or
-            disclose bank log-in details over a phone call. Call the 24/7
-            ScamShield Helpline at 1799 if you are unsure if something is a
-            scam.
-          link_text: Find out more here
-          link_url: https://www.scamshield.gov.sg/
 ---
