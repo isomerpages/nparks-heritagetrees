@@ -58,7 +58,7 @@ description: ""
 <a href="/images/Heritage_trees_photos/ficdru_ht2010-177-180_landscape.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficdru_ht2010-177-180_landscape.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Landscape view of the four Heritage Trees (📷: Hazri Boey)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/HTmap_SP.png" class="isomer-card">
 <div class="isomer-card-image">
