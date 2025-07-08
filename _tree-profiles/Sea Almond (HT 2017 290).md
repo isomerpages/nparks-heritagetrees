@@ -14,7 +14,7 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Reference ID</strong>
-<br>HT 2020-316
+<br>HT 2017-290
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Terminalia catappa</em> 
