@@ -49,8 +49,7 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with visitor for scale (📷: Hazri Boey)</div></div></a>
 	
-<a href="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png" class="isomer-card">
+<a href="/images/Heritage_trees_photos/tercat_ht2017-290_far.png" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Then Prime Minister Lee Kuan Yew planting a <em>Terminalia catappa</em> sapling at Pasir Panjang Park in 1963. (Photo courtesy of National Archives Singapore)</div></div></a>
-</div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_far.png"></div></div>
+	<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Centre of Ethnobotany (📷: Hazri Boey)</div></div></a></div>
