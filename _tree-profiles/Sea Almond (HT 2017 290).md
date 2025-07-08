@@ -38,7 +38,7 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 
 <p>The timber can be used for houses and boat building while various parts of the plant are used in folk medicine from relieving rheumatic joints to dysentery.</p>
 
-<p>In 1963, it was recorded that then Prime Minister Lee Kuan Yew planted a Sea Almond at Pasir Panjang Park. Though the tree planted by PM Lee cannot be definitively located, it is believed that this Heritage Sea Almond was also planted during the time. Hence, it was estimated to be greater than 57 years of age and had a girth of 3.1 m when it was endorsed as a Heritage Tree in 2020.</p>
+<p>This Heritage Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m when it was endorsed as a Heritage Tree in 2017.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile<a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a> .</p>
 
