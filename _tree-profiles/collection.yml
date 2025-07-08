@@ -2,7 +2,6 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Sea Almond (HT 2017 290).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - African Butter Tree (HT 2003 97).md
       - Angsana (HT 2001 03).md
@@ -183,6 +182,7 @@ collections:
       - Red mahogany (HT 2010 182).md
       - Saga (HT 2001 19).md
       - Sausage Tree (HT 2013 213).md
+      - Sea Almond (HT 2017 290).md
       - Sea Almond (HT 2020 316).md
       - Sea Fig (HT 2003 74).md
       - Sea Fig (HT 2003 75).md
