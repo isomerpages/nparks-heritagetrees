@@ -47,7 +47,7 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 <a href="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with visitor for scale (Hazri Boey)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with visitor for scale (📷: Hazri Boey)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/tercat_ht2020-316_archive.png" class="isomer-card">
 <div class="isomer-card-image">
