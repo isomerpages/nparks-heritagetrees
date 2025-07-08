@@ -8,3 +8,4 @@ description: The Sea Almond is a tree commonly found along the coasts of
   when it was endorsed as a Heritage Tree in 2017.
 image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 ---
+cc
