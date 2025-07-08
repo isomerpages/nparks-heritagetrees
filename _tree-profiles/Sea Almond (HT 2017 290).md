@@ -9,7 +9,7 @@ description: The Sea Almond is a tree commonly found along the coasts of
 image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" src="/images/Heritage_trees_photos/tercat_ht2020-316_habit.jpg"> 
+<img style="width: 60%;" src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
