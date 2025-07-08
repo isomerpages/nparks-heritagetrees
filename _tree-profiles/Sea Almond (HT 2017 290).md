@@ -23,8 +23,8 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 <br><strong>Height: </strong>20 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2752600000447851&amp;lng=103.79240000002645">
-<br>Pasir Panjang Park Carpark,<br>near Pasir Panjang MRT station</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.32013000025439&amp;lng=103.81630000008">
+<br>Singapore Botanic Gardens,<br>Ethnobotany Centre</a>
 </td>
 </tr>
 </tbody></table>
