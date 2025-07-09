@@ -62,7 +62,7 @@ image: /images/ht-panel-04102024.jpg
 <br>Director, Leasing, Land Operations
 <br>Singapore Land Authority (SLA)</td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/AntonVanDerSchans_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Anton Van Der Schans</b>
 <br>Principal Horticulturist
 <br>Gardens by the Bay</td>
