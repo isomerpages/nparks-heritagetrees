@@ -42,7 +42,7 @@ image: /images/ht-panel-04102024.jpg
 <b>Dr Easaw Thomas</b>
 <br>Chairperson of Friends of TreesSG</td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/ChewYunMeng_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Chew Yun Meng</b>
 <br>Divisional Director, Island Operations
 <br>Sentosa Development Corporation (SDC)</td>
@@ -54,12 +54,12 @@ image: /images/ht-panel-04102024.jpg
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/JanSeow_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Ms Jan Seow</b>
-<br>Group Director, Land Planning &amp; Redevelopment 
+<br>Group Director, Development Group, Land Planning &amp; Redevelopment 
 <br>Jurong Town Corporation (JTC)</td>
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/CheohWeeKeat_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Cheoh Wee Keat</b>
-<br>Director, Land Operations, Land Planning &amp; Coordination
+<br>Director, Leasing, Land Operations
 <br>Singapore Land Authority (SLA)</td>
 </tr>
 <tr><td style="width: 150px"></td><td style="vertical-align:middle">
@@ -67,7 +67,7 @@ image: /images/ht-panel-04102024.jpg
 <br>Principal Horticulturist
 <br>Gardens by the Bay</td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/NgCheowKheng_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Ng Cheow Kheng</b>
 <br>Private Consultant</td>
 </tr>
