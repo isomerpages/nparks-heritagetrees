@@ -13,9 +13,9 @@ to know about taking care of them, click the link below to learn more about
 Heritage Tree Care.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="go.gov.sg/htcareguide" rel="noopener nofollow" target="_blank">Heritage Tree Care Guide </a>
-<a href="/files/Explore Page/Heritage_Tree_care_guide_Ver_3.pdf" rel="noopener noreferrer nofollow" target="_blank">(pdf; 5.4 MB)</a>
+<p><a href="go.gov.sg/htcareguide" rel="noopener nofollow" target="_blank">Heritage Tree Care Guide (5.4 MB)</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
