@@ -69,15 +69,18 @@ image: /images/ht-panel-04102024.jpg
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/NgCheowKheng_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Ng Cheow Kheng</b>
-<br>Private Consultant</td>
+<br>Former Group Director, Horticulture &amp; Community Gardening
+<br>National Parks Board</td>
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/SimonLongman_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Simon John Longman</b>
-<br>Private Consultant</td>
+<br>Former Director, Streetscape 
+<br>National Parks Board</td>
 </tr>
 <tr><td style="width: 150px"></td><td style="vertical-align:middle">
 <b>Mr Tee Swee Ping</b>
-<br>Private Consultant</td>
+<br>Former Coordinating Director, Streetscape
+<br>National Parks Board</td>
 </tr><tr></tr>
 </tbody>
 </table><p></p>
