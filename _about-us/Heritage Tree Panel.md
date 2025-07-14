@@ -15,7 +15,7 @@ image: /images/ht-panel-04102024.jpg
 <tbody>
 <tr><td rowspan="1" colspan="2"><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Chairman</b></div>
 </td></tr>
-	<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+	<tr><td style="width: 150px"><img src="/images/HT_Panel/TanPuayYok_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Dr Tan Puay Yok</b>
 <br>Executive Director, National Parks and Gardens;
 <br>Group Director, Singapore Botanic Gardens; Chief Science and Technology Officer
