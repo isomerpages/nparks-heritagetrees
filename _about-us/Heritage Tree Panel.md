@@ -22,7 +22,7 @@ image: /images/ht-panel-04102024.jpg
 <br>National Parks Board</td>
 </tr>
 	<tr><td rowspan="1" colspan="2"><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
-</td></tr><tr><td style="width: 150px"></td><td style="vertical-align:middle">
+</td></tr><tr><td style="width: 150px"><img src="/images/HT_Panel/placeholder_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
 <br>National Parks Board </td>
@@ -38,7 +38,7 @@ image: /images/ht-panel-04102024.jpg
 <br>Senior Lecturer, Asian School of the Environment
 	<br>Nanyang Technological University (NTU)</td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/placeholder_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Dr Easaw Thomas</b>
 <br>Chairperson of Friends of TreesSG</td>
 </tr>
@@ -77,7 +77,7 @@ image: /images/ht-panel-04102024.jpg
 <br>Former Director, Streetscape 
 <br>National Parks Board</td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/placeholder_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Tee Swee Ping</b>
 <br>Former Coordinating Director, Streetscape
 <br>National Parks Board</td>
