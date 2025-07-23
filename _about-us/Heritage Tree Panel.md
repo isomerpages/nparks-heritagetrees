@@ -27,12 +27,12 @@ image: /images/ht-panel-04102024.jpg
 <br>Group Director, Streetscape
 <br>National Parks Board </td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/TanSeeNin_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Tan See Nin</b>
 <br>Senior Director, Physical Planning
 <br>Urban Redevelopment Authority (URA)</td>
 </tr>
-<tr><td style="width: 150px"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/ShawnLum_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Dr Shawn Kaihekulani Yamauchi Lum</b>
 <br>President, Nature Society Singapore;
 <br>Senior Lecturer, Asian School of the Environment
