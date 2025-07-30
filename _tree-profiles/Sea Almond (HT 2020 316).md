@@ -20,7 +20,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.2752600000447851&amp;lng=103.79240000002645">
-<br>Pasir Panjang Park Carpark,<br>near MRT station</a>
+<br>Pasir Panjang Park Carpark,<br>near Pasir Panjang MRT station</a>
 </td>
 </tr>
 </tbody></table>
@@ -36,7 +36,7 @@ description: ""
 
 <p>In 1963, it was recorded that then Prime Minister Lee Kuan Yew planted a Sea Almond at Pasir Panjang Park. Though the tree planted by PM Lee cannot be definitively located, it is believed that this Heritage Sea Almond was also planted during the time. Hence, it was estimated to be greater than 57 years of age and had a girth of 3.1 m when it was endorsed as a Heritage Tree in 2020.</p>
 	
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile<a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a> .</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">

@@ -2,7 +2,11 @@
 title: Sea Almond (HT 2017 290)
 permalink: /ht-2017-290/
 variant: markdown
-description: ""
+description: The Sea Almond is a tree commonly found along the coasts of
+  tropical Asia, Northern Australia and Polynesia, including Singapore. This
+  Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m
+  when it was endorsed as a Heritage Tree in 2017.
+image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"> 
@@ -19,8 +23,8 @@ description: ""
 <br><strong>Height: </strong>20 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.320129999983867&amp;lng=103.8162999999905">
-<br>Singapore Botanic Gardens,<br>Ethno-botany Garden</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.32013000025439&amp;lng=103.81630000008">
+<br>Singapore Botanic Gardens,<br>Ethnobotany Centre</a>
 </td>
 </tr>
 </tbody></table>
@@ -34,18 +38,18 @@ description: ""
 
 <p>The timber can be used for houses and boat building while various parts of the plant are used in folk medicine from relieving rheumatic joints to dysentery.</p>
 
-<p>This Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m when it was endorsed as a Heritage Tree in 2017.</p>
+<p>This Heritage Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m when it was endorsed as a Heritage Tree in 2017.</p>
 	
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2916">here</a>.</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
 <a href="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with visitor for scale<br>(📷: Low Wei Teng)</div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with visitor for scale (📷: Hazri Boey)</div></div></a>
 	
 <a href="/images/Heritage_trees_photos/tercat_ht2017-290_far.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_far.png"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Ethno-botany Centre (📷: Hazri Boey)</div></div></a></div>
+	<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Centre of Ethnobotany (📷: Hazri Boey)</div></div></a></div>
