@@ -40,7 +40,7 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 
 <p>This Heritage Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m when it was endorsed as a Heritage Tree in 2017.</p>
 	
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile<a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a> .</p>
+<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
