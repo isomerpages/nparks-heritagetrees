@@ -6,10 +6,6 @@ description: The Heritage Tree Panel comprises of representatives with a broad
   diversity of expertise and experience.
 image: /images/ht-panel-04102024.jpg
 ---
-<img src="/images/HT_Panel/ht-panel-04102024.jpg">
-<div style="text-align: center">From left to right: <i>Mr Koh Piak Huat (Mr Koh has stepped down from the panel), Mr Tee Swee Ping, Mr Tan See Nin,<br>Dr Tan Puay Yok, Dr Easaw Thomas, Dr Shawn 
-	K Y Lum </i>
-	<br>(Not in picture: <i>Mr Oh Cheow Sheng, Mr Choo Chin Hua, Mr Ng Cheow Kheng, Mr Simon Longman</i>) </div>
 <p>The Heritage Tree Panel comprises of representatives with a broad diversity of expertise and experience. </p>
 <table>
 <tbody>
@@ -21,7 +17,7 @@ image: /images/ht-panel-04102024.jpg
 <br>Group Director, Singapore Botanic Gardens; Chief Science and Technology Officer
 <br>National Parks Board</td>
 </tr>
-	<tr><td rowspan="1" colspan="2"><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
+<tr><td rowspan="1" colspan="2"><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
 </td></tr><tr><td style="width: 150px"><img src="/images/HT_Panel/placeholder_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
@@ -34,13 +30,14 @@ image: /images/ht-panel-04102024.jpg
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/ShawnLum_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Dr Shawn Kaihekulani Yamauchi Lum</b>
-<br>President, Nature Society Singapore;
 <br>Senior Lecturer, Asian School of the Environment
-	<br>Nanyang Technological University (NTU)</td>
+<br>Nanyang Technological University (NTU);
+<br>Former President, Nature Society Singapore</td>
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/placeholder_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Dr Easaw Thomas</b>
-<br>Chairperson of Friends of TreesSG</td>
+<br>Chairperson of Friends of TreesSG community
+<br>National Parks Board</td>
 </tr>
 <tr><td style="width: 150px"><img src="/images/HT_Panel/ChewYunMeng_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Chew Yun Meng</b>
