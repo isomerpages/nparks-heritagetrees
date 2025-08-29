@@ -34,7 +34,7 @@ image: /images/ht-panel-04102024.jpg
 <br>Nanyang Technological University (NTU);
 <br>Former President, Nature Society Singapore</td>
 </tr>
-<tr><td style="width: 150px"><img src="/images/HT_Panel/placeholder_480x640.jpg"></td><td style="vertical-align:middle">
+<tr><td style="width: 150px"><img src="/images/HT_Panel/EasawThomas_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Dr Easaw Thomas</b>
 <br>Chairperson of Friends of TreesSG community
 <br>National Parks Board</td>
