@@ -36,7 +36,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/parinsg_ht2013-208_base.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/parinsg_ht2013-208_base.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Trunk base of Heritage Tree<br>(📷: Hazri Boey)</div></div></a>
