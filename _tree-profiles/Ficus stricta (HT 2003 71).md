@@ -36,7 +36,7 @@ description: ""
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/ficstr_ht2003-71_habitjpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/ficstr_ht2003-71_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/ficstr_ht2003-71_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">📷: Heritage Tree Secretariat</div></div></a><br></div>
