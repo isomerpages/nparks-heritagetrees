@@ -18,7 +18,14 @@ image: /images/ht-panel-04102024.jpg
 <br>National Parks Board</td>
 </tr>
 <tr><td rowspan="1" colspan="2"><br><div style="font-size: 26px; color: #098e3e;"><b>Heritage Tree Panel Members</b></div>
-</td></tr><tr><td style="width: 150px"><img src="/images/HT_Panel/OhCheowSheng_480x640.jpg"></td><td style="vertical-align:middle">
+</td></tr>
+<tr><td style="width: 150px"><img src="/images/HT_Panel/Sophianne_480x640.jpg"></td><td style="vertical-align:middle">
+<b>Ms Sophianne Mohamad Araib</b>
+<br>Executive Director, Jurong Lake Gardens, &amp; Horticulture and Community;
+	<br>Group Director,Horticulture and Community
+<br>National Parks Board </td>
+</tr>
+<tr><td style="width: 150px"><img src="/images/HT_Panel/OhCheowSheng_480x640.jpg"></td><td style="vertical-align:middle">
 <b>Mr Oh Cheow Sheng</b>
 <br>Group Director, Streetscape
 <br>National Parks Board </td>
