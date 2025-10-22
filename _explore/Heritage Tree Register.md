@@ -10,7 +10,7 @@ image: /images/mainpage_tembusu.jpg
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://mobile.onemap.gov.sg/nparks/heritageTrees.html"></iframe>
 </div><p>
-As of 1 June 2025, there are currently <b>255</b> Heritage Trees in the Heritage Tree Register.</p>
+As of 22 October 2025, there are currently <b>253</b> Heritage Trees in the Heritage Tree Register.</p>
 
 <h5><b>Find Heritage Trees from the full registry</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
