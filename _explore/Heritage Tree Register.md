@@ -21,7 +21,6 @@ As of 1 June 2025, there are currently <b>255</b> Heritage Trees in the Heritage
  <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
  <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
- <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
  <tr><td><a href="/ht-2003-98/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-98)</a></td><td>Sentosa, entrance of Shangri-La Rasa Sentosa</td></tr>
  <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
  <tr><td><a href="/ht-2003-100/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-100)</a></td><td>Sentosa, Capella Singapore, front lawn</td></tr>
@@ -169,7 +168,6 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, outside<br>Reflections at Bukit Chandu</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park, Area F (Bedok Jetty)</td></tr>
  <tr><td><a href="/ht-2007-162"><b>Perepats of Pulau Ubin</b> (HT 2007-162 - HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa, Hse No. 1</td></tr>
- <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa, Gunner Lane, behind Ranger Station</td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td><td>Mount Faber, on slope near Marina Deck</td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road-bend opp Danish Seaman's Church</td></tr>
  <tr><td><a href="/ht-2012-197"><b>Pianggu</b> / <i>Horsfieldia irya</i> (HT 2012-197)</a></td><td>Singapore Botanic Gardens,<br>between Carpark A &amp; B</td></tr>
@@ -455,7 +453,6 @@ along Learning Forest coach parking</td></tr>
 <table style="font-size: 17px;">
 <tbody>
  <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
- <tr><td><a href="/ht-2001-03/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2001-03)</a></td><td>Upper Serangoon Road, near Woodleigh Park</td></tr>
  <tr><td><a href="/ht-2003-88/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-88)</a></td><td>Jalan Naung, behind House No. 70</td></tr>
  <tr><td><a href="/ht-2003-118"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-118)</a></td><td>Seletar Aerospace Drive, behind Bus Stop (68089)</td></tr>
  <tr><td><a href="/ht-2003-119"><b>Broad-leafed Mahogany</b> / <i>Swietenia macrophylla</i> (HT 2003-119)</a></td><td>Seletar Aerospace Drive, behind Bus Stop (68089), near bridge/shelter</td></tr>
@@ -514,7 +511,6 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2019-300"><b>Neem Tree</b> / <i>Azadirachta indica</i> (HT 2019-300)</a></td><td>Saint John's Island, near village house and jetty entrance</td></tr>
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa, Imbiah Rd, near Skyline Luge Ticket Booth</td></tr>
  <tr><td><a href="/ht-2007-162"><b>Perepats</b> / <i>Sonneratia alba</i> (HT 2007-162 &amp; HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa,<br>from House No. 1 on the right</td></tr>
- <tr><td><a href="/ht-2003-95"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2003-95)</a></td><td>Sentosa, Gunner Lane, behind Ranger Station</td></tr>
  <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td><td>Sentosa, Woolwich Rd (within Satellite Station grounds)</td></tr>
  <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>Sentosa, Resorts World Sentosa forest</td></tr>
  <tr><td><a href="/ht-2003-74/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-74)</a></td><td>Saint John's Island, near water tank</td></tr>
