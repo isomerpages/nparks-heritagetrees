@@ -2,7 +2,6 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Seraya (HT 2025 331).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - African Butter Tree (HT 2003 97).md
       - Angsana (HT 2003 98).md
@@ -198,6 +197,7 @@ collections:
       - Selembat (HT 2020 314).md
       - Senegal Mahogany (HT 2013 212).md
       - Sentul (HT 2020 313).md
+      - Seraya (HT 2025 331).md
       - Sindora × changiensis (HT 2003 115).md
       - Snake Tree (HT 2013 219).md
       - Sparrows' Mango (HT 2003 45).md
