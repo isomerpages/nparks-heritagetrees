@@ -2,7 +2,6 @@ collections:
   tree-profiles:
     output: true
     order:
-      - Petai (HT 2025 330).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - African Butter Tree (HT 2003 97).md
       - Angsana (HT 2003 98).md
@@ -152,6 +151,7 @@ collections:
       - Penaga Laut (HT 2021 318).md
       - Perepats of Pulau Ubin.md
       - Petai (HT 2003 95).md
+      - Petai (HT 2025 330).md
       - Petai Kerayong (HT 2001 17).md
       - Petai Kerayong (HT 2005 141).md
       - Pianggu (HT 2012 197).md
