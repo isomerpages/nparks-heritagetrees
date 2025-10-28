@@ -2,6 +2,7 @@ collections:
   tree-profiles:
     output: true
     order:
+      - Seraya (HT 2025 331).md
       - Adenanthera malayana subsp malayana (HT 2023 323).md
       - African Butter Tree (HT 2003 97).md
       - Angsana (HT 2003 98).md
