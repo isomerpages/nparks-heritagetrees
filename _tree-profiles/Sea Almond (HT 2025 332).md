@@ -19,7 +19,7 @@ description: ""
 <br><strong>Height: </strong>21 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.32013000025439&amp;lng=103.81630000008">
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.296743&amp;lng=103.886784">
 <br>Katong Park</a>
 </td>
 </tr>
