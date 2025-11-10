@@ -10,7 +10,7 @@ image: /images/mainpage_tembusu.jpg
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://mobile.onemap.gov.sg/nparks/heritageTrees.html"></iframe>
 </div><p>
-As of 22 October 2025, there are currently <b>253</b> Heritage Trees in the Heritage Tree Register.</p>
+As of 12 November 2025, there are currently <b>256</b> Heritage Trees in the Heritage Tree Register.</p>
 
 <h5><b>Find Heritage Trees from the full registry</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
@@ -65,8 +65,7 @@ As of 22 October 2025, there are currently <b>253</b> Heritage Trees in the Heri
  <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
  <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, beside Siloso Beach Resort</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Between Temenggong Road &amp; Marang Road</td></tr>
- <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>  
-along Learning Forest coach parking</td></tr>
+ <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
@@ -168,13 +167,14 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, outside<br>Reflections at Bukit Chandu</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park, Area F (Bedok Jetty)</td></tr>
  <tr><td><a href="/ht-2007-162"><b>Perepats of Pulau Ubin</b> (HT 2007-162 - HT 2007-163)</a></td><td>Pulau Ubin, near Chek Jawa, Hse No. 1</td></tr>
+ <tr><td><a href="/ht-2025-330"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2025-330)</a></td><td>Fort Canning Park, near Keramat Shelter</td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td><td>Mount Faber, on slope near Marina Deck</td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road-bend opp Danish Seaman's Church</td></tr>
  <tr><td><a href="/ht-2012-197"><b>Pianggu</b> / <i>Horsfieldia irya</i> (HT 2012-197)</a></td><td>Singapore Botanic Gardens,<br>between Carpark A &amp; B</td></tr>
  <tr><td><a href="/ht-2020-309"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2020-309)</a></td><td>Nim Crescent Open Space</td></tr>
  <tr><td><a href="/ht-2022-321"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2022-321)</a></td><td>East Coast Park, Area C (near Marine Cove)</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Pseudalbizzia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (beside HT Tembusu)</td></tr>
-	<tr><td><a href="/ht-2012-189"><b>Putat Laut</b> / <i>Barringtonia asiatica</i> (HT 2012-189)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
+ <tr><td><a href="/ht-2012-189"><b>Putat Laut</b> / <i>Barringtonia asiatica</i> (HT 2012-189)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2001-08"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2001-08)</a></td><td>Fort Canning Park,<br>behind Registry of Marriage</td></tr>
  <tr><td><a href="/ht-2001-27"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2001-27)</a></td><td>Singapore Botanic Gardens,<br>outside Visitor Centre pick-up/drop-off point</td></tr>
  <tr><td><a href="/ht-2003-106"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-106)</a></td><td>College Green, off Dunearn Road within hostel grounds (NUS)</td></tr>
@@ -195,11 +195,12 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-44"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2003-44)</a></td><td>Sentosa, Woolwich Rd (within Satellite Station grounds)</td></tr>
  <tr><td><a href="/ht-2023-324"><b>Red-flowered Malayan Spindle Tree</b> / <i>Bhesa robusta</i> (HT 2023-324)</a></td><td>Resorts World Sentosa forest, near junction of Imbiah Rd &amp; Siloso Rd</td></tr>
  <tr><td><a href="/ht-2010-182"><b>Red Mahogany</b> / <i>Khaya nyasica</i> (HT 2010-182)</a></td><td>Near Blk 150, Lorong 1 Toa Payoh</td></tr>
-	<tr><td><a href="/ht-2001-14"><b>Red Mahoganies of Guillemard Road Open Space</b> (HT 2001-14 – HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
+ <tr><td><a href="/ht-2001-14"><b>Red Mahoganies of Guillemard Road Open Space</b> (HT 2001-14 – HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
  <tr><td><a href="/ht-2001-19/"><b>Saga</b> / <i>Adenanthera pavonina</i> (HT 2001-19)</a></td><td>Singapore Botanic Gardens, near Frangipani Garden</td></tr>
  <tr><td><a href="/ht-2013-213/"><b>Sausage Tree</b> / <i>Kigelia africana</i> (HT 2013-213)</a></td><td>Singapore Botanic Gardens,<br>near Sundial Garden</td></tr>
  <tr><td><a href="/ht-2017-290/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2017-290)</a></td><td>Singapore Botanic Gardens, Ethno-botany Garden</td></tr>
  <tr><td><a href="/ht-2020-316/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2020-316)</a></td><td>Pasir Panjang Park Carpark,<br>near MRT Station</td></tr>
+ <tr><td><a href="/ht-2025-332/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2025-332)</a></td><td>Katong Park</td></tr>
  <tr><td><a href="/ht-2003-74/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-74)</a></td><td>Saint John's Island, near water tank</td></tr>
  <tr><td><a href="/ht-2003-75/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-75)</a></td><td>Saint John's Island, Camp site 1 &amp; 2</td></tr>
  <tr><td><a href="/ht-2003-76/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-76)</a></td><td>Saint John's Island, Blk 7A, on slope of hill</td></tr>
@@ -213,6 +214,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2020-314/"><b>Selembat</b> / <i>Syzygium conglomeratum</i> (HT 2020-314)</a></td><td>Night Safari,<br>along Tasmanian Devil Trail</td></tr>
  <tr><td><a href="/ht-2013-212/"><b>Senegal Mahogany</b> / <i>Khaya senegalensis</i> (HT 2013-212)</a></td><td>Singapore Botanic Gardens,<br>along Main Gate Road (near Swan Lake)</td></tr>
  <tr><td><a href="/ht-2020-313/"><b>Sentul</b> / <i>Sandoricum keotjape</i> (HT 2020-313)</a></td><td>Clemenceau Ave North, opp 100 Caveanagh Hse</td></tr>
+ <tr><td><a href="/ht-2025-331/"><b>Seraya</b> / <i>Rubroshorea curtisii</i> (HT 2025-331)</a></td><td>Singapore Botanic Gardens, Rainforest</td></tr>
  <tr><td><a href="/ht-2003-115/"><b><i>Sindora</i> × <i>changiensis</i></b> (HT 2003-115)</a></td><td>Changi, Cranwell Road in front of Cranwell Bungalow 1</td></tr>
  <tr><td><a href="/ht-2013-219/"><b>Snake Tree</b> / <i>Stereospermum fimbriatum</i> (HT 2013-219)</a></td><td>Singapore Botanic Gardens,<br>along Main Gate Road (opp. Marsh Garden)</td></tr>
  <tr><td><a href="/ht-2003-45/"><b>Sparrows' Mango</b> / <i>Buchanania arborescens</i> (HT 2003-45)</a></td><td>Changi, Andover Road, Fairy Point Chalet 6</td></tr>
@@ -258,10 +260,10 @@ along Learning Forest coach parking</td></tr>
 <table style="font-size: 17px;">
 	<tbody>
  <tr><th>Heritage Tree Names / Reference IDs</th><th style="width: 35%;">Location</th></tr>
-<tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
+ <tr><td><a href="/ht-2023-323/"><b><i>Adenanthera malayana</i> subsp. <i>malayana</i></b> (HT 2023-323)</a></td><td>Singapore Botanic Gardens,<br>Gallop Green</td></tr>
  <tr><td><a href="/ht-2003-97/"><b>African Butter Tree</b>, <i>Pentadesma butyracea</i> (HT 2003-97)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2003-99/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-99)</a></td><td>Pender Road, within Danish<br>Seamen's Church grounds</td></tr> 
-	<tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Crescent roundabout</td></tr>
+ <tr><td><a href="/ht-2003-101/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-101)</a></td><td>Old National Cancer Centre,<br>Hospital Crescent roundabout</td></tr>
  <tr><td><a href="/ht-2003-102/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2003-102)</a></td><td>Jalan Rumbia, near junction<br>with Oxley Rise</td></tr>
  <tr><td><a href="/ht-2007-158/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-158)</a></td><td>Junction of Canterbury Road &amp; Berkshire Road, on sloping ground</td></tr>
  <tr><td><a href="/ht-2007-159/"><b>Angsana</b> / <i>Pterocarpus indicus</i> (HT 2007-159)</a></td><td>Winchester Road, within premises of House No. 6, Alexandra Park</td></tr>
@@ -269,7 +271,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2016-283/"><b>Baobab</b> / <i>Adansonia digitata</i> (HT 2016-283)</a></td><td>Singapore Botanic Gardens,<br>near Melati Gate</td></tr>
  <tr><td><a href="/ht-2017-291/"><b>Belinjau</b> / <i>Gnetum gnemon</i> (HT 2017-291)</a></td><td>Singapore Botanic Gardens,<br>behind The Garage</td></tr>
  <tr><td><a href="/ht-2003-87/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-87)</a></td><td>Istana Ground</td></tr> 
-<tr><td><a href="/ht-2003-89/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-89)</a></td><td>Spottiswoode Park Road, opposite Spottiswoode Apartments</td></tr>
+ <tr><td><a href="/ht-2003-89/"><b>Binjai</b> / <i>Mangifera caesia</i> (HT 2003-89)</a></td><td>Spottiswoode Park Road, opposite Spottiswoode Apartments</td></tr>
  <tr><td><a href="/ht-2001-18/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2001-18)</a></td><td>Pearl's Hill City Park hilltop, near Service Reservoir gate</td></tr> 
  <tr><td><a href="/ht-2003-69/"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2003-69)</a></td><td>Duxton Plain Park, near Neil Road</td></tr>
  <tr><td><a href="/ht-2007-156"><b>Bodhi Tree</b> / <i>Ficus religiosa</i> (HT 2007-156)</a></td><td>Canterbury Road, on Stateland near Lamp Post 18</td></tr>
@@ -283,14 +285,14 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2013-211"><b>Chinese Laurel</b> / <i>Antidesma bunius</i> (HT 2013-211)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (near HT Sausage Tree)</td></tr>
  <tr><td><a href="/ht-2018-299"><b>Chinese Olive</b> / <i>Canarium vulgare</i> (HT 2018-299)</a></td><td>Singapore Botanic Gardens,<br>Learning Forest (Canarium Pond area)</td></tr>
  <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No 21A</td></tr>
-	<tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>Royal Road end, on slope behind House No. 7</td></tr>
+ <tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>Royal Road end, on slope behind House No. 7</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opposite House No. 22</td></tr>
  <tr><td><a href="/ht-2012-187"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-187)</a></td><td>Singapore Botanic Gardens,<br>Burkill Drive Carpark</td></tr>
  <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2018-293"><b>Derum Selunchor</b> / <i>Cratoxylum cochinchinensis</i> (HT 2018-293)</a></td><td>Telok Blangah Green, near Shelter, Meeting Point 1, Carpark 2</td></tr>
  <tr><td><a href="/ht-2001-11"><b>Earpod Tree</b> / <i>Enterolobium cyclocarpum</i> (HT 2001-11)</a></td><td>Fort Canning Park,<br>along path behind the Fort Wall</td></tr>
-<tr><td><a href="/ht-2014-229"><b>Giant Cola</b> / <i>Cola gigantea</i> (HT 2014-229)</a></td><td>Singapore Botanic Gardens, Orchid Plaza</td></tr>
+ <tr><td><a href="/ht-2014-229"><b>Giant Cola</b> / <i>Cola gigantea</i> (HT 2014-229)</a></td><td>Singapore Botanic Gardens, Orchid Plaza</td></tr>
  <tr><td><a href="/ht-2016-282"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i> (HT 2016-282)</a></td><td>Singapore Botanic Gardens,<br>near Plant Resource Center Shelter</td></tr>
  <tr><td><a href="/ht-2019-307"><b>Hazel Sterculia</b> / <i>Sterculia foetida</i>a (HT 2019-307)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2014-227"><b>Horse Mango</b> / <i>Mangifera foetida</i> (HT 2014-227)</a></td><td>Canning Rise, on slope<br>behind SMU School of Social Sciences</td></tr>
@@ -298,7 +300,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2013-204"><b>Indian Banyan</b> / <i>Ficus benghalensis</i> (HT 2013-204)</a></td><td>Tiong Bahru Park</td></tr>
  <tr><td><a href="/ht-2010-181"><b>Indian Rubber Tree</b> / <i>Ficus elastica</i> (HT 2010-181)</a></td><td>In front of National Museum of Singapore</td></tr>
  <tr><td><a href="/ht-2012-191"><b>Jamuju</b> / <i>Dacrycarpus imbricatus</i> (HT 2012-191)</a></td><td>Singapore Botanic Gardens,<br>Lawn H (beside HT Marsh Pulai)</td></tr>
-	<tr><td><a href="/ht-2001-25"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2001-25)</a></td><td>Singapore Botanic Gardens,<br>Rainforest entrance, near Lower Ring Rd</td></tr>
+ <tr><td><a href="/ht-2001-25"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2001-25)</a></td><td>Singapore Botanic Gardens,<br>Rainforest entrance, near Lower Ring Rd</td></tr>
  <tr><td><a href="/ht-2015-239"><b>Jelutong</b> / <i>Dyera costulata</i> (HT 2015-239)</a></td><td>Singapore Botanic Gardens, Rainforest entrance, near Lower Ring Rd</td></tr>
  <tr><td><a href="/ht-2012-195"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2012-195)</a></td><td>Singapore Botanic Gardens,<br>Rainforest</td></tr>
  <tr><td><a href="/ht-2001-01"><b>Kapok</b> / <i>Ceiba pentandra</i> (HT 2001-01)</a></td><td>Braddell Road, at Toa Payoh North Flyover Traffic Island</td></tr>
@@ -327,7 +329,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2012-196"><b>Mengkulang</b> / <i>Heritiera elata</i> (HT 2012-196)</a></td><td>Singapore Botanic Gardens,<br>along Lower Ring Rd</td></tr>
  <tr><td><a href="/ht-2001-30"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-30)</a></td><td>Canning Rise, on slope behind<br>Kwa Geok Choo Law Library</td></tr>
  <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td><td>Canning Rise, on slope<br>near pedestrian underpass</td></tr>
-<tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td><td>Singapore Botanic Gardens,<br>Rainforest (near Visitor Centre)</td></tr>
+ <tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td><td>Singapore Botanic Gardens,<br>Rainforest (near Visitor Centre)</td></tr>
  <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
  <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane (left)</td></tr>
  <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane (right)</td></tr>
@@ -335,21 +337,22 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2015-245"><b>Nemesu</b> / <i>Rubroshorea pauciflora</i> (HT 2015-245)</a></td><td>Singapore Botanic Gardens,<br>Rainforest</td></tr>
  <tr><td><a href="/ht-2023-325"><b>Neram</b> / <i>Dipterocarpus oblongifolius</i> (HT 2023-325)</a></td><td>Singapore Botanic Gardens,<br>near Swiss Granite Fountain</td></tr>
  <tr><td><a href="/ht-2015-271"><b>Nutmeg Trees</b>/ <i>Myristica fragrans</i> (HT 2015-271 &amp; HT 2015-272)</a></td><td>Singapore Botanic Gardens,<br>behind The Garage</td></tr>
-<tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens,<br>behind Raffles Building</td></tr>
+ <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens,<br>behind Raffles Building</td></tr>
  <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td><td>Singapore Botanic Gardens,<br>along Evolution Garden Walk</td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2015-240"><b>Pauh Damar</b> / <i>Mangifera pentandra</i> (HT 2015-240)</a></td><td>Singapore Botanic Gardens,<br>opposite Sun Garden</td></tr>
  <tr><td><a href="/ht-2001-20"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2001-20)</a></td><td>Singapore Botanic Gardens,<br>near Botany Centre Auditorium</td></tr>
  <tr><td><a href="/ht-2003-46"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2003-46)</a></td><td>31K Pepys Road, outside<br>National Heritage Museum grounds</td></tr>
+ <tr><td><a href="/ht-2025-330"><b>Petai</b> / <i>Parkia speciosa</i> (HT 2025-330)</a></td><td>Fort Canning Park, near Keramat Shelter</td></tr>
  <tr><td><a href="/ht-2001-17"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2001-17)</a></td><td>Mount Faber, on slope near Marina Deck</td></tr>
  <tr><td><a href="/ht-2005-141"><b>Petai Kerayong</b> / <i>Parkia timoriana</i> (HT 2005-141)</a></td><td>Mount Faber Loop, near road bend opposite Danish Seaman's Church</td></tr>
  <tr><td><a href="/ht-2012-197"><b>Pianggu</b> / <i>Horsfieldia irya</i> (HT 2012-197)</a></td><td>Singapore Botanic Gardens,<br>between Carpark A &amp; B</td></tr>
  <tr><td><a href="/ht-2012-186/"><b><i>Pseudalbizzia niopoides</i> var. <i>niopoides</i></b> (HT 2012-186)</a></td><td>Singapore Botanic Gardens,<br>Lawn E (beside HT Tembusu)</td></tr>
  <tr><td><a href="/ht-2012-189"><b>Putat Laut</b> / <i>Barringtonia asiatica</i> (HT 2012-189)</a></td><td>Singapore Botanic Gardens,<br>Healing Garden</td></tr>
  <tr><td><a href="/ht-2001-08"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2001-08)</a></td><td>Fort Canning Park,<br>behind Registry of Marriage</td></tr>
-<tr><td><a href="/ht-2001-27"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2001-27)</a></td><td>Singapore Botanic Gardens,<br>outside Visitor Centre pick-up/drop-off point</td></tr>
+ <tr><td><a href="/ht-2001-27"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2001-27)</a></td><td>Singapore Botanic Gardens,<br>outside Visitor Centre pick-up/drop-off point</td></tr>
  <tr><td><a href="/ht-2003-106"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-106)</a></td><td>College Green, off Dunearn Road within hostel grounds (NUS)</td></tr>
-<tr><td><a href="/ht-2003-107"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-107)</a></td><td>Spottiswoode Park Road, top of the slope at junction of Spottiswoode Park Road and Everton Road</td></tr>
+ <tr><td><a href="/ht-2003-107"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-107)</a></td><td>Spottiswoode Park Road, top of the slope at junction of Spottiswoode Park Road and Everton Road</td></tr>
  <tr><td><a href="/ht-2003-108"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-108)</a></td><td>Istana Ground</td></tr>
  <tr><td><a href="/ht-2003-109"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-109)</a></td><td>Holland Road, near junction<br>with Belmont Road</td></tr>
  <tr><td><a href="/ht-2003-110"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2003-110)</a></td><td>Irrawaddy Road, on slope facing Ministry of Home Affairs Headquarters</td></tr>
@@ -366,28 +369,30 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2013-213/"><b>Sausage Tree</b> / <i>Kigelia africana</i> (HT 2013-213)</a></td><td>Singapore Botanic Gardens,<br>near Sundial Garden</td></tr>
  <tr><td><a href="/ht-2017-290/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2017-290)</a></td><td>Singapore Botanic Gardens, Ethno-botany Garden</td></tr>
  <tr><td><a href="/ht-2020-316/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2020-316)</a></td><td>Pasir Panjang Park Carpark,<br>near MRT Station</td></tr>
+ <tr><td><a href="/ht-2025-332/"><b>Sea Almond</b> / <i>Terminalia catappa</i> (HT 2025-332)</a></td><td>Katong Park</td></tr>
  <tr><td><a href="/ht-2013-212/"><b>Senegal Mahogany</b> / <i>Khaya senegalensis</i> (HT 2013-212)</a></td><td>Singapore Botanic Gardens,<br>along Main Gate Road (near Swan Lake)</td></tr>
  <tr><td><a href="/ht-2020-313/"><b>Sentul</b> / <i>Sandoricum keotjape</i> (HT 2020-313)</a></td><td>Clemenceau Ave North, opp. 100 Caveanagh Hse</td></tr>
+ <tr><td><a href="/ht-2025-331/"><b>Seraya</b> / <i>Rubroshorea curtisii</i> (HT 2025-331)</a></td><td>Singapore Botanic Gardens, Rainforest</td></tr>
  <tr><td><a href="/ht-2013-219/"><b>Snake Tree</b> / <i>Stereospermum fimbriatum</i> (HT 2013-219)</a></td><td>Singapore Botanic Gardens,<br>along Main Gate Road (opposite Marsh Garden)</td></tr>
  <tr><td><a href="/ht-2019-302/"><b>Stem-fruited Fig</b> / <i>Ficus caulocarpa</i> (HT 2019-302)</a></td><td>Open Space, in front of No. 3 Winchester Road</td></tr>
-	<tr><td><a href="/ht-2005-138/"><b>Tahiti Chestnut</b> / <i>Inocarpus fagifer</i> (HT 2005-138)</a></td><td>Singapore Botanic Gardens, Jacob Ballas Children's Garden (Forest section)</td></tr>
+ <tr><td><a href="/ht-2005-138/"><b>Tahiti Chestnut</b> / <i>Inocarpus fagifer</i> (HT 2005-138)</a></td><td>Singapore Botanic Gardens, Jacob Ballas Children's Garden (Forest section)</td></tr>
  <tr><td><a href="/ht-2014-224/"><b>Tamalan Tree</b> / <i>Dalbergia oliveri</i> (HT 2014-224)</a></td><td>Fort Canning Park, Fort Green</td></tr>
  <tr><td><a href="/ht-2008-170/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2008-170)</a></td><td>Fullerton Road, entrance to The Fullerton Waterboat House garden</td></tr>
  <tr><td><a href="/ht-2018-295/"><b>Tamarind</b> / <i>Tamarindus indica</i> (HT 2018-295)</a></td><td>Istana, near Nursery car-park</td></tr>
  <tr><td><a href="/ht-2014-234/"><b>Teak</b> / <i>Tectona grandis</i> (HT 2014-234)</a></td><td>Singapore Botanic Gardens, near Botany Centre</td></tr>
  <tr><td><a href="/ht-2013-218/"><b>Temak</b> / <i>Anthoshorea roxburghii</i> (HT 2013-218)</a></td><td>Singapore Botanic Gardens, along Main Gate Road</td></tr>
  <tr><td><a href="/ht-2001-26/"><b>Tembusu</b> / <i>Cyrtophyllum fragrans</i> (HT 2001-26)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr> 
-<tr><td><a href="/ht-2001-22/"><b>Tulang Daing</b> / <i>Adinobotrys atropurpureus</i> (HT 2001-22)</a></td><td>Singapore Botanic Gardens, behind Swan Lake</td></tr>
+ <tr><td><a href="/ht-2001-22/"><b>Tulang Daing</b> / <i>Adinobotrys atropurpureus</i> (HT 2001-22)</a></td><td>Singapore Botanic Gardens, behind Swan Lake</td></tr>
  <tr><td><a href="/ht-2001-12/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2001-12)</a></td><td>Fort Canning Park,<br>along 14th Century Walk of History</td></tr>
  <tr><td><a href="/ht-2014-223/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2014-223)</a></td><td>Fort Canning Park,<br>end of Canning Rise (near tombstones)</td></tr>
  <tr><td><a href="/ht-2015-235/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2015-235)</a></td><td>Fort Canning Park,<br>near Raffles Terrace</td></tr>
  <tr><td><a href="/ht-2016-279/"><b>Terap</b> / <i>Artocarpus elasticus</i> (HT 2016-279)</a></td><td>Fort Canning Park,<br>on slope, behind The Foothills</td></tr><tr></tr>
-	<tr><td><a href="/ht-2023-326/"><b>Thai Bungor</b> / <i>Lagerstroemia loudonii</i> (HT 2023-326)</a></td><td>Singapore Botanic Gardens,<br>behind Swan Lake</td></tr>
+ <tr><td><a href="/ht-2023-326/"><b>Thai Bungor</b> / <i>Lagerstroemia loudonii</i> (HT 2023-326)</a></td><td>Singapore Botanic Gardens,<br>behind Swan Lake</td></tr>
  <tr><td><a href="/ht-2014-231/"><b>West Indian Locust Tree</b> / <i>Hymenaea courbaril</i> (HT 2014-231)</a></td><td>Singapore Botanic Gardens,<br>Corner House Lawn</td></tr>
  <tr><td><a href="/ht-2015-241/"><b>West Indian Mahogany</b> / <i>Swietenia mahagoni</i> (HT 2015-241)</a></td><td>Singapore Botanic Gardens,<br>beside National Orchid Garden entrance</td></tr>
  <tr><td><a href="/ht-2005-142/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2005-142)</a></td><td>Within carpark of former Pavilion Wards, near Jln Tan Tock Seng</td></tr>
  <tr><td><a href="/ht-2019-306/"><b>Yellow Flame</b> / <i>Peltophorum pterocarpum</i> (HT 2019-306)</a></td><td>Mount Emily Park, near Upp Wilkie Rd roundabout</td></tr><tr></tr>
-	</tbody></table></div></details></div>
+</tbody></table></div></details></div>
 	
 <div data-type="detailGroup"><details class="isomer-details">
 <summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">East Region</summary>
@@ -408,7 +413,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2016-275"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2016-275)</a></td><td>Marine Parade Rd Park / Playground</td></tr>
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
  <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
- 	 <tr><td><a href="/ht-2018-296/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ <tr><td><a href="/ht-2018-296/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
  <tr><td><a href="/ht-2022-321"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2022-321)</a></td><td>East Coast Park Area C, near Marine Cove</td></tr>
  <tr><td><a href="/ht-2001-14"><b>Red Mahoganies</b> / <i>Khaya nyasica</i> (HT 2001-14 - HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
@@ -419,7 +424,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2003-45/"><b>Sparrows' Mango</b> / <i>Buchanania arborescens</i> (HT 2003-45)</a></td><td>Changi, Andover Road, Fairy Point Chalet 6 (Accessible only to Chalet guests)</td></tr>
  <tr><td><a href="/ht-2014-221/"><b>Stem-fruited Fig</b> / <i>Ficus caulocarpa</i> (HT 2014-221)</a></td><td>Changi, Hendon Road, opposite No. 35</td></tr>
  <tr><td><a href="/ht-2003-116/"><b>Tempinis</b> / <i>Sloetia elongata</i> (HT 2003-116)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7 (Accessible only to Chalet guests)</td></tr><tr></tr>
-	</tbody></table></div></details></div>
+</tbody></table></div></details></div>
 
 <div data-type="detailGroup"><details class="isomer-details">
 <summary style="font-size: 20px; font-weight: bold; text-indent: 10px;">North Region</summary>
@@ -475,7 +480,7 @@ along Learning Forest coach parking</td></tr>
  <tr><td><a href="/ht-2020-317"><b>Derum</b> / <i>Cratoxylum maingayi</i> (HT 2020-317)</a></td><td>Bukit Timah Nature Reserve, Quarry Road near SingTel Tower</td></tr>
  <tr><td><a href="/ht-2013-208"><b>Kayu Pontianak</b> / <i>Parishia insignis</i> (HT 2013-208)</a></td><td>Hindhede Nature Park, Bt Timah Nature Reserve, along South View Path</td></tr>
  <tr><td><a href="/ht-2008-164"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2008-164)</a></td><td>Linden Drive, opposite LP13, behind House No. 79.</td></tr>
-<tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
+ <tr><td><a href="/ht-2014-226"><b><i>Margaritaria indica</i></b> (HT 2014-226)</a></td><td>Yale-NUS College campus, College Avenue West</td></tr>
  <tr><td><a href="/ht-2007-160"><b>Rain Tree</b> / <i>Samanea saman</i> (HT 2007-160)</a></td><td>Upper Bukit Timah Road, in open space opposite Gombak Drive</td></tr>
  <tr><td><a href="/ht-2003-79/"><b>Sea Fig</b> / <i>Ficus superba</i> (HT 2003-79)</a></td><td>Nanyang Technological University, in front of Gaia Building</td></tr><tr></tr>
 </tbody></table></div></details></div>
