@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" src="/images/Heritage_trees_photos/rubcurcur_ht2025-331_habit.png"> 
+<img style="width: 60%;" src="/images/Heritage_trees_photos/rubcurcur_ht2025-331_wev.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
