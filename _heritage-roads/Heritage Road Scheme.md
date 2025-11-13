@@ -17,9 +17,9 @@ image: /images/Heritage Roads/mandai_road_2.jpg
 
 <p>The Heritage Road Scheme, launched in 2001 by the National Parks Board, aims to conserve the scenic and significant tree-lined roads of Singapore. In 2006, the following five roads were gazetted as Heritage Roads (click on each image below to learn more):</p>
 <a href="/arcadia-road/"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage Roads/htroadbanner_arcadia.png"></a>
-<a href="/mount-pleasant-road/"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage Roads/htroadbanner_mtpleasant.png"></a>
 <a href="/lim-chu-kang-road/"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage Roads/htroadbanner_lck.png"></a>
 <a href="/mandai-road/"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage Roads/htroadbanner_mandai.png"></a>
+<a href="/mount-pleasant-road/"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage Roads/htroadbanner_mtpleasant.png"></a>
 <a href="/south-buona-vista-road/"><img style="width: 100%" height="auto" width="100%" src="/images/Heritage Roads/htroadbanner_sbvr.png"></a>
 <p>To preserve the unique treescapes, a green buffer of 10 metres on both sides of the Heritage Road is enforced and the removal of trees or plants is prohibited.</p>
 

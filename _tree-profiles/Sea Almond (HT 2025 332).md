@@ -1,30 +1,26 @@
 ---
-title: Sea Almond (HT 2017 290)
-permalink: /ht-2017-290/
+title: Sea Almond (HT 2025 332)
+permalink: /ht-2025-332/
 variant: markdown
-description: The Sea Almond is a tree commonly found along the coasts of
-  tropical Asia, Northern Australia and Polynesia, including Singapore. This
-  Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m
-  when it was endorsed as a Heritage Tree in 2017.
-image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
+description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"> 
+<img style="width: 60%;" src="/images/Heritage_trees_photos/tercat_ht2025-332_habit.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
 <strong>Reference ID</strong>
-<br>HT 2017-290
+<br>HT 2025-332
 </td>
 <td rowspan="1" colspan="1">
 <strong>Scientific name:</strong> <em>Terminalia catappa</em> 
 <br><strong>Family name:</strong> Combretaceae
-<br><strong>Girth:</strong> 4.9 m @ 1.3 m height
-<br><strong>Height: </strong>20 m
+<br><strong>Girth:</strong> 3.7 m @ 2.5 m height
+<br><strong>Height: </strong>21 m
 </td>
 <td rowspan="1" colspan="1">
-<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.32013000025439&amp;lng=103.81630000008">
-<br>Singapore Botanic Gardens,<br>Ethnobotany Centre</a>
+<strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.296743&amp;lng=103.886784">
+<br>Katong Park</a>
 </td>
 </tr>
 </tbody></table>
@@ -38,18 +34,13 @@ image: /images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg
 
 <p> The reddish timber can be used for houses and boat building while various parts of the tree are used in folk medicine from relieving rheumatic joints to dysentery.</p>
 
-<p>This Heritage Tree was estimated to be greater than 50 years of age and had a girth of 3.6 m when measured in 2017.</p>
+<p>This Heritage Tree had a girth of 3.7 m when measured at 2.5 m above the buttreses in 2025.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
-<a href="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg" class="isomer-card">
+<a href="/images/Heritage_trees_photos/tercat_ht2025-332_habit.jpg" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_habit.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description">Heritage Tree with visitor for scale (📷: Hazri Boey)</div></div></a>
-	
-<a href="/images/Heritage_trees_photos/tercat_ht2017-290_far.png" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2017-290_far.png"></div></div>
-	<div class="isomer-card-body"><div class="isomer-card-description">View of Heritage Tree from Centre of Ethnobotany (📷: Hazri Boey)</div></div></a></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/tercat_ht2025-332_habit.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description">📷: Hazri Boey</div></div></a><br></div>
