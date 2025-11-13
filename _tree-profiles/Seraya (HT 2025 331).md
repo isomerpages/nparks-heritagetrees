@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" src="/images/Heritage_trees_photos/rubcurcur_ht2025-331_habit.png"> 
+<img style="width: 60%;" src="/images/Heritage_trees_photos/rubcurcur_ht2025-331_wev.jpg"> 
 </div><table style="minWidth: 100px; font-size: 18px; background: #F4F6F7">
 <tbody><tr>
 <td rowspan="1" colspan="1">
@@ -24,7 +24,7 @@ description: ""
 </td>
 </tr>
 </tbody></table>
-<p>The Seraya is an evergreen emergent tree that can grow up to 70 m in height. The tree can be found on the hill dipterocarp forests and coastal hills across Peninsular Thailand, Peninsular Malaysia, Singapore, Sumatra and Borneo. The Seraya belongs to the Red Meranti group—large, buttressed dipterocarp trees with distinctive red, pink, or orange-brown inner bark. Through taxonomic studies, species from this group (e.g. Shorea curtisii) were revised and assigned to the genus Rubroshorea. This species is currently classified as 'Endangered' in Singapore.&nbsp;</p>
+<p>The Seraya is an evergreen emergent tree that can grow up to 70 m in height. The tree can be found on the hill dipterocarp forests and coastal hills across Peninsular Thailand, Peninsular Malaysia, Singapore, Sumatra and Borneo. The Seraya belongs to the Red Meranti group—large, buttressed dipterocarp trees with distinctive red, pink, or orange-brown inner bark. Through taxonomic studies, species from this group (e.g. <i>Shorea curtisii</i>) were revised and assigned to the genus  <i>Rubroshorea</i>. This species is currently classified as 'Endangered' in Singapore.</p>
 
 <p>The tree has lanceolate leaves about 8 cm long, each with a short petiole of 1.5 cm. Its small, white, pinwheel-shaped flowers mature from white to yellow before developing into a winged fruit, which are nuts surrounded by three large outer and two small inner persistent calyx wings. Like other dipterocarps, Seraya exhibits masting behaviour, with entire populations flowering and fruiting simultaneously. &nbsp;</p>
 
