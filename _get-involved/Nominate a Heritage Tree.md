@@ -11,11 +11,10 @@ image: /images/ceipen_ht2001_01_crop.jpg
 the year. Nominations are reviewed in two-year cycles, with the current
 cycle closing on <strong>30 June 2027</strong>. Any nominations received
 after this deadline will be considered in the subsequent review cycle.</p>
-<p>The Nominated trees will be assessed according to the set of qualifying
-criteria (mentioned below) and will be inspected for their health and structural
-stability. They will then be brought to the <a href="/heritage-tree-panel/" rel="noopener noreferrer nofollow" target="_blank">Heritage Tree Panel</a>, comprising of members
-who have a broad diversity of expertise, who will consider these trees
-for endorsement.</p>
+<p>The nominated trees will be assessed against the qualifying criteria (outlined
+below) and inspected for their health and structural stability. The <a href="/heritage-tree-panel/" rel="noopener noreferrer nofollow" target="_blank">Heritage Tree Panel</a>,
+comprising of members who have a broad diversity of expertise, will then
+review these trees for endorsements and consider the trees for endorsement.</p>
 <p>Before nominating a Heritage Tree, please note these qualifying criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
