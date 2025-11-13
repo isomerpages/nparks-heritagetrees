@@ -9,7 +9,7 @@ image: /images/ceipen_ht2001_01_crop.jpg
 <h4><strong>Nominate a Heritage Tree today!</strong></h4>
 <p>Members of the public can nominate Heritage Trees at any time throughout
 the year. Nominations are reviewed in two-year cycles, with the current
-cycle closing on <strong>30 June 2026</strong>. Any nominations received
+cycle closing on <strong>30 June 2027</strong>. Any nominations received
 after this deadline will be considered in the subsequent review cycle.</p>
 <p>The Nominated trees will be assessed according to the set of qualifying
 criteria (mentioned below) and will be inspected for their health and structural
