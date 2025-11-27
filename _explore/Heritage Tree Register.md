@@ -10,7 +10,7 @@ image: /images/mainpage_tembusu.jpg
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://mobile.onemap.gov.sg/nparks/heritageTrees.html"></iframe>
 </div><p>
-As of 12 November 2025, there are currently <b>256</b> Heritage Trees in the Heritage Tree Register.</p>
+As of 11 December 2025, there are currently <b>253</b> Heritage Trees in the Heritage Tree Register.</p>
 
 <h5><b>Find Heritage Trees from the full registry</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
@@ -101,7 +101,6 @@ As of 12 November 2025, there are currently <b>256</b> Heritage Trees in the Her
  <tr><td><a href="/ht-2003-64"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-64)</a></td><td>Pulau Ubin, within National Police Cadet Corps camp site</td></tr>
  <tr><td><a href="/ht-2003-65"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-65)</a></td><td>Changi, Catterick Road near Fairy Point Chalet 3</td></tr>
  <tr><td><a href="/ht-2003-67"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-67)</a></td><td>Sentosa, within Raffles Sentosa Singapore</td></tr>
- <tr><td><a href="/ht-2005-137"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-137)</a></td><td>Changi, Andover Road near Fairy Point Chalet 7</td></tr>
  <tr><td><a href="/ht-2007-155"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2007-155)</a></td><td>Sentosa, Capella Singapore, outside Room 27 (Gdn Villa Unit 1)</td></tr>
  <tr><td><a href="/ht-2012-195"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2012-195)</a></td><td>Singapore Botanic Gardens,<br>Rainforest</td></tr>
  <tr><td><a href="/ht-2019-303"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2019-303)</a></td><td>Sentosa, Capella Singapore, Room 1</td></tr>
@@ -158,7 +157,6 @@ As of 12 November 2025, there are currently <b>256</b> Heritage Trees in the Her
  <tr><td><a href="/ht-2003-94"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2003-94)</a></td><td>Sentosa, Imbiah Rd, near Skyline Luge Exit</td></tr>
  <tr><td><a href="/ht-2012-198"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2012-198)</a></td><td>Singapore Botanic Gardens,<br>behind Raffles Building</td></tr>
  <tr><td><a href="/ht-2013-216"><b>Nyatoh Puteh</b> / <i>Palaquium obovatum</i> var. <i>obovatum</i> (HT 2013-216)</a></td><td>Singapore Botanic Gardens,<br>along Evolution Garden Walk</td></tr>
- <tr><td><a href="/ht-2018-296"><b>Orange Jasmines of Fairy Point Chalet</b> (HT 2018-296 - HT 2019-305)</a></td><td>Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
  <tr><td><a href="/ht-2010-176"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2010-176)</a></td><td>Upper Seletar Reservoir Park, on slope behind carpark along Mandai Rd</td></tr>
  <tr><td><a href="/ht-2019-301"><b>Ordeal Tree</b> / <i>Erythrophleum suaveolens</i> (HT 2019-301)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Nursery</td></tr>
  <tr><td><a href="/ht-2018-294"><b>Para Rubber</b> / <i>Hevea brasiliensis</i> (HT 2018-294)</a></td><td>Woodlands Town Park East, near Blk 103 Woodlands Street 13</td></tr>
@@ -330,7 +328,6 @@ As of 12 November 2025, there are currently <b>256</b> Heritage Trees in the Her
  <tr><td><a href="/ht-2001-30"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-30)</a></td><td>Canning Rise, on slope behind<br>Kwa Geok Choo Law Library</td></tr>
  <tr><td><a href="/ht-2001-31"><b>Merbatu</b> / <i>Maranthes corymbosa</i> (HT 2001-31)</a></td><td>Canning Rise, on slope<br>near pedestrian underpass</td></tr>
  <tr><td><a href="/ht-2016-281/"><b>Meraga</b> / <i>Adina eurhyncha</i> (HT 2016-281)</a></td><td>Singapore Botanic Gardens,<br>Rainforest (near Visitor Centre)</td></tr>
- <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
  <tr><td><a href="/ht-2011-185"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2011-185)</a></td><td>Singapore Botanic Gardens,<br>Lawn E</td></tr>
  <tr><td><a href="/ht-2013-214"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-214)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane (left)</td></tr>
  <tr><td><a href="/ht-2013-215"><b>Monkey Pot Tree</b> / <i>Lecythis pisonis</i> (HT 2013-215)</a></td><td>Singapore Botanic Gardens,<br>between Sun Garden &amp; Dell Lane (right)</td></tr>
@@ -408,12 +405,11 @@ As of 12 November 2025, there are currently <b>256</b> Heritage Trees in the Her
  <tr><td><a href="/ht-2003-124"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2003-124)</a></td><td>Changi, Loyang Avenue near junction with Halton Road</td></tr>
  <tr><td><a href="/ht-2003-125"><b>Jelawai Jaha</b> / <i>Terminalia subspathulata</i> (HT 2003-125)</a></td><td>Changi, Loyang Avenue near junction with Halton Road</td></tr>
  <tr><td><a href="/ht-2003-65"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2003-65)</a></td><td>Changi, Catterick Road near Fairy Point Chalet 3</td></tr>
- <tr><td><a href="/ht-2005-137"><b>Johor Fig</b> / <i>Ficus kerhovenii</i> (HT 2005-137)</a></td><td>Changi, Andover Road near Fairy Point Chalet 7</td></tr>
  <tr><td><a href="/ht-2003-128"><b>Kelat Hitam</b> / <i>Syzygium syzyioides</i> (HT 2003-128)</a></td><td>Changi, Catterick Road in front of Fairy Point Chalet 4</td></tr>
  <tr><td><a href="/ht-2003-49"><b>Keruing Kerut</b> / <i>Dipterocarpus sublamellatus</i> (HT 2003-49)</a></td><td>Changi, Cranwell Road near junction with Loyang Avenue</td></tr>
  <tr><td><a href="/ht-2016-275"><b>Madras Thorn</b> / <i>Pithecellobium dulce</i> (HT 2016-275)</a></td><td>Marine Parade Rd Park / Playground</td></tr>
  <tr><td><a href="/ht-2017-285"><b>Mango</b> / <i>Mangifera indica</i> (HT 2017-285)</a></td><td>Changi, Netheravon Road, within CSC @ CHANGI II grounds</td></tr>
- <tr><td><a href="/ht-2018-296/"><b>Orange Jasmines</b> / <i>Murraya paniculata</i> (HT 2018-296 &amp; HT 2019-305)</a></td><td>Changi, Andover Road, Fairy Point Chalet 7, beside the BBQ pits</td></tr>
+ <tr><td><a href="/ht-2003-53"><b>Mindanao Gum</b> / <i>Eucalyptus deglupta</i> (HT 2003-53)</a></td><td>Katong Park</td></tr>
  <tr><td><a href="/ht-2021-318"><b>Penaga Laut</b> / <i>Calophyllum inophyllum</i> (HT 2021-318)</a></td><td>East Coast Park Area F, Bedok Jetty</td></tr>
  <tr><td><a href="/ht-2022-321"><b>Pink Mempat</b> / <i>Cratoxylum formosum</i> (HT 2022-321)</a></td><td>East Coast Park Area C, near Marine Cove</td></tr>
  <tr><td><a href="/ht-2001-14"><b>Red Mahoganies</b> / <i>Khaya nyasica</i> (HT 2001-14 - HT 2001-16)</a></td><td>Guillemard Road Open Space</td></tr>
