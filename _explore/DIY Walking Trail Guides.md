@@ -24,10 +24,10 @@ and more!</p>
 <div class="isomer-card-grid">
 <a href="https://go.gov.sg/heritagetrees-fcp" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/daloli_ht2014-224_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Heritage Trees of Fort Canning Park.pdf (1.1 MB)</div></div></a>
 	
 <a href="https://go.gov.sg/heritagetrees-chinatown" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/rain_tree_ht_2005_45-birdeyeview.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sonalb_ht2007-162-163_habit.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-title">Heritage Trees of Pulau Ubin.pdf (1.4 MB)</div></div></a></div>
