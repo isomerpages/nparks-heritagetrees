@@ -8,7 +8,7 @@ image: /images/trail-guides-photo.png
 ---
 <h4><strong>Join us for our Tree Appreciation Walk!</strong></h4>
 <p>Discover the natural heritage of Singapore by participating in guided
-walks to visit the Heritage Trees in Changi or Pasir Panjang area!</p>
+walks to visit the Heritage Trees in Changi area!</p>
 
 <div class="isomer-card-grid">
 <a href="/images/trail-guides-photo.png" class="isomer-card">
