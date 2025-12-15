@@ -11,10 +11,10 @@ image: /images/trail-guides-photo.png
 walks to visit the Heritage Trees in Changi area!</p>
 
 <div class="isomer-card-grid">
-<a href="/images/trail-guides-photo.png" class="isomer-card">
+<a href="https://go.gov.sg/nparks-events" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/trail-guides-photo.png"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-title">Heritage Trees of Changi Guided Walk</div><div class="isomer-card-description"><u><b>Upcoming Session:</b> 2026</u><br>
+<div class="isomer-card-body"><div class="isomer-card-title">Heritage Trees of Changi Guided Walk</div><div class="isomer-card-description">
 	Join us for an exclusive 2 km walk through Changi's hidden natural treasures and discover rare Heritage Trees such the only known specimen of <i>Sindora</i> x <i>changiensis</i> and the ancient Damar Hitam Gajah opposite the Old Changi Hospital.</div></div></a><p></p></div>
 
 <p>Look out for our tours <a href="https://go.gov.sg/nparks-events" rel="noopener nofollow" target="_blank">here</a>.</p>
