@@ -13,21 +13,21 @@ and more!</p>
 <div class="isomer-card-grid">
 <a href="https://go.gov.sg/heritagetrees-changi" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sinxcha_ht2003-115_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Changi_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees of Changi Area.pdf (736 KB)</div></div></a>
 	
 <a href="https://go.gov.sg/heritagetrees-chinatown" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/samsam_ht2005-145_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Chinatown_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees of Chinatown Area.pdf (1.1 MB)</div></div></a></div>
 	
 <div class="isomer-card-grid">
 <a href="https://go.gov.sg/heritagetrees-fcp" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/daloli_ht2014-224_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/FCP_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees of Fort Canning Park.pdf (1.1 MB)</div></div></a>
 	
 <a href="https://go.gov.sg/heritagetrees-chinatown" class="isomer-card">
 <div class="isomer-card-image">
-<div class="isomer-image-wrapper"><img src="/images/Heritage_trees_photos/sonalb_ht2007-162-163_habit.jpg"></div></div>
+<div class="isomer-image-wrapper"><img src="/images/Ubin_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description">Heritage Trees of Pulau Ubin.pdf (1.4 MB)</div></div></a></div>
