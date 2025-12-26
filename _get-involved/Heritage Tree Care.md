@@ -15,5 +15,5 @@ to know about taking care of them, click the link below to learn more!</p>
 <a href="https://file.go.gov.sg/heritagetreecareguide.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/HeritageTreeCare_cropped.jpg"></div></div>
-<div class="isomer-card-body"><div class="isomer-card-description"><u>Heritage Tree Care Guide (5.4 MB)</u></div></div></a>
+<div class="isomer-card-body"><div class="isomer-card-description"><u>Heritage Tree Care Guide.pdf (5.4 MB)</u></div></div></a>
 <p></p></div>
