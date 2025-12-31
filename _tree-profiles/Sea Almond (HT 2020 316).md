@@ -32,7 +32,7 @@ description: ""
 
 <p>The tree produces a fruit that ripens from green to yellow or red. The fruit has a stony core and a corky rind, which contains tiny air cavities that enables it to float, allowing dispersal by currents and waves to new shores for germination. It also eaten by fruit bats and monkeys, which aid in seed dispersal. The edible seed kernel has a flavour similar to almonds, giving rise to its common name.</p>
 
-<p> The tree produces reddish timber that can be used for houses and boat building, while various parts of the tree are used in folk medicine from relieving rheumatic joint pain to treating dysentery.</p>
+<p>The tree produces reddish timber that can be used for houses and boat building, while various parts of the tree are used in folk medicine from relieving rheumatic joint pain to treating dysentery.</p>
 
 <p>In 1963, it was recorded that then Prime Minister Lee Kuan Yew planted a Sea Almond at Pasir Panjang Park. Though the tree planted cannot be definitively located, it is believed that this Heritage Sea Almond was also planted during the same time. Hence, it was estimated to be greater than 57 years of age and had a girth of 3.1 m when it was endorsed as a Heritage Tree in 2020.</p>
 	
