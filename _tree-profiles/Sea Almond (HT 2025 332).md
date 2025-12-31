@@ -34,7 +34,7 @@ description: ""
 
 <p> The tree produces reddish timber that can be used for houses and boat building, while various parts of the tree are used in folk medicine from relieving rheumatic joint pain to treating dysentery.</p>
 
-<p>This Heritage Tree had a girth of 3.7 m when measured at 2.5 m above the buttreses in 2025.</p>
+<p>This Heritage Tree had a girth of 3.7 m when measured at 2.5 m above the buttresses in 2025.</p>
 	
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
