@@ -24,19 +24,19 @@ description: ""
 </td>
 </tr>
 </tbody></table>
-<p>The Sea Almond is a native coastal tree, locally classified as ‘Least Concern’ and can be naturally found throughout tropical Asia, northern Australia and Polynesia. The species can also be found inland along roads and in old Malayan villages, planted for shade from the tropical sun.</p>
+<p>The Sea Almond is a native coastal tree, locally classified as ‘Least Concern’. It is naturally found throughout tropical Asia, northern Australia and Polynesia. The species can also be found inland along roads and in old Malayan villages, planted for shade from the tropical sun.</p>
 
-<p>The tree can grow up to 35 m tall and displays a characteristic pagoda-like shape from horizontal branches at regular intervals along the grey, fissured, often buttressed trunk.</p>
+<p>Growing up to 35 m tall, this tree has a characteristic pagoda-like shape created by horizontal branches that grow at regular intervals along the grey, fissured, often buttressed trunk.</p>
 
-<p> The large, paddle-shaped leaves of this deciduous tree turn vivid red or yellow before falling, creating an autumnal atmosphere. Afterwards, new leaves emerge, and the tree subsequently produces clusters of small, greenish-white, fragrant flowers. The dried leaves contain tannins with antibacterial and antifungal properties, making it popular among aquarium enthusiasts for conditioning water. </p>
+<p> The large, paddle-shaped leaves of this deciduous tree turn vivid red or yellow before falling, creating an autumnal atmosphere. Afterwards, new leaves emerge, and the tree subsequently produces clusters of fragrant, small, greenish-white flowers. The dried leaves contain tannins with antibacterial and antifungal properties, making them popular among aquarium enthusiasts for conditioning water. </p>
 
-<p> The tree produces fruits with a stony core that ripens from green to yellow or red. They have a corky rind, which contains tiny air cavities that enable them to float, allowing dispersal by currents and waves to new shores for germination. The fruits are also eaten by fruit bats and monkeys, which aid in seed dispersal. The edible seed kernel has a flavour similar to almonds, giving rise to its common name.</p>
+<p> The tree produces a fruit that ripens from green to yellow or red. The fruit has a stony core and a corky rind, which contains tiny air cavities that enables it to float, allowing dispersal by currents and waves to new shores for germination. It also eaten by fruit bats and monkeys, which aid in seed dispersal. The edible seed kernel has a flavour similar to almonds, giving rise to its common name.</p>
 
-<p> The reddish timber can be used for houses and boat building while various parts of the tree are used in folk medicine from relieving rheumatic joints to dysentery.</p>
+<p> The tree produces reddish timber that can be used for houses and boat building, while various parts of the tree are used in folk medicine from relieving rheumatic joint pain to treating dysentery.</p>
 
 <p>This Heritage Tree had a girth of 3.7 m when measured at 2.5 m above the buttreses in 2025.</p>
 	
-<p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
+<p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
 <h4><b>Gallery</b></h4>
 <div class="isomer-card-grid">
