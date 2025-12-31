@@ -28,13 +28,13 @@ description: ""
 
 <p>Growing up to 35 m tall, this tree has a characteristic pagoda-like shape created by horizontal branches that grow at regular intervals along the grey, fissured, often buttressed trunk.</p>
 
-<p> The large, paddle-shaped leaves of this deciduous tree turn vivid red or yellow before falling, creating an autumnal atmosphere. Afterwards, new leaves emerge, and the tree subsequently produces clusters of fragrant, small, greenish-white flowers. The dried leaves contain tannins with antibacterial and antifungal properties, making them popular among aquarium enthusiasts for conditioning water. </p>
+<p>The large, paddle-shaped leaves of this deciduous tree turn vivid red or yellow before falling, creating an autumnal atmosphere. Afterwards, new leaves emerge, and the tree subsequently produces clusters of fragrant, small, greenish-white flowers. The dried leaves contain tannins with antibacterial and antifungal properties, making them popular among aquarium enthusiasts for conditioning water. </p>
 
-<p> The tree produces a fruit that ripens from green to yellow or red. The fruit has a stony core and a corky rind, which contains tiny air cavities that enables it to float, allowing dispersal by currents and waves to new shores for germination. It also eaten by fruit bats and monkeys, which aid in seed dispersal. The edible seed kernel has a flavour similar to almonds, giving rise to its common name.</p>
+<p>The tree produces a fruit that ripens from green to yellow or red. The fruit has a stony core and a corky rind, which contains tiny air cavities that enables it to float, allowing dispersal by currents and waves to new shores for germination. It also eaten by fruit bats and monkeys, which aid in seed dispersal. The edible seed kernel has a flavour similar to almonds, giving rise to its common name.</p>
 
-<p> The tree produces reddish timber that can be used for houses and boat building, while various parts of the tree are used in folk medicine from relieving rheumatic joint pain to treating dysentery.</p>
+<p>The tree produces reddish timber that can be used for houses and boat building, while various parts of the tree are used in folk medicine from relieving rheumatic joint pain to treating dysentery.</p>
 
-<p>This Heritage Tree had a girth of 3.7 m when measured at 2.5 m above the buttresses in 2025.</p>
+<p>This tree had a girth of 3.7 m when measured at 2.5 m above the buttresses when it was endorsed as aHeritage Tree in 2025.</p>
 	
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3181">here</a>.</p>
 
