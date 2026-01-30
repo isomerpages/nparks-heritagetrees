@@ -24,20 +24,27 @@ cookies if you prefer. This may prevent you from taking full advantage
 of the website.</p>
 </li>
 <li>
-<p>If you&nbsp;provide us with personally identifiable data</p>
-</li>
-</ul>
-<p>(a) We may share necessary data with other Government agencies, so as
-to serve you in the most efficient and effective way unless such sharing
+<p>If you provide us with personally identifiable data:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>(a) Where appropriate, we may use and/or share necessary data with other
+Government agencies so as to improve the discharge of public functions,
+and to serve you in the most efficient and effective way unless such sharing
 is prohibited by law.</p>
+</li>
+<li>
 <p>(b) We will NOT share your Personal Data with non-Government entities,
 except where such entities have been authorised to carry out specific Government
 services.</p>
+</li>
+<li>
 <p>(c) For your convenience, we may also display to you, data you had previously
 supplied us or other Government Agencies. This will speed up the transaction
 and save you the trouble of repeating previous submissions. Should the
 data be out-of-date, please supply us the latest data.</p>
-<ul data-tight="true" class="tight">
+</li>
+</ul>
+</li>
 <li>
 <p>To safeguard your Personal Data, all electronic storage and transmission
 of Personal Data is secured with appropriate security technologies.</p>
@@ -49,13 +56,19 @@ the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
 </li>
 <li>
-<p>Please contact us via&nbsp;<a href="http://www.nparks.gov.sg/feedback" rel="noopener noreferrer nofollow" target="_blank"><u>www.nparks.gov.sg/feedback</u></a>&nbsp;if
+<p>Please contact us via&nbsp;<a href="https://www.nparks.gov.sg/feedback" rel="noopener noreferrer nofollow" target="_blank">www.nparks.gov.sg/feedback</a>&nbsp;if
 you:</p>
-</li>
-</ul>
+<ul data-tight="true" class="tight">
+<li>
 <p>(a) have any enquires or feedback on our data protection policies and
 procedures (including request for user data deletion),</p>
+</li>
+<li>
 <p>(b) need more information on or access to data which you have provided
 to us in the past.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>Our privacy statement may change from time to time. Any updates to the
 privacy policy statement will be posted on this page.</p>
