@@ -10,7 +10,7 @@ image: /images/mainpage_tembusu.jpg
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://mobile.onemap.gov.sg/nparks/heritageTrees.html"></iframe>
 </div><p>
-As of 22 December 2025, there are currently <b>252</b> Heritage Trees in the Heritage Tree Register.</p>
+As of 30 January 2026, there are currently <b>251</b> Heritage Trees in the Heritage Tree Register.</p>
 
 <h5><b>Find Heritage Trees from the full registry</b></h5>
 <div data-type="detailGroup"><details class="isomer-details">
@@ -65,7 +65,6 @@ As of 22 December 2025, there are currently <b>252</b> Heritage Trees in the Her
  <tr><td><a href="/ht-2003-40"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-40)</a></td><td>Sentosa, Mount Serapong (within forested nature area)</td></tr>
  <tr><td><a href="/ht-2005-130"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2005-130)</a></td><td>Sentosa, beside Siloso Beach Resort</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Between Temenggong Road &amp; Marang Road</td></tr>
- <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2022-320"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2022-320)</a></td><td>Singapore Island Country Club<br>(Island Location)</td></tr>
  <tr><td><a href="/ht-2024-327"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2024-327)</a></td><td>Resort World Sentosa forest,<br>opp Equarius Hotel</td></tr>	 
@@ -284,7 +283,6 @@ As of 22 December 2025, there are currently <b>252</b> Heritage Trees in the Her
  <tr><td><a href="/ht-2018-292"><b>Chittagong Wood</b> / <i>Chukrasia tabularis</i> (HT 2018-292)</a></td><td>Hooper Rd Playground,<br>near House No 21A</td></tr>
  <tr><td><a href="/ht-2003-36"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2003-36)</a></td><td>Royal Road end, on slope behind House No. 7</td></tr>
  <tr><td><a href="/ht-2007-173"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2007-173)</a></td><td>Temenggong Road, on open land opposite House No. 22</td></tr>
- <tr><td><a href="/ht-2012-188"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2012-188)</a></td><td>Singapore Botanic Gardens,<br>National Orchid Garden Forest</td></tr>
  <tr><td><a href="/ht-2014-222"><b>Common Pulai</b> / <i>Alstonia angustiloba</i> (HT 2014-222)</a></td><td>Mount Faber, along Marang trail</td></tr>
  <tr><td><a href="/ht-2018-293"><b>Derum Selunchor</b> / <i>Cratoxylum cochinchinensis</i> (HT 2018-293)</a></td><td>Telok Blangah Green, near Shelter, Meeting Point 1, Carpark 2</td></tr>
  <tr><td><a href="/ht-2001-11"><b>Earpod Tree</b> / <i>Enterolobium cyclocarpum</i> (HT 2001-11)</a></td><td>Fort Canning Park,<br>along path behind the Fort Wall</td></tr>
