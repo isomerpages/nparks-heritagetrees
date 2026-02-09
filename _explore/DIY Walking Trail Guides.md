@@ -27,7 +27,7 @@ and more!</p>
 <div class="isomer-image-wrapper"><img src="/images/FCP_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description"><u>Heritage Trees of Fort Canning Park.pdf (1.1 MB)</u></div></div></a>
 	
-<a href="https://go.gov.sg/heritagetrees-chinatown" class="isomer-card">
+<a href="https://go.gov.sg/heritagetrees-pu" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Ubin_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description"><u>Heritage Trees of Pulau Ubin.pdf (1.4 MB)</u></div></div></a></div>
