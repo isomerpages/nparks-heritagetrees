@@ -29,7 +29,7 @@ description: ""
 
 <p>It has buttress roots and its deeply fluted, dark grey trunk supports a pagoda-shaped crown. The Common Pulai has simple, glossy, dark green leaves that are oval shaped, arranged in whorls. The tree exudes latex when any part of the plant is damaged. In Singapore, flowering can be triggered by distinctly cool dry weather, and the tree produces many sprays of creamy-white flowers accompanied by a heady fragrance reminiscent of burnt sugar.</p>
 
-<p>The Common Pulai and Indian Pulai (<a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2705"><em>Alstonia scholaris</em></a>) are both similar looking and commonly planted in Singapore’s urban landscapes. However, they can be differentiated by a few characteristics: The Indian Pulai has greenish-yellow flowers while the Common Pulai has creamy-white flowers, and the Indian Pulai has a stipule at the base of the petiole (leaf stalk) while the Common Pulai does not.</p>
+<p>The Common Pulai and Indian Pulai (<a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2705"><em>Alstonia scholaris</em></a>) are both similar looking and commonly planted in Singapore’s urban landscapes. However, they can be differentiated by a few characteristics: The Pulai has greenish-yellow flowers while the Common Pulai has creamy-white flowers, and the Pulai has a stipule at the base of the petiole (leaf stalk) while the Common Pulai does not.</p>
 
 <p>This impressive specimen along Jalan Durian was hard to miss and was so tall that it was seen from the bumboat ride to and from Pulau Ubin. This Tree was growing next to a Malay burial site. This Heritage Tree had a girth of 6.35m (Year 2003); and 6.8m at 1.3m height with buttresses (Year 2014).</p>
 
