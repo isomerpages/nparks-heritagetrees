@@ -31,3 +31,9 @@ and more!</p>
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper"><img src="/images/Ubin_DIY_Trail.jpg"></div></div>
 <div class="isomer-card-body"><div class="isomer-card-description"><u>Heritage Trees of Pulau Ubin.pdf (1.4 MB)</u></div></div></a></div>
+
+<div class="isomer-card-grid">
+<a href="https://go.gov.sg/heritagetrees-ppj" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper"><img src="/images/PPJ_DIY_Trail.jpg"></div></div>
+<div class="isomer-card-body"><div class="isomer-card-description"><u>Heritage Trees of Pasir Panjang Area.pdf (1.1 MB)</u></div></div></a><br></div>
