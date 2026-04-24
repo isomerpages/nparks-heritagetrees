@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Heritage Trees.md
+      - Heritage Tree Panel.md
+      - Did You Know?.md
