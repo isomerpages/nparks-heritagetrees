@@ -27,9 +27,11 @@ description: ""
 </tbody></table>
 <p>The Terap Nasi is a tall tree that can grow up to 45 m to 65 m in height in its native forest habitat in Singapore, Myanmar, Thailand, Sumatra, Peninsular Malaysia, Borneo, Java, Philippines and Lesser Sunda Islands where it is common.</p>
   
-<p>Its trunk often displays great buttresses, particularly when the tree is mature. Its leaves and twigs have hairy surfaces. The leaves of a young tree are deeply lobed, but as the tree matures, it produces leaves that are more entire (non-lobed), stiff and leathery. The male flowers occur in spike-like heads that are furrowed and ridged, turn from yellow to brown, and hang from stalks that are about 6 cm long. In contrast, the female flower heads are upright and barrel-shaped with soft, hairy, curved spines. Male and female flowers are found on the same tree (monoecious). Its fruit is about 18 cm long, and turns from cream-yellow to brown and emits a nauseous, rancid smell when ripe.</p>
+<p>Its trunk often displays great buttresses, particularly when the tree is mature. Its leaves and twigs have hairy surfaces. The leaves of a young tree are deeply lobed, but as the tree matures, it produces leaves that are more entire (non-lobed), stiff and leathery. The male flowers occur in spike-like heads that are furrowed and ridged, turn from yellow to brown, and hang from stalks that are about 6 cm long. In contrast, the female flower heads are upright and barrel-shaped with soft, hairy, curved spines. Male and female flowers are found on the same tree (monoecious). Its fruit is about 18 cm long, and turns from cream-yellow to brown when ripe.</p>
   
-<p>Various parts of the Terap Nasi have ethnobotanical value, such as for food, medicine and building materials. The latex of the tree, known as <em>gutta terap</em>, is used as a gum (bird lime) to trap birds.</p>
+<p>The Terap Nasi has a wide variety of uses. It's greyish-brown exterior conceals a tough and fibrous inner bark that is used in Sarawak to make cords, traditional clothing, basket lining, storage bins, and the walls of traditional houses. In Java and Brunei, the wood is used in light construction and boat building. The thick white latex is used traditionally as birdlime.</p>
+
+<p>The Terap Nasi produces edible fruit and seeds that are covered in an edible white pulp. The seeds can be eaten roasted or fried. However, the fruit emits an unpleasant, rancid smell when ripe and is eaten by monkeys and squirrels in the wild.</p>
 	
 <p>For more information on this species, please refer to NParks Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2732">here</a>.</p>
 
