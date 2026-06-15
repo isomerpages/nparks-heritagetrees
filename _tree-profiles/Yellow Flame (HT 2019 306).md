@@ -33,7 +33,7 @@ description: ""
 
 <p>In Java, the bark yields a yellow-brown dye that is used in batik. The bark is also reportedly used to treat dysentery and relieve sprains and muscle aches.</p>
 
-<p>This Heritage Yellow Flame measured 4.8 m in girth when endorsed as a Heritage Tree in 2019. It is estimated to have stood here for more than 70 years. This tree is dedicated to GSK-EDB Trust Fund in 2026 for their contribution to the <a href="https://www.gardencityfund.gov.sg/">Garden City Fund</a>.</p>
+<p>This Heritage Yellow Flame measured 4.8 m in girth when endorsed as a Heritage Tree in 2019. It is estimated to have stood here for more than 70 years. This tree was dedicated to GSK-EDB Trust Fund in 2026 for their contribution to the <a href="https://www.gardencityfund.gov.sg/">Garden City Fund</a>.</p>
 	
 <p>For more information on this species, please refer to NParks' Flora &amp; Fauna Web profile <a href="https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3056">here</a>.</p>
  
