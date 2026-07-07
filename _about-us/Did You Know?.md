@@ -18,7 +18,7 @@ image: /images/sinxcha_ht2003_115_crop.jpg
 <table><tbody>
 <tr><td style="vertical-align: middle" height="auto" width="60%" rowspan="1" colspan="2">
 <h4><b>Tallest Heritage Tree</b></h4>
-The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 2013-208), which measures a whooping 47.8 m tall! That's almost the height of a 15-storey building! Visit this tree at Bukit Timah Nature Reserve, along the South View Path.
+The tallest Heritage Tree is the Kayu Pontianak or <i>Parishia insignis</i> (HT 2013-208), which measures a whopping 47.6 m tall! That's almost the height of a 15-storey building! Visit this tree at Bukit Timah Nature Reserve, along the South View Path.
 <br><br><a style="color: #417505" href="/ht-2013-208">Click here to learn more </a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
