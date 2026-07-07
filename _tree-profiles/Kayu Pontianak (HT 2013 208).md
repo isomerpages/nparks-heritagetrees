@@ -15,8 +15,8 @@ description: ""
 <td rowspan="1" colspan="1">
 	<strong>Scientific name:</strong> <em>Parishia insignis</em>
 <br><strong>Family name: </strong>Anacardiaceae
-<br><strong>Girth: </strong>5 m @ 6 m height
-<br><strong>Height: </strong>50 m
+<br><strong>Girth: </strong>4.5 m @ 6 m height
+<br><strong>Height: </strong>47.6 m
 </td>
 <td rowspan="1" colspan="1">
 <strong>Location</strong><a href="https://www.onemap.gov.sg/?lat=1.3486899999971482&amp;lng=103.77748000000298">
