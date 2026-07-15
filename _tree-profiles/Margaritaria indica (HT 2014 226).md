@@ -25,11 +25,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>This tree can grow up to 30m tall with a solitary or multiple trunks.</p>
+<p>This tree can grow up to 30m tall with a solitary or multiple trunks. It has a wide ranging distribution from India, Sri Lanka, Myanmar, Thailand, north Vietnam to South China, Taiwan down to northern Queensland. In Malesia, it is recorded in Sumatra to Peninsula Malaysia and from this record, Singapore. The distribution in Malesia was described as rare and very scattered in primary forests, in riverine forests and peat swamps, also in lime stones up to 650m.</p>
 
-<p>It has a wide ranging distribution from India, Sri Lanka, Myanmar, Thailand, north Vietnam to South China, Taiwan to North Queensland. In Malesia, it is recorded in Sumatra to Peninsula Malaysia and from this record, Singapore. The distribution in Malesia was described as rare and very scattered in primary forests, in riverine forests and peat swamps, also in lime stones up to 650m.</p>
-
-<p>This Tree was discovered in 2012 after surveys of the site were conducted in view of the pending development of the north-west portion of the University Town (NUS) premises. A herbarium voucher consisting of leafy branches and fruits of the then-unidentified Ttee was submitted to the Singapore Botanic Gardens herbarium. The specimen was matched to&nbsp;<em>Margaritaria indica</em>, a new genus and species record for the Singapore flora.</p>
+<p>This Tree was discovered in 2012 after surveys of the site were conducted in view of the pending development of the north-west portion of the University Town (NUS) premises. A herbarium voucher consisting of leafy branches and fruits of the then-unidentified tee was submitted to the Singapore Botanic Gardens herbarium. The specimen was matched to <em>Margaritaria indica</em>, a new genus and species record for the Singapore flora.</p>
 
 <p>Sandwiched between Dover Road and the Ayer Rajah Expressway, the site was on the grounds of the former Warren Golf Club before it was relocated in 2000 to its current location at Choa Chu Kang.</p>
 
